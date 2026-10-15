@@ -1,0 +1,79 @@
+name: Fetch X Trend Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17,47 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch recent X posts
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: |
+          python - <<'PY'
+          import os, json, urllib.parse, urllib.request
+          from datetime import datetime, timezone
+
+          token = os.environ.get("X_BEARER_TOKEN", "").strip()
+          if not token:
+              raise SystemExit("Missing X_BEARER_TOKEN secret")
+
+          hashtags = ["#السعودية", "#الرياض", "#رؤية_السعودية_2030"]
+          results = []
+
+          for tag in hashtags:
+              query = urllib.parse.urlencode({
+                  "query": f"{tag} -is:retweet",
+                  "max_results": 10,
+                  "tweet.fields": "created_at,public_metrics"
+              })
+              request = urllib.request.Request(
+                  "https://api.x.com/2/tweets/search/recent?" + query,
+                  headers={"Authorization": "Bearer " + token}
+              )
+              try:
+                  with urllib.request.urlopen(request, timeout=30) as response:
+                      payload = json.load(response)
+                  posts = payload.get("data", [])
+                  results.append({
+                      "hashtag": tag,
+                      "post_count": len(posts),
+                      "posts": [{
+                          "id": p.get("id"),
+                          "text": p.get("text"),
+                          "created_at": p.get("created_at"),
+                          "metrics": p.get("public_metrics", {})
+                      } for p in posts]
+                  })
+              except Exception as e:
+                  raise SystemExit(
+                      f"X API request failed for {tag}: {e}"
+                  )
+
+          os.makedirs("data", exist_ok=True)
+          with open("data/x-trends.json", "w", encoding="utf-8") as f:
+              json.dump({
+                  "updated_at": datetime.now(timezone.utc).isoformat(),
+                  "results": results
+              }, f, ensure_ascii=False, indent=2)
+
+          print("Fetched X posts successfully.")
+          PY
+
+      - name: Save data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/x-trends.json
+          git diff --cached --quiet || git commit -m "Update X trend data"
+          git push
+          
