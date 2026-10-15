@@ -4,317 +4,221 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#07130d">
-<title>مراقب الترند السعودي</title>
+<title>مراقب الترند | السعودية</title>
 <style>
-:root{--bg:#07130d;--panel:#0e2016;--panel2:#132b1d;--gold:#d7b86d;--green:#246a43;--text:#f2f5ef;--muted:#93a99a;--border:#294333}
+:root{--green:#063d2b;--green2:#0b6042;--gold:#d5b46a;--bg:#f4f2e9;--card:#fffdf7;--text:#18372b;--muted:#718078;--line:#e5e5d9}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--text);font-family:Tahoma,Arial,sans-serif}
-button,input,select{font:inherit}
-button{cursor:pointer}
-.app{display:flex;min-height:100vh}
-aside{width:230px;padding:22px 15px;background:#091810;border-left:1px solid var(--border);flex-shrink:0}
-.logo{display:flex;align-items:center;gap:12px;margin-bottom:30px}
-.emblem{height:48px;width:48px;border:1px solid #8d7540;border-radius:13px;display:grid;place-items:center;color:var(--gold);font-size:24px;background:#132b1d}
-.logo h1{font-size:16px;margin:0 0 6px}
-.logo small{color:var(--gold);font-size:11px}
-.nav button{display:block;width:100%;text-align:right;padding:12px;border:0;border-radius:9px;background:none;color:var(--muted);margin:4px 0}
-.nav button.active,.nav button:hover{background:#1a3926;color:var(--gold)}
-main{flex:1;min-width:0;padding:26px;max-width:1600px}
-.top{display:flex;justify-content:space-between;align-items:center;gap:15px;flex-wrap:wrap}
-.eyebrow{color:var(--gold);font-size:12px;margin-bottom:9px}
-h2{font-size:25px;margin:0}
-h3{font-size:16px;margin:0}
-.sub,.muted{color:var(--muted);font-size:12px;line-height:1.9}
-.sub{margin-top:8px}
-.actions{display:flex;gap:8px;flex-wrap:wrap}
-.btn{border:1px solid var(--border);border-radius:9px;padding:10px 13px;background:var(--panel2);color:var(--text)}
-.btn.primary{background:var(--green);border-color:var(--green)}
-.btn.gold{background:var(--gold);color:#10170f;border-color:var(--gold)}
-.notice{padding:14px;margin:22px 0;border:1px solid #695731;background:#191b12;color:#e9d49d;border-radius:11px;line-height:1.9;font-size:13px}
-.page{display:none}.page.active{display:block}
+header{background:linear-gradient(130deg,#052b20,#0b6042);color:white;padding:25px 5%;border-bottom:4px solid var(--gold);position:relative;overflow:hidden}
+header:after{content:"";position:absolute;inset:0;pointer-events:none;opacity:.12;background:repeating-linear-gradient(45deg,transparent 0 16px,#d5b46a 17px 18px,transparent 19px 34px)}
+.head{position:relative;z-index:1;max-width:1200px;margin:auto}
+.brand{display:flex;align-items:center;gap:12px}
+.emblem{width:48px;height:48px;border:1px solid var(--gold);border-radius:14px;display:grid;place-items:center;color:var(--gold);font-size:25px}
+h1{font-size:clamp(23px,4vw,34px);margin:0}
+header p{color:#d8e8de;margin:12px 0 0;line-height:1.8}
+main{max-width:1200px;margin:24px auto;padding:0 16px 45px}
+.toolbar{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-bottom:18px}
+select,.btn{font:inherit;padding:11px 14px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--text)}
+.btn{cursor:pointer;background:var(--green);color:white;border-color:var(--green)}
+.btn.secondary{background:var(--card);color:var(--green)}
+.status{margin-right:auto;font-size:13px;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px;min-width:0}
+.metric{font-size:13px;color:var(--muted)}
+.number{font-size:30px;font-weight:bold;margin-top:10px;color:var(--green)}
 .section{margin-top:22px}
-.head{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:14px}
-.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
-.card{padding:16px;background:linear-gradient(140deg,var(--panel),#0a1910);border:1px solid var(--border);border-radius:13px;min-width:0}
-.label{font-size:12px;color:var(--muted)}
-.value{font-size:27px;font-weight:bold;margin:16px 0 8px}
-.foot{font-size:11px;color:#829b89;line-height:1.8}
-.grid{display:grid;grid-template-columns:1.5fr 1fr;gap:14px}
-.chart{height:230px;margin-top:12px}
-canvas{width:100%;height:100%;display:block}
-.tags{display:flex;gap:8px;flex-wrap:wrap}
-.tag{display:inline-flex;align-items:center;gap:8px;border:1px solid #31573d;border-radius:9px;padding:8px;background:#142b1d;color:#e5eadf}
-.tag.selected{border-color:var(--gold);color:var(--gold)}
-.tag button{border:0;background:none;color:inherit;padding:0}
-form.add{display:flex;gap:8px;margin-top:15px}
-input,select{background:#08160e;border:1px solid var(--border);border-radius:9px;padding:11px;color:var(--text);min-width:0}
-form.add input{flex:1;width:100%}
-.tablewrap{overflow-x:auto}
-table{border-collapse:collapse;width:100%;min-width:440px}
-th,td{text-align:right;padding:13px 9px;border-bottom:1px solid var(--border);font-size:12px}
-th{color:var(--muted);font-weight:normal}
-.pill{display:inline-block;padding:5px 8px;border-radius:20px;background:#28362c;color:#c5d4c9;font-size:11px}
-.setting{display:flex;align-items:center;justify-content:space-between;gap:15px;padding:14px 0;border-bottom:1px solid var(--border)}
-.setting:last-child{border:0}
-.setting strong{font-size:13px;display:block;margin-bottom:5px}
-.setting .muted{max-width:400px}
-.setting input[type=checkbox]{accent-color:var(--gold);width:17px;height:17px}
-.setting input[type=number]{width:90px}
-.summary{white-space:pre-wrap;line-height:2.1;color:#cbd7cc;font-size:13px}
-.footer{text-align:center;padding:28px 0 4px;color:#65796a;font-size:11px}
-.toast{display:none;position:fixed;bottom:20px;left:20px;background:#173a25;border:1px solid #51765b;border-radius:10px;padding:13px 16px;z-index:5;max-width:90vw}
-@media(max-width:1000px){.stats{grid-template-columns:repeat(2,minmax(0,1fr))}.grid{grid-template-columns:1fr}}
-@media(max-width:650px){
-.app{display:block}aside{width:100%;padding:12px;border-left:0;border-bottom:1px solid var(--border)}
-.logo{margin-bottom:12px}.nav{display:flex;overflow-x:auto;gap:4px}
-.nav button{width:auto;white-space:nowrap;margin:0;padding:10px;font-size:12px}
-main{padding:17px 12px}h2{font-size:21px}.card{padding:13px}.value{font-size:23px}
-.actions{width:100%}.actions button{flex:1}.setting{align-items:flex-start}
-form.add{flex-wrap:wrap}form.add .btn{width:100%}
-}
+.section-title{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:12px}
+h2{font-size:19px;margin:0}
+.small{font-size:12px;color:var(--muted);line-height:1.8}
+.list{display:flex;flex-direction:column}
+.item{display:flex;align-items:center;gap:12px;padding:14px 0;border-bottom:1px solid var(--line)}
+.item:last-child{border-bottom:0}
+.rank{width:32px;height:32px;border-radius:10px;background:#e8efe8;color:var(--green);display:grid;place-items:center;font-weight:bold;flex-shrink:0}
+.item-main{flex:1;min-width:0}
+.item-name{font-weight:bold;overflow-wrap:anywhere}
+.item-sub{font-size:12px;color:var(--muted);margin-top:5px}
+.count{font-size:13px;font-weight:bold;white-space:nowrap}
+.pill{display:inline-block;border-radius:20px;padding:5px 9px;font-size:11px;background:#edf2ec;color:var(--green)}
+.pill.warn{background:#fff0d5;color:#805400}
+.pill.danger{background:#fbe4df;color:#8c3025}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.empty{padding:25px 10px;text-align:center;color:var(--muted);line-height:2}
+.notice{padding:14px 16px;border:1px solid #e3d2a7;background:#fbf5e5;border-radius:12px;font-size:13px;line-height:1.9}
+footer{text-align:center;color:var(--muted);font-size:12px;margin-top:25px;line-height:2}
+input[type=file]{display:none}
+@media(max-width:720px){.grid{grid-template-columns:1fr}.two{grid-template-columns:1fr}.status{width:100%;margin-right:0}.card{padding:15px}}
 </style>
 </head>
 <body>
-<div class="app">
-<aside>
-  <div class="logo">
-    <div class="emblem">♜</div>
-    <div><h1>مراقب الترند</h1><small>الهوية السعودية</small></div>
+<header>
+ <div class="head">
+  <div class="brand">
+   <div class="emblem">✦</div>
+   <div>
+    <h1>مراقب الترند</h1>
+    <div style="color:#d5b46a;font-size:12px;margin-top:5px">SUDIR • ARAB TRENDS MONITOR</div>
+   </div>
   </div>
-  <nav class="nav">
-    <button class="active" data-page="overview">◈ نظرة عامة</button>
-    <button data-page="hashtags"># الهاشتاقات</button>
-    <button data-page="accounts">♙ الحسابات</button>
-    <button data-page="history">▤ سجل النتائج</button>
-    <button data-page="summary">◷ الملخص اليومي</button>
-    <button data-page="settings">⚙ الإعدادات</button>
-  </nav>
-</aside>
+  <p>لوحة لمتابعة الهاشتاقات والنشاط العام ومؤشرات الحسابات الآلية في العالم العربي.</p>
+ </div>
+</header>
 
 <main>
-  <div class="top">
-    <div>
-      <div class="eyebrow">المملكة العربية السعودية · مركز المتابعة</div>
-      <h2 id="pageTitle">نظرة عامة</h2>
-      <div class="sub">لوحة متابعة الهاشتاقات وتحليل القراءات المسجلة.</div>
-    </div>
-    <div class="actions">
-      <button class="btn" id="exportBtn">↓ تصدير CSV</button>
-      <button class="btn primary" id="recordBtn">＋ تسجيل قراءة</button>
-    </div>
+ <div class="toolbar">
+  <select id="country" aria-label="اختر الدولة">
+   <option value="all">كل الدول العربية</option>
+   <option value="السعودية">السعودية</option>
+   <option value="الإمارات">الإمارات</option>
+   <option value="الكويت">الكويت</option>
+   <option value="قطر">قطر</option>
+   <option value="البحرين">البحرين</option>
+   <option value="عمان">عمان</option>
+   <option value="الأردن">الأردن</option>
+   <option value="مصر">مصر</option>
+   <option value="العراق">العراق</option>
+   <option value="المغرب">المغرب</option>
+   <option value="الجزائر">الجزائر</option>
+   <option value="تونس">تونس</option>
+   <option value="لبنان">لبنان</option>
+   <option value="فلسطين">فلسطين</option>
+   <option value="اليمن">اليمن</option>
+   <option value="السودان">السودان</option>
+  </select>
+  <button class="btn secondary" id="refresh">تحديث البيانات</button>
+  <label class="btn" for="file">استيراد JSON</label>
+  <input type="file" id="file" accept=".json,application/json">
+  <span class="status" id="status">جارٍ البحث عن ملف البيانات...</span>
+ </div>
+
+ <div class="grid">
+  <div class="card"><div class="metric">الهاشتاقات المتاحة</div><div class="number" id="trendTotal">—</div></div>
+  <div class="card"><div class="metric">الحسابات المتاحة</div><div class="number" id="accountTotal">—</div></div>
+  <div class="card"><div class="metric">حسابات تستحق المراجعة</div><div class="number" id="flagTotal">—</div></div>
+ </div>
+
+ <div class="section notice">
+  <strong>حالة البيانات:</strong> تعرض اللوحة البيانات التي يوفرها ملف المصدر فقط. لا تعني مؤشرات الاشتباه أن الحساب بوت مؤكد، ولا يمكن تحديد ذلك من عدد المنشورات وحده.
+ </div>
+
+ <div class="section card">
+  <div class="section-title"><h2>أفضل 10 هاشتاقات</h2><span class="pill">حسب البيانات المتاحة</span></div>
+  <div id="trends" class="list"><div class="empty">لم يتم تحميل بيانات الترند بعد.</div></div>
+ </div>
+
+ <div class="section two">
+  <div class="card">
+   <div class="section-title"><h2>الحسابات الأكثر نشاطًا</h2></div>
+   <div id="accounts" class="list"><div class="empty">لا توجد بيانات حسابات متاحة.</div></div>
   </div>
+  <div class="card">
+   <div class="section-title"><h2>مؤشرات الحسابات الآلية</h2></div>
+   <div id="bots" class="list"><div class="empty">تظهر المؤشرات عند توفر بيانات الحسابات.</div></div>
+  </div>
+ </div>
 
-  <div class="notice">● غير متصل بمصدر بيانات X<br>هذه الواجهة تحفظ القراءات التي تدخلها يدويًا. لن تظهر بيانات حقيقية أو يعمل الفحص التلقائي قبل ربط مصدر بيانات وخادم.</div>
+ <div class="section card">
+  <h2>مصدر البيانات</h2>
+  <p class="small">تحاول اللوحة قراءة الملف data/x-trends.json من المستودع. يمكنك أيضًا استيراد ملف JSON يدويًا من جهازك. لا تُنشأ نتائج افتراضية عند غياب البيانات.</p>
+  <div class="small" id="source">المصدر: لم يتم تحميل أي ملف بعد.</div>
+ </div>
 
-  <section class="page active" id="page-overview">
-    <div class="section">
-      <div class="head"><h3>مؤشرات المتابعة</h3><span class="muted" id="lastTime">لا توجد قراءات</span></div>
-      <div class="stats">
-        <div class="card"><div class="label">عدد المنشورات</div><div class="value" id="posts">—</div><div class="foot">آخر قراءة مسجلة يدويًا</div></div>
-        <div class="card"><div class="label">إجمالي التفاعل</div><div class="value" id="engagement">—</div><div class="foot">حسب الأرقام المدخلة</div></div>
-        <div class="card"><div class="label">الهاشتاقات</div><div class="value" id="tagCount">1</div><div class="foot">في قائمة المتابعة</div></div>
-        <div class="card"><div class="label">القراءات</div><div class="value" id="recordCount">0</div><div class="foot">السجل المحلي</div></div>
-      </div>
-    </div>
-    <div class="section grid">
-      <div class="card">
-        <div class="head"><h3>الرسم البياني</h3><span class="pill">بيانات محلية</span></div>
-        <div class="muted">يعرض أعداد المنشورات التي سجلتها يدويًا.</div>
-        <div class="chart"><canvas id="chart"></canvas></div>
-        <div class="muted" id="chartHint">سجّل قراءتين أو أكثر لعرض الرسم.</div>
-      </div>
-      <div class="card">
-        <div class="head"><h3>الهاشتاقات</h3><button class="btn" data-goto="hashtags">إدارة القائمة</button></div>
-        <div class="tags" id="overviewTags"></div>
-        <p class="muted" id="selectedText"></p>
-      </div>
-    </div>
-    <div class="section card">
-      <div class="head"><h3>آخر القراءات</h3><button class="btn" data-goto="history">السجل الكامل</button></div>
-      <div class="tablewrap"><table><thead><tr><th>الهاشتاق</th><th>المنشورات</th><th>التفاعل</th><th>الوقت</th></tr></thead><tbody id="recent"></tbody></table></div>
-      <p class="muted" id="noRecent">لا توجد قراءات بعد.</p>
-    </div>
-  </section>
-
-  <section class="page" id="page-hashtags">
-    <div class="section card">
-      <div class="head"><h3>إدارة الهاشتاقات</h3><span class="muted">إضافة وتحديد وحذف</span></div>
-      <div class="tags" id="allTags"></div>
-      <form class="add" id="addForm"><input id="tagInput" placeholder="مثال: #قلب_السعودية" required maxlength="100"><button class="btn gold">إضافة هاشتاق</button></form>
-      <p class="muted">إضافة الهاشتاق تحفظه في قائمتك فقط، ولا تبدأ جلب البيانات من X.</p>
-    </div>
-  </section>
-
-  <section class="page" id="page-accounts">
-    <div class="section card">
-      <div class="head"><h3>إحصائيات الحسابات</h3><span class="pill">بانتظار مصدر بيانات</span></div>
-      <p class="muted">لا توجد حسابات متصلة. بعد ربط مصدر بيانات يمكن عرض إحصائيات الحسابات وتحليل نمط النشاط. المؤشرات غير المعتادة لا تثبت وحدها أن الحساب آلي أو مزيف.</p>
-      <div class="tablewrap"><table><thead><tr><th>الحساب</th><th>المنشورات</th><th>التفاعل</th><th>التقييم</th></tr></thead><tbody><tr><td colspan="4" style="text-align:center">لا توجد بيانات حسابات.</td></tr></tbody></table></div>
-    </div>
-  </section>
-
-  <section class="page" id="page-history">
-    <div class="section card">
-      <div class="head"><h3>سجل النتائج السابقة</h3><button class="btn" id="clearBtn">مسح السجل</button></div>
-      <div class="tablewrap"><table><thead><tr><th>الهاشتاق</th><th>المنشورات</th><th>التفاعل</th><th>الوقت</th></tr></thead><tbody id="historyRows"></tbody></table></div>
-      <p class="muted" id="historyEmpty">السجل فارغ.</p>
-    </div>
-  </section>
-
-  <section class="page" id="page-summary">
-    <div class="section card">
-      <div class="head"><h3>الملخص اليومي</h3><span class="pill">محلي</span></div>
-      <div class="summary" id="daily">لا توجد قراءات اليوم.</div>
-    </div>
-  </section>
-
-  <section class="page" id="page-settings">
-    <div class="section card">
-      <div class="head"><h3>إعدادات المراقبة</h3></div>
-      <div class="setting"><div><strong>فترة الفحص المطلوبة</strong><div class="muted">تحديد الفترة لا يشغّل فحصًا في الخلفية؛ يلزم خادم.</div></div><select id="interval"><option value="30">كل 30 دقيقة</option><option value="60">كل ساعة</option><option value="180">كل 3 ساعات</option></select></div>
-      <div class="setting"><div><strong>التنبيه عند ارتفاع العدد</strong><div class="muted">مقارنة القراءات اليدوية لنفس الهاشتاق.</div></div><input type="checkbox" id="alertOn"></div>
-      <div class="setting"><div><strong>نسبة الارتفاع للتنبيه (%)</strong><div class="muted">مثل 50 تعني ارتفاعًا بنسبة 50%.</div></div><input type="number" id="threshold" min="1" max="10000" value="50"></div>
-      <div class="setting"><div><strong>إشعارات المتصفح</strong><div class="muted">تحتاج إلى موافقتك، ولا تعمل كفحص مستمر بالخلفية.</div></div><button class="btn" id="notify">تفعيل الإشعارات</button></div>
-      <p><button class="btn gold" id="saveSettings">حفظ الإعدادات</button></p>
-    </div>
-  </section>
-  <div class="footer">مراقب الترند · لوحة محلية · بيانات X غير متصلة</div>
+ <footer>مراقب الترند • مشروع مستقل غير تابع لمنصة X<br>النتائج تعتمد على جودة البيانات وتغطيتها، وقد لا تمثل جميع الدول أو المنشورات.</footer>
 </main>
-</div>
-<div class="toast" id="toast"></div>
 
 <script>
-(()=>{
 const $=id=>document.getElementById(id);
-const KEY="moraqibTrendSaudi";
-const base={tags:["#قلب_السعودية"],selected:"#قلب_السعودية",records:[],settings:{interval:"30",alertOn:false,threshold:50}};
-let state;
-try{
- const saved=JSON.parse(localStorage.getItem(KEY)||"{}");
- state={...base,...saved,settings:{...base.settings,...(saved.settings||{})}};
- if(!Array.isArray(state.tags))state.tags=base.tags;
- if(!Array.isArray(state.records))state.records=[];
-}catch(e){state={...base,records:[],tags:[...base.tags],settings:{...base.settings}}}
-const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(state))}catch(e){}};
-const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const fmt=n=>Number(n||0).toLocaleString("en-US");
-const dt=s=>new Date(s).toLocaleString("ar-SA",{dateStyle:"short",timeStyle:"short"});
-function toast(s){$("toast").textContent=s;$("toast").style.display="block";clearTimeout(toast.timer);toast.timer=setTimeout(()=>$("toast").style.display="none",2800)}
-function tagHTML(){
- const html=state.tags.map(t=>`<span class="tag ${state.selected===t?"selected":""}"><button data-select="${esc(t)}">${esc(t)}</button><button data-del="${esc(t)}" aria-label="حذف">×</button></span>`).join("")||'<span class="muted">لا توجد هاشتاقات.</span>';
- $("overviewTags").innerHTML=html;$("allTags").innerHTML=html;
+let rawData=null;
+
+function arr(v){return Array.isArray(v)?v:[]}
+function first(obj,keys,def=""){
+ for(const k of keys) if(obj&&obj[k]!==undefined&&obj[k]!==null)return obj[k];
+ return def;
 }
-function rows(id,arr){
- $(id).innerHTML=arr.map(r=>`<tr><td>${esc(r.tag)}</td><td>${fmt(r.posts)}</td><td>${fmt(r.engagement)}</td><td>${esc(dt(r.time))}</td></tr>`).join("");
+function normalize(data){
+ const root=data&&data.data&&typeof data.data==="object"?data.data:data||{};
+ const trends=arr(first(root,["trends","hashtags","topics"],[])).map(x=>{
+  if(typeof x==="string")return {tag:x,count:0,country:""};
+  return {tag:first(x,["tag","hashtag","name","query","text"],"غير معروف"),
+   count:Number(first(x,["count","posts","post_count","volume","tweet_count"],0))||0,
+   country:first(x,["country","country_name","region"],"")};
+ });
+ const accounts=arr(first(root,["accounts","users","top_accounts"],[])).map(x=>({
+  name:first(x,["username","screen_name","handle","name"],"حساب غير معروف"),
+  posts:Number(first(x,["posts","post_count","tweets","tweet_count","count"],0))||0,
+  country:first(x,["country","country_name","region"],""),
+  automated:!!first(x,["automated","is_bot","bot"],false),
+  repetitive:!!first(x,["repetitive_text","repeated_text","repetitive"],false),
+  burst:!!first(x,["burst_activity","bursty","burst"],false),
+  followers:Number(first(x,["followers","followers_count"],0))||0
+ }));
+ return {trends,accounts,updated:first(root,["updated_at","updated","timestamp","fetched_at"],"")};
 }
-function chart(){
- const c=$("chart"),ctx=c.getContext("2d"),w=Math.max(260,c.clientWidth),h=Math.max(170,c.clientHeight),d=window.devicePixelRatio||1;
- c.width=w*d;c.height=h*d;ctx.setTransform(d,0,0,d,0,0);ctx.clearRect(0,0,w,h);
- const arr=state.records.filter(r=>r.tag===state.selected).slice(0,15).reverse();
- $("chartHint").textContent=arr.length<2?"سجّل قراءتين أو أكثر لعرض الرسم.":"الرسم من القراءات اليدوية المحفوظة.";
- if(arr.length<2)return;
- const pad=20,vals=arr.map(r=>Number(r.posts)||0),max=Math.max(1,...vals)*1.15,ww=w-pad*2,hh=h-pad*2;
- ctx.strokeStyle="#294333";ctx.lineWidth=1;
- for(let i=0;i<4;i++){let y=pad+hh*i/3;ctx.beginPath();ctx.moveTo(pad,y);ctx.lineTo(w-pad,y);ctx.stroke()}
- const pts=vals.map((v,i)=>({x:pad+ww*i/(vals.length-1),y:pad+hh-hh*v/max}));
- ctx.beginPath();pts.forEach((p,i)=>i?ctx.lineTo(p.x,p.y):ctx.moveTo(p.x,p.y));
- ctx.strokeStyle="#d7b86d";ctx.lineWidth=2.5;ctx.stroke();
- pts.forEach(p=>{ctx.beginPath();ctx.arc(p.x,p.y,3,0,Math.PI*2);ctx.fillStyle="#e8d28c";ctx.fill()});
+function sameCountry(item,selected){
+ if(selected==="all")return true;
+ const c=String(item.country||"").toLowerCase();
+ const aliases={
+  "السعودية":["السعودية","saudi arabia","saudi","ksa"],
+  "الإمارات":["الإمارات","الامارات","uae","united arab emirates"],
+  "الكويت":["الكويت","kuwait"],"قطر":["قطر","qatar"],
+  "البحرين":["البحرين","bahrain"],"عمان":["عمان","oman"],
+  "الأردن":["الأردن","الاردن","jordan"],"مصر":["مصر","egypt"],
+  "العراق":["العراق","iraq"],"المغرب":["المغرب","morocco"],
+  "الجزائر":["الجزائر","algeria"],"تونس":["تونس","tunisia"],
+  "لبنان":["لبنان","lebanon"],"فلسطين":["فلسطين","palestine"],
+  "اليمن":["اليمن","yemen"],"السودان":["السودان","sudan"]
+ };
+ return (aliases[selected]||[selected]).some(a=>c.includes(a.toLowerCase()));
 }
-function summary(){
- const today=new Date().toDateString(),arr=state.records.filter(r=>new Date(r.time).toDateString()===today);
- if(!arr.length){$("daily").textContent="لا توجد قراءات اليوم.";return}
- $("daily").textContent="ملخص القراءات اليدوية لهذا اليوم\n\nعدد القراءات: "+fmt(arr.length)+"\nمجموع المنشورات المدخلة: "+fmt(arr.reduce((a,r)=>a+Number(r.posts),0))+"\nمجموع التفاعل المدخل: "+fmt(arr.reduce((a,r)=>a+Number(r.engagement),0))+"\nالهاشتاقات: "+[...new Set(arr.map(r=>r.tag))].join("، ")+"\n\nهذه الأرقام من إدخالاتك اليدوية، وليست إحصاءً شاملًا لمنصة X.";
+function escapeHtml(s){
+ return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 }
 function render(){
- tagHTML();
- $("tagCount").textContent=fmt(state.tags.length);
- $("recordCount").textContent=fmt(state.records.length);
- const last=state.records[0];
- $("posts").textContent=last?fmt(last.posts):"—";
- $("engagement").textContent=last?fmt(last.engagement):"—";
- $("lastTime").textContent=last?"آخر قراءة: "+dt(last.time):"لا توجد قراءات";
- $("selectedText").textContent=state.selected?"الهاشتاق المحدد: "+state.selected:"اختر هاشتاقًا.";
- rows("recent",state.records.slice(0,5));rows("historyRows",state.records);
- $("noRecent").style.display=state.records.length?"none":"block";
- $("historyEmpty").style.display=state.records.length?"none":"block";
- $("interval").value=state.settings.interval;
- $("alertOn").checked=!!state.settings.alertOn;
- $("threshold").value=state.settings.threshold;
- summary();chart();
+ if(!rawData)return;
+ const d=normalize(rawData),country=$("country").value;
+ const trends=d.trends.filter(x=>sameCountry(x,country)).sort((a,b)=>b.count-a.count).slice(0,10);
+ const accounts=d.accounts.filter(x=>sameCountry(x,country)).sort((a,b)=>b.posts-a.posts);
+ const flagged=accounts.filter(botSignals).length;
+ $("trendTotal").textContent=trends.length;
+ $("accountTotal").textContent=accounts.length;
+ $("flagTotal").textContent=flagged;
+ $("trends").innerHTML=trends.length?trends.map((x,i)=>`
+  <div class="item"><div class="rank">${i+1}</div><div class="item-main"><div class="item-name">${escapeHtml(x.tag)}</div><div class="item-sub">${escapeHtml(x.country||"الدولة غير محددة")}</div></div><div class="count">${x.count?x.count.toLocaleString("en-US")+" منشور":"العدد غير متوفر"}</div></div>`).join(''):'<div class="empty">لا توجد هاشتاقات مطابقة في ملف البيانات.</div>';
+ $("accounts").innerHTML=accounts.length?accounts.slice(0,10).map((x,i)=>`
+  <div class="item"><div class="rank">${i+1}</div><div class="item-main"><div class="item-name">${escapeHtml(x.name)}</div><div class="item-sub">${escapeHtml(x.country||"الدولة غير محددة")}</div></div><div class="count">${x.posts.toLocaleString("en-US")} منشور</div></div>`).join(''):'<div class="empty">ملف البيانات لا يحتوي على حسابات.</div>';
+ const candidates=accounts.filter(botSignals).slice(0,10);
+ $("bots").innerHTML=candidates.length?candidates.map(x=>{
+  const reasons=[];
+  if(x.automated)reasons.push("علامة آلية في المصدر");
+  if(x.repetitive)reasons.push("نصوص متكررة");
+  if(x.burst)reasons.push("نشاط متقارب");
+  if(x.posts>=100)reasons.push("عدد منشورات مرتفع");
+  return `<div class="item"><div class="item-main"><div class="item-name">${escapeHtml(x.name)}</div><div class="item-sub">${escapeHtml(reasons.join(" • "))}</div></div><span class="pill warn">مراجعة</span></div>`;
+ }).join(''):'<div class="empty">لا توجد مؤشرات كافية لعرض حسابات. هذا لا يعني عدم وجود بوتات.</div>';
+ $("source").textContent="المصدر: بيانات مستوردة أو data/x-trends.json"+(d.updated?" • التحديث: "+d.updated:"");
 }
-const titles={overview:"نظرة عامة",hashtags:"إدارة الهاشتاقات",accounts:"إحصائيات الحسابات",history:"سجل النتائج",summary:"الملخص اليومي",settings:"الإعدادات"};
-function page(n){
- document.querySelectorAll(".page").forEach(x=>x.classList.toggle("active",x.id==="page-"+n));
- document.querySelectorAll("[data-page]").forEach(x=>x.classList.toggle("active",x.dataset.page===n));
- $("pageTitle").textContent=titles[n]||"مراقب الترند";
- if(n==="overview")chart();
-}
-document.querySelectorAll("[data-page]").forEach(b=>b.onclick=()=>page(b.dataset.page));
-document.addEventListener("click",e=>{
- const s=e.target.closest("[data-select]"),d=e.target.closest("[data-del]"),g=e.target.closest("[data-goto]");
- if(s){state.selected=s.dataset.select;save();render();toast("تم تحديد "+state.selected)}
- if(d){
-  const t=d.dataset.del;
-  if(!confirm("حذف "+t+" من القائمة؟"))return;
-  state.tags=state.tags.filter(x=>x!==t);
-  if(state.selected===t)state.selected=state.tags[0]||"";
-  save();render();toast("تم حذف الهاشتاق من القائمة");
+function botSignals(x){return x.automated||x.repetitive||x.burst||x.posts>=100}
+async function loadSource(){
+ $("status").textContent="جارٍ تحميل الملف...";
+ try{
+  const r=await fetch("data/x-trends.json?ts="+Date.now(),{cache:"no-store"});
+  if(!r.ok)throw new Error("الملف غير متاح");
+  rawData=await r.json();render();
+  $("status").textContent="تم تحميل ملف البيانات";
+ }catch(e){
+  $("status").textContent="لم يتوفر ملف البيانات";
+  $("source").textContent="لم يمكن قراءة data/x-trends.json. يمكنك استيراد JSON يدويًا.";
  }
- if(g)page(g.dataset.goto);
+}
+$("refresh").addEventListener("click",loadSource);
+$("country").addEventListener("change",render);
+$("file").addEventListener("change",async e=>{
+ const f=e.target.files&&e.target.files[0];if(!f)return;
+ try{
+  rawData=JSON.parse(await f.text());render();
+  $("status").textContent="تم استيراد الملف: "+f.name;
+ }catch(err){$("status").textContent="تعذر قراءة JSON؛ تأكد من صحة الملف";}
 });
-$("addForm").onsubmit=e=>{
- e.preventDefault();let t=$("tagInput").value.trim();if(!t)return;if(!t.startsWith("#"))t="#"+t;
- if(state.tags.includes(t)){toast("الهاشتاق موجود بالفعل");return}
- state.tags.push(t);state.selected=t;$("tagInput").value="";save();render();toast("تمت إضافة الهاشتاق");
-};
-$("recordBtn").onclick=()=>{
- if(!state.selected){toast("أضف هاشتاقًا أولًا");return}
- const p=prompt("أدخل عدد المنشورات من مصدرك:");
- if(p===null)return;
- if(p.trim()===""||!Number.isFinite(+p)||+p<0){toast("أدخل رقمًا صحيحًا");return}
- const en=prompt("أدخل مجموع التفاعل:");
- if(en===null)return;
- if(en.trim()===""||!Number.isFinite(+en)||+en<0){toast("أدخل رقمًا صحيحًا");return}
- const prev=state.records.find(r=>r.tag===state.selected);
- state.records.unshift({tag:state.selected,posts:Math.floor(+p),engagement:Math.floor(+en),time:new Date().toISOString(),source:"manual"});
- state.records=state.records.slice(0,1000);save();render();
- if(state.settings.alertOn&&prev&&prev.posts>0){
-  const rise=(+p-prev.posts)/prev.posts*100;
-  if(rise>=Number(state.settings.threshold)){
-   toast("تنبيه: ارتفعت القراءة المدخلة بنسبة "+rise.toFixed(0)+"%");
-   if("Notification"in window&&Notification.permission==="granted"){
-    try{new Notification("مراقب الترند",{body:"ارتفاع القراءة اليدوية لـ "+state.selected})}catch(e){}
-   }
-   return;
-  }
- }
- toast("تم حفظ القراءة اليدوية");
-};
-$("clearBtn").onclick=()=>{
- if(!confirm("مسح جميع القراءات المحفوظة؟"))return;
- state.records=[];save();render();toast("تم مسح السجل");
-};
-$("exportBtn").onclick=()=>{
- const data=[["الهاشتاق","المنشورات","التفاعل","الوقت","المصدر"],...state.records.slice().reverse().map(r=>[r.tag,r.posts,r.engagement,r.time,"إدخال يدوي"])];
- const csv="\uFEFF"+data.map(row=>row.map(v=>'"'+String(v).replace(/"/g,'""')+'"').join(",")).join("\r\n");
- const url=URL.createObjectURL(new Blob([csv],{type:"text/csv;charset=utf-8"}));
- const a=document.createElement("a");a.href=url;a.download="moraqib-altrend.csv";a.click();URL.revokeObjectURL(url);toast("تم تصدير CSV");
-};
-$("saveSettings").onclick=()=>{
- state.settings.interval=$("interval").value;
- state.settings.alertOn=$("alertOn").checked;
- state.settings.threshold=Math.max(1,Math.min(10000,+$("threshold").value||50));
- save();render();toast("تم حفظ الإعدادات");
-};
-$("notify").onclick=async()=>{
- if(!("Notification"in window)){toast("المتصفح لا يدعم الإشعارات");return}
- try{const p=await Notification.requestPermission();toast(p==="granted"?"تم السماح بالإشعارات":"لم يتم السماح بالإشعارات")}catch(e){toast("تعذر طلب الإذن")}
-};
-window.addEventListener("resize",chart);
-save();render();
-})();
+loadSource();
 </script>
 </body>
 </html>
