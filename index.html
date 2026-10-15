@@ -1,1 +1,91 @@
 
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>مراقب الترند</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#0b1020;color:#eef2ff;font-family:Arial,sans-serif}
+header{padding:24px 5%;border-bottom:1px solid #263047;background:#101729}
+h1{margin:0 0 8px;font-size:27px}
+p{color:#9ba8c2;line-height:1.7}
+main{max-width:1150px;margin:auto;padding:24px}
+.status{display:inline-block;background:#382b1a;color:#ffc96b;padding:8px 12px;border-radius:20px;font-size:13px}
+.search{display:flex;gap:10px;margin:22px 0}
+input,button{border:1px solid #303c55;border-radius:10px;padding:14px;font-size:15px}
+input{background:#111a2c;color:white;flex:1;min-width:0}
+button{background:#4778f5;color:white;cursor:pointer;font-weight:bold}
+.cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.card,.panel{background:#111a2c;border:1px solid #26334b;border-radius:15px;padding:19px}
+.label{color:#9ba8c2;font-size:14px}
+.number{font-size:28px;font-weight:bold;margin-top:15px}
+.panel{margin-top:18px}
+.panel h2{font-size:18px;margin-top:0}
+.empty{padding:35px 10px;text-align:center;color:#9ba8c2;line-height:2}
+table{width:100%;border-collapse:collapse}
+th,td{text-align:right;padding:13px;border-bottom:1px solid #26334b}
+th{color:#9ba8c2;font-size:13px}
+footer{text-align:center;color:#7886a3;padding:25px;font-size:13px}
+@media(max-width:700px){
+.cards{grid-template-columns:repeat(2,minmax(0,1fr))}
+main{padding:16px}
+.search{flex-wrap:wrap}
+.search input{flex-basis:100%}
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>📊 مراقب الترند</h1>
+  <p>مراقبة الهاشتاقات وتحليل نشاط الحسابات في X</p>
+  <span class="status">● غير متصل بمصدر بيانات</span>
+</header>
+<main>
+  <h2>لوحة المراقبة</h2>
+  <p>أدخل الهاشتاق الذي تريد مراقبته.</p>
+  <form class="search" id="hashtagForm">
+    <input id="hashtag" value="#قلب_السعودية"
+      placeholder="#اكتب_الهاشتاق" aria-label="الهاشتاق">
+    <button type="submit">إضافة هاشتاق</button>
+  </form>
+  <div id="selected" class="panel">الهاشتاق المحدد: #قلب_السعودية</div>
+  <section class="cards">
+    <div class="card"><div class="label">المنشورات المرصودة</div><div class="number">—</div></div>
+    <div class="card"><div class="label">الحسابات المختلفة</div><div class="number">—</div></div>
+    <div class="card"><div class="label">نشاط آخر 24 ساعة</div><div class="number">—</div></div>
+    <div class="card"><div class="label">حسابات تحتاج مراجعة</div><div class="number">—</div></div>
+  </section>
+  <section class="panel">
+    <h2>📈 نشاط الهاشتاق</h2>
+    <div class="empty">لا توجد بيانات بعد.<br>لن نعرض أرقامًا تجريبية.<br>يلزم ربط مصدر بيانات حقيقي لعرض الإحصائيات.</div>
+  </section>
+  <section class="panel">
+    <h2>تحليل الحسابات</h2>
+    <div style="overflow-x:auto">
+      <table>
+        <thead><tr><th>الحساب</th><th>مرات استخدام الهاشتاق</th><th>النشاط</th></tr></thead>
+        <tbody><tr><td colspan="3" class="empty">بانتظار الاتصال بمصدر البيانات</td></tr></tbody>
+      </table>
+    </div>
+  </section>
+  <section class="panel">
+    <h2>⚙️ إعدادات المراقبة</h2>
+    <p>فترة الفحص المطلوبة: كل 30 دقيقة.</p>
+    <p>التحديث التلقائي غير مفعّل حتى ربط خدمة بيانات فعلية.</p>
+  </section>
+</main>
+<footer>مراقب الترند · الإحصائيات لا تظهر إلا عند توفر بيانات فعلية</footer>
+<script>
+document.getElementById('hashtagForm').addEventListener('submit',function(e){
+  e.preventDefault();
+  let tag=document.getElementById('hashtag').value.trim();
+  if(!tag)return;
+  if(!tag.startsWith('#'))tag='#'+tag;
+  document.getElementById('selected').textContent='الهاشتاق المحدد: '+tag;
+});
+</script>
+</body>
+</html>
+
