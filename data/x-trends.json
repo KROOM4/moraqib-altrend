@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T19:07:01.875900+00:00",
+  "updated_at": "2026-10-16T19:44:41.857575+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,46 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عدن",
+          "created_at": "Fri, 16 Oct 2026 12:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "burnley vs wolves",
+          "created_at": "Fri, 16 Oct 2026 12:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ديوان المظالم",
+          "created_at": "Fri, 16 Oct 2026 12:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "deportivo vs levante",
           "created_at": "Fri, 16 Oct 2026 11:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كاتي زكريا",
+          "created_at": "Fri, 16 Oct 2026 11:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
@@ -21,7 +57,7 @@
           "created_at": "Fri, 16 Oct 2026 11:00:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +66,7 @@
           "created_at": "Fri, 16 Oct 2026 10:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +75,7 @@
           "created_at": "Fri, 16 Oct 2026 10:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +84,7 @@
           "created_at": "Fri, 16 Oct 2026 10:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,43 +93,7 @@
           "created_at": "Fri, 16 Oct 2026 10:00:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الزمالك",
-          "created_at": "Fri, 16 Oct 2026 09:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "resident evil 2026",
-          "created_at": "Fri, 16 Oct 2026 09:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مهرب",
-          "created_at": "Fri, 16 Oct 2026 09:10:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قبول",
-          "created_at": "Fri, 16 Oct 2026 09:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         }
       ]
