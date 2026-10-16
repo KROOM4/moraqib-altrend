@@ -103,6 +103,20 @@ footer { text-align:center; padding:25px; color:var(--muted); font-size:12px; }
       تنبيه: Google Trends يعرض اهتمام الناس بمواضيع البحث، ولا يعطي عدد منشورات التواصل أو أسماء الحسابات. لذلك لن نعرض أرقام منشورات أو نتائج كشف بوتات من دون مصدر فعلي يدعمها.
     </div>
   </section>
+  <section class="panel">
+  <h2>مراقبة منشورات Bluesky</h2>
+  <p>ابحث عن كلمة أو موضوع في المنشورات العامة.</p>
+
+  <input
+    id="bskyQuery"
+    type="search"
+    placeholder="مثال: السعودية أو التقنية"
+  >
+
+  <button id="bskySearch">بحث في المنشورات</button>
+  <p id="bskyStatus" class="small">أدخل كلمة للبحث.</p>
+  <div id="bskyResults"></div>
+  </section>
 </main>
 
 <footer>مرصد · قد تتأخر البيانات حسب وقت تحديث المصدر</footer>
