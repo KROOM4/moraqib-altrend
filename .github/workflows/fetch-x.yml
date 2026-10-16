@@ -26,7 +26,6 @@ jobs:
           from datetime import datetime, timezone
 
           url = "https://trends.google.com/trending/rss?geo=SA"
-
           request = urllib.request.Request(
               url,
               headers={"User-Agent": "Mozilla/5.0"}
@@ -39,16 +38,22 @@ jobs:
           if channel is None:
               raise SystemExit("Google Trends RSS has no channel")
 
+          def child_text(element, wanted_name, default=""):
+              for child in element:
+                  if child.tag.split("}")[-1] == wanted_name:
+                      return (child.text or "").strip()
+              return default
+
           posts = []
 
           for item in channel.findall("item"):
-              title = item.findtext("title", "").strip()
+              title = child_text(item, "title")
               if not title:
                   continue
 
-              traffic = item.findtext("ht:approx_traffic", "")
-              pub_date = item.findtext("pubDate", "")
-              link = item.findtext("link", title)
+              traffic = child_text(item, "approx_traffic")
+              pub_date = child_text(item, "pubDate")
+              link = child_text(item, "link", title)
 
               posts.append({
                   "id": link or title,
@@ -76,6 +81,7 @@ jobs:
               }, f, ensure_ascii=False, indent=2)
 
           print(f"Fetched {len(posts)} Google Trends topics.")
+          print("Sample search volume:", posts[0]["metrics"]["search_volume"])
           PY
 
       - name: Save data
@@ -85,4 +91,3 @@ jobs:
           git add data/x-trends.json
           git diff --cached --quiet || git commit -m "Update Saudi Google Trends"
           git push
-          
