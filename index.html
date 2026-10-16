@@ -373,4 +373,65 @@ async function loadData() {
     if(!response.ok) throw new Error("تعذر فتح ملف البيانات (HTTP "+response.status+").");
     const json=await response.json();
     const rows=extractRows(json);
-    if(!rows.length) throw new Err
+    if(!rows.length) throw new Error("تم فتح الملف، لكن لم أجد ترندات داخله. تحقق من بنية ملف JSON.");
+    currentData=rows;
+    currentMeta={
+      updated_at:json?.updated_at||json?.last_updated||json?.meta?.updated_at||"",
+      source:json?.source||json?.meta?.source||"Google Trends"
+    };
+    saveSnapshot();
+    render();
+    setStatus("ok","تم تحميل "+rows.length+" ترندات");
+    notice("تم تحميل "+rows.length+" موضوعًا من "+currentMeta.source+". إذا لم يوفر المصدر أرقامًا، ستظهر نسب النمو كغير متاحة.", "success");
+  } catch(err) {
+    setStatus("bad","تعذر تحميل البيانات");
+    notice("تعذر تحميل الترندات: "+err.message+" — تأكد أن ملف data/x-trends.json موجود بجانب index.html داخل المستودع.", "error");
+    $("topTrends").innerHTML='<tr><td colspan="4" class="empty">تعذر تحميل البيانات. راجع رسالة الخطأ أعلى الصفحة.</td></tr>';
+    $("allTrends").innerHTML='<tr><td colspan="5" class="empty">لا توجد بيانات معروضة بسبب خطأ التحميل.</td></tr>';
+    $("suspiciousPreview").innerHTML='<div class="empty">تعذر تحليل البيانات قبل تحميلها.</div>';
+    $("suspiciousFull").innerHTML='<div class="empty">تعذر تحليل البيانات قبل تحميلها.</div>';
+    $("statTotal").textContent="0";
+  } finally {
+    loading=false;
+    $("refreshBtn").disabled=false;
+  }
+}
+document.querySelectorAll("[data-tab]").forEach(button=>{
+  button.addEventListener("click",()=>{
+    document.querySelectorAll("[data-tab]").forEach(b=>b.classList.toggle("active",b===button));
+    document.querySelectorAll(".section").forEach(s=>s.classList.toggle("active",s.id===button.dataset.tab));
+  });
+});
+$("refreshBtn").addEventListener("click",loadData);
+$("periodSelect").addEventListener("change",render);
+$("alertsBtn").addEventListener("click",async()=>{
+  if(!("Notification" in window)) {
+    notice("المتصفح لا يدعم إشعارات الويب.", "info"); return;
+  }
+  try {
+    const permission=await Notification.requestPermission();
+    if(permission==="granted") {
+      new Notification("مرصد",{body:"تم تفعيل الإشعارات لهذا الموقع."});
+      notice("تم السماح بالإشعارات في هذا المتصفح.", "success");
+    } else notice("لم يتم السماح بالإشعارات. يمكنك تفعيلها من إعدادات المتصفح.", "info");
+  } catch { notice("تعذر تفعيل الإشعارات في هذا المتصفح.", "error"); }
+});
+$("exportBtn").addEventListener("click",()=>{
+  const blob=new Blob([JSON.stringify(history,null,2)],{type:"application/json;charset=utf-8"});
+  const url=URL.createObjectURL(blob);
+  const a=document.createElement("a");
+  a.href=url;a.download="marsad-history.json";a.click();
+  URL.revokeObjectURL(url);
+});
+$("clearHistoryBtn").addEventListener("click",()=>{
+  if(!confirm("هل أنت متأكد من مسح السجل المحلي؟")) return;
+  history=[];
+  writeStorage(STORAGE_KEY,history);
+  render();
+  notice("تم مسح السجل المحلي من هذا المتصفح.", "success");
+});
+renderHistory();
+loadData();
+</script>
+</body>
+</html>
