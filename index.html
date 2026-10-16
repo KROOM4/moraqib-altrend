@@ -309,11 +309,14 @@ const url = 'https://nameless-morning-bcf1.krom47k.workers.dev/'
 
     let response;
     try {
-      response = await fetch(url, {
-        method: 'GET',
-        headers: { 'Accept': 'application/json' },
-        signal: controller.signal
-      });
+response = await fetch(url, {
+  method: 'GET',
+  headers: {
+    'Accept': 'application/json',
+    'Authorization': 'Bearer ' + moraqibPassword
+  },
+  signal: controller.signal
+});
     } finally {
       clearTimeout(timeout);
     }
