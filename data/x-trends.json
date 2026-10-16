@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T13:55:07.505470+00:00",
+  "updated_at": "2026-10-16T14:51:35.940150+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الحرس الوطني",
+          "created_at": "Fri, 16 Oct 2026 07:40:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جائزة أفضل لاعب في آسيا",
+          "created_at": "Fri, 16 Oct 2026 06:50:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bhuvneshwar kumar",
+          "created_at": "Fri, 16 Oct 2026 06:40:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "prize bond",
+          "created_at": "Fri, 16 Oct 2026 06:30:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "zimbabwe vs india",
+          "created_at": "Fri, 16 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "رجوة الحسين",
           "created_at": "Fri, 16 Oct 2026 06:10:00 -0700",
           "metrics": {
             "search_volume": ""
@@ -40,48 +80,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "xbox nano controller",
-          "created_at": "Fri, 16 Oct 2026 04:40:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تسلا",
-          "created_at": "Fri, 16 Oct 2026 04:30:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "भारतीय क्रिकेट टीम",
-          "created_at": "Fri, 16 Oct 2026 04:20:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "apple store",
-          "created_at": "Fri, 16 Oct 2026 04:10:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "خبير عسكري",
-          "created_at": "Fri, 16 Oct 2026 03:50:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nca",
-          "created_at": "Fri, 16 Oct 2026 03:30:00 -0700",
+          "text": "ابل",
+          "created_at": "Fri, 16 Oct 2026 05:10:00 -0700",
           "metrics": {
             "search_volume": ""
           }
