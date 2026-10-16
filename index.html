@@ -269,7 +269,7 @@ const bskyButton = document.getElementById('bskySearch');
 const bskyInput = document.getElementById('bskyQuery');
 const bskyStatus = document.getElementById('bskyStatus');
 const bskyResults = document.getElementById('bskyResults');
-
+let moraqibPassword = sessionStorage.getItem('moraqibPassword') || '';
 bskyForm.addEventListener('submit', async event => {
   event.preventDefault();
 
