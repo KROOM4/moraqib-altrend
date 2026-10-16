@@ -9,301 +9,127 @@
 
 <style>
 :root {
-  --bg: #07140f;
-  --panel: #0d2118;
-  --panel2: #10291e;
-  --line: #234735;
-  --green: #19a765;
-  --green2: #35d68a;
-  --gold: #c8a85b;
-  --text: #f1f7f2;
-  --muted: #94ac9d;
-  --red: #ff6969;
-  --yellow: #f5c76b;
-  --blue: #71c9ed;
-  --radius: 17px;
+  --bg:#07140f;
+  --panel:#0d2118;
+  --panel2:#10291e;
+  --line:#234735;
+  --green:#19a765;
+  --green2:#35d68a;
+  --gold:#c8a85b;
+  --text:#f1f7f2;
+  --muted:#94ac9d;
+  --red:#ff6969;
+  --yellow:#f5c76b;
+  --blue:#71c9ed;
 }
-* { box-sizing: border-box; }
-body {
-  margin: 0;
-  background:
-    radial-gradient(ellipse at 50% -20%, #19442b 0, transparent 52%),
-    var(--bg);
-  color: var(--text);
-  font-family: Tahoma, Arial, sans-serif;
-  min-height: 100vh;
+*{box-sizing:border-box}
+body{
+  margin:0;min-height:100vh;color:var(--text);
+  background:radial-gradient(ellipse at 50% -20%,#19442b 0,transparent 52%),var(--bg);
+  font-family:Tahoma,Arial,sans-serif
 }
-button, select { font: inherit; }
-button { cursor: pointer; }
-button:focus-visible, select:focus-visible {
-  outline: 2px solid var(--green2);
-  outline-offset: 3px;
+button,select{font:inherit}
+button{cursor:pointer}
+button:focus-visible,select:focus-visible{outline:2px solid var(--green2)}
+.app{max-width:1500px;margin:auto;padding:22px}
+header{display:flex;justify-content:space-between;align-items:center;gap:15px;border-bottom:1px solid var(--line);padding-bottom:20px}
+.brand{display:flex;align-items:center;gap:13px}
+.brand-icon{width:49px;height:49px;display:grid;place-items:center;border:1px solid #32664a;border-radius:14px;background:var(--panel2);color:var(--gold)}
+.brand-icon svg{width:31px;height:31px}
+h1,h2,h3,p{margin-top:0}
+.brand h1{font-size:24px;margin:0 0 5px}
+.brand p,.muted{color:var(--muted);font-size:12px}
+.brand p{margin:0}
+.header-status{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:12px}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--yellow)}
+.dot.ok{background:var(--green2)}
+.dot.bad{background:var(--red)}
+.national{display:flex;flex-direction:column;align-items:center;text-align:center;padding:23px 0 27px}
+.emblem{width:98px;height:88px;color:var(--gold);margin-bottom:4px}
+.national h2{font-size:clamp(27px,4vw,39px);letter-spacing:2px;margin:0}
+.national p{color:var(--muted);margin:8px 0 0;font-size:13px}
+.gold-line{width:76px;height:2px;margin-top:15px;background:linear-gradient(90deg,transparent,var(--gold),transparent)}
+.toolbar{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-bottom:18px}
+.grow{flex:1}
+select,.btn{border:1px solid var(--line);background:var(--panel);color:var(--text);border-radius:10px;padding:11px 13px}
+.btn{transition:.2s}
+.btn:hover{border-color:var(--green2)}
+.btn.primary{background:#147a48;border-color:#208e58}
+.btn.subtle{color:var(--muted)}
+.btn:disabled{opacity:.5;cursor:wait}
+.nav{display:flex;gap:8px;overflow-x:auto;padding-bottom:17px;margin-bottom:5px}
+.nav button{white-space:nowrap;padding:10px 14px;border:1px solid var(--line);border-radius:11px;background:transparent;color:var(--muted)}
+.nav button.active{color:var(--text);background:#123b28;border-color:#28794c}
+.section{display:none}
+.section.active{display:block}
+.section-title{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:14px 0 17px}
+.section-title h2{font-size:19px;margin:0 0 5px}
+.section-title p{color:var(--muted);font-size:12px;margin:0;line-height:1.8}
+.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:13px}
+.card{min-width:0;background:linear-gradient(145deg,#10271c,#0b1c14);border:1px solid var(--line);border-radius:17px;padding:18px}
+.stat-top{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.stat-label{color:var(--muted);font-size:12px}
+.stat-icon{display:grid;place-items:center;width:35px;height:35px;border-radius:11px;background:#193c29;color:var(--green2);font-size:17px}
+.stat-value{font-size:29px;font-weight:bold;margin:17px 0 8px;overflow-wrap:anywhere}
+.stat-note{font-size:11px;color:var(--muted);line-height:1.8}
+.content-grid{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(290px,1fr);gap:15px;margin-top:16px}
+.card-heading{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:17px}
+.card-heading h3{font-size:15px;margin:0}
+.card-heading span{font-size:11px;color:var(--muted)}
+.chart-wrap{position:relative;width:100%}
+#trendChart{width:100%;height:230px;display:block}
+.pill{display:inline-flex;align-items:center;gap:5px;padding:5px 9px;border-radius:999px;font-size:11px;white-space:nowrap}
+.pill.green{color:#7cebb0;background:#123c29}
+.pill.red{color:#ff9999;background:#3b2021}
+.pill.yellow{color:#f6d58a;background:#3b3119}
+.pill.gray{color:#aabbb0;background:#1b2b22}
+.pill.blue{color:#92dcf7;background:#142e39}
+.warning-card{border-color:#554522}
+.warning-intro{font-size:12px;line-height:1.9;color:var(--muted);margin-bottom:15px}
+.alert-list{display:flex;flex-direction:column;gap:9px}
+.alert-item{background:#101f18;border:1px solid #34432d;border-radius:12px;padding:12px}
+.alert-item strong{font-size:13px;overflow-wrap:anywhere}
+.alert-item p{color:var(--muted);font-size:11px;line-height:1.9;margin:7px 0 9px}
+.disclaimer{margin-top:15px;padding-top:13px;border-top:1px solid var(--line);color:var(--muted);font-size:10px;line-height:1.9}
+.table-card{margin-top:16px}
+.table-scroll{overflow-x:auto}
+table{width:100%;border-collapse:collapse;min-width:600px}
+th,td{text-align:right;padding:14px 11px;border-bottom:1px solid #203a2a;font-size:12px}
+th{color:var(--muted);font-weight:normal}
+td{color:#e3eee6}
+tbody tr:hover{background:#12271b}
+td small{display:block;color:var(--muted);margin-top:5px;line-height:1.8}
+.change-up{color:var(--green2);font-weight:bold}
+.change-down{color:var(--red);font-weight:bold}
+.change-na{color:var(--muted)}
+.empty{padding:28px 15px;color:var(--muted);text-align:center;font-size:13px;line-height:2}
+.empty strong{display:block;color:var(--text);margin-bottom:6px}
+.notice{display:none;padding:13px 15px;margin-bottom:15px;border-radius:12px;font-size:12px;line-height:1.9;overflow-wrap:anywhere}
+.notice.show{display:block}
+.notice.error{background:#351f21;border:1px solid #633438;color:#ffb4b4}
+.notice.info{background:#142b34;border:1px solid #275263;color:#a4e4fa}
+.notice.success{background:#133324;border:1px solid #245b3c;color:#a5f1c4}
+.history-tools{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:15px}
+.footer{text-align:center;color:var(--muted);font-size:11px;padding:28px 10px 12px;line-height:2}
+.footer strong{color:var(--gold)}
+a{color:var(--green2)}
+@media(max-width:1000px){
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .content-grid{grid-template-columns:1fr}
 }
-.app { max-width: 1500px; margin: auto; padding: 22px; }
-
-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 18px;
-  border-bottom: 1px solid var(--line);
-  padding: 0 0 22px;
-}
-.brand { display: flex; align-items: center; gap: 13px; }
-.brand-icon {
-  width: 49px; height: 49px;
-  display: grid; place-items: center;
-  border: 1px solid #32664a;
-  border-radius: 14px;
-  background: #10291e;
-  color: var(--gold);
-}
-.brand-icon svg { width: 31px; height: 31px; }
-h1, h2, h3, p { margin-top: 0; }
-.brand h1 { font-size: 24px; margin: 0 0 5px; }
-.brand p { color: var(--muted); font-size: 12px; margin: 0; }
-.header-status {
-  display: flex; align-items: center; gap: 8px;
-  color: var(--muted); font-size: 12px;
-}
-.dot {
-  width: 8px; height: 8px; border-radius: 50%;
-  background: var(--yellow);
-}
-.dot.ok { background: var(--green2); }
-.dot.bad { background: var(--red); }
-
-.national {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  padding: 23px 0 27px;
-}
-.emblem {
-  width: 98px; height: 88px;
-  color: var(--gold);
-  margin-bottom: 4px;
-}
-.national h2 {
-  font-size: clamp(27px, 4vw, 39px);
-  letter-spacing: 2px;
-  margin: 0;
-}
-.national p {
-  color: var(--muted);
-  margin: 8px 0 0;
-  font-size: 13px;
-}
-.gold-line {
-  width: 76px; height: 2px;
-  margin-top: 15px;
-  background: linear-gradient(90deg, transparent, var(--gold), transparent);
-}
-
-.toolbar {
-  display: flex; flex-wrap: wrap;
-  align-items: center; gap: 10px;
-  margin-bottom: 18px;
-}
-.toolbar .grow { flex: 1; }
-select, .btn {
-  border: 1px solid var(--line);
-  background: var(--panel);
-  color: var(--text);
-  border-radius: 10px;
-  padding: 11px 13px;
-}
-.btn { transition: .2s; }
-.btn:hover { border-color: var(--green2); }
-.btn.primary {
-  background: #147a48;
-  border-color: #208e58;
-}
-.btn.subtle { color: var(--muted); }
-.btn:disabled { opacity: .5; cursor: wait; }
-
-.nav {
-  display: flex; gap: 8px;
-  overflow-x: auto; padding-bottom: 17px;
-  margin-bottom: 5px;
-}
-.nav button {
-  white-space: nowrap;
-  padding: 10px 14px;
-  border: 1px solid var(--line);
-  border-radius: 11px;
-  background: transparent;
-  color: var(--muted);
-}
-.nav button.active {
-  color: var(--text);
-  background: #123b28;
-  border-color: #28794c;
-}
-
-.section { display: none; }
-.section.active { display: block; }
-.section-title {
-  display: flex; justify-content: space-between;
-  align-items: center; gap: 12px;
-  margin: 14px 0 17px;
-}
-.section-title h2 { font-size: 19px; margin: 0 0 5px; }
-.section-title p { color: var(--muted); font-size: 12px; margin: 0; }
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 13px;
-}
-.card {
-  min-width: 0;
-  background: linear-gradient(145deg, #10271c, #0b1c14);
-  border: 1px solid var(--line);
-  border-radius: var(--radius);
-  padding: 18px;
-}
-.stat-top {
-  display: flex; justify-content: space-between;
-  align-items: center; gap: 8px;
-}
-.stat-label { color: var(--muted); font-size: 12px; }
-.stat-icon {
-  display: grid; place-items: center;
-  width: 35px; height: 35px;
-  border-radius: 11px;
-  background: #193c29;
-  color: var(--green2);
-  font-size: 17px;
-}
-.stat-value {
-  font-size: 29px; font-weight: bold;
-  margin: 17px 0 8px;
-  overflow-wrap: anywhere;
-}
-.stat-note { font-size: 11px; color: var(--muted); }
-
-.content-grid {
-  display: grid;
-  grid-template-columns: minmax(0, 1.7fr) minmax(290px, 1fr);
-  gap: 15px; margin-top: 16px;
-}
-.card-heading {
-  display: flex; align-items: center;
-  justify-content: space-between; gap: 10px;
-  margin-bottom: 17px;
-}
-.card-heading h3 { font-size: 15px; margin: 0; }
-.card-heading span { font-size: 11px; color: var(--muted); }
-
-.chart-wrap { position: relative; width: 100%; }
-#trendChart { width: 100%; height: 230px; display: block; }
-.chart-empty {
-  color: var(--muted); text-align: center;
-  padding: 55px 8px;
-}
-.chart-legend {
-  display: flex; justify-content: space-between;
-  gap: 8px; color: var(--muted); font-size: 10px;
-  margin-top: 7px;
-}
-.chart-legend span { overflow-wrap: anywhere; }
-
-.pill {
-  display: inline-flex; align-items: center;
-  gap: 5px; padding: 5px 9px;
-  border-radius: 999px; font-size: 11px;
-  white-space: nowrap;
-}
-.pill.green { color: #7cebb0; background: #123c29; }
-.pill.red { color: #ff9999; background: #3b2021; }
-.pill.yellow { color: #f6d58a; background: #3b3119; }
-.pill.gray { color: #aabbb0; background: #1b2b22; }
-.pill.blue { color: #92dcf7; background: #142e39; }
-
-.warning-card { border-color: #554522; }
-.warning-card .card-heading { margin-bottom: 12px; }
-.warning-intro {
-  font-size: 12px; line-height: 1.9;
-  color: var(--muted); margin-bottom: 15px;
-}
-.alert-list { display: flex; flex-direction: column; gap: 9px; }
-.alert-item {
-  background: #101f18; border: 1px solid #34432d;
-  border-radius: 12px; padding: 12px;
-}
-.alert-item strong { font-size: 13px; overflow-wrap: anywhere; }
-.alert-item p {
-  color: var(--muted); font-size: 11px;
-  line-height: 1.8; margin: 7px 0 9px;
-}
-.disclaimer {
-  margin-top: 15px; padding-top: 13px;
-  border-top: 1px solid var(--line);
-  color: var(--muted); font-size: 10px; line-height: 1.9;
-}
-
-.table-card { margin-top: 16px; }
-.table-scroll { overflow-x: auto; }
-table { width: 100%; border-collapse: collapse; min-width: 600px; }
-th, td {
-  text-align: right; padding: 14px 11px;
-  border-bottom: 1px solid #203a2a;
-  font-size: 12px;
-}
-th { color: var(--muted); font-weight: normal; }
-td { color: #e3eee6; }
-tbody tr:hover { background: #12271b; }
-td small { display: block; color: var(--muted); margin-top: 5px; }
-.change-up { color: var(--green2); font-weight: bold; }
-.change-down { color: var(--red); font-weight: bold; }
-.change-na { color: var(--muted); }
-
-.empty {
-  padding: 32px 15px;
-  color: var(--muted); text-align: center;
-  font-size: 13px; line-height: 2;
-}
-.empty strong { display: block; color: var(--text); margin-bottom: 6px; }
-.notice {
-  display: none; padding: 13px 15px;
-  margin-bottom: 15px; border-radius: 12px;
-  font-size: 12px; line-height: 1.9;
-}
-.notice.show { display: block; }
-.notice.error { background: #351f21; border: 1px solid #633438; color: #ffb4b4; }
-.notice.info { background: #142b34; border: 1px solid #275263; color: #a4e4fa; }
-.notice.success { background: #133324; border: 1px solid #245b3c; color: #a5f1c4; }
-
-.history-tools {
-  display: flex; gap: 9px; flex-wrap: wrap;
-  margin-bottom: 15px;
-}
-.footer {
-  text-align: center; color: var(--muted);
-  font-size: 11px; padding: 28px 10px 12px;
-  line-height: 2;
-}
-.footer strong { color: var(--gold); }
-
-@media (max-width: 1000px) {
-  .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .content-grid { grid-template-columns: 1fr; }
-}
-@media (max-width: 560px) {
-  .app { padding: 14px; }
-  header { align-items: flex-start; }
-  .header-status { font-size: 10px; }
-  .brand h1 { font-size: 21px; }
-  .national { padding: 19px 0 23px; }
-  .emblem { width: 82px; height: 74px; }
-  .grid { gap: 9px; }
-  .card { padding: 13px; }
-  .stat-value { font-size: 24px; }
-  .toolbar select, .toolbar .btn { flex: 1; }
-  .toolbar .grow { display: none; }
-  #trendChart { height: 190px; }
+@media(max-width:560px){
+  .app{padding:14px}
+  header{align-items:flex-start}
+  .header-status{font-size:10px}
+  .brand h1{font-size:21px}
+  .national{padding:19px 0 23px}
+  .emblem{width:82px;height:74px}
+  .grid{gap:9px}
+  .card{padding:13px}
+  .stat-value{font-size:24px}
+  .toolbar select,.toolbar .btn{flex:1}
+  .toolbar .grow{display:none}
+  #trendChart{height:190px}
 }
 </style>
 </head>
@@ -316,8 +142,8 @@ td small { display: block; color: var(--muted); margin-top: 5px; }
     <div class="brand-icon" aria-hidden="true">
       <svg viewBox="0 0 40 40" fill="none">
         <circle cx="20" cy="20" r="16" stroke="currentColor" stroke-width="1.3"/>
-        <path d="M10 26 L30 14 M11 14 L29 26" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
-        <path d="M20 7 L20 14 M20 7 L16 10 M20 7 L24 10 M20 11 L14 8 M20 11 L26 8" stroke="#35d68a" stroke-width="1.5" stroke-linecap="round"/>
+        <path d="M10 26L30 14M11 14L29 26" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+        <path d="M20 7V14M20 7L16 10M20 7L24 10" stroke="#35d68a" stroke-width="1.5" stroke-linecap="round"/>
       </svg>
     </div>
     <div>
@@ -331,30 +157,18 @@ td small { display: block; color: var(--muted); margin-top: 5px; }
   </div>
 </header>
 
-<!-- هوية سعودية: نخلة وسيفان متقاطعان -->
 <div class="national">
-  <svg class="emblem" viewBox="0 0 120 108" role="img" aria-label="نخلة وسيفان متقاطعان بتصميم مستوحى من الهوية السعودية">
+  <svg class="emblem" viewBox="0 0 120 108" role="img" aria-label="نخلة وسيفان متقاطعان">
     <g fill="none" stroke="#c8a85b" stroke-linecap="round" stroke-linejoin="round">
-      <!-- Palm trunk -->
-      <path d="M60 40 Q57 29 60 19" stroke-width="3"/>
-      <!-- Palm fronds -->
-      <path d="M60 23 Q42 4 25 15 Q43 15 54 25" stroke-width="2.5"/>
-      <path d="M60 23 Q78 4 95 15 Q77 15 66 25" stroke-width="2.5"/>
-      <path d="M59 22 Q57 4 44 5 Q51 13 57 25" stroke-width="2.5"/>
-      <path d="M61 22 Q63 4 76 5 Q69 13 63 25" stroke-width="2.5"/>
-      <path d="M58 25 Q35 18 20 28 Q42 25 56 29" stroke-width="2.5"/>
-      <path d="M62 25 Q85 18 100 28 Q78 25 64 29" stroke-width="2.5"/>
-      <path d="M60 40 L60 47" stroke-width="3"/>
-      <!-- crossed swords -->
-      <path d="M22 55 L88 84 Q94 87 98 82 L101 78" stroke-width="3.2"/>
-      <path d="M98 82 L104 87 L101 78" stroke-width="2.4"/>
-      <path d="M98 78 L88 85" stroke-width="2.3"/>
-      <path d="M98 55 L32 84 Q26 87 22 82 L19 78" stroke-width="3.2"/>
-      <path d="M22 82 L16 87 L19 78" stroke-width="2.4"/>
-      <path d="M22 78 L32 85" stroke-width="2.3"/>
-      <path d="M50 67 L44 59 M70 67 L76 59" stroke-width="2.2"/>
+      <path d="M60 40Q57 29 60 19" stroke-width="3"/>
+      <path d="M60 23Q42 4 25 15Q43 15 54 25M60 23Q78 4 95 15Q77 15 66 25" stroke-width="2.5"/>
+      <path d="M59 22Q57 4 44 5Q51 13 57 25M61 22Q63 4 76 5Q69 13 63 25" stroke-width="2.5"/>
+      <path d="M58 25Q35 18 20 28Q42 25 56 29M62 25Q85 18 100 28Q78 25 64 29" stroke-width="2.5"/>
+      <path d="M60 40L60 47" stroke-width="3"/>
+      <path d="M22 55L88 84Q94 87 98 82L101 78M98 82L104 87L101 78M98 78L88 85" stroke-width="3"/>
+      <path d="M98 55L32 84Q26 87 22 82L19 78M22 82L16 87L19 78M22 78L32 85" stroke-width="3"/>
     </g>
-    <path d="M46 95 Q60 100 74 95" stroke="#35d68a" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M46 95Q60 100 74 95" stroke="#35d68a" stroke-width="2" fill="none" stroke-linecap="round"/>
   </svg>
   <h2>مَرْصَد</h2>
   <p>عينٌ على الترندات، وقراءةٌ لاتجاهات الاهتمام</p>
@@ -362,19 +176,19 @@ td small { display: block; color: var(--muted); margin-top: 5px; }
 </div>
 
 <div class="toolbar">
-  <select id="periodSelect" aria-label="الفترة">
+  <select id="periodSelect" aria-label="فترة المقارنة">
     <option value="all">جميع القراءات المحفوظة</option>
     <option value="24">آخر 24 ساعة</option>
     <option value="168">آخر 7 أيام</option>
   </select>
   <div class="grow"></div>
   <button class="btn" id="refreshBtn">↻ تحديث البيانات</button>
-  <button class="btn primary" id="alertsBtn">🔔 التنبيهات</button>
+  <button class="btn primary" id="alertsBtn">🔔 تفعيل التنبيهات</button>
 </div>
 
 <nav class="nav" aria-label="التنقل">
   <button class="active" data-tab="overview">نظرة عامة</button>
-  <button data-tab="trends">الترندات الصاعدة</button>
+  <button data-tab="trends">الترندات</button>
   <button data-tab="suspicious">الترندات المشبوهة</button>
   <button data-tab="history">السجل التاريخي</button>
 </nav>
@@ -392,36 +206,24 @@ td small { display: block; color: var(--muted); margin-top: 5px; }
 
   <div class="grid">
     <div class="card">
-      <div class="stat-top">
-        <span class="stat-label">الترندات المرصودة</span>
-        <span class="stat-icon">◉</span>
-      </div>
+      <div class="stat-top"><span class="stat-label">الترندات المرصودة</span><span class="stat-icon">◉</span></div>
       <div class="stat-value" id="statTotal">—</div>
-      <div class="stat-note">حسب البيانات المستلمة</div>
+      <div class="stat-note">عدد المواضيع المستلمة من المصدر</div>
     </div>
     <div class="card">
-      <div class="stat-top">
-        <span class="stat-label">ترندات صاعدة</span>
-        <span class="stat-icon">↗</span>
-      </div>
+      <div class="stat-top"><span class="stat-label">ترندات صاعدة</span><span class="stat-icon">↗</span></div>
       <div class="stat-value" id="statUp">—</div>
-      <div class="stat-note">مقارنة بقراءة سابقة محفوظة</div>
+      <div class="stat-note">تحتاج إلى قيم حالية وسابقة قابلة للمقارنة</div>
     </div>
     <div class="card">
-      <div class="stat-top">
-        <span class="stat-label">متوسط التغير</span>
-        <span class="stat-icon">％</span>
-      </div>
+      <div class="stat-top"><span class="stat-label">متوسط التغير</span><span class="stat-icon">％</span></div>
       <div class="stat-value" id="statChange">—</div>
-      <div class="stat-note">للعناصر القابلة للمقارنة</div>
+      <div class="stat-note">للعناصر التي تتوفر لها قيم رقمية</div>
     </div>
     <div class="card">
-      <div class="stat-top">
-        <span class="stat-label">تحتاج مراجعة</span>
-        <span class="stat-icon">⚠</span>
-      </div>
+      <div class="stat-top"><span class="stat-label">تحتاج مراجعة</span><span class="stat-icon">⚠</span></div>
       <div class="stat-value" id="statSuspicious">—</div>
-      <div class="stat-note">قفزات غير معتادة وفق القواعد</div>
+      <div class="stat-note">قفزات رقمية غير معتادة، إن توفرت بياناتها</div>
     </div>
   </div>
 
@@ -429,16 +231,10 @@ td small { display: block; color: var(--muted); margin-top: 5px; }
     <div class="card">
       <div class="card-heading">
         <h3>تغيّر الاهتمام بمرور الوقت</h3>
-        <span>قراءات محفوظة محليًا</span>
+        <span>من القراءات المحفوظة</span>
       </div>
-      <div class="chart-wrap">
-        <svg id="trendChart" viewBox="0 0 600 230" preserveAspectRatio="none" aria-label="رسم بياني لتغير الاهتمام"></svg>
-      </div>
-      <div class="chart-legend">
-        <span>أقدم قراءة</span>
-        <span>الاهتمام كما ورد من المصدر</span>
-        <span>أحدث قراءة</span>
-      </div>
+      <svg id="trendChart" viewBox="0 0 600 230" preserveAspectRatio="none" aria-label="رسم بياني لتغير الاهتمام"></svg>
+      <div class="disclaimer" id="chartMessage">يظهر الرسم عند توفر قيم رقمية قابلة للمقارنة.</div>
     </div>
 
     <div class="card warning-card">
@@ -446,37 +242,20 @@ td small { display: block; color: var(--muted); margin-top: 5px; }
         <h3>🛡️ الترندات المشبوهة</h3>
         <span class="pill yellow" id="suspiciousCountPill">قيد التحليل</span>
       </div>
-      <p class="warning-intro">
-        نعرض هنا العبارات التي يظهر في بياناتها ارتفاع كبير مقارنة بقراءة سابقة محفوظة.
-        هذا مؤشر للمراجعة، وليس إثباتًا للتلاعب.
-      </p>
+      <p class="warning-intro">نراجع القفزات الرقمية الكبيرة مقارنة بالقراءات السابقة. الارتفاع وحده لا يثبت وجود بوتات.</p>
       <div class="alert-list" id="suspiciousPreview">
         <div class="empty">بانتظار تحميل البيانات...</div>
       </div>
-      <div class="disclaimer">
-        Google Trends يقيس الاهتمام النسبي بالبحث، ولا يكشف هوية الباحثين أو يثبت أن بوتات رفعت الترند.
-      </div>
+      <div class="disclaimer">Google Trends لا يكشف هوية الباحثين ولا يثبت وحده أن بوتات رفعت الترند.</div>
     </div>
   </div>
 
   <div class="card table-card">
-    <div class="card-heading">
-      <h3>أعلى الترندات نموًا</h3>
-      <span>حسب نسبة التغير المتاحة</span>
-    </div>
+    <div class="card-heading"><h3>الترندات المتاحة</h3><span>من Google Trends</span></div>
     <div class="table-scroll">
       <table>
-        <thead>
-          <tr>
-            <th>العبارة أو الترند</th>
-            <th>القيمة الحالية</th>
-            <th>التغير</th>
-            <th>التصنيف</th>
-          </tr>
-        </thead>
-        <tbody id="topTrends">
-          <tr><td colspan="4" class="empty">جاري تحميل البيانات...</td></tr>
-        </tbody>
+        <thead><tr><th>العبارة</th><th>حجم البحث</th><th>التغير</th><th>التصنيف</th></tr></thead>
+        <tbody id="topTrends"><tr><td colspan="4" class="empty">جاري تحميل البيانات...</td></tr></tbody>
       </table>
     </div>
   </div>
@@ -484,26 +263,13 @@ td small { display: block; color: var(--muted); margin-top: 5px; }
 
 <section class="section" id="trends">
   <div class="section-title">
-    <div>
-      <h2>الترندات الصاعدة والهابطة</h2>
-      <p>قارن القراءات الحالية بالقراءات السابقة المحفوظة</p>
-    </div>
+    <div><h2>الترندات الصاعدة والهابطة</h2><p>مقارنة القراءات الحالية بالقراءات السابقة المحفوظة</p></div>
   </div>
-  <div class="card table-card" style="margin-top:0">
+  <div class="card" style="margin-top:0">
     <div class="table-scroll">
       <table>
-        <thead>
-          <tr>
-            <th>العبارة</th>
-            <th>القيمة الحالية</th>
-            <th>القيمة السابقة</th>
-            <th>نسبة التغير</th>
-            <th>الحالة</th>
-          </tr>
-        </thead>
-        <tbody id="allTrends">
-          <tr><td colspan="5" class="empty">جاري تحميل البيانات...</td></tr>
-        </tbody>
+        <thead><tr><th>العبارة</th><th>القيمة الحالية</th><th>القيمة السابقة</th><th>نسبة التغير</th><th>الحالة</th></tr></thead>
+        <tbody id="allTrends"><tr><td colspan="5" class="empty">جاري تحميل البيانات...</td></tr></tbody>
       </table>
     </div>
   </div>
@@ -511,24 +277,14 @@ td small { display: block; color: var(--muted); margin-top: 5px; }
 
 <section class="section" id="suspicious">
   <div class="section-title">
-    <div>
-      <h2>مركز مراجعة الارتفاعات غير المعتادة</h2>
-      <p>القفزات الكبيرة تستحق المراجعة، لكنها لا تثبت وجود بوتات</p>
-    </div>
+    <div><h2>مركز مراجعة الارتفاعات غير المعتادة</h2><p>المؤشرات تستدعي المراجعة ولا تثبت التلاعب</p></div>
   </div>
-  <div class="card" style="margin-top:0">
-    <div id="suspiciousFull" class="alert-list">
-      <div class="empty">جاري تحليل القراءات...</div>
-    </div>
-  </div>
+  <div class="card" style="margin-top:0"><div id="suspiciousFull" class="alert-list"><div class="empty">جاري تحليل القراءات...</div></div></div>
 </section>
 
 <section class="section" id="history">
   <div class="section-title">
-    <div>
-      <h2>السجل التاريخي</h2>
-      <p>سجل القراءات التي حفظها هذا المتصفح</p>
-    </div>
+    <div><h2>السجل التاريخي</h2><p>القراءات التي حفظها هذا المتصفح</p></div>
   </div>
   <div class="history-tools">
     <button class="btn" id="exportBtn">تصدير السجل JSON</button>
@@ -537,29 +293,17 @@ td small { display: block; color: var(--muted); margin-top: 5px; }
   <div class="card">
     <div class="table-scroll">
       <table>
-        <thead>
-          <tr>
-            <th>وقت القراءة</th>
-            <th>عدد الترندات</th>
-            <th>متوسط القيمة</th>
-            <th>مصدر البيانات</th>
-          </tr>
-        </thead>
-        <tbody id="historyTable">
-          <tr><td colspan="4" class="empty">لا توجد قراءات محفوظة بعد.</td></tr>
-        </tbody>
+        <thead><tr><th>وقت القراءة</th><th>عدد الترندات</th><th>متوسط القيمة</th><th>المصدر</th></tr></thead>
+        <tbody id="historyTable"><tr><td colspan="4" class="empty">لا توجد قراءات محفوظة بعد.</td></tr></tbody>
       </table>
     </div>
-    <p class="disclaimer">
-      السجل محفوظ على هذا الجهاز والمتصفح فقط. مسح بيانات المتصفح قد يحذفه،
-      ولا تتم مزامنته تلقائيًا بين الأجهزة.
-    </p>
+    <p class="disclaimer">السجل محفوظ على هذا الجهاز والمتصفح فقط، ولا تتم مزامنته تلقائيًا بين الأجهزة.</p>
   </div>
 </section>
 
 <footer class="footer">
   <strong>مَرْصَد</strong> — بهوية سعودية وتحليل مسؤول للبيانات<br>
-  المصدر: Google Trends عبر ملف البيانات الخاص بالمشروع.<br>
+  المصدر: Google Trends عبر ملف بيانات المشروع.<br>
   آخر تحديث: <span id="lastUpdated">لم يتم التحميل بعد</span>
 </footer>
 </div>
@@ -567,22 +311,22 @@ td small { display: block; color: var(--muted); margin-top: 5px; }
 <script>
 "use strict";
 
-const DATA_URL = "data/x-trends.json";
-const STORAGE_KEY = "marsad_history_v1";
+const DATA_URL = "./data/x-trends.json";
+const STORAGE_KEY = "marsad_history_v2";
 const ALERT_KEY = "marsad_alerts_v1";
 const MAX_HISTORY = 300;
-const MIN_SAMPLE_GAP_MS = 30 * 60 * 1000;
 const SPIKE_PERCENT = 80;
 const SPIKE_MIN_BASELINE = 5;
 
 let currentData = [];
 let currentMeta = {};
-let history = [];
-let alerts = [];
+let history = readStorage(STORAGE_KEY, []);
+let alerts = readStorage(ALERT_KEY, []);
+let loading = false;
 
 const $ = id => document.getElementById(id);
 
-function safeRead(key, fallback) {
+function readStorage(key, fallback) {
   try {
     const value = JSON.parse(localStorage.getItem(key) || "null");
     return value ?? fallback;
@@ -590,97 +334,201 @@ function safeRead(key, fallback) {
     return fallback;
   }
 }
-function safeWrite(key, value) {
+
+function writeStorage(key, value) {
   try {
     localStorage.setItem(key, JSON.stringify(value));
     return true;
   } catch {
-    showNotice("تعذر الحفظ في المتصفح. قد تكون مساحة التخزين ممتلئة أو معطلة.", "error");
+    showNotice("تعذر الحفظ محليًا. تحقق من مساحة تخزين المتصفح.", "error");
     return false;
   }
 }
+
 function escapeHTML(value) {
   return String(value ?? "").replace(/[&<>"']/g, ch => ({
-    "&": "&amp;", "<": "&lt;", ">": "&gt;",
-    '"': "&quot;", "'": "&#39;"
+    "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;"
   })[ch]);
 }
+
 function showNotice(message, type = "info") {
   const el = $("notice");
   el.className = "notice show " + type;
   el.textContent = message;
 }
-function clearNotice() {
-  $("notice").className = "notice";
-  $("notice").textContent = "";
-}
+
 function setConnection(state, label) {
   $("statusDot").className = "dot " + state;
   $("connectionStatus").textContent = label;
 }
+
 function formatNumber(n) {
-  if (!Number.isFinite(n)) return "—";
-  return new Intl.NumberFormat("ar-SA", { maximumFractionDigits: 1 }).format(n);
+  if (n === null || n === undefined || !Number.isFinite(n)) return "غير متوفر";
+  return new Intl.NumberFormat("ar-SA", {maximumFractionDigits:1}).format(n);
 }
+
 function formatPercent(n) {
-  if (!Number.isFinite(n)) return "—";
+  if (n === null || n === undefined || !Number.isFinite(n)) return "غير متوفر";
   return (n > 0 ? "+" : "") + formatNumber(n) + "%";
 }
+
 function parseNumber(value) {
-  if (typeof value === "number" && Number.isFinite(value)) return value;
+  if (typeof value === "number") return Number.isFinite(value) ? value : null;
   if (value === null || value === undefined || value === "") return null;
-  let s = String(value).trim().replace(/,/g, "").replace(/\s/g, "");
+
+  const s = String(value).trim().replace(/,/g, "").replace(/\s/g, "");
+  if (!s) return null;
+
   const match = s.match(/^([\d.]+)([KMB])?\+?$/i);
   if (match) {
     let n = Number(match[1]);
     const unit = (match[2] || "").toUpperCase();
-    if (unit === "K") n *= 1000;
-    if (unit === "M") n *= 1000000;
-    if (unit === "B") n *= 1000000000;
+    if (unit === "K") n *= 1e3;
+    if (unit === "M") n *= 1e6;
+    if (unit === "B") n *= 1e9;
     return Number.isFinite(n) ? n : null;
   }
-  const n = Number(s.replace(/[^\d.-]/g, ""));
+
+  const n = Number(s);
   return Number.isFinite(n) ? n : null;
 }
-function getNested(obj, path) {
-  return path.split(".").reduce((v, k) => v == null ? undefined : v[k], obj);
-}
+
 function firstValue(obj, paths) {
   for (const path of paths) {
-    const v = getNested(obj, path);
-    if (v !== undefined && v !== null && v !== "") return v;
+    const value = path.split(".").reduce((v, key) => v == null ? undefined : v[key], obj);
+    if (value !== undefined && value !== null && value !== "") return value;
   }
   return null;
 }
+
 function titleOf(item) {
   return String(firstValue(item, [
-    "title", "query", "keyword", "name", "hashtag",
-    "topic", "text", "term", "label"
+    "text", "title", "query", "keyword", "name", "hashtag",
+    "topic", "term", "label"
   ]) || "").trim();
 }
+
 function valueOf(item) {
   return parseNumber(firstValue(item, [
-    "metrics.search_volume",
-    "search_volume",
-    "approx_traffic",
-    "traffic",
-    "interest",
-    "value",
-    "volume",
-    "metrics.value",
-    "posts.0.metrics.search_volume",
-    "posts.0.search_volume",
-    "posts.0.approx_traffic"
+    "metrics.search_volume", "search_volume", "approx_traffic",
+    "traffic", "interest", "value", "volume", "metrics.value"
   ]));
 }
+
+/* قراءة ملف Google Trends ودعم بنية results[].posts[] */
 function extractRows(json) {
-  let source = [];
-  if (Array.isArray(json)) source = json;
-  else if (Array.isArray(json?.results)) source = json.results;
-  else if (Array.isArray(json?.trends)) source = json.trends;
-  else if (Array.isArray(json?.items)) source = json.items;
-  else if (Array.isArray(json?.data)) source = json.data;
+  let groups = [];
 
-  const map = new Map();
+  if (Array.isArray(json)) groups = json;
+  else if (Array.isArray(json?.results)) groups = json.results;
+  else if (Array.isArray(json?.trends)) groups = json.trends;
+  else if (Array.isArray(json?.items)) groups = json.items;
+  else if (Array.isArray(json?.data)) groups = json.data;
 
-  function add(item,
+  const rows = [];
+  const seen = new Set();
+
+  function add(item, groupName = "") {
+    if (!item || typeof item !== "object") return;
+
+    const title = titleOf(item) || groupName;
+    if (!title) return;
+
+    const key = title.toLocaleLowerCase("ar");
+    if (seen.has(key)) return;
+    seen.add(key);
+
+    rows.push({
+      title,
+      value: valueOf(item),
+      createdAt: firstValue(item, ["created_at", "published_at", "date", "timestamp"]),
+      url: firstValue(item, ["url", "link"]),
+      sourceGroup: groupName || ""
+    });
+  }
+
+  for (const group of groups) {
+    if (Array.isArray(group?.posts)) {
+      for (const post of group.posts) {
+        add(post, String(group.hashtag || group.title || ""));
+      }
+    } else {
+      add(group);
+    }
+  }
+
+  return rows;
+}
+
+function getPeriodHours() {
+  const value = $("periodSelect").value;
+  return value === "all" ? Infinity : Number(value);
+}
+
+function getPreviousSnapshot() {
+  if (!history.length) return null;
+
+  const latestTime = Date.now();
+  const hours = getPeriodHours();
+  const cutoff = hours === Infinity ? -Infinity : latestTime - hours * 3600000;
+
+  const candidates = history.filter(item => {
+    const t = Date.parse(item.savedAt || "");
+    return Number.isFinite(t) && t >= cutoff;
+  });
+
+  if (candidates.length < 2) return null;
+
+  // استبعاد أحدث لقطة محفوظة لاستخدام اللقطة السابقة للمقارنة
+  return candidates[candidates.length - 2];
+}
+
+function getPreviousValue(title) {
+  const previous = getPreviousSnapshot();
+  if (!previous || !Array.isArray(previous.trends)) return null;
+
+  const match = previous.trends.find(item => item.title === title);
+  return match ? parseNumber(match.value) : null;
+}
+
+function getComparisonRows() {
+  return currentData.map(item => {
+    const previous = getPreviousValue(item.title);
+    let change = null;
+
+    if (item.value !== null && previous !== null && previous !== 0) {
+      change = ((item.value - previous) / Math.abs(previous)) * 100;
+    }
+
+    return {...item, previous, change};
+  });
+}
+
+function getSuspiciousRows(rows) {
+  return rows.filter(item =>
+    item.value !== null &&
+    item.previous !== null &&
+    item.previous >= SPIKE_MIN_BASELINE &&
+    item.change !== null &&
+    item.change >= SPIKE_PERCENT
+  );
+}
+
+function saveSnapshotIfNeeded() {
+  if (!currentData.length) return;
+
+  const sourceUpdated = currentMeta.updated_at || "";
+  const last = history.length ? history[history.length - 1] : null;
+
+  // لا تكرر اللقطة إذا لم يتغير تحديث المصدر.
+  if (last && sourceUpdated && last.sourceUpdatedAt === sourceUpdated) return;
+
+  const snapshot = {
+    savedAt: new Date().toISOString(),
+    sourceUpdatedAt: sourceUpdated,
+    source: currentMeta.source || "Google Trends",
+    count: currentData.length,
+    trends: currentData.map(item => ({
+      title: item.title,
+      value: item.value,
+      creat
