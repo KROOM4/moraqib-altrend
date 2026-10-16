@@ -1,11 +1,35 @@
 {
-  "updated_at": "2026-10-16T07:05:02.688748+00:00",
+  "updated_at": "2026-10-16T07:53:02.193786+00:00",
   "source": "Google Trends",
   "results": [
     {
       "hashtag": "مواضيع رائجة في السعودية",
       "post_count": 10,
       "posts": [
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "باراك أوباما",
+          "created_at": "Fri, 16 Oct 2026 00:30:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "flight cancellation and delay",
+          "created_at": "Fri, 16 Oct 2026 00:10:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الطقس",
+          "created_at": "Fri, 16 Oct 2026 00:00:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "tesla roadster",
@@ -18,14 +42,6 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "الدفاع الجوي الملكي السعودي",
           "created_at": "Thu, 15 Oct 2026 23:00:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تركي آل الشيخ",
-          "created_at": "Thu, 15 Oct 2026 22:50:00 -0700",
           "metrics": {
             "search_volume": ""
           }
@@ -66,22 +82,6 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "twitch",
           "created_at": "Thu, 15 Oct 2026 18:10:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "estudiantes vs flamengo",
-          "created_at": "Thu, 15 Oct 2026 18:00:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عبير أحمد",
-          "created_at": "Thu, 15 Oct 2026 16:30:00 -0700",
           "metrics": {
             "search_volume": ""
           }
