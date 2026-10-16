@@ -280,7 +280,17 @@ bskyForm.addEventListener('submit', async event => {
     bskyStatus.textContent = 'اكتب كلمة للبحث أولًا.';
     return;
   }
+if (!moraqibPassword) {
+  const enteredPassword = prompt('أدخل كلمة مرور مرصد الترند:');
 
+  if (!enteredPassword) {
+    bskyStatus.textContent = 'يلزم إدخال كلمة المرور.';
+    return;
+  }
+
+  moraqibPassword = enteredPassword;
+  sessionStorage.setItem('moraqibPassword', moraqibPassword);
+}
   const fallback = document.createElement('a');
   fallback.href = 'https://bsky.app/search?q=' + encodeURIComponent(query);
   fallback.target = '_blank';
