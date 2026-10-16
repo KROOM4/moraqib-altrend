@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
@@ -96,9 +95,45 @@ footer {
   color:var(--muted);
   font-size:12px;
 }
-@media(max-width:500px) {
+.watch-card {
+  border:1px solid var(--line);
+  background:#0b1422;
+  border-radius:14px;
+  padding:15px;
+  min-width:0;
+}
+.watch-card h3 { margin:0 0 8px; overflow-wrap:anywhere; }
+.watch-actions { display:flex; gap:8px; flex-wrap:wrap; }
+.watch-actions button { flex:1; }
+button.secondary {
+  background:#26364d;
+  color:var(--text);
+  border:1px solid #40516b;
+}
+.watch-note { font-size:12px; color:var(--muted); line-height:1.8; }
+.watch-list { display:grid; gap:10px; }
+.watch-card.paused { opacity:.68; }
+.watch-title-row {
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap:10px;
+}
+.watch-title-row h3 { flex:1; }
+.watch-badge {
+  display:inline-block;
+  border:1px solid var(--line);
+  border-radius:999px;
+  padding:3px 8px;
+  color:var(--muted);
+  font-size:11px;
+  white-space:nowrap;
+}
+.watch-empty { color:var(--muted); font-size:13px; padding:10px 0; }
+@media(max-width:600px) {
   h1 { font-size:24px; }
   .hero,.panel,.metric { padding:16px; }
+  .metrics { grid-template-columns:1fr; }
 }
 </style>
 </head>
@@ -154,10 +189,39 @@ footer {
         autocomplete="off" required>
       <button id="bskySearch" type="submit">بحث في المنشورات</button>
     </form>
-    <p id="bskyStatus" class="small" aria-live="polite">
-      أدخل كلمة للبحث.
-    </p>
+    <p id="bskyStatus" class="small" aria-live="polite">أدخل كلمة للبحث.</p>
     <div id="bskyResults"></div>
+  </section>
+
+  <section class="panel" id="watchPanel">
+    <h2>مراقبة الهاشتاقات وتحليل النشاط</h2>
+    <p>أضف هاشتاقًا لمتابعة ظهوره وتقدير مؤشرات النشاط غير المعتاد.</p>
+
+    <form id="watchForm">
+      <label for="watchInput">الهاشتاق أو الكلمة</label>
+      <input id="watchInput" type="text" placeholder="مثال: #السعودية" autocomplete="off" required>
+
+      <div class="watch-actions">
+        <button type="submit">إضافة للمراقبة</button>
+        <button type="button" class="secondary" id="analyzeAll">تحليل كل الهاشتاقات</button>
+        <button type="button" class="secondary" id="exportWatch">تصدير CSV</button>
+      </div>
+
+      <div class="watch-actions" style="margin-top:10px;align-items:center">
+        <label style="display:flex;gap:8px;align-items:center;color:var(--muted);font-size:13px">
+          <input id="autoWatch" type="checkbox" style="width:auto;margin:0">
+          تحديث تلقائي كل 5 دقائق ما دامت الصفحة مفتوحة
+        </label>
+      </div>
+    </form>
+
+    <p id="watchStatus" class="small" aria-live="polite">أضف هاشتاقًا للبدء.</p>
+    <div id="watchList" class="watch-list"></div>
+
+    <div class="notice">
+      تنبيه: درجة الاشتباه مؤشر تقريبي وليست إثباتًا على وجود بوتات.
+      يعتمد التحليل على عينة المنشورات التي ترجعها خدمة البحث، وقد تكون محدودة.
+    </div>
   </section>
 </main>
 
@@ -175,9 +239,7 @@ function formatDate(value) {
 }
 
 function renderTopics() {
-  const query = document.getElementById('search').value
-    .trim().toLowerCase();
-
+  const query = document.getElementById('search').value.trim().toLowerCase();
   const shown = topics.filter(topic =>
     topic.name.toLowerCase().includes(query)
   );
@@ -241,9 +303,7 @@ async function loadTopics() {
 
     if (!topics.length && Array.isArray(data.trends)) {
       data.trends.forEach(item => {
-        const name = String(
-          item.name || item.hashtag || item.topic || ''
-        ).trim();
+        const name = String(item.name || item.hashtag || item.topic || '').trim();
         if (name) topics.push({name, date:item.created_at || ''});
       });
     }
@@ -252,17 +312,14 @@ async function loadTopics() {
       + ' · آخر تحديث: ' + formatDate(data.updated_at);
     renderTopics();
   } catch (error) {
-    status.textContent =
-      'تعذر تحميل بيانات Google Trends. تحقق من GitHub Pages.';
+    status.textContent = 'تعذر تحميل بيانات Google Trends. تحقق من GitHub Pages.';
   } finally {
     button.disabled = false;
   }
 }
 
-document.getElementById('refresh')
-  .addEventListener('click', loadTopics);
-document.getElementById('search')
-  .addEventListener('input', renderTopics);
+document.getElementById('refresh').addEventListener('click', loadTopics);
+document.getElementById('search').addEventListener('input', renderTopics);
 
 const bskyForm = document.getElementById('bskyForm');
 const bskyButton = document.getElementById('bskySearch');
@@ -270,9 +327,9 @@ const bskyInput = document.getElementById('bskyQuery');
 const bskyStatus = document.getElementById('bskyStatus');
 const bskyResults = document.getElementById('bskyResults');
 let moraqibPassword = sessionStorage.getItem('moraqibPassword') || '';
+
 bskyForm.addEventListener('submit', async event => {
   event.preventDefault();
-
   const query = bskyInput.value.trim();
   bskyResults.replaceChildren();
 
@@ -280,17 +337,17 @@ bskyForm.addEventListener('submit', async event => {
     bskyStatus.textContent = 'اكتب كلمة للبحث أولًا.';
     return;
   }
-if (!moraqibPassword) {
-  const enteredPassword = prompt('أدخل كلمة مرور مرصد الترند:');
 
-  if (!enteredPassword) {
-    bskyStatus.textContent = 'يلزم إدخال كلمة المرور.';
-    return;
+  if (!moraqibPassword) {
+    const enteredPassword = prompt('أدخل كلمة مرور مرصد الترند:');
+    if (!enteredPassword) {
+      bskyStatus.textContent = 'يلزم إدخال كلمة المرور.';
+      return;
+    }
+    moraqibPassword = enteredPassword;
+    sessionStorage.setItem('moraqibPassword', moraqibPassword);
   }
 
-  moraqibPassword = enteredPassword;
-  sessionStorage.setItem('moraqibPassword', moraqibPassword);
-}
   const fallback = document.createElement('a');
   fallback.href = 'https://bsky.app/search?q=' + encodeURIComponent(query);
   fallback.target = '_blank';
@@ -301,35 +358,35 @@ if (!moraqibPassword) {
   bskyStatus.textContent = 'جارٍ البحث في المنشورات العامة...';
 
   try {
-const url = 'https://nameless-morning-bcf1.krom47k.workers.dev/'
-  + '?q=' + encodeURIComponent(query);
+    const url = 'https://nameless-morning-bcf1.krom47k.workers.dev/?q='
+      + encodeURIComponent(query);
 
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 15000);
 
     let response;
     try {
-response = await fetch(url, {
-  method: 'GET',
-  headers: {
-    'Accept': 'application/json',
-    'Authorization': 'Bearer ' + moraqibPassword
-  },
-  signal: controller.signal
-});
+      response = await fetch(url, {
+        method: 'GET',
+        headers: {
+          'Accept': 'application/json',
+          'Authorization': 'Bearer ' + moraqibPassword
+        },
+        signal: controller.signal
+      });
     } finally {
       clearTimeout(timeout);
     }
 
-    if (!response.ok) {
-      throw new Error('HTTP ' + response.status);
+    if (response.status === 401) {
+      moraqibPassword = '';
+      sessionStorage.removeItem('moraqibPassword');
+      throw new Error('HTTP 401');
     }
+    if (!response.ok) throw new Error('HTTP ' + response.status);
 
     const data = await response.json();
-
-    if (!Array.isArray(data.posts)) {
-      throw new Error('استجابة غير متوقعة من الخدمة');
-    }
+    if (!Array.isArray(data.posts)) throw new Error('استجابة غير متوقعة من الخدمة');
 
     if (data.posts.length === 0) {
       bskyStatus.textContent = 'لم تظهر نتائج لهذه الكلمة.';
@@ -354,21 +411,19 @@ response = await fetch(url, {
 
       const link = document.createElement('a');
       link.textContent = 'عرض المنشور';
+
       const handle = post.author?.handle;
       const postId = post.uri?.split('/').pop();
 
       if (handle && postId) {
-        link.href = 'https://bsky.app/profile/'
-          + encodeURIComponent(handle) + '/post/'
-          + encodeURIComponent(postId);
-        link.target = '_blank';
-        link.rel = 'noopener noreferrer';
+        link.href = 'https://bsky.app/profile/' + encodeURIComponent(handle)
+          + '/post/' + encodeURIComponent(postId);
       } else {
         link.href = 'https://bsky.app/search?q=' + encodeURIComponent(query);
-        link.target = '_blank';
-        link.rel = 'noopener noreferrer';
       }
 
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
       row.append(author, content, date, link);
       bskyResults.appendChild(row);
     });
@@ -376,20 +431,388 @@ response = await fetch(url, {
   } catch (error) {
     if (error.name === 'AbortError') {
       bskyStatus.textContent = 'انتهت مهلة الاتصال. جرّب مرة أخرى.';
+    } else if (error.message === 'HTTP 401') {
+      bskyStatus.textContent = 'كلمة المرور غير مطابقة. أدخلها من جديد عند البحث.';
     } else if (error.message.startsWith('HTTP ')) {
       bskyStatus.textContent = 'خدمة البحث أعادت الخطأ ' + error.message + '.';
     } else {
-      bskyStatus.textContent =
-        'تعذر الاتصال بخدمة البحث. قد تكون المشكلة في الشبكة أو الخدمة.';
+      bskyStatus.textContent = 'تعذر الاتصال بخدمة البحث. قد تكون المشكلة في الشبكة أو الخدمة.';
     }
-
     bskyResults.appendChild(fallback);
-
   } finally {
     bskyButton.disabled = false;
   }
 });
+  // أدوات مراقبة الهاشتاقات
+const watchForm = document.getElementById('watchForm');
+const watchInput = document.getElementById('watchInput');
+const watchListEl = document.getElementById('watchList');
+const watchStatus = document.getElementById('watchStatus');
+const analyzeAllButton = document.getElementById('analyzeAll');
+let watchedTags = [];
+let watchSnapshots = {};
+let autoWatchTimer = null;
 
+try {
+  watchedTags = JSON.parse(localStorage.getItem('moraqibWatchedTags') || '[]');
+  watchSnapshots = JSON.parse(localStorage.getItem('moraqibWatchSnapshots') || '{}');
+
+  if (!Array.isArray(watchedTags)) watchedTags = [];
+  watchedTags = watchedTags
+    .map(item => typeof item === 'string' ? {tag:item, paused:false} : item)
+    .filter(item => item && item.tag);
+
+  if (!watchSnapshots || typeof watchSnapshots !== 'object') {
+    watchSnapshots = {};
+  }
+} catch (_) {
+  watchedTags = [];
+  watchSnapshots = {};
+}
+
+function saveWatchState() {
+  try {
+    localStorage.setItem('moraqibWatchedTags', JSON.stringify(watchedTags));
+    localStorage.setItem('moraqibWatchSnapshots', JSON.stringify(watchSnapshots));
+  } catch (_) {
+    watchStatus.textContent = 'تعذر حفظ المراقبة في المتصفح. تحقق من إعدادات التخزين.';
+  }
+}
+
+function renderWatchList() {
+  watchListEl.replaceChildren();
+
+  if (!watchedTags.length) {
+    const empty = document.createElement('div');
+    empty.className = 'watch-empty';
+    empty.textContent = 'ما أضفت أي كلمة للمراقبة حتى الآن.';
+    watchListEl.appendChild(empty);
+    return;
+  }
+
+  watchedTags.forEach(item => {
+    const tag = item.tag;
+    const card = document.createElement('div');
+    card.className = 'watch-card' + (item.paused ? ' paused' : '');
+
+    const titleRow = document.createElement('div');
+    titleRow.className = 'watch-title-row';
+
+    const heading = document.createElement('h3');
+    heading.textContent = tag;
+
+    const badge = document.createElement('span');
+    badge.className = 'watch-badge';
+    badge.textContent = item.paused ? 'متوقفة مؤقتًا' : 'نشطة';
+    titleRow.append(heading, badge);
+
+    const result = document.createElement('div');
+    result.className = 'watch-note';
+    result.id = 'watch-result-' + encodeURIComponent(tag);
+    result.textContent = 'لم يُحلل بعد.';
+
+    const actions = document.createElement('div');
+    actions.className = 'watch-actions';
+
+    const analyze = document.createElement('button');
+    analyze.type = 'button';
+    analyze.textContent = item.paused ? 'استأنف للتحليل' : 'حلّل الآن';
+    analyze.disabled = item.paused;
+    analyze.addEventListener('click', () => analyzeTag(tag, result));
+
+    const pause = document.createElement('button');
+    pause.type = 'button';
+    pause.className = 'secondary';
+    pause.textContent = item.paused ? 'استئناف' : 'إيقاف مؤقت';
+    pause.addEventListener('click', () => {
+      item.paused = !item.paused;
+      saveWatchState();
+      renderWatchList();
+    });
+
+    const remove = document.createElement('button');
+    remove.type = 'button';
+    remove.className = 'secondary';
+    remove.textContent = 'حذف';
+    remove.addEventListener('click', () => {
+      watchedTags = watchedTags.filter(entry => entry.tag !== tag);
+      delete watchSnapshots[tag];
+      saveWatchState();
+      renderWatchList();
+    });
+
+    actions.append(analyze, pause, remove);
+    card.append(titleRow, result, actions);
+    watchListEl.appendChild(card);
+
+    const previous = watchSnapshots[tag];
+    if (previous && previous.analysis) result.textContent = previous.analysis;
+  });
+}
+
+watchForm.addEventListener('submit', event => {
+  event.preventDefault();
+  const tag = watchInput.value.trim();
+  if (!tag) return;
+
+  if (!watchedTags.some(item => item.tag === tag)) {
+    watchedTags.unshift({tag, paused:false});
+  }
+
+  saveWatchState();
+  watchInput.value = '';
+  watchStatus.textContent = 'تمت إضافة الهاشتاق إلى قائمة المراقبة في هذا المتصفح.';
+  renderWatchList();
+});
+
+async function getWatchPosts(tag) {
+  if (!moraqibPassword) {
+    const enteredPassword = prompt('أدخل كلمة مرور مرصد الترند:');
+    if (!enteredPassword) throw new Error('يلزم إدخال كلمة المرور.');
+    moraqibPassword = enteredPassword;
+    sessionStorage.setItem('moraqibPassword', moraqibPassword);
+  }
+
+  const url = 'https://nameless-morning-bcf1.krom47k.workers.dev/?q='
+    + encodeURIComponent(tag);
+
+  const response = await fetch(url, {
+    method: 'GET',
+    headers: {
+      'Accept': 'application/json',
+      'Authorization': 'Bearer ' + moraqibPassword
+    }
+  });
+
+  if (response.status === 401) {
+    moraqibPassword = '';
+    sessionStorage.removeItem('moraqibPassword');
+    throw new Error('HTTP 401: كلمة المرور غير مطابقة. أعد المحاولة.');
+  }
+
+  if (!response.ok) throw new Error('HTTP ' + response.status);
+
+  const data = await response.json();
+  if (!Array.isArray(data.posts)) throw new Error('استجابة البحث غير متوقعة.');
+  return data.posts;
+}
+
+function analyzePostSignals(posts) {
+  const now = Date.now();
+
+  const recent15 = posts.filter(post => {
+    const raw = post.record?.createdAt || post.indexedAt;
+    const t = raw ? new Date(raw).getTime() : NaN;
+    return Number.isFinite(t) && now - t >= 0 && now - t <= 15 * 60 * 1000;
+  }).length;
+
+  const texts = posts
+    .map(post => (post.record?.text || '')
+      .toLowerCase()
+      .replace(/https?:\/\/\S+/g, '')
+      .replace(/\s+/g, ' ')
+      .trim())
+    .filter(Boolean);
+
+  const duplicateRatio = texts.length
+    ? 1 - (new Set(texts).size / texts.length)
+    : 0;
+
+  const authors = posts
+    .map(post => post.author?.did || post.author?.handle)
+    .filter(Boolean);
+
+  const authorCounts = {};
+  authors.forEach(author => {
+    authorCounts[author] = (authorCounts[author] || 0) + 1;
+  });
+
+  const topAuthorShare = authors.length
+    ? Math.max(0, ...Object.values(authorCounts)) / authors.length
+    : 0;
+
+  const times = posts
+    .map(post => new Date(post.record?.createdAt || post.indexedAt).getTime())
+    .filter(Number.isFinite)
+    .sort((a, b) => a - b);
+
+  let closePairs = 0;
+  for (let i = 1; i < times.length; i++) {
+    if (times[i] - times[i - 1] <= 10000) closePairs++;
+  }
+
+  const syncRatio = times.length > 1
+    ? closePairs / (times.length - 1)
+    : 0;
+
+  const score = Math.round(Math.min(
+    100,
+    duplicateRatio * 45 +
+    Math.max(0, topAuthorShare - 0.2) * 55 +
+    syncRatio * 25
+  ));
+
+  return {
+    recent15,
+    duplicateRatio,
+    topAuthorShare,
+    syncRatio,
+    score,
+    total: posts.length
+  };
+}
+
+function renderAnalysis(tag, metrics) {
+  const previous = watchSnapshots[tag];
+
+  let growthText = 'لا توجد مقارنة سابقة بعد. حلّل الهاشتاق مرة أخرى لاحقًا لعرض التغير.';
+
+  if (previous && Number.isFinite(previous.recent15) && previous.timestamp) {
+    const elapsed = Date.now() - previous.timestamp;
+
+    if (elapsed >= 60 * 1000) {
+      if (previous.recent15 === 0 && metrics.recent15 > 0) {
+        growthText = 'ظهر نشاط جديد مقارنة بالرصد السابق (كانت القيمة السابقة صفرًا).';
+      } else if (previous.recent15 > 0) {
+        const change = Math.round(
+          ((metrics.recent15 - previous.recent15) / previous.recent15) * 100
+        );
+
+        growthText = (change > 0 ? 'زيادة ' : change < 0 ? 'انخفاض ' : 'لا تغيير ')
+          + Math.abs(change) + '% مقارنة بالرصد السابق.';
+      } else {
+        growthText = 'لم يظهر نشاط ضمن آخر 15 دقيقة في الرصدين.';
+      }
+    } else {
+      growthText = 'أعد التحليل بعد دقيقة على الأقل لاحتساب التغير.';
+    }
+  }
+
+  const level = metrics.score >= 65
+    ? 'اشتباه مرتفع'
+    : metrics.score >= 35
+      ? 'اشتباه متوسط'
+      : 'اشتباه منخفض';
+
+  const analysis =
+    `نتائج العينة: ${metrics.total} منشورًا. ` +
+    `ضمن آخر 15 دقيقة: ${metrics.recent15}. ` +
+    `${growthText} درجة الاشتباه التقريبية: ${metrics.score}% (${level}). ` +
+    `تكرار النصوص: ${Math.round(metrics.duplicateRatio * 100)}%؛ ` +
+    `أعلى حصة لحساب واحد: ${Math.round(metrics.topAuthorShare * 100)}%.`;
+
+  watchSnapshots[tag] = {
+    timestamp: Date.now(),
+    recent15: metrics.recent15,
+    analysis
+  };
+
+  saveWatchState();
+  return analysis;
+}
+
+async function analyzeTag(tag, resultEl) {
+  resultEl.textContent = 'جارٍ تحليل أحدث النتائج...';
+  watchStatus.textContent = 'جارٍ البحث عن: ' + tag;
+
+  try {
+    const posts = await getWatchPosts(tag);
+    const metrics = analyzePostSignals(posts);
+    resultEl.textContent = renderAnalysis(tag, metrics);
+    watchStatus.textContent = 'اكتمل التحليل: ' + tag;
+  } catch (error) {
+    resultEl.textContent = error.message || 'تعذر تحليل الهاشتاق.';
+    watchStatus.textContent = 'تعذر إكمال التحليل.';
+  }
+}
+
+analyzeAllButton.addEventListener('click', async () => {
+  analyzeAllButton.disabled = true;
+
+  try {
+    for (const item of watchedTags) {
+      if (item.paused) continue;
+
+      const resultEl = document.getElementById(
+        'watch-result-' + encodeURIComponent(item.tag)
+      );
+
+      if (resultEl) await analyzeTag(item.tag, resultEl);
+    }
+  } finally {
+    analyzeAllButton.disabled = false;
+  }
+});
+
+document.getElementById('exportWatch').addEventListener('click', () => {
+  const rows = [[
+    'الكلمة',
+    'آخر رصد',
+    'منشورات آخر 15 دقيقة',
+    'درجة الاشتباه',
+    'ملخص التحليل'
+  ]];
+
+  watchedTags.forEach(item => {
+    const snap = watchSnapshots[item.tag] || {};
+    const scoreMatch = String(snap.analysis || '')
+      .match(/درجة الاشتباه التقريبية: (\d+)%/);
+
+    rows.push([
+      item.tag,
+      snap.timestamp ? new Date(snap.timestamp).toLocaleString('ar-SA') : '',
+      snap.recent15 ?? '',
+      scoreMatch ? scoreMatch[1] + '%' : '',
+      snap.analysis || 'لم يتم التحليل بعد'
+    ]);
+  });
+
+  const csv = '\uFEFF' + rows.map(row =>
+    row.map(value => '"' + String(value).replace(/"/g, '""') + '"').join(',')
+  ).join('\r\n');
+
+  const blob = new Blob([csv], {type:'text/csv;charset=utf-8;'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+
+  a.href = url;
+  a.download = 'moraqib-watchlist.csv';
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  URL.revokeObjectURL(url);
+});
+
+function configureAutoWatch() {
+  if (autoWatchTimer) {
+    clearInterval(autoWatchTimer);
+    autoWatchTimer = null;
+  }
+
+  if (document.getElementById('autoWatch').checked) {
+    autoWatchTimer = setInterval(async () => {
+      if (document.hidden) return;
+
+      for (const item of watchedTags) {
+        if (item.paused) continue;
+
+        const resultEl = document.getElementById(
+          'watch-result-' + encodeURIComponent(item.tag)
+        );
+
+        if (resultEl) await analyzeTag(item.tag, resultEl);
+      }
+    }, 5 * 60 * 1000);
+
+    watchStatus.textContent = 'التحديث التلقائي مفعّل كل 5 دقائق ما دامت الصفحة مفتوحة.';
+  } else {
+    watchStatus.textContent = 'التحديث التلقائي متوقف.';
+  }
+}
+
+document.getElementById('autoWatch').addEventListener('change', configureAutoWatch);
+
+renderWatchList();
 loadTopics();
 </script>
 </body>
