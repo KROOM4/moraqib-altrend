@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T09:49:58.489014+00:00",
+  "updated_at": "2026-10-16T10:51:09.351580+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,40 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "nca",
+          "created_at": "Fri, 16 Oct 2026 03:30:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حسام حسن",
+          "created_at": "Fri, 16 Oct 2026 03:10:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "एअर इंडिया",
+          "created_at": "Fri, 16 Oct 2026 03:10:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "يحيى السنوار",
           "created_at": "Fri, 16 Oct 2026 02:40:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مصرف",
+          "created_at": "Fri, 16 Oct 2026 02:20:00 -0700",
           "metrics": {
             "search_volume": ""
           }
@@ -24,7 +56,7 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الجمعه",
+          "text": "سعر الريال السعودي مقابل الجنيه المصري",
           "created_at": "Fri, 16 Oct 2026 01:40:00 -0700",
           "metrics": {
             "search_volume": ""
@@ -32,7 +64,7 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الريال السعودي مقابل الجنيه المصري",
+          "text": "الجمعه",
           "created_at": "Fri, 16 Oct 2026 01:40:00 -0700",
           "metrics": {
             "search_volume": ""
@@ -48,40 +80,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gta 6",
-          "created_at": "Fri, 16 Oct 2026 00:50:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "باراك أوباما",
-          "created_at": "Fri, 16 Oct 2026 00:30:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سندات الخزينة الأميركية",
-          "created_at": "Fri, 16 Oct 2026 00:20:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محيط",
-          "created_at": "Fri, 16 Oct 2026 00:10:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "flight cancellation and delay",
-          "created_at": "Fri, 16 Oct 2026 00:10:00 -0700",
+          "text": "دعم",
+          "created_at": "Fri, 16 Oct 2026 00:40:00 -0700",
           "metrics": {
             "search_volume": ""
           }
