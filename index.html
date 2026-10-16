@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
@@ -6,298 +5,391 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>مرصد | مراقبة الترندات</title>
 <style>
-:root{
- --bg:#080d18;--panel:#111b2b;--line:#26364d;
- --text:#edf3ff;--muted:#9aa9c0;
- --green:#6ee7c1;--yellow:#ffc66d;--red:#ff7f8b;
+:root {
+  --bg:#080d18;
+  --panel:#111b2b;
+  --line:#26364d;
+  --text:#edf3ff;
+  --muted:#9aa9c0;
+  --cyan:#52e0cf;
 }
-*{box-sizing:border-box}
-body{
- margin:0;background:var(--bg);color:var(--text);
- font-family:Tahoma,Arial,sans-serif;min-height:100vh;
+* { box-sizing:border-box; }
+body {
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  font-family:Tahoma,Arial,sans-serif;
 }
-.wrap{max-width:1150px;margin:auto;padding:25px 16px}
-header{
- display:flex;justify-content:space-between;align-items:center;
- flex-wrap:wrap;gap:15px;margin-bottom:25px
+header {
+  padding:28px 5%;
+  border-bottom:1px solid var(--line);
+  background:linear-gradient(120deg,#142b43,#080d18);
 }
-h1{font-size:32px;margin:0}
-h1 span{color:var(--green)}
-.sub{color:var(--muted);margin-top:8px;font-size:14px}
-.status{padding:10px 14px;border:1px solid var(--line);
- border-radius:20px;font-size:13px;color:var(--yellow)}
-.metrics{
- display:grid;grid-template-columns:repeat(4,minmax(0,1fr));
- gap:12px;margin-bottom:18px
+h1 { margin:0 0 10px; font-size:30px; }
+p { color:var(--muted); line-height:1.9; }
+main { max-width:1150px; margin:25px auto; padding:0 16px; }
+.hero,.panel,.metric {
+  background:var(--panel);
+  border:1px solid var(--line);
+  border-radius:18px;
+  padding:22px;
+  margin-bottom:16px;
 }
-.metric,.card{
- background:var(--panel);border:1px solid var(--line);
- border-radius:16px;padding:18px
+.hero { border-right:4px solid var(--cyan); }
+button {
+  background:var(--cyan);
+  color:#07131c;
+  border:0;
+  border-radius:10px;
+  padding:12px 18px;
+  font-weight:bold;
+  cursor:pointer;
+  font-size:14px;
 }
-.metric small{color:var(--muted)}
-.metric strong{display:block;font-size:27px;margin:12px 0 7px}
-.layout{display:grid;grid-template-columns:1.4fr 1fr;gap:16px}
-.card{margin-bottom:16px;min-width:0}
-.heading{display:flex;justify-content:space-between;
- align-items:center;gap:10px;margin-bottom:14px}
-h2,h3{font-size:18px;margin:0}
-.pill{font-size:12px;border:1px solid var(--line);
- border-radius:20px;padding:6px 9px;color:var(--muted)}
-.muted{font-size:13px;color:var(--muted);line-height:1.9}
-.list{display:grid;gap:10px;margin-top:14px}
-.item{padding:14px;border:1px solid var(--line);
- border-radius:12px;background:#0b1321;overflow-wrap:anywhere}
-.item-title{font-weight:bold;line-height:1.8}
-.meta{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px;
- color:var(--muted);font-size:12px}
-.tag{background:#1b2a40;padding:5px 8px;border-radius:7px}
-a{color:var(--green);text-decoration:none}
-a:hover{text-decoration:underline}
-.bar{height:5px;background:#26364d;border-radius:8px;
- overflow:hidden;margin-top:12px}
-.bar span{display:block;height:100%;background:var(--green)}
-.warning{border-color:#59462a}
-.warning .item{border-color:#59462a}
-.empty{padding:22px;text-align:center;color:var(--muted);
- border:1px dashed var(--line);border-radius:12px;line-height:1.9}
-button{background:#1b2d44;color:var(--text);
- border:1px solid #354b68;border-radius:9px;padding:10px 14px;
- cursor:pointer;font:inherit}
-button:hover{background:#263e5b}
-footer{text-align:center;color:var(--muted);font-size:12px;
- line-height:1.9;margin-top:20px}
-@media(max-width:800px){
- .metrics{grid-template-columns:repeat(2,minmax(0,1fr))}
- .layout{grid-template-columns:1fr}
+button:disabled { opacity:.6; cursor:wait; }
+.metrics {
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:14px;
 }
-@media(max-width:400px){
- .wrap{padding:16px 10px}
- .metric{padding:13px}
- .metric strong{font-size:22px}
- h1{font-size:27px}
+.metric strong {
+  display:block;
+  font-size:30px;
+  margin-top:12px;
+}
+.metric span { color:var(--muted); font-size:13px; }
+.panel h2 { font-size:19px; margin-top:0; }
+input {
+  width:100%;
+  padding:12px;
+  margin:8px 0 14px;
+  border-radius:10px;
+  border:1px solid var(--line);
+  background:#080d18;
+  color:var(--text);
+  font-size:15px;
+}
+.trend {
+  padding:15px 4px;
+  border-bottom:1px solid var(--line);
+  line-height:1.8;
+  overflow-wrap:anywhere;
+}
+.trend:last-child { border-bottom:0; }
+.rank { color:var(--cyan); font-weight:bold; margin-left:9px; }
+.small { font-size:12px; color:var(--muted); }
+.notice {
+  border:1px solid #66502d;
+  background:#211d18;
+  padding:14px;
+  border-radius:12px;
+  color:#e8d2a6;
+  font-size:13px;
+  line-height:1.9;
+}
+a { color:var(--cyan); }
+#bskyResults a { display:inline-block; margin-top:8px; }
+footer {
+  text-align:center;
+  padding:25px;
+  color:var(--muted);
+  font-size:12px;
+}
+@media(max-width:500px) {
+  h1 { font-size:24px; }
+  .hero,.panel,.metric { padding:16px; }
 }
 </style>
 </head>
 <body>
-<main class="wrap">
+
 <header>
- <div>
-  <h1>مرصد <span>.</span></h1>
-  <div class="sub">مراقبة الترندات وتحليل حركة البحث</div>
- </div>
- <div class="status" id="status">جارٍ تحميل البيانات...</div>
+  <h1>مَرْصَد <span style="color:#52e0cf">/</span></h1>
+  <div>منصة مراقبة الترندات والنشاط الرقمي</div>
+  <p>متابعة المواضيع الرائجة في السعودية من مصادر البيانات العامة.</p>
 </header>
 
-<section class="metrics">
- <div class="metric">
-  <small>الترندات المرصودة</small>
-  <strong id="total">—</strong>
-  <small>عدد العناصر المحمّلة</small>
- </div>
- <div class="metric">
-  <small>ارتفاعات تستحق المراجعة</small>
-  <strong id="alerts">—</strong>
-  <small>وفق البيانات المتاحة</small>
- </div>
- <div class="metric">
-  <small>أكبر ارتفاع مسجل</small>
-  <strong id="highest">—</strong>
-  <small>لا يُحسب دون بيانات مقارنة</small>
- </div>
- <div class="metric">
-  <small>آخر تحديث</small>
-  <strong id="updated" style="font-size:17px">—</strong>
-  <small>وقت تحديث ملف البيانات</small>
- </div>
-</section>
-
-<div class="layout">
- <section class="card">
-  <div class="heading">
-   <h2>📈 الترندات المرصودة</h2>
-   <span class="pill" id="source">Google Trends</span>
-  </div>
-  <p class="muted">
-   تعرض هذه القائمة الترندات التي وصلت من مصدر البيانات.
-   قد تختلف النتائج حسب وقت التحديث والمنطقة.
-  </p>
-  <div id="trends" class="list">
-   <div class="empty">جارٍ جلب الترندات...</div>
-  </div>
- </section>
-
- <aside>
-  <section class="card warning">
-   <div class="heading">
-    <h3>🛡️ الترندات المشبوهة</h3>
-    <span class="pill" id="alertPill">0</span>
-   </div>
-   <p class="muted">
-    الارتفاع المفاجئ قد يستحق المراجعة، لكنه لا يثبت وجود
-    بوتات أو تلاعب.
-   </p>
-   <div id="suspicious" class="list">
-    <div class="empty">بانتظار البيانات...</div>
-   </div>
+<main>
+  <section class="hero">
+    <h2>لوحة مراقبة السعودية</h2>
+    <p>تابع المواضيع الرائجة وابحث في المنشورات العامة.</p>
+    <button id="refresh">تحديث البيانات ↻</button>
+    <p id="status" class="small">جارٍ تحميل البيانات...</p>
   </section>
 
-  <section class="card">
-   <div class="heading"><h3>📊 نسبة الارتفاع</h3></div>
-   <div id="growthInfo" class="muted">
-    لا توجد بيانات مقارنة كافية حتى الآن.
-   </div>
-   <p class="muted">
-    تُحسب النسبة من القيمة السابقة والحالية لنفس المؤشر،
-    وليس من حجم البحث التقريبي وحده.
-   </p>
-   <button id="reload">تحديث البيانات</button>
+  <section class="metrics">
+    <div class="metric">
+      <span>المواضيع المعروضة</span>
+      <strong id="count">—</strong>
+    </div>
+    <div class="metric">
+      <span>مصدر الترند</span>
+      <strong style="font-size:22px">Google Trends</strong>
+    </div>
   </section>
- </aside>
-</div>
 
-<footer>
- مرصد — لا تُعرض النسب غير المتوفرة على أنها بيانات حقيقية.
- Google Trends لا يكشف هوية الباحثين ولا يثبت وحده وجود بوتات.
-</footer>
+  <section class="panel">
+    <h2>المواضيع الرائجة في السعودية</h2>
+    <input id="search" type="search" placeholder="ابحث عن موضوع...">
+    <div id="trends">جارٍ تحميل المواضيع...</div>
+  </section>
+
+  <section class="panel">
+    <h2>مصادر المراقبة</h2>
+    <p>🟢 Google Trends — مواضيع البحث الرائجة.</p>
+    <p>🟢 Bluesky — البحث في المنشورات العامة.</p>
+    <div class="notice">
+      Google Trends يعرض اهتمام البحث، وليس عدد منشورات التواصل.
+      نتائج Bluesky تعتمد على ما تتيحه واجهة البحث العامة.
+    </div>
+  </section>
+
+  <section class="panel">
+    <h2>مراقبة منشورات Bluesky</h2>
+    <p>اكتب كلمة أو موضوعًا للبحث في المنشورات العامة.</p>
+    <form id="bskyForm">
+      <input id="bskyQuery" type="search"
+        placeholder="مثال: السعودية أو التقنية"
+        autocomplete="off" required>
+      <button id="bskySearch" type="submit">بحث في المنشورات</button>
+    </form>
+    <p id="bskyStatus" class="small" aria-live="polite">
+      أدخل كلمة للبحث.
+    </p>
+    <div id="bskyResults"></div>
+  </section>
 </main>
 
+<footer>مرصد · قد تتأخر البيانات حسب وقت تحديث المصدر</footer>
+
 <script>
-const DATA_URL = "./data/x-trends.json";
-const $ = id => document.getElementById(id);
+const dataFile = 'data/x-trends.json';
+let topics = [];
 
-function safe(value){
- return String(value ?? "").replace(/[&<>"']/g, c => ({
-  "&":"&amp;","<":"&lt;",">":"&gt;",
-  '"':"&quot;","'":"&#39;"
- }[c]));
+function formatDate(value) {
+  if (!value) return 'وقت الرصد غير متوفر';
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return 'وقت الرصد غير متوفر';
+  return date.toLocaleString('ar-SA');
 }
 
-function dateText(value){
- if(!value) return "غير متوفر";
- const d = new Date(value);
- if(Number.isNaN(d.getTime())) return safe(value);
- return d.toLocaleString("ar-SA",{
-  dateStyle:"short",timeStyle:"short"
- });
-}
+function renderTopics() {
+  const query = document.getElementById('search').value
+    .trim().toLowerCase();
 
-function growth(item){
- const current = Number(item.current_value);
- const previous = Number(item.previous_value);
+  const shown = topics.filter(topic =>
+    topic.name.toLowerCase().includes(query)
+  );
 
- if(item.current_value == null ||
-    item.previous_value == null ||
-    !Number.isFinite(current) ||
-    !Number.isFinite(previous) ||
-    previous <= 0) return null;
+  document.getElementById('count').textContent = topics.length;
+  const container = document.getElementById('trends');
+  container.replaceChildren();
 
- return ((current-previous)/previous)*100;
-}
+  if (!shown.length) {
+    container.textContent = topics.length
+      ? 'لا توجد مواضيع مطابقة لبحثك.'
+      : 'لا توجد مواضيع في ملف البيانات.';
+    return;
+  }
 
-function trafficText(item){
- return item.traffic || item.search_volume || "غير متوفر";
-}
+  shown.forEach((topic, index) => {
+    const row = document.createElement('div');
+    row.className = 'trend';
 
-function render(data){
- const items = Array.isArray(data.trends) ? data.trends : [];
- const alerts = [];
+    const rank = document.createElement('span');
+    rank.className = 'rank';
+    rank.textContent = '#' + (index + 1);
 
- items.forEach(item=>{
-  const rate = growth(item);
-  if(rate !== null && rate >= 100) alerts.push({item,rate});
-  else if(item.review_reason) alerts.push({
-   item,rate,reason:item.review_reason
+    const name = document.createElement('strong');
+    name.textContent = topic.name;
+
+    const date = document.createElement('div');
+    date.className = 'small';
+    date.textContent = formatDate(topic.date);
+
+    row.append(rank, name, date);
+    container.appendChild(row);
   });
- });
-
- $("total").textContent = items.length;
- $("alerts").textContent = alerts.length;
- $("updated").textContent = dateText(data.updated_at);
- $("source").textContent = data.source || "مصدر البيانات";
- $("status").textContent = items.length
-  ? "● البيانات محمّلة" : "● لا توجد ترندات";
- $("status").style.color = items.length
-  ? "var(--green)" : "var(--yellow)";
-
- const validRates = items.map(growth).filter(x=>x!==null);
- $("highest").textContent = validRates.length
-  ? Math.max(...validRates).toFixed(1)+"%"
-  : "غير متوفر";
-
- $("trends").innerHTML = items.length ? items.map((item,i)=>{
-  const rate = growth(item);
-  const title = item.title || item.query || "ترند بدون عنوان";
-  return `<article class="item">
-   <div class="item-title">${i+1}. ${safe(title)}</div>
-   <div class="meta">
-    <span class="tag">حجم البحث: ${safe(trafficText(item))}</span>
-    <span class="tag">الارتفاع:
-     ${rate===null?"غير متوفر":(rate>0?"+":"")+rate.toFixed(1)+"%"}
-    </span>
-   </div>
-   ${rate!==null?`<div class="bar"><span style="width:${Math.max(0,Math.min(100,rate))}%"></span></div>`:""}
-   <div class="meta">
-    <span>آخر رصد: ${safe(dateText(item.pub_date || item.date))}</span>
-    ${item.link?`<a href="${safe(item.link)}" target="_blank" rel="noopener noreferrer">عرض المصدر ↗</a>`:""}
-   </div>
-  </article>`;
- }).join("") : `<div class="empty">
-  ملف البيانات موجود لكنه لا يحتوي على ترندات.
-  شغّل GitHub Actions للتحقق من التحديث.
- </div>`;
-
- $("alertPill").textContent = alerts.length;
- $("suspicious").innerHTML = alerts.length ? alerts.map(a=>{
-  const title = a.item.title || a.item.query || "ترند";
-  let reason = a.reason || "ارتفاع يتجاوز 100% مقارنة بالقيمة السابقة المسجلة.";
-  return `<article class="item">
-   <div class="item-title">${safe(title)}</div>
-   <p class="muted">${safe(reason)}</p>
-   <div class="meta">نسبة الارتفاع:
-    ${a.rate===null?"غير متوفرة":a.rate.toFixed(1)+"%"}
-   </div>
-  </article>`;
- }).join("") : `<div class="empty">
-  لا توجد مؤشرات مراجعة وفق البيانات المتوفرة حاليًا.
- </div>`;
-
- $("growthInfo").textContent = validRates.length
-  ? "تم حساب النسب للعناصر التي تتوفر لها قيم حالية وسابقة قابلة للمقارنة."
-  : "لا توجد قيم حالية وسابقة كافية لحساب نسبة ارتفاع حقيقية. لن نخترع نسبة.";
 }
 
-async function loadData(){
- $("status").textContent = "جارٍ تحميل البيانات...";
- $("trends").innerHTML = '<div class="empty">جارٍ الاتصال بملف البيانات...</div>';
+async function loadTopics() {
+  const button = document.getElementById('refresh');
+  const status = document.getElementById('status');
+  button.disabled = true;
+  status.textContent = 'جارٍ تحميل أحدث ملف بيانات...';
 
- try{
-  const response = await fetch(DATA_URL+"?t="+Date.now(),{
-   cache:"no-store"
-  });
-  if(!response.ok) throw new Error("HTTP "+response.status);
-  const data = await response.json();
-  if(!data || !Array.isArray(data.trends))
-   throw new Error("Invalid data format");
-  render(data);
- }catch(error){
-  $("status").textContent = "● تعذر تحميل البيانات";
-  $("status").style.color = "var(--yellow)";
-  $("trends").innerHTML = `<div class="empty">
-   تعذر تحميل ملف data/x-trends.json.<br>
-   تأكد من وجود الملف ونجاح آخر تشغيل في GitHub Actions.
-  </div>`;
-  $("suspicious").innerHTML = `<div class="empty">
-   لا يمكن تحليل الترندات قبل وصول البيانات.
-  </div>`;
-  $("total").textContent = "—";
-  $("alerts").textContent = "—";
-  $("highest").textContent = "—";
-  $("updated").textContent = "—";
- }
+  try {
+    const response = await fetch(dataFile + '?t=' + Date.now(), {
+      cache: 'no-store'
+    });
+    if (!response.ok) throw new Error('HTTP ' + response.status);
+
+    const data = await response.json();
+    topics = [];
+
+    if (Array.isArray(data.results)) {
+      data.results.forEach(group => {
+        (Array.isArray(group.posts) ? group.posts : []).forEach(item => {
+          const name = String(item.text || item.title || '').trim();
+          if (name && !topics.some(topic => topic.name === name)) {
+            topics.push({ name, date: item.created_at || '' });
+          }
+        });
+      });
+    }
+
+    if (!topics.length && Array.isArray(data.trends)) {
+      data.trends.forEach(item => {
+        const name = String(
+          item.name || item.hashtag || item.topic || ''
+        ).trim();
+        if (name) topics.push({name, date:item.created_at || ''});
+      });
+    }
+
+    status.textContent = 'المصدر: ' + (data.source || 'ملف البيانات')
+      + ' · آخر تحديث: ' + formatDate(data.updated_at);
+    renderTopics();
+  } catch (error) {
+    status.textContent =
+      'تعذر تحميل بيانات Google Trends. تحقق من GitHub Pages.';
+  } finally {
+    button.disabled = false;
+  }
 }
 
-$("reload").addEventListener("click",loadData);
-loadData();
+document.getElementById('refresh')
+  .addEventListener('click', loadTopics);
+document.getElementById('search')
+  .addEventListener('input', renderTopics);
+
+const bskyForm = document.getElementById('bskyForm');
+const bskyButton = document.getElementById('bskySearch');
+const bskyInput = document.getElementById('bskyQuery');
+const bskyStatus = document.getElementById('bskyStatus');
+const bskyResults = document.getElementById('bskyResults');
+let moraqibPassword = sessionStorage.getItem('moraqibPassword') || '';
+bskyForm.addEventListener('submit', async event => {
+  event.preventDefault();
+
+  const query = bskyInput.value.trim();
+  bskyResults.replaceChildren();
+
+  if (!query) {
+    bskyStatus.textContent = 'اكتب كلمة للبحث أولًا.';
+    return;
+  }
+if (!moraqibPassword) {
+  const enteredPassword = prompt('أدخل كلمة مرور مرصد الترند:');
+
+  if (!enteredPassword) {
+    bskyStatus.textContent = 'يلزم إدخال كلمة المرور.';
+    return;
+  }
+
+  moraqibPassword = enteredPassword;
+  sessionStorage.setItem('moraqibPassword', moraqibPassword);
+}
+  const fallback = document.createElement('a');
+  fallback.href = 'https://bsky.app/search?q=' + encodeURIComponent(query);
+  fallback.target = '_blank';
+  fallback.rel = 'noopener noreferrer';
+  fallback.textContent = 'افتح البحث مباشرة في Bluesky';
+
+  bskyButton.disabled = true;
+  bskyStatus.textContent = 'جارٍ البحث في المنشورات العامة...';
+
+  try {
+const url = 'https://nameless-morning-bcf1.krom47k.workers.dev/'
+  + '?q=' + encodeURIComponent(query);
+
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 15000);
+
+    let response;
+    try {
+response = await fetch(url, {
+  method: 'GET',
+  headers: {
+    'Accept': 'application/json',
+    'Authorization': 'Bearer ' + moraqibPassword
+  },
+  signal: controller.signal
+});
+    } finally {
+      clearTimeout(timeout);
+    }
+
+    if (!response.ok) {
+      throw new Error('HTTP ' + response.status);
+    }
+
+    const data = await response.json();
+
+    if (!Array.isArray(data.posts)) {
+      throw new Error('استجابة غير متوقعة من الخدمة');
+    }
+
+    if (data.posts.length === 0) {
+      bskyStatus.textContent = 'لم تظهر نتائج لهذه الكلمة.';
+      return;
+    }
+
+    bskyStatus.textContent = 'عدد النتائج المعروضة: ' + data.posts.length;
+
+    data.posts.forEach(post => {
+      const row = document.createElement('div');
+      row.className = 'trend';
+
+      const author = document.createElement('strong');
+      author.textContent = '@' + (post.author?.handle || 'حساب غير معروف');
+
+      const content = document.createElement('p');
+      content.textContent = post.record?.text || 'منشور بدون نص';
+
+      const date = document.createElement('div');
+      date.className = 'small';
+      date.textContent = formatDate(post.record?.createdAt || post.indexedAt);
+
+      const link = document.createElement('a');
+      link.textContent = 'عرض المنشور';
+      const handle = post.author?.handle;
+      const postId = post.uri?.split('/').pop();
+
+      if (handle && postId) {
+        link.href = 'https://bsky.app/profile/'
+          + encodeURIComponent(handle) + '/post/'
+          + encodeURIComponent(postId);
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+      } else {
+        link.href = 'https://bsky.app/search?q=' + encodeURIComponent(query);
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+      }
+
+      row.append(author, content, date, link);
+      bskyResults.appendChild(row);
+    });
+
+  } catch (error) {
+    if (error.name === 'AbortError') {
+      bskyStatus.textContent = 'انتهت مهلة الاتصال. جرّب مرة أخرى.';
+    } else if (error.message.startsWith('HTTP ')) {
+      bskyStatus.textContent = 'خدمة البحث أعادت الخطأ ' + error.message + '.';
+    } else {
+      bskyStatus.textContent =
+        'تعذر الاتصال بخدمة البحث. قد تكون المشكلة في الشبكة أو الخدمة.';
+    }
+
+    bskyResults.appendChild(fallback);
+
+  } finally {
+    bskyButton.disabled = false;
+  }
+});
+
+loadTopics();
 </script>
 </body>
 </html>
