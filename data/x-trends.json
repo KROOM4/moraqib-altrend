@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T19:44:41.857575+00:00",
+  "updated_at": "2026-10-16T20:07:30.639273+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,10 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عدن",
-          "created_at": "Fri, 16 Oct 2026 12:20:00 -0700",
+          "text": "مطار عدن",
+          "created_at": "Fri, 16 Oct 2026 12:40:00 -0700",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
@@ -20,8 +20,8 @@
           "text": "burnley vs wolves",
           "created_at": "Fri, 16 Oct 2026 12:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -30,7 +30,7 @@
           "created_at": "Fri, 16 Oct 2026 12:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +38,8 @@
           "text": "deportivo vs levante",
           "created_at": "Fri, 16 Oct 2026 11:40:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -48,7 +48,7 @@
           "created_at": "Fri, 16 Oct 2026 11:10:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
