@@ -291,7 +291,8 @@ bskyForm.addEventListener('submit', async event => {
   bskyStatus.textContent = 'جارٍ البحث في المنشورات العامة...';
 
   try {
-    const url = 'https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts'
+    // تم تغيير عنوان API إلى العنوان البديل
+    const url = 'https://api.bsky.app/xrpc/app.bsky.feed.searchPosts'
       + '?q=' + encodeURIComponent(query)
       + '&limit=20&sort=latest';
 
