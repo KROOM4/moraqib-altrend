@@ -1,11 +1,51 @@
 {
-  "updated_at": "2026-10-16T15:50:00.934437+00:00",
+  "updated_at": "2026-10-16T16:50:48.223521+00:00",
   "source": "Google Trends",
   "results": [
     {
       "hashtag": "مواضيع رائجة في السعودية",
       "post_count": 10,
       "posts": [
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الزمالك",
+          "created_at": "Fri, 16 Oct 2026 09:20:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مهرب",
+          "created_at": "Fri, 16 Oct 2026 09:10:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "قبول",
+          "created_at": "Fri, 16 Oct 2026 09:10:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أسعار البنزين",
+          "created_at": "Fri, 16 Oct 2026 09:00:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "niki prasad",
+          "created_at": "Fri, 16 Oct 2026 08:40:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "بني ياس ضد الوصل",
@@ -24,7 +64,7 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سي إن إن",
+          "text": "eurofighter typhoon",
           "created_at": "Fri, 16 Oct 2026 08:30:00 -0700",
           "metrics": {
             "search_volume": ""
@@ -40,48 +80,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إيران",
-          "created_at": "Fri, 16 Oct 2026 08:10:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الحرس الوطني",
-          "created_at": "Fri, 16 Oct 2026 07:40:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المغرب",
-          "created_at": "Fri, 16 Oct 2026 07:40:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جائزة أفضل لاعب في آسيا",
-          "created_at": "Fri, 16 Oct 2026 06:50:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bhuvneshwar kumar",
-          "created_at": "Fri, 16 Oct 2026 06:40:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "prize bond",
-          "created_at": "Fri, 16 Oct 2026 06:30:00 -0700",
+          "text": "سي إن إن",
+          "created_at": "Fri, 16 Oct 2026 08:30:00 -0700",
           "metrics": {
             "search_volume": ""
           }
