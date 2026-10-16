@@ -4,433 +4,299 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#07140f">
 <title>مرصد | مراقبة الترندات</title>
 <style>
-:root{--bg:#07140f;--panel:#0d2118;--line:#234735;--green:#19a765;--green2:#35d68a;--gold:#c8a85b;--text:#f1f7f2;--muted:#94ac9d;--red:#ff6969;--yellow:#f5c76b}
+:root{
+ --bg:#080d18;--panel:#111b2b;--line:#26364d;
+ --text:#edf3ff;--muted:#9aa9c0;
+ --green:#6ee7c1;--yellow:#ffc66d;--red:#ff7f8b;
+}
 *{box-sizing:border-box}
-body{margin:0;min-height:100vh;background:radial-gradient(ellipse at 50% -20%,#19442b 0,transparent 52%),var(--bg);color:var(--text);font-family:Tahoma,Arial,sans-serif}
-button,select{font:inherit}button{cursor:pointer}
-.app{max-width:1450px;margin:auto;padding:20px}
-header{display:flex;justify-content:space-between;align-items:center;gap:12px;border-bottom:1px solid var(--line);padding-bottom:20px}
-.brand{display:flex;align-items:center;gap:12px}
-.brand-icon{width:48px;height:48px;display:grid;place-items:center;border:1px solid #32664a;border-radius:14px;color:var(--gold);font-size:27px}
-h1,h2,h3,p{margin-top:0}
-.brand h1{font-size:23px;margin-bottom:5px}.brand p,.muted{color:var(--muted);font-size:12px;margin-bottom:0}
-.header-status{font-size:12px;color:var(--muted);display:flex;align-items:center;gap:8px}
-.dot{width:8px;height:8px;border-radius:50%;background:var(--yellow)}.dot.ok{background:var(--green2)}.dot.bad{background:var(--red)}
-.national{text-align:center;padding:24px 0}
-.emblem{font-size:48px;color:var(--gold);margin-bottom:8px}
-.national h2{font-size:clamp(28px,4vw,40px);margin:0}.national p{color:var(--muted);font-size:13px;margin-top:9px}
-.gold-line{width:75px;height:2px;margin:15px auto;background:var(--gold)}
-.toolbar{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:18px;align-items:center}
-.grow{flex:1}
-select,.btn{border:1px solid var(--line);background:var(--panel);color:var(--text);border-radius:10px;padding:11px 13px}
-.btn:hover{border-color:var(--green2)}.btn.primary{background:#147a48}.btn:disabled{opacity:.6}
-.nav{display:flex;gap:8px;overflow-x:auto;padding-bottom:15px}
-.nav button{white-space:nowrap;padding:10px 14px;border:1px solid var(--line);border-radius:10px;background:transparent;color:var(--muted)}
-.nav button.active{background:#123b28;color:var(--text);border-color:#28794c}
-.section{display:none}.section.active{display:block}
-.section-title{display:flex;justify-content:space-between;align-items:center;gap:10px;margin:14px 0 17px}
-.section-title h2{font-size:19px;margin-bottom:5px}.section-title p{font-size:12px;color:var(--muted);line-height:1.8;margin:0}
-.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:13px}
-.card{min-width:0;background:linear-gradient(145deg,#10271c,#0b1c14);border:1px solid var(--line);border-radius:16px;padding:17px}
-.stat-top,.card-heading{display:flex;justify-content:space-between;align-items:center;gap:8px}
-.stat-label{font-size:12px;color:var(--muted)}.stat-icon{color:var(--green2);font-size:20px}
-.stat-value{font-size:28px;font-weight:bold;margin:18px 0 8px;overflow-wrap:anywhere}
-.stat-note{font-size:11px;color:var(--muted);line-height:1.8}
-.content-grid{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(260px,1fr);gap:14px;margin-top:15px}
-.card-heading{margin-bottom:15px}.card-heading h3{font-size:14px;margin:0}.card-heading span{font-size:11px;color:var(--muted)}
-.pill{display:inline-block;padding:6px 10px;border-radius:20px;background:#123c29;color:#7cebb0;font-size:11px}
-.table-card{margin-top:15px}.table-scroll{overflow-x:auto}
-table{width:100%;border-collapse:collapse;min-width:550px}
-th,td{text-align:right;padding:13px 10px;border-bottom:1px solid #203a2a;font-size:12px}
-th{color:var(--muted);font-weight:normal}td{overflow-wrap:anywhere}
-tbody tr:hover{background:#12271b}
-.empty{padding:23px 12px;text-align:center;color:var(--muted);font-size:12px;line-height:2}
-.alert-list{display:flex;flex-direction:column;gap:9px}
-.alert-item{border:1px solid #34432d;background:#101f18;border-radius:11px;padding:12px}
-.alert-item strong{font-size:13px}.alert-item p{font-size:11px;color:var(--muted);line-height:1.8;margin:7px 0 0}
-.warning-card{border-color:#554522}.warning-intro,.disclaimer{font-size:11px;color:var(--muted);line-height:1.9}
-.disclaimer{border-top:1px solid var(--line);padding-top:12px;margin-top:14px}
-.notice{display:none;padding:13px 15px;margin-bottom:15px;border-radius:11px;font-size:12px;line-height:1.9;overflow-wrap:anywhere}
-.notice.show{display:block}.notice.error{background:#351f21;border:1px solid #633438;color:#ffb4b4}
-.notice.info{background:#142b34;border:1px solid #275263;color:#a4e4fa}
-.notice.success{background:#133324;border:1px solid #245b3c;color:#a5f1c4}
-.history-tools{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
-.footer{text-align:center;color:var(--muted);font-size:11px;padding:28px 10px 12px;line-height:2}
-.footer strong{color:var(--gold)}
-a{color:var(--green2)}
-@media(max-width:900px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.content-grid{grid-template-columns:1fr}}
-@media(max-width:560px){.app{padding:13px}.brand h1{font-size:20px}.header-status{font-size:10px}.grid{gap:8px}.card{padding:12px}.stat-value{font-size:23px}.toolbar select,.toolbar .btn{flex:1}.toolbar .grow{display:none}}
+body{
+ margin:0;background:var(--bg);color:var(--text);
+ font-family:Tahoma,Arial,sans-serif;min-height:100vh;
+}
+.wrap{max-width:1150px;margin:auto;padding:25px 16px}
+header{
+ display:flex;justify-content:space-between;align-items:center;
+ flex-wrap:wrap;gap:15px;margin-bottom:25px
+}
+h1{font-size:32px;margin:0}
+h1 span{color:var(--green)}
+.sub{color:var(--muted);margin-top:8px;font-size:14px}
+.status{padding:10px 14px;border:1px solid var(--line);
+ border-radius:20px;font-size:13px;color:var(--yellow)}
+.metrics{
+ display:grid;grid-template-columns:repeat(4,minmax(0,1fr));
+ gap:12px;margin-bottom:18px
+}
+.metric,.card{
+ background:var(--panel);border:1px solid var(--line);
+ border-radius:16px;padding:18px
+}
+.metric small{color:var(--muted)}
+.metric strong{display:block;font-size:27px;margin:12px 0 7px}
+.layout{display:grid;grid-template-columns:1.4fr 1fr;gap:16px}
+.card{margin-bottom:16px;min-width:0}
+.heading{display:flex;justify-content:space-between;
+ align-items:center;gap:10px;margin-bottom:14px}
+h2,h3{font-size:18px;margin:0}
+.pill{font-size:12px;border:1px solid var(--line);
+ border-radius:20px;padding:6px 9px;color:var(--muted)}
+.muted{font-size:13px;color:var(--muted);line-height:1.9}
+.list{display:grid;gap:10px;margin-top:14px}
+.item{padding:14px;border:1px solid var(--line);
+ border-radius:12px;background:#0b1321;overflow-wrap:anywhere}
+.item-title{font-weight:bold;line-height:1.8}
+.meta{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px;
+ color:var(--muted);font-size:12px}
+.tag{background:#1b2a40;padding:5px 8px;border-radius:7px}
+a{color:var(--green);text-decoration:none}
+a:hover{text-decoration:underline}
+.bar{height:5px;background:#26364d;border-radius:8px;
+ overflow:hidden;margin-top:12px}
+.bar span{display:block;height:100%;background:var(--green)}
+.warning{border-color:#59462a}
+.warning .item{border-color:#59462a}
+.empty{padding:22px;text-align:center;color:var(--muted);
+ border:1px dashed var(--line);border-radius:12px;line-height:1.9}
+button{background:#1b2d44;color:var(--text);
+ border:1px solid #354b68;border-radius:9px;padding:10px 14px;
+ cursor:pointer;font:inherit}
+button:hover{background:#263e5b}
+footer{text-align:center;color:var(--muted);font-size:12px;
+ line-height:1.9;margin-top:20px}
+@media(max-width:800px){
+ .metrics{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .layout{grid-template-columns:1fr}
+}
+@media(max-width:400px){
+ .wrap{padding:16px 10px}
+ .metric{padding:13px}
+ .metric strong{font-size:22px}
+ h1{font-size:27px}
+}
 </style>
 </head>
 <body>
-<div class="app">
+<main class="wrap">
 <header>
-  <div class="brand">
-    <div class="brand-icon">⌖</div>
-    <div><h1>مَرْصَد</h1><p>منصة مراقبة وتحليل اتجاهات البحث</p></div>
-  </div>
-  <div class="header-status"><span class="dot" id="statusDot"></span><span id="connectionStatus">جاري فحص البيانات...</span></div>
+ <div>
+  <h1>مرصد <span>.</span></h1>
+  <div class="sub">مراقبة الترندات وتحليل حركة البحث</div>
+ </div>
+ <div class="status" id="status">جارٍ تحميل البيانات...</div>
 </header>
 
-<div class="national">
-  <div class="emblem">🌴</div>
-  <h2>مَرْصَد</h2>
-  <p>عينٌ على الترندات، وقراءةٌ لاتجاهات الاهتمام</p>
-  <div class="gold-line"></div>
-</div>
+<section class="metrics">
+ <div class="metric">
+  <small>الترندات المرصودة</small>
+  <strong id="total">—</strong>
+  <small>عدد العناصر المحمّلة</small>
+ </div>
+ <div class="metric">
+  <small>ارتفاعات تستحق المراجعة</small>
+  <strong id="alerts">—</strong>
+  <small>وفق البيانات المتاحة</small>
+ </div>
+ <div class="metric">
+  <small>أكبر ارتفاع مسجل</small>
+  <strong id="highest">—</strong>
+  <small>لا يُحسب دون بيانات مقارنة</small>
+ </div>
+ <div class="metric">
+  <small>آخر تحديث</small>
+  <strong id="updated" style="font-size:17px">—</strong>
+  <small>وقت تحديث ملف البيانات</small>
+ </div>
+</section>
 
-<div class="toolbar">
-  <select id="periodSelect" aria-label="فترة المقارنة">
-    <option value="all">جميع القراءات المحفوظة</option>
-    <option value="24">آخر 24 ساعة</option>
-    <option value="168">آخر 7 أيام</option>
-  </select>
-  <div class="grow"></div>
-  <button class="btn" id="refreshBtn">↻ تحديث البيانات</button>
-  <button class="btn primary" id="alertsBtn">🔔 تفعيل التنبيهات</button>
-</div>
-
-<nav class="nav">
-  <button class="active" data-tab="overview">نظرة عامة</button>
-  <button data-tab="trends">الترندات</button>
-  <button data-tab="suspicious">الترندات المشبوهة</button>
-  <button data-tab="history">السجل التاريخي</button>
-</nav>
-
-<div id="notice" class="notice"></div>
-
-<section class="section active" id="overview">
-  <div class="section-title"><div><h2>مركز مراقبة الترندات</h2><p>ملخص الاهتمام واتجاهات البحث المتاحة</p></div><span class="pill">🇸🇦 السعودية</span></div>
-  <div class="grid">
-    <div class="card"><div class="stat-top"><span class="stat-label">الترندات المرصودة</span><span class="stat-icon">◉</span></div><div class="stat-value" id="statTotal">—</div><div class="stat-note">عدد المواضيع المستلمة من المصدر</div></div>
-    <div class="card"><div class="stat-top"><span class="stat-label">ترندات صاعدة</span><span class="stat-icon">↗</span></div><div class="stat-value" id="statUp">—</div><div class="stat-note">بناءً على قراءات رقمية قابلة للمقارنة</div></div>
-    <div class="card"><div class="stat-top"><span class="stat-label">متوسط التغير</span><span class="stat-icon">％</span></div><div class="stat-value" id="statChange">—</div><div class="stat-note">للعناصر ذات القيم الرقمية فقط</div></div>
-    <div class="card"><div class="stat-top"><span class="stat-label">تحتاج مراجعة</span><span class="stat-icon">⚠</span></div><div class="stat-value" id="statSuspicious">—</div><div class="stat-note">قفزات رقمية تستدعي المراجعة</div></div>
+<div class="layout">
+ <section class="card">
+  <div class="heading">
+   <h2>📈 الترندات المرصودة</h2>
+   <span class="pill" id="source">Google Trends</span>
   </div>
-
-  <div class="content-grid">
-    <div class="card"><div class="card-heading"><h3>تغيّر الاهتمام بمرور الوقت</h3><span>قراءات محفوظة</span></div><div id="chartArea" class="empty">سيظهر الرسم عند توفر قراءات رقمية قابلة للمقارنة.</div><div class="disclaimer" id="chartMessage">لا تتوفر حاليًا قيم رقمية كافية للرسم.</div></div>
-    <div class="card warning-card"><div class="card-heading"><h3>🛡️ الترندات المشبوهة</h3><span class="pill" id="suspiciousCountPill">قيد التحليل</span></div><p class="warning-intro">الارتفاع غير المعتاد مؤشر للمراجعة، وليس دليلًا قاطعًا على وجود بوتات.</p><div class="alert-list" id="suspiciousPreview"><div class="empty">بانتظار تحميل البيانات...</div></div><div class="disclaimer">Google Trends لا يكشف هوية الباحثين ولا يثبت وحده وجود تلاعب.</div></div>
+  <p class="muted">
+   تعرض هذه القائمة الترندات التي وصلت من مصدر البيانات.
+   قد تختلف النتائج حسب وقت التحديث والمنطقة.
+  </p>
+  <div id="trends" class="list">
+   <div class="empty">جارٍ جلب الترندات...</div>
   </div>
+ </section>
 
-  <div class="card table-card"><div class="card-heading"><h3>الترندات المتاحة</h3><span>Google Trends</span></div><div class="table-scroll"><table><thead><tr><th>العبارة</th><th>حجم البحث</th><th>التغير</th><th>التصنيف</th></tr></thead><tbody id="topTrends"><tr><td colspan="4" class="empty">جاري تحميل البيانات...</td></tr></tbody></table></div></div>
-</section>
+ <aside>
+  <section class="card warning">
+   <div class="heading">
+    <h3>🛡️ الترندات المشبوهة</h3>
+    <span class="pill" id="alertPill">0</span>
+   </div>
+   <p class="muted">
+    الارتفاع المفاجئ قد يستحق المراجعة، لكنه لا يثبت وجود
+    بوتات أو تلاعب.
+   </p>
+   <div id="suspicious" class="list">
+    <div class="empty">بانتظار البيانات...</div>
+   </div>
+  </section>
 
-<section class="section" id="trends">
-  <div class="section-title"><div><h2>الترندات</h2><p>قراءة القيم الحالية ومقارنتها بالقراءات السابقة المحفوظة</p></div></div>
-  <div class="card"><div class="table-scroll"><table><thead><tr><th>العبارة</th><th>القيمة الحالية</th><th>القيمة السابقة</th><th>نسبة التغير</th><th>الحالة</th></tr></thead><tbody id="allTrends"><tr><td colspan="5" class="empty">جاري تحميل البيانات...</td></tr></tbody></table></div></div>
-</section>
-
-<section class="section" id="suspicious">
-  <div class="section-title"><div><h2>مركز مراجعة الارتفاعات غير المعتادة</h2><p>المؤشرات لا تثبت التلاعب بمفردها</p></div></div>
-  <div class="card"><div id="suspiciousFull" class="alert-list"><div class="empty">جاري تحليل القراءات...</div></div></div>
-</section>
-
-<section class="section" id="history">
-  <div class="section-title"><div><h2>السجل التاريخي</h2><p>القراءات المحفوظة على هذا الجهاز والمتصفح</p></div></div>
-  <div class="history-tools"><button class="btn" id="exportBtn">تصدير السجل JSON</button><button class="btn" id="clearHistoryBtn">مسح السجل المحلي</button></div>
-  <div class="card"><div class="table-scroll"><table><thead><tr><th>وقت القراءة</th><th>عدد الترندات</th><th>متوسط القيمة</th><th>المصدر</th></tr></thead><tbody id="historyTable"><tr><td colspan="4" class="empty">لا توجد قراءات محفوظة بعد.</td></tr></tbody></table></div><p class="disclaimer">السجل محفوظ محليًا في هذا المتصفح فقط.</p></div>
-</section>
-
-<footer class="footer"><strong>مَرْصَد</strong> — بهوية سعودية وتحليل مسؤول للبيانات<br>المصدر: Google Trends عبر ملف بيانات المشروع.<br>آخر تحديث: <span id="lastUpdated">لم يتم التحميل بعد</span></footer>
+  <section class="card">
+   <div class="heading"><h3>📊 نسبة الارتفاع</h3></div>
+   <div id="growthInfo" class="muted">
+    لا توجد بيانات مقارنة كافية حتى الآن.
+   </div>
+   <p class="muted">
+    تُحسب النسبة من القيمة السابقة والحالية لنفس المؤشر،
+    وليس من حجم البحث التقريبي وحده.
+   </p>
+   <button id="reload">تحديث البيانات</button>
+  </section>
+ </aside>
 </div>
+
+<footer>
+ مرصد — لا تُعرض النسب غير المتوفرة على أنها بيانات حقيقية.
+ Google Trends لا يكشف هوية الباحثين ولا يثبت وحده وجود بوتات.
+</footer>
+</main>
 
 <script>
-"use strict";
-
-const DATA_URL = new URL("data/x-trends.json", document.baseURI).href;
-const STORAGE_KEY = "marsad_history_v3";
-const MAX_HISTORY = 300;
-const SPIKE_PERCENT = 80;
-const SPIKE_MIN_BASELINE = 5;
-let currentData = [];
-let currentMeta = {};
-let history = readStorage(STORAGE_KEY, []);
-let loading = false;
-
+const DATA_URL = "./data/x-trends.json";
 const $ = id => document.getElementById(id);
 
-function readStorage(key, fallback) {
-  try {
-    const v = JSON.parse(localStorage.getItem(key) || "null");
-    return v ?? fallback;
-  } catch { return fallback; }
+function safe(value){
+ return String(value ?? "").replace(/[&<>"']/g, c => ({
+  "&":"&amp;","<":"&lt;",">":"&gt;",
+  '"':"&quot;","'":"&#39;"
+ }[c]));
 }
-function writeStorage(key, value) {
-  try { localStorage.setItem(key, JSON.stringify(value)); return true; }
-  catch { return false; }
-}
-function escapeHTML(value) {
-  return String(value ?? "").replace(/[&<>"']/g, c => ({
-    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
-  })[c]);
-}
-function notice(message, type="info") {
-  const n=$("notice"); n.className="notice show "+type; n.textContent=message;
-}
-function setStatus(state, message) {
-  $("statusDot").className="dot "+state;
-  $("connectionStatus").textContent=message;
-}
-function number(n) {
-  return n===null || n===undefined || !Number.isFinite(n) ? "غير متوفر" :
-    new Intl.NumberFormat("ar-SA",{maximumFractionDigits:1}).format(n);
-}
-function percent(n) {
-  return n===null || !Number.isFinite(n) ? "غير متوفر" :
-    (n>0?"+":"")+number(n)+"%";
-}
-function parseNumber(v) {
-  if(typeof v==="number") return Number.isFinite(v)?v:null;
-  if(v===null || v===undefined || v==="") return null;
-  const s=String(v).trim().replace(/,/g,"").replace(/\s/g,"");
-  if(!s) return null;
-  const m=s.match(/^([\d.]+)([KMB])?\+?$/i);
-  if(m) {
-    let n=Number(m[1]), u=(m[2]||"").toUpperCase();
-    if(u==="K") n*=1000;
-    if(u==="M") n*=1000000;
-    if(u==="B") n*=1000000000;
-    return Number.isFinite(n)?n:null;
-  }
-  const n=Number(s);
-  return Number.isFinite(n)?n:null;
-}
-function firstValue(obj, paths) {
-  for(const path of paths) {
-    const v=path.split(".").reduce((a,k)=>a==null?undefined:a[k],obj);
-    if(v!==undefined && v!==null && v!=="") return v;
-  }
-  return null;
-}
-function titleOf(item) {
-  return String(firstValue(item,["text","title","query","keyword","name","hashtag","topic","term","label"])||"").trim();
-}
-function valueOf(item) {
-  return parseNumber(firstValue(item,[
-    "metrics.search_volume","search_volume","approx_traffic","traffic",
-    "interest","value","volume","metrics.value"
-  ]));
-}
-function extractRows(json) {
-  let groups=[];
-  if(Array.isArray(json)) groups=json;
-  else if(Array.isArray(json?.results)) groups=json.results;
-  else if(Array.isArray(json?.trends)) groups=json.trends;
-  else if(Array.isArray(json?.items)) groups=json.items;
-  else if(Array.isArray(json?.data)) groups=json.data;
 
-  const rows=[], seen=new Set();
-  function add(item, groupName="") {
-    if(!item || typeof item!=="object") return;
-    const title=titleOf(item)||groupName;
-    if(!title) return;
-    const key=title.toLocaleLowerCase("ar");
-    if(seen.has(key)) return;
-    seen.add(key);
-    rows.push({
-      title,
-      value:valueOf(item),
-      createdAt:firstValue(item,["created_at","published_at","date","timestamp"]),
-      url:firstValue(item,["url","link"])
-    });
-  }
-  for(const group of groups) {
-    if(Array.isArray(group?.posts)) {
-      for(const post of group.posts) add(post,String(group.hashtag||group.title||""));
-    } else add(group);
-  }
-  return rows;
+function dateText(value){
+ if(!value) return "غير متوفر";
+ const d = new Date(value);
+ if(Number.isNaN(d.getTime())) return safe(value);
+ return d.toLocaleString("ar-SA",{
+  dateStyle:"short",timeStyle:"short"
+ });
 }
-function previousSnapshot() {
-  if(history.length<2) return null;
-  const period=$("periodSelect").value;
-  const cutoff=period==="all"?-Infinity:Date.now()-Number(period)*3600000;
-  const candidates=history.filter(s=>{
-    const t=Date.parse(s.savedAt||"");
-    return Number.isFinite(t)&&t>=cutoff;
-  });
-  return candidates.length>=2?candidates[candidates.length-2]:null;
-}
-function comparisonRows() {
-  const prev=previousSnapshot();
-  return currentData.map(item=>{
-    const old=prev?.trends?.find(t=>t.title===item.title);
-    const previous=old?parseNumber(old.value):null;
-    let change=null;
-    if(item.value!==null && previous!==null && previous!==0)
-      change=((item.value-previous)/Math.abs(previous))*100;
-    return {...item,previous,change};
-  });
-}
-function suspiciousRows(rows) {
-  return rows.filter(r=>r.value!==null && r.previous!==null &&
-    r.previous>=SPIKE_MIN_BASELINE && r.change!==null && r.change>=SPIKE_PERCENT);
-}
-function saveSnapshot() {
-  if(!currentData.length) return;
-  const sourceUpdated=String(currentMeta.updated_at||"");
-  const last=history[history.length-1];
-  if(last && sourceUpdated && last.sourceUpdatedAt===sourceUpdated) return;
-  history.push({
-    savedAt:new Date().toISOString(),
-    sourceUpdatedAt:sourceUpdated,
-    source:currentMeta.source||"Google Trends",
-    count:currentData.length,
-    trends:currentData.map(r=>({title:r.title,value:r.value}))
-  });
-  if(history.length>MAX_HISTORY) history=history.slice(-MAX_HISTORY);
-  writeStorage(STORAGE_KEY,history);
-}
-function classification(r) {
-  if(r.value===null) return "لا تتوفر قيمة رقمية";
-  if(r.change===null) return "بانتظار قراءة للمقارنة";
-  if(r.change>=SPIKE_PERCENT) return "ارتفاع كبير";
-  if(r.change>0) return "صاعد";
-  if(r.change<0) return "هابط";
-  return "مستقر";
-}
-function renderTables(rows) {
-  $("topTrends").innerHTML=rows.length?rows.map(r=>`
-    <tr><td><strong>${escapeHTML(r.title)}</strong></td>
-    <td>${number(r.value)}</td>
-    <td>${r.change===null?'<span class="muted">غير متاح</span>':percent(r.change)}</td>
-    <td>${escapeHTML(classification(r))}</td></tr>`).join("") :
-    '<tr><td colspan="4" class="empty">لم يتم العثور على ترندات في ملف البيانات.</td></tr>';
 
-  $("allTrends").innerHTML=rows.length?rows.map(r=>`
-    <tr><td>${escapeHTML(r.title)}</td><td>${number(r.value)}</td>
-    <td>${number(r.previous)}</td><td>${r.change===null?"غير متوفر":percent(r.change)}</td>
-    <td>${escapeHTML(classification(r))}</td></tr>`).join("") :
-    '<tr><td colspan="5" class="empty">لا توجد بيانات لعرضها.</td></tr>';
+function growth(item){
+ const current = Number(item.current_value);
+ const previous = Number(item.previous_value);
+
+ if(item.current_value == null ||
+    item.previous_value == null ||
+    !Number.isFinite(current) ||
+    !Number.isFinite(previous) ||
+    previous <= 0) return null;
+
+ return ((current-previous)/previous)*100;
 }
-function renderSuspicious(rows) {
-  const suspects=suspiciousRows(rows);
-  $("statSuspicious").textContent=number(suspects.length);
-  $("suspiciousCountPill").textContent=suspects.length?number(suspects.length)+" تحتاج مراجعة":"لا توجد مؤشرات كافية";
-  const html=suspects.length?suspects.map(r=>`
-    <div class="alert-item"><strong>${escapeHTML(r.title)}</strong>
-    <p>التغير المسجل: ${percent(r.change)}. هذه إشارة للمراجعة وليست إثباتًا للتلاعب.</p></div>`).join("") :
-    '<div class="empty">لا توجد قفزات قابلة للتحقق حاليًا، أو لا تتوفر قراءات رقمية سابقة للمقارنة.</div>';
-  $("suspiciousPreview").innerHTML=html;
-  $("suspiciousFull").innerHTML=html;
+
+function trafficText(item){
+ return item.traffic || item.search_volume || "غير متوفر";
 }
-function renderHistory() {
-  $("historyTable").innerHTML=history.length?history.slice().reverse().map(s=>{
-    const vals=(s.trends||[]).map(t=>parseNumber(t.value)).filter(v=>v!==null);
-    const avg=vals.length?vals.reduce((a,b)=>a+b,0)/vals.length:null;
-    return `<tr><td>${escapeHTML(new Date(s.savedAt).toLocaleString("ar-SA"))}</td>
-      <td>${number(s.count)}</td><td>${number(avg)}</td><td>${escapeHTML(s.source||"Google Trends")}</td></tr>`;
-  }).join(""):'<tr><td colspan="4" class="empty">لا توجد قراءات محفوظة بعد.</td></tr>';
-}
-function renderChart() {
-  const area=$("chartArea");
-  const snapshots=history.slice(-12);
-  const values=snapshots.map(s=>{
-    const vals=(s.trends||[]).map(t=>parseNumber(t.value)).filter(v=>v!==null);
-    return vals.length?vals.reduce((a,b)=>a+b,0)/vals.length:null;
-  }).filter(v=>v!==null);
-  if(values.length<2) {
-    area.className="empty";
-    area.textContent="سيظهر الرسم عند توفر قراءتين على الأقل تحتويان على قيم رقمية.";
-    $("chartMessage").textContent="بيانات Google Trends الحالية لا تتضمن حجم بحث رقميًا.";
-    return;
-  }
-  const max=Math.max(...values), min=Math.min(...values), range=max-min||1;
-  const pts=values.map((v,i)=>{
-    const x=15+i*(570/(values.length-1));
-    const y=205-((v-min)/range)*170;
-    return `${x},${y}`;
-  }).join(" ");
-  area.className="";
-  area.innerHTML=`<svg viewBox="0 0 600 230" style="width:100%;height:220px"><polyline points="${pts}" fill="none" stroke="#35d68a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>${values.map((v,i)=>{const x=15+i*(570/(values.length-1));const y=205-((v-min)/range)*170;return `<circle cx="${x}" cy="${y}" r="4" fill="#c8a85b"/>`}).join("")}</svg>`;
-  $("chartMessage").textContent="متوسط القيم الرقمية المتوفرة في القراءات المحفوظة، وليس مقياسًا رسميًا من Google Trends.";
-}
-function render() {
-  const rows=comparisonRows();
-  $("statTotal").textContent=number(currentData.length);
-  $("statUp").textContent=number(rows.filter(r=>r.change!==null&&r.change>0).length);
-  const changes=rows.map(r=>r.change).filter(v=>v!==null);
-  $("statChange").textContent=changes.length?percent(changes.reduce((a,b)=>a+b,0)/changes.length):"—";
-  renderTables(rows);
-  renderSuspicious(rows);
-  renderHistory();
-  renderChart();
-  $("lastUpdated").textContent=currentMeta.updated_at?
-    new Date(currentMeta.updated_at).toLocaleString("ar-SA"):"غير محدد من المصدر";
-}
-async function loadData() {
-  if(loading) return;
-  loading=true;
-  $("refreshBtn").disabled=true;
-  setStatus("","جاري تحميل البيانات...");
-  try {
-    const url=DATA_URL+(DATA_URL.includes("?")?"&":"?")+"_="+Date.now();
-    const response=await fetch(url,{cache:"no-store"});
-    if(!response.ok) throw new Error("تعذر فتح ملف البيانات (HTTP "+response.status+").");
-    const json=await response.json();
-    const rows=extractRows(json);
-    if(!rows.length) throw new Error("تم فتح الملف، لكن لم أجد ترندات داخله. تحقق من بنية ملف JSON.");
-    currentData=rows;
-    currentMeta={
-      updated_at:json?.updated_at||json?.last_updated||json?.meta?.updated_at||"",
-      source:json?.source||json?.meta?.source||"Google Trends"
-    };
-    saveSnapshot();
-    render();
-    setStatus("ok","تم تحميل "+rows.length+" ترندات");
-    notice("تم تحميل "+rows.length+" موضوعًا من "+currentMeta.source+". إذا لم يوفر المصدر أرقامًا، ستظهر نسب النمو كغير متاحة.", "success");
-  } catch(err) {
-    setStatus("bad","تعذر تحميل البيانات");
-    notice("تعذر تحميل الترندات: "+err.message+" — تأكد أن ملف data/x-trends.json موجود بجانب index.html داخل المستودع.", "error");
-    $("topTrends").innerHTML='<tr><td colspan="4" class="empty">تعذر تحميل البيانات. راجع رسالة الخطأ أعلى الصفحة.</td></tr>';
-    $("allTrends").innerHTML='<tr><td colspan="5" class="empty">لا توجد بيانات معروضة بسبب خطأ التحميل.</td></tr>';
-    $("suspiciousPreview").innerHTML='<div class="empty">تعذر تحليل البيانات قبل تحميلها.</div>';
-    $("suspiciousFull").innerHTML='<div class="empty">تعذر تحليل البيانات قبل تحميلها.</div>';
-    $("statTotal").textContent="0";
-  } finally {
-    loading=false;
-    $("refreshBtn").disabled=false;
-  }
-}
-document.querySelectorAll("[data-tab]").forEach(button=>{
-  button.addEventListener("click",()=>{
-    document.querySelectorAll("[data-tab]").forEach(b=>b.classList.toggle("active",b===button));
-    document.querySelectorAll(".section").forEach(s=>s.classList.toggle("active",s.id===button.dataset.tab));
+
+function render(data){
+ const items = Array.isArray(data.trends) ? data.trends : [];
+ const alerts = [];
+
+ items.forEach(item=>{
+  const rate = growth(item);
+  if(rate !== null && rate >= 100) alerts.push({item,rate});
+  else if(item.review_reason) alerts.push({
+   item,rate,reason:item.review_reason
   });
-});
-$("refreshBtn").addEventListener("click",loadData);
-$("periodSelect").addEventListener("change",render);
-$("alertsBtn").addEventListener("click",async()=>{
-  if(!("Notification" in window)) {
-    notice("المتصفح لا يدعم إشعارات الويب.", "info"); return;
-  }
-  try {
-    const permission=await Notification.requestPermission();
-    if(permission==="granted") {
-      new Notification("مرصد",{body:"تم تفعيل الإشعارات لهذا الموقع."});
-      notice("تم السماح بالإشعارات في هذا المتصفح.", "success");
-    } else notice("لم يتم السماح بالإشعارات. يمكنك تفعيلها من إعدادات المتصفح.", "info");
-  } catch { notice("تعذر تفعيل الإشعارات في هذا المتصفح.", "error"); }
-});
-$("exportBtn").addEventListener("click",()=>{
-  const blob=new Blob([JSON.stringify(history,null,2)],{type:"application/json;charset=utf-8"});
-  const url=URL.createObjectURL(blob);
-  const a=document.createElement("a");
-  a.href=url;a.download="marsad-history.json";a.click();
-  URL.revokeObjectURL(url);
-});
-$("clearHistoryBtn").addEventListener("click",()=>{
-  if(!confirm("هل أنت متأكد من مسح السجل المحلي؟")) return;
-  history=[];
-  writeStorage(STORAGE_KEY,history);
-  render();
-  notice("تم مسح السجل المحلي من هذا المتصفح.", "success");
-});
-renderHistory();
+ });
+
+ $("total").textContent = items.length;
+ $("alerts").textContent = alerts.length;
+ $("updated").textContent = dateText(data.updated_at);
+ $("source").textContent = data.source || "مصدر البيانات";
+ $("status").textContent = items.length
+  ? "● البيانات محمّلة" : "● لا توجد ترندات";
+ $("status").style.color = items.length
+  ? "var(--green)" : "var(--yellow)";
+
+ const validRates = items.map(growth).filter(x=>x!==null);
+ $("highest").textContent = validRates.length
+  ? Math.max(...validRates).toFixed(1)+"%"
+  : "غير متوفر";
+
+ $("trends").innerHTML = items.length ? items.map((item,i)=>{
+  const rate = growth(item);
+  const title = item.title || item.query || "ترند بدون عنوان";
+  return `<article class="item">
+   <div class="item-title">${i+1}. ${safe(title)}</div>
+   <div class="meta">
+    <span class="tag">حجم البحث: ${safe(trafficText(item))}</span>
+    <span class="tag">الارتفاع:
+     ${rate===null?"غير متوفر":(rate>0?"+":"")+rate.toFixed(1)+"%"}
+    </span>
+   </div>
+   ${rate!==null?`<div class="bar"><span style="width:${Math.max(0,Math.min(100,rate))}%"></span></div>`:""}
+   <div class="meta">
+    <span>آخر رصد: ${safe(dateText(item.pub_date || item.date))}</span>
+    ${item.link?`<a href="${safe(item.link)}" target="_blank" rel="noopener noreferrer">عرض المصدر ↗</a>`:""}
+   </div>
+  </article>`;
+ }).join("") : `<div class="empty">
+  ملف البيانات موجود لكنه لا يحتوي على ترندات.
+  شغّل GitHub Actions للتحقق من التحديث.
+ </div>`;
+
+ $("alertPill").textContent = alerts.length;
+ $("suspicious").innerHTML = alerts.length ? alerts.map(a=>{
+  const title = a.item.title || a.item.query || "ترند";
+  let reason = a.reason || "ارتفاع يتجاوز 100% مقارنة بالقيمة السابقة المسجلة.";
+  return `<article class="item">
+   <div class="item-title">${safe(title)}</div>
+   <p class="muted">${safe(reason)}</p>
+   <div class="meta">نسبة الارتفاع:
+    ${a.rate===null?"غير متوفرة":a.rate.toFixed(1)+"%"}
+   </div>
+  </article>`;
+ }).join("") : `<div class="empty">
+  لا توجد مؤشرات مراجعة وفق البيانات المتوفرة حاليًا.
+ </div>`;
+
+ $("growthInfo").textContent = validRates.length
+  ? "تم حساب النسب للعناصر التي تتوفر لها قيم حالية وسابقة قابلة للمقارنة."
+  : "لا توجد قيم حالية وسابقة كافية لحساب نسبة ارتفاع حقيقية. لن نخترع نسبة.";
+}
+
+async function loadData(){
+ $("status").textContent = "جارٍ تحميل البيانات...";
+ $("trends").innerHTML = '<div class="empty">جارٍ الاتصال بملف البيانات...</div>';
+
+ try{
+  const response = await fetch(DATA_URL+"?t="+Date.now(),{
+   cache:"no-store"
+  });
+  if(!response.ok) throw new Error("HTTP "+response.status);
+  const data = await response.json();
+  if(!data || !Array.isArray(data.trends))
+   throw new Error("Invalid data format");
+  render(data);
+ }catch(error){
+  $("status").textContent = "● تعذر تحميل البيانات";
+  $("status").style.color = "var(--yellow)";
+  $("trends").innerHTML = `<div class="empty">
+   تعذر تحميل ملف data/x-trends.json.<br>
+   تأكد من وجود الملف ونجاح آخر تشغيل في GitHub Actions.
+  </div>`;
+  $("suspicious").innerHTML = `<div class="empty">
+   لا يمكن تحليل الترندات قبل وصول البيانات.
+  </div>`;
+  $("total").textContent = "—";
+  $("alerts").textContent = "—";
+  $("highest").textContent = "—";
+  $("updated").textContent = "—";
+ }
+}
+
+$("reload").addEventListener("click",loadData);
 loadData();
 </script>
 </body>
