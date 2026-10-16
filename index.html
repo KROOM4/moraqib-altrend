@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
@@ -6,56 +7,95 @@
 <title>مرصد | مراقبة الترندات</title>
 <style>
 :root {
-  --bg:#080d18; --panel:#111b2b; --line:#26364d;
-  --text:#edf3ff; --muted:#9aa9c0; --cyan:#52e0cf;
+  --bg:#080d18;
+  --panel:#111b2b;
+  --line:#26364d;
+  --text:#edf3ff;
+  --muted:#9aa9c0;
+  --cyan:#52e0cf;
 }
 * { box-sizing:border-box; }
 body {
-  margin:0; background:var(--bg); color:var(--text);
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
   font-family:Tahoma,Arial,sans-serif;
 }
 header {
-  padding:28px 5%; border-bottom:1px solid var(--line);
+  padding:28px 5%;
+  border-bottom:1px solid var(--line);
   background:linear-gradient(120deg,#142b43,#080d18);
 }
 h1 { margin:0 0 10px; font-size:30px; }
 p { color:var(--muted); line-height:1.9; }
 main { max-width:1150px; margin:25px auto; padding:0 16px; }
 .hero,.panel,.metric {
-  background:var(--panel); border:1px solid var(--line);
-  border-radius:18px; padding:22px; margin-bottom:16px;
+  background:var(--panel);
+  border:1px solid var(--line);
+  border-radius:18px;
+  padding:22px;
+  margin-bottom:16px;
 }
 .hero { border-right:4px solid var(--cyan); }
 button {
-  background:var(--cyan); color:#07131c; border:0;
-  border-radius:10px; padding:12px 18px;
-  font-weight:bold; cursor:pointer; font-size:14px;
+  background:var(--cyan);
+  color:#07131c;
+  border:0;
+  border-radius:10px;
+  padding:12px 18px;
+  font-weight:bold;
+  cursor:pointer;
+  font-size:14px;
 }
+button:disabled { opacity:.6; cursor:wait; }
 .metrics {
-  display:grid; grid-template-columns:repeat(2,minmax(0,1fr));
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
   gap:14px;
 }
-.metric strong { display:block; font-size:30px; margin-top:12px; }
+.metric strong {
+  display:block;
+  font-size:30px;
+  margin-top:12px;
+}
 .metric span { color:var(--muted); font-size:13px; }
 .panel h2 { font-size:19px; margin-top:0; }
 input {
-  width:100%; padding:12px; margin:8px 0 18px;
-  border-radius:10px; border:1px solid var(--line);
-  background:#080d18; color:var(--text); font-size:15px;
+  width:100%;
+  padding:12px;
+  margin:8px 0 14px;
+  border-radius:10px;
+  border:1px solid var(--line);
+  background:#080d18;
+  color:var(--text);
+  font-size:15px;
 }
 .trend {
-  padding:15px 4px; border-bottom:1px solid var(--line);
-  line-height:1.8; overflow-wrap:anywhere;
+  padding:15px 4px;
+  border-bottom:1px solid var(--line);
+  line-height:1.8;
+  overflow-wrap:anywhere;
 }
 .trend:last-child { border-bottom:0; }
 .rank { color:var(--cyan); font-weight:bold; margin-left:9px; }
 .small { font-size:12px; color:var(--muted); }
 .notice {
-  border:1px solid #66502d; background:#211d18;
-  padding:14px; border-radius:12px; color:#e8d2a6;
-  font-size:13px; line-height:1.9;
+  border:1px solid #66502d;
+  background:#211d18;
+  padding:14px;
+  border-radius:12px;
+  color:#e8d2a6;
+  font-size:13px;
+  line-height:1.9;
 }
-footer { text-align:center; padding:25px; color:var(--muted); font-size:12px; }
+a { color:var(--cyan); }
+#bskyResults a { display:inline-block; margin-top:8px; }
+footer {
+  text-align:center;
+  padding:25px;
+  color:var(--muted);
+  font-size:12px;
+}
 @media(max-width:500px) {
   h1 { font-size:24px; }
   .hero,.panel,.metric { padding:16px; }
@@ -63,6 +103,7 @@ footer { text-align:center; padding:25px; color:var(--muted); font-size:12px; }
 </style>
 </head>
 <body>
+
 <header>
   <h1>مَرْصَد <span style="color:#52e0cf">/</span></h1>
   <div>منصة مراقبة الترندات والنشاط الرقمي</div>
@@ -72,7 +113,7 @@ footer { text-align:center; padding:25px; color:var(--muted); font-size:12px; }
 <main>
   <section class="hero">
     <h2>لوحة مراقبة السعودية</h2>
-    <p>يعرض الموقع المواضيع الرائجة من Google Trends، مع إمكانية التوسع لاحقًا لمراقبة المنشورات العامة ومؤشرات النشاط غير الطبيعي.</p>
+    <p>تابع المواضيع الرائجة وابحث في المنشورات العامة.</p>
     <button id="refresh">تحديث البيانات ↻</button>
     <p id="status" class="small">جارٍ تحميل البيانات...</p>
   </section>
@@ -97,25 +138,26 @@ footer { text-align:center; padding:25px; color:var(--muted); font-size:12px; }
   <section class="panel">
     <h2>مصادر المراقبة</h2>
     <p>🟢 Google Trends — مواضيع البحث الرائجة.</p>
-    <p>🟡 Bluesky — لم تتم إضافته بعد.</p>
-    <p>🟡 Mastodon — لم تتم إضافته بعد.</p>
+    <p>🟢 Bluesky — البحث في المنشورات العامة.</p>
     <div class="notice">
-      تنبيه: Google Trends يعرض اهتمام الناس بمواضيع البحث، ولا يعطي عدد منشورات التواصل أو أسماء الحسابات. لذلك لن نعرض أرقام منشورات أو نتائج كشف بوتات من دون مصدر فعلي يدعمها.
+      Google Trends يعرض اهتمام البحث، وليس عدد منشورات التواصل.
+      نتائج Bluesky تعتمد على ما تتيحه واجهة البحث العامة.
     </div>
   </section>
+
   <section class="panel">
-  <h2>مراقبة منشورات Bluesky</h2>
-  <p>ابحث عن كلمة أو موضوع في المنشورات العامة.</p>
-
-  <input
-    id="bskyQuery"
-    type="search"
-    placeholder="مثال: السعودية أو التقنية"
-  >
-
-  <button id="bskySearch">بحث في المنشورات</button>
-  <p id="bskyStatus" class="small">أدخل كلمة للبحث.</p>
-  <div id="bskyResults"></div>
+    <h2>مراقبة منشورات Bluesky</h2>
+    <p>اكتب كلمة أو موضوعًا للبحث في المنشورات العامة.</p>
+    <form id="bskyForm">
+      <input id="bskyQuery" type="search"
+        placeholder="مثال: السعودية أو التقنية"
+        autocomplete="off" required>
+      <button id="bskySearch" type="submit">بحث في المنشورات</button>
+    </form>
+    <p id="bskyStatus" class="small" aria-live="polite">
+      أدخل كلمة للبحث.
+    </p>
+    <div id="bskyResults"></div>
   </section>
 </main>
 
@@ -133,7 +175,9 @@ function formatDate(value) {
 }
 
 function renderTopics() {
-  const query = document.getElementById('search').value.trim().toLowerCase();
+  const query = document.getElementById('search').value
+    .trim().toLowerCase();
+
   const shown = topics.filter(topic =>
     topic.name.toLowerCase().includes(query)
   );
@@ -189,10 +233,7 @@ async function loadTopics() {
         (Array.isArray(group.posts) ? group.posts : []).forEach(item => {
           const name = String(item.text || item.title || '').trim();
           if (name && !topics.some(topic => topic.name === name)) {
-            topics.push({
-              name,
-              date: item.created_at || ''
-            });
+            topics.push({ name, date: item.created_at || '' });
           }
         });
       });
@@ -200,7 +241,9 @@ async function loadTopics() {
 
     if (!topics.length && Array.isArray(data.trends)) {
       data.trends.forEach(item => {
-        const name = String(item.name || item.hashtag || item.topic || '').trim();
+        const name = String(
+          item.name || item.hashtag || item.topic || ''
+        ).trim();
         if (name) topics.push({name, date:item.created_at || ''});
       });
     }
@@ -209,76 +252,133 @@ async function loadTopics() {
       + ' · آخر تحديث: ' + formatDate(data.updated_at);
     renderTopics();
   } catch (error) {
-    topics = [];
-    renderTopics();
-    status.textContent = 'تعذر تحميل البيانات. تأكد من تفعيل GitHub Pages.';
+    status.textContent =
+      'تعذر تحميل بيانات Google Trends. تحقق من GitHub Pages.';
   } finally {
     button.disabled = false;
   }
 }
 
-document.getElementById('refresh').addEventListener('click', loadTopics);
-document.getElementById('search').addEventListener('input', renderTopics);
-loadTopics();
-  const bskyButton = document.getElementById('bskySearch');
+document.getElementById('refresh')
+  .addEventListener('click', loadTopics);
+document.getElementById('search')
+  .addEventListener('input', renderTopics);
 
-bskyButton.addEventListener('click', async () => {
-  const query = document.getElementById('bskyQuery').value.trim();
-  const status = document.getElementById('bskyStatus');
-  const results = document.getElementById('bskyResults');
+const bskyForm = document.getElementById('bskyForm');
+const bskyButton = document.getElementById('bskySearch');
+const bskyInput = document.getElementById('bskyQuery');
+const bskyStatus = document.getElementById('bskyStatus');
+const bskyResults = document.getElementById('bskyResults');
 
-  results.replaceChildren();
+bskyForm.addEventListener('submit', async event => {
+  event.preventDefault();
+
+  const query = bskyInput.value.trim();
+  bskyResults.replaceChildren();
 
   if (!query) {
-    status.textContent = 'اكتب كلمة أو موضوعًا للبحث.';
+    bskyStatus.textContent = 'اكتب كلمة للبحث أولًا.';
     return;
   }
 
+  const fallback = document.createElement('a');
+  fallback.href = 'https://bsky.app/search?q=' + encodeURIComponent(query);
+  fallback.target = '_blank';
+  fallback.rel = 'noopener noreferrer';
+  fallback.textContent = 'افتح البحث مباشرة في Bluesky';
+
   bskyButton.disabled = true;
-  status.textContent = 'جارٍ البحث في المنشورات العامة...';
+  bskyStatus.textContent = 'جارٍ البحث في المنشورات العامة...';
 
   try {
-    const url = 'https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q='
-      + encodeURIComponent(query) + '&limit=20';
+    const url = 'https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts'
+      + '?q=' + encodeURIComponent(query)
+      + '&limit=20&sort=latest';
 
-    const response = await fetch(url);
-    if (!response.ok) throw new Error('تعذر إكمال البحث');
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 15000);
+
+    let response;
+    try {
+      response = await fetch(url, {
+        method: 'GET',
+        headers: { 'Accept': 'application/json' },
+        signal: controller.signal
+      });
+    } finally {
+      clearTimeout(timeout);
+    }
+
+    if (!response.ok) {
+      throw new Error('HTTP ' + response.status);
+    }
 
     const data = await response.json();
 
-    if (!data.posts || data.posts.length === 0) {
-      status.textContent = 'لم نعثر على منشورات مطابقة.';
+    if (!Array.isArray(data.posts)) {
+      throw new Error('استجابة غير متوقعة من الخدمة');
+    }
+
+    if (data.posts.length === 0) {
+      bskyStatus.textContent = 'لم تظهر نتائج لهذه الكلمة.';
       return;
     }
 
-    status.textContent = 'عدد النتائج: ' + data.posts.length;
+    bskyStatus.textContent = 'عدد النتائج المعروضة: ' + data.posts.length;
 
     data.posts.forEach(post => {
       const row = document.createElement('div');
       row.className = 'trend';
 
       const author = document.createElement('strong');
-      author.textContent = '@' + post.author.handle;
+      author.textContent = '@' + (post.author?.handle || 'حساب غير معروف');
 
       const content = document.createElement('p');
-      content.textContent = post.record.text || 'منشور بدون نص';
+      content.textContent = post.record?.text || 'منشور بدون نص';
+
+      const date = document.createElement('div');
+      date.className = 'small';
+      date.textContent = formatDate(post.record?.createdAt || post.indexedAt);
 
       const link = document.createElement('a');
       link.textContent = 'عرض المنشور';
-      link.href = 'https://bsky.app/profile/' + post.author.handle
-        + '/post/' + post.uri.split('/').pop();
-      link.target = '_blank';
-      link.rel = 'noopener noreferrer';
+      const handle = post.author?.handle;
+      const postId = post.uri?.split('/').pop();
 
-      row.append(author, content, link);
-      results.appendChild(row);
+      if (handle && postId) {
+        link.href = 'https://bsky.app/profile/'
+          + encodeURIComponent(handle) + '/post/'
+          + encodeURIComponent(postId);
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+      } else {
+        link.href = 'https://bsky.app/search?q=' + encodeURIComponent(query);
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+      }
+
+      row.append(author, content, date, link);
+      bskyResults.appendChild(row);
     });
+
   } catch (error) {
-    status.textContent = 'تعذر البحث. جرّب مرة أخرى.';
+    if (error.name === 'AbortError') {
+      bskyStatus.textContent = 'انتهت مهلة الاتصال. جرّب مرة أخرى.';
+    } else if (error.message.startsWith('HTTP ')) {
+      bskyStatus.textContent = 'خدمة البحث أعادت الخطأ ' + error.message + '.';
+    } else {
+      bskyStatus.textContent =
+        'تعذر الاتصال بخدمة البحث. قد تكون المشكلة في الشبكة أو الخدمة.';
+    }
+
+    bskyResults.appendChild(fallback);
+
   } finally {
     bskyButton.disabled = false;
   }
 });
+
+loadTopics();
 </script>
 </body>
 </html>
