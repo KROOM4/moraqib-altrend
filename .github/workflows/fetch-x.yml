@@ -16,19 +16,53 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch Google Trends Saudi Arabia
+      - name: Fetch trends and calculate changes
         run: |
           python - <<'PY'
           import json
           import os
+          import re
           import urllib.request
           import xml.etree.ElementTree as ET
           from datetime import datetime, timezone
 
+          now = datetime.now(timezone.utc).isoformat()
+          os.makedirs("data", exist_ok=True)
+
+          history_path = "data/trends-history.json"
+          try:
+              with open(history_path, encoding="utf-8") as f:
+                  history = json.load(f)
+          except (FileNotFoundError, json.JSONDecodeError):
+              history = {"trends": {}}
+
+          old_trends = history.get("trends", {})
+
+          def child_text(element, wanted_name, default=""):
+              for child in element:
+                  if child.tag.split("}")[-1] == wanted_name:
+                      return (child.text or "").strip()
+              return default
+
+          def parse_volume(value):
+              if not value:
+                  return None
+              text = str(value).strip().replace(",", "")
+              match = re.match(r"^([\d.]+)\s*([KMB])?\+?$", text, re.I)
+              if not match:
+                  return None
+              number = float(match.group(1))
+              suffix = (match.group(2) or "").upper()
+              multiplier = {
+                  "K": 1000,
+                  "M": 1000000,
+                  "B": 1000000000
+              }.get(suffix, 1)
+              return number * multiplier
+
           url = "https://trends.google.com/trending/rss?geo=SA"
           request = urllib.request.Request(
-              url,
-              headers={"User-Agent": "Mozilla/5.0"}
+              url, headers={"User-Agent": "Mozilla/5.0"}
           )
 
           with urllib.request.urlopen(request, timeout=30) as response:
@@ -38,13 +72,8 @@ jobs:
           if channel is None:
               raise SystemExit("Google Trends RSS has no channel")
 
-          def child_text(element, wanted_name, default=""):
-              for child in element:
-                  if child.tag.split("}")[-1] == wanted_name:
-                      return (child.text or "").strip()
-              return default
-
           posts = []
+          new_history = {}
 
           for item in channel.findall("item"):
               title = child_text(item, "title")
@@ -52,26 +81,45 @@ jobs:
                   continue
 
               traffic = child_text(item, "approx_traffic")
-              pub_date = child_text(item, "pubDate")
-              link = child_text(item, "link", title)
+              volume = parse_volume(traffic)
+              previous = old_trends.get(title, {})
+              previous_volume = previous.get("volume")
+              growth = None
 
-              posts.append({
-                  "id": link or title,
+              if (
+                  volume is not None
+                  and previous_volume is not None
+                  and float(previous_volume) > 0
+              ):
+                  growth = round(
+                      (volume - float(previous_volume))
+                      / float(previous_volume) * 100,
+                      1
+                  )
+
+              post = {
+                  "id": child_text(item, "link", title) or title,
                   "text": title,
-                  "created_at": pub_date,
+                  "created_at": child_text(item, "pubDate"),
                   "metrics": {
-                      "search_volume": traffic
+                      "search_volume": traffic,
+                      "growth_percent": growth
                   }
-              })
+              }
+              posts.append(post)
+
+              new_history[title] = {
+                  "volume": volume,
+                  "raw_volume": traffic,
+                  "updated_at": now
+              }
 
           if not posts:
               raise SystemExit("Google Trends returned no trends")
 
-          os.makedirs("data", exist_ok=True)
-
           with open("data/x-trends.json", "w", encoding="utf-8") as f:
               json.dump({
-                  "updated_at": datetime.now(timezone.utc).isoformat(),
+                  "updated_at": now,
                   "source": "Google Trends",
                   "results": [{
                       "hashtag": "مواضيع رائجة في السعودية",
@@ -80,14 +128,24 @@ jobs:
                   }]
               }, f, ensure_ascii=False, indent=2)
 
-          print(f"Fetched {len(posts)} Google Trends topics.")
-          print("Sample search volume:", posts[0]["metrics"]["search_volume"])
+          with open(history_path, "w", encoding="utf-8") as f:
+              json.dump({
+                  "updated_at": now,
+                  "trends": new_history
+              }, f, ensure_ascii=False, indent=2)
+
+          available = sum(
+              1 for post in posts
+              if post["metrics"]["growth_percent"] is not None
+          )
+          print(f"Fetched {len(posts)} trends.")
+          print(f"Trends with comparable previous readings: {available}")
           PY
 
-      - name: Save data
+      - name: Save data and history
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/x-trends.json
-          git diff --cached --quiet || git commit -m "Update Saudi Google Trends"
+          git add data/x-trends.json data/trends-history.json
+          git diff --cached --quiet || git commit -m "Update trends and history"
           git push
