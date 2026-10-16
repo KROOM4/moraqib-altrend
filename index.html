@@ -220,6 +220,65 @@ async function loadTopics() {
 document.getElementById('refresh').addEventListener('click', loadTopics);
 document.getElementById('search').addEventListener('input', renderTopics);
 loadTopics();
+  const bskyButton = document.getElementById('bskySearch');
+
+bskyButton.addEventListener('click', async () => {
+  const query = document.getElementById('bskyQuery').value.trim();
+  const status = document.getElementById('bskyStatus');
+  const results = document.getElementById('bskyResults');
+
+  results.replaceChildren();
+
+  if (!query) {
+    status.textContent = 'اكتب كلمة أو موضوعًا للبحث.';
+    return;
+  }
+
+  bskyButton.disabled = true;
+  status.textContent = 'جارٍ البحث في المنشورات العامة...';
+
+  try {
+    const url = 'https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q='
+      + encodeURIComponent(query) + '&limit=20';
+
+    const response = await fetch(url);
+    if (!response.ok) throw new Error('تعذر إكمال البحث');
+
+    const data = await response.json();
+
+    if (!data.posts || data.posts.length === 0) {
+      status.textContent = 'لم نعثر على منشورات مطابقة.';
+      return;
+    }
+
+    status.textContent = 'عدد النتائج: ' + data.posts.length;
+
+    data.posts.forEach(post => {
+      const row = document.createElement('div');
+      row.className = 'trend';
+
+      const author = document.createElement('strong');
+      author.textContent = '@' + post.author.handle;
+
+      const content = document.createElement('p');
+      content.textContent = post.record.text || 'منشور بدون نص';
+
+      const link = document.createElement('a');
+      link.textContent = 'عرض المنشور';
+      link.href = 'https://bsky.app/profile/' + post.author.handle
+        + '/post/' + post.uri.split('/').pop();
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+
+      row.append(author, content, link);
+      results.appendChild(row);
+    });
+  } catch (error) {
+    status.textContent = 'تعذر البحث. جرّب مرة أخرى.';
+  } finally {
+    bskyButton.disabled = false;
+  }
+});
 </script>
 </body>
 </html>
