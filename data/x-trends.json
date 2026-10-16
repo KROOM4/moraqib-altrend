@@ -1,11 +1,35 @@
 {
-  "updated_at": "2026-10-16T16:50:48.223521+00:00",
+  "updated_at": "2026-10-16T17:46:57.436369+00:00",
   "source": "Google Trends",
   "results": [
     {
       "hashtag": "مواضيع رائجة في السعودية",
       "post_count": 10,
       "posts": [
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منتخب إسبانيا لكرة القدم",
+          "created_at": "Fri, 16 Oct 2026 10:20:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ياسر القحطاني",
+          "created_at": "Fri, 16 Oct 2026 10:10:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أنصار الله الحوثيون",
+          "created_at": "Fri, 16 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "الزمالك",
@@ -40,14 +64,6 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "niki prasad",
-          "created_at": "Fri, 16 Oct 2026 08:40:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "بني ياس ضد الوصل",
           "created_at": "Fri, 16 Oct 2026 08:40:00 -0700",
           "metrics": {
@@ -58,22 +74,6 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "بيراميدز",
           "created_at": "Fri, 16 Oct 2026 08:40:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "eurofighter typhoon",
-          "created_at": "Fri, 16 Oct 2026 08:30:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الهلال والرياض",
-          "created_at": "Fri, 16 Oct 2026 08:30:00 -0700",
           "metrics": {
             "search_volume": ""
           }
