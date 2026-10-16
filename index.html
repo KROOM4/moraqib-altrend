@@ -291,10 +291,8 @@ bskyForm.addEventListener('submit', async event => {
   bskyStatus.textContent = 'جارٍ البحث في المنشورات العامة...';
 
   try {
-    // تم تغيير عنوان API إلى العنوان البديل
-    const url = 'https://api.bsky.app/xrpc/app.bsky.feed.searchPosts'
-      + '?q=' + encodeURIComponent(query)
-      + '&limit=20&sort=latest';
+const url = 'https://nameless-morning-bcf1.krom47k.workers.dev/'
+  + '?q=' + encodeURIComponent(query);
 
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 15000);
