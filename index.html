@@ -6,728 +6,346 @@
 <title>مرصد | مراقبة الترندات</title>
 <style>
 :root {
-  --bg:#080d18;
-  --panel:#111b2b;
-  --line:#26364d;
-  --text:#edf3ff;
-  --muted:#9aa9c0;
-  --cyan:#52e0cf;
+  --bg:#080d12;
+  --panel:#111a20;
+  --panel2:#162229;
+  --line:#283a3d;
+  --text:#f1f5f2;
+  --muted:#9aada7;
+  --green:#32d583;
+  --gold:#e8bd65;
+  --red:#ff7070;
 }
-* { box-sizing:border-box; }
-body {
-  margin:0;
-  background:var(--bg);
-  color:var(--text);
-  font-family:Tahoma,Arial,sans-serif;
+*{box-sizing:border-box}
+body{
+  margin:0;background:var(--bg);color:var(--text);
+  font-family:Tahoma,Arial,sans-serif;min-height:100vh;
 }
-header {
-  padding:28px 5%;
-  border-bottom:1px solid var(--line);
-  background:linear-gradient(120deg,#142b43,#080d18);
+header{
+  padding:25px 5%;border-bottom:1px solid var(--line);
+  background:linear-gradient(120deg,#101b1c,#0b1116);
 }
-h1 { margin:0 0 10px; font-size:30px; }
-p { color:var(--muted); line-height:1.9; }
-main { max-width:1150px; margin:25px auto; padding:0 16px; }
-.hero,.panel,.metric {
-  background:var(--panel);
-  border:1px solid var(--line);
-  border-radius:18px;
-  padding:22px;
-  margin-bottom:16px;
+.top{display:flex;justify-content:space-between;align-items:center;gap:15px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:12px}
+.logo{
+  width:48px;height:48px;border-radius:14px;
+  display:grid;place-items:center;background:#19372c;
+  color:var(--green);font-size:25px;border:1px solid #28583f;
 }
-.hero { border-right:4px solid var(--cyan); }
-button {
-  background:var(--cyan);
-  color:#07131c;
-  border:0;
-  border-radius:10px;
-  padding:12px 18px;
-  font-weight:bold;
-  cursor:pointer;
-  font-size:14px;
+h1{margin:0;font-size:27px}
+.subtitle{margin:7px 0 0;color:var(--muted);font-size:13px}
+.live{color:var(--green);font-size:12px}
+main{max-width:1200px;margin:auto;padding:25px 5% 50px}
+.intro{margin-bottom:22px}
+.intro h2{font-size:22px;margin:0 0 8px}
+.intro p{color:var(--muted);font-size:14px;line-height:1.9;margin:0}
+.stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:22px 0}
+.stat,.panel,.trend{
+  background:var(--panel);border:1px solid var(--line);border-radius:15px;
 }
-button:disabled { opacity:.6; cursor:wait; }
-.metrics {
-  display:grid;
-  grid-template-columns:repeat(2,minmax(0,1fr));
-  gap:14px;
+.stat{padding:19px}
+.stat-label{color:var(--muted);font-size:13px}
+.stat-value{font-size:27px;font-weight:bold;margin-top:12px}
+.gold{color:var(--gold)}
+.green{color:var(--green)}
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin:20px 0}
+input,select,button{
+  font-family:inherit;font-size:14px;border-radius:10px;padding:12px;
 }
-.metric strong {
-  display:block;
-  font-size:30px;
-  margin-top:12px;
+input,select{
+  background:var(--panel2);color:var(--text);
+  border:1px solid var(--line);outline:none;
 }
-.metric span { color:var(--muted); font-size:13px; }
-.panel h2 { font-size:19px; margin-top:0; }
-input {
-  width:100%;
-  padding:12px;
-  margin:8px 0 14px;
-  border-radius:10px;
-  border:1px solid var(--line);
-  background:#080d18;
-  color:var(--text);
-  font-size:15px;
+input{flex:1;min-width:180px}
+button{
+  cursor:pointer;background:var(--green);color:#07120b;
+  border:0;font-weight:bold;
 }
-.trend {
-  padding:15px 4px;
-  border-bottom:1px solid var(--line);
-  line-height:1.8;
-  overflow-wrap:anywhere;
+button:disabled{opacity:.6;cursor:wait}
+.panel{padding:18px;margin-bottom:20px}
+.panel-head{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.panel h3{margin:0;font-size:17px}
+.small{font-size:12px;color:var(--muted)}
+.notice{
+  border:1px solid #66512b;background:#211d14;color:#e8d6ad;
+  border-radius:12px;padding:13px 15px;font-size:13px;line-height:1.9;
+  margin:16px 0;
 }
-.trend:last-child { border-bottom:0; }
-.rank { color:var(--cyan); font-weight:bold; margin-left:9px; }
-.small { font-size:12px; color:var(--muted); }
-.notice {
-  border:1px solid #66502d;
-  background:#211d18;
-  padding:14px;
-  border-radius:12px;
-  color:#e8d2a6;
-  font-size:13px;
-  line-height:1.9;
-}
-a { color:var(--cyan); }
-#bskyResults a { display:inline-block; margin-top:8px; }
-footer {
-  text-align:center;
-  padding:25px;
-  color:var(--muted);
-  font-size:12px;
-}
-@media(max-width:500px) {
-  h1 { font-size:24px; }
-  .hero,.panel,.metric { padding:16px; }
+.list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px;margin-top:17px}
+.trend{padding:17px;min-width:0}
+.trend-top{display:flex;align-items:flex-start;justify-content:space-between;gap:12px}
+.rank{color:var(--gold);font-size:12px;white-space:nowrap}
+.trend-name{font-size:16px;font-weight:bold;line-height:1.8;overflow-wrap:anywhere}
+.trend-meta{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:15px}
+.metric{background:#0c1318;padding:11px;border-radius:10px}
+.metric-label{color:var(--muted);font-size:11px}
+.metric-value{font-size:14px;font-weight:bold;margin-top:7px}
+.growth{color:var(--gold)}
+.empty{padding:35px 12px;text-align:center;color:var(--muted);line-height:2}
+footer{border-top:1px solid var(--line);padding:20px 5%;color:var(--muted);font-size:12px;text-align:center}
+a{color:var(--green)}
+@media(max-width:650px){
+  .stats{grid-template-columns:1fr}
+  .list{grid-template-columns:1fr}
+  h1{font-size:23px}
+  main{padding-top:20px}
 }
 </style>
 </head>
 <body>
-
 <header>
-  <h1>مَرْصَد <span style="color:#52e0cf">/</span></h1>
-  <div>منصة مراقبة الترندات والنشاط الرقمي</div>
-  <p>متابعة المواضيع الرائجة في السعودية من مصادر البيانات العامة.</p>
+  <div class="top">
+    <div class="brand">
+      <div class="logo">⌁</div>
+      <div>
+        <h1>مرصد</h1>
+        <p class="subtitle">منصة مراقبة الترندات والاهتمام الرقمي</p>
+      </div>
+    </div>
+    <div class="live">● مصدر البيانات: Google Trends</div>
+  </div>
 </header>
 
 <main>
-  <section class="hero">
-    <h2>لوحة مراقبة السعودية</h2>
-    <p>تابع المواضيع الرائجة وابحث في المنشورات العامة.</p>
-    <button id="refresh">تحديث البيانات ↻</button>
-    <p id="status" class="small">جارٍ تحميل البيانات...</p>
+  <section class="intro">
+    <h2>لوحة مراقبة الترندات</h2>
+    <p>تابع المواضيع الرائجة في السعودية، وابحث عن أي موضوع داخل البيانات المتاحة.</p>
   </section>
 
-  <section class="metrics">
-    <div class="metric">
-      <span>المواضيع المعروضة</span>
-      <strong id="count">—</strong>
+  <section class="stats">
+    <div class="stat">
+      <div class="stat-label">عدد الترندات المرصودة</div>
+      <div class="stat-value green" id="total">—</div>
     </div>
-    <div class="metric">
-      <span>مصدر الترند</span>
-      <strong style="font-size:22px">Google Trends</strong>
+    <div class="stat">
+      <div class="stat-label">مصدر البيانات</div>
+      <div class="stat-value gold" style="font-size:20px">Google Trends</div>
+    </div>
+    <div class="stat">
+      <div class="stat-label">آخر تحديث للبيانات</div>
+      <div class="stat-value" id="updated" style="font-size:16px">جارٍ التحميل…</div>
     </div>
   </section>
 
   <section class="panel">
-    <h2>المواضيع الرائجة في السعودية</h2>
-    <input id="search" type="search" placeholder="ابحث عن موضوع...">
-    <div id="trends">جارٍ تحميل المواضيع...</div>
-  </section>
+    <div class="panel-head">
+      <h3>الترندات المرصودة</h3>
+      <span class="small" id="status">جارٍ جلب البيانات…</span>
+    </div>
 
-  <section class="panel">
-    <h2>مصادر المراقبة</h2>
-    <p>🟢 Google Trends — مواضيع البحث الرائجة.</p>
-    <p>🟢 Bluesky — البحث في المنشورات العامة.</p>
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="ابحث عن ترند أو هاشتاق…">
+      <select id="sort">
+        <option value="default">الترتيب الأصلي</option>
+        <option value="name">الترتيب الأبجدي</option>
+      </select>
+      <button id="refresh">تحديث البيانات</button>
+    </div>
+
     <div class="notice">
-      Google Trends يعرض اهتمام البحث، وليس عدد منشورات التواصل.
-      نتائج Bluesky تعتمد على ما تتيحه واجهة البحث العامة.
+      <strong>كيف تُحسب نسبة الارتفاع؟</strong><br>
+      يجب مقارنة حجم البحث الحالي بحجم البحث في قراءة سابقة من Google Trends.
+      إذا لم تتوفر قراءتان قابلتان للمقارنة، ستظهر النسبة على أنها غير متاحة بدلًا من عرض رقم غير موثوق.
+    </div>
+
+    <div class="list" id="trends">
+      <div class="empty">جارٍ تحميل الترندات…</div>
     </div>
   </section>
 
   <section class="panel">
-    <h2>مراقبة منشورات Bluesky</h2>
-    <p>اكتب كلمة أو موضوعًا للبحث في المنشورات العامة.</p>
-    <form id="bskyForm">
-      <input id="bskyQuery" type="search"
-        placeholder="مثال: السعودية أو التقنية"
-        autocomplete="off" required>
-      <button id="bskySearch" type="submit">بحث في المنشورات</button>
-    </form>
-    <p id="bskyStatus" class="small" aria-live="polite">
-      أدخل كلمة للبحث.
+    <div class="panel-head">
+      <h3>مؤشرات تحليل الترند</h3>
+    </div>
+    <p style="color:var(--muted);font-size:13px;line-height:2">
+      ارتفاع البحث وحده لا يثبت أن الترند مدفوع بالبوتات. يمكن استخدام تغير حجم البحث وسرعة الارتفاع ومصادر مستقلة أخرى للمساعدة في التحليل، لكن الحكم يحتاج إلى أدلة إضافية.
     </p>
-    <div id="bskyResults"></div>
   </section>
 </main>
 
-<footer>مرصد · قد تتأخر البيانات حسب وقت تحديث المصدر</footer>
+<footer>
+  مرصد © 2026 — البيانات المعروضة تعتمد على آخر ملف بيانات متاح في المستودع.
+</footer>
 
 <script>
-"use strict";
+const DATA_URL = "./data/x-trends.json";
+const trendsElement = document.getElementById("trends");
+const statusElement = document.getElementById("status");
+const totalElement = document.getElementById("total");
+const updatedElement = document.getElementById("updated");
+const searchElement = document.getElementById("search");
+const sortElement = document.getElementById("sort");
+const refreshButton = document.getElementById("refresh");
 
-const DATA_URL = new URL("data/x-trends.json", document.baseURI).href;
-const STORAGE_KEY = "marsad_history_v4";
-const MAX_HISTORY = 300;
-const SPIKE_PERCENT = 80;
-const SPIKE_MIN_BASELINE = 5;
-
-const $ = id => document.getElementById(id);
-let currentData = [];
-let currentMeta = {};
-let history = readStorage(STORAGE_KEY, []);
-let loading = false;
-
-function readStorage(key, fallback) {
-  try {
-    const value = JSON.parse(localStorage.getItem(key) || "null");
-    return value ?? fallback;
-  } catch {
-    return fallback;
-  }
-}
-
-function writeStorage(key, value) {
-  try {
-    localStorage.setItem(key, JSON.stringify(value));
-    return true;
-  } catch {
-    return false;
-  }
-}
+let allTrends = [];
 
 function escapeHTML(value) {
-  return String(value ?? "").replace(/[&<>"']/g, c => ({
-    "&": "&amp;", "<": "&lt;", ">": "&gt;",
-    '"': "&quot;", "'": "&#39;"
-  })[c]);
+  return String(value ?? "").replace(/[&<>"']/g, character => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#039;"
+  })[character]);
 }
 
-function notice(message, type = "info") {
-  const n = $("notice");
-  n.className = "notice show " + type;
-  n.textContent = message;
-}
-
-function setStatus(state, message) {
-  $("statusDot").className = "dot " + state;
-  $("connectionStatus").textContent = message;
-}
-
-function number(value) {
-  return value === null || value === undefined || !Number.isFinite(value)
-    ? "غير متوفر"
-    : new Intl.NumberFormat("ar-SA", {
-        maximumFractionDigits: 1
-      }).format(value);
-}
-
-function percent(value) {
-  if (value === null || !Number.isFinite(value)) return "غير متوفر";
-  return (value > 0 ? "+" : "") + number(value) + "%";
-}
-
-function parseNumber(value) {
-  if (typeof value === "number") {
-    return Number.isFinite(value) ? value : null;
-  }
-
+function parseVolume(value) {
   if (value === null || value === undefined || value === "") return null;
+  if (typeof value === "number") return value;
 
-  const s = String(value).trim()
-    .replace(/,/g, "")
-    .replace(/\s/g, "");
+  const cleaned = String(value).trim().replace(/,/g, "");
+  const match = cleaned.match(/^([\d.]+)\s*([KMB])?\+?$/i);
+  if (!match) return null;
 
-  if (!s) return null;
-
-  const match = s.match(/^(-?[\d.]+)([KMB])?\+?$/i);
-
-  if (match) {
-    let n = Number(match[1]);
-    const unit = (match[2] || "").toUpperCase();
-
-    if (unit === "K") n *= 1000;
-    if (unit === "M") n *= 1000000;
-    if (unit === "B") n *= 1000000000;
-
-    return Number.isFinite(n) ? n : null;
-  }
-
-  const n = Number(s);
-  return Number.isFinite(n) ? n : null;
+  const number = Number(match[1]);
+  const suffix = (match[2] || "").toUpperCase();
+  const multiplier = suffix === "K" ? 1000 :
+                     suffix === "M" ? 1000000 :
+                     suffix === "B" ? 1000000000 : 1;
+  return Number.isFinite(number) ? number * multiplier : null;
 }
 
-function firstValue(obj, paths) {
-  for (const path of paths) {
-    const value = path.split(".").reduce(
-      (a, key) => a == null ? undefined : a[key],
-      obj
-    );
-
-    if (value !== undefined && value !== null && value !== "") {
-      return value;
-    }
-  }
-  return null;
+function formatVolume(value) {
+  const number = parseVolume(value);
+  if (number === null) return "غير متوفر";
+  return new Intl.NumberFormat("ar-SA", {
+    notation: number >= 10000 ? "compact" : "standard",
+    maximumFractionDigits: 1
+  }).format(number);
 }
 
-function titleOf(item) {
-  const value = firstValue(item, [
-    "text", "title", "query", "keyword", "name",
-    "hashtag", "topic", "term", "label"
-  ]);
+function getGrowth(trend) {
+  const raw = trend.growth_percent ??
+              trend.metrics?.growth_percent ??
+              trend.metrics?.change_percent;
 
-  return String(value ?? "").trim();
+  if (raw === null || raw === undefined || raw === "") return null;
+  const number = Number(String(raw).replace("%", ""));
+  return Number.isFinite(number) ? number : null;
 }
 
-function valueOf(item) {
-  return parseNumber(firstValue(item, [
-    "metrics.search_volume",
-    "search_volume",
-    "searchVolume",
-    "approx_traffic",
-    "traffic",
-    "interest",
-    "value",
-    "volume",
-    "metrics.value",
-    "formattedValue",
-    "formatted_value"
-  ]));
+function formatGrowth(trend) {
+  const growth = getGrowth(trend);
+  if (growth === null) return "بانتظار قراءة سابقة";
+  const prefix = growth > 0 ? "+" : "";
+  return prefix + growth.toLocaleString("ar-SA", {
+    maximumFractionDigits: 1
+  }) + "%";
 }
 
-function extractRows(json) {
-  let groups = [];
+function normalizeData(data) {
+  const results = Array.isArray(data.results) ? data.results : [];
+  const items = [];
 
-  if (Array.isArray(json)) groups = json;
-  else if (Array.isArray(json?.trends)) groups = json.trends;
-  else if (Array.isArray(json?.results)) groups = json.results;
-  else if (Array.isArray(json?.items)) groups = json.items;
-  else if (Array.isArray(json?.data)) groups = json.data;
-  else if (Array.isArray(json?.default?.trendingSearchesDays)) {
-    groups = json.default.trendingSearchesDays.flatMap(day =>
-      (day.trendingSearches || []).map(item => ({
-        ...item,
-        title: item.title?.query || item.title || ""
-      }))
-    );
-  }
-
-  const rows = [];
-  const seen = new Set();
-
-  function add(item, fallbackTitle = "") {
-    if (!item || typeof item !== "object") return;
-
-    const title = titleOf(item) || fallbackTitle;
-    if (!title) return;
-
-    const key = title.toLocaleLowerCase("ar");
-    if (seen.has(key)) return;
-    seen.add(key);
-
-    rows.push({
-      title,
-      value: valueOf(item),
-      createdAt: firstValue(item, [
-        "created_at", "published_at", "date", "timestamp"
-      ]),
-      url: firstValue(item, ["url", "link"])
+  results.forEach(group => {
+    (group.posts || []).forEach(post => {
+      const name = post.text || post.hashtag || "ترند بدون اسم";
+      const metrics = post.metrics || {};
+      items.push({
+        name,
+        volume: metrics.search_volume ?? post.search_volume ?? "",
+        growth_percent: post.growth_percent ?? metrics.growth_percent ?? null,
+        created_at: post.created_at || "",
+        source: data.source || "Google Trends"
+      });
     });
-  }
+  });
 
-  for (const group of groups) {
-    if (Array.isArray(group?.posts)) {
-      for (const post of group.posts) {
-        add(post, String(group.hashtag || group.title || ""));
-      }
-    } else {
-      add(group);
-    }
-  }
-
-  return rows;
+  return items;
 }
 
-function snapshotSignature(rows) {
-  return JSON.stringify(
-    rows.map(row => [row.title, row.value])
-      .sort((a, b) => a[0].localeCompare(b[0], "ar"))
+function renderTrends() {
+  const query = searchElement.value.trim().toLocaleLowerCase("ar");
+  let items = allTrends.filter(item =>
+    item.name.toLocaleLowerCase("ar").includes(query)
   );
-}
 
-function previousSnapshot() {
-  const period = $("periodSelect").value;
-  const cutoff = period === "all"
-    ? -Infinity
-    : Date.now() - Number(period) * 3600000;
-
-  const signature = snapshotSignature(currentData);
-
-  const candidates = history.filter(snapshot => {
-    const time = Date.parse(snapshot.savedAt || "");
-    return Number.isFinite(time) && time >= cutoff &&
-      snapshot.signature !== signature;
-  });
-
-  return candidates.length
-    ? candidates[candidates.length - 1]
-    : null;
-}
-
-function comparisonRows() {
-  const previous = previousSnapshot();
-
-  return currentData.map(item => {
-    const old = previous?.trends?.find(
-      trend => trend.title === item.title
-    );
-
-    const oldValue = old ? parseNumber(old.value) : null;
-    let change = null;
-
-    if (
-      item.value !== null &&
-      oldValue !== null &&
-      oldValue > 0
-    ) {
-      change = ((item.value - oldValue) / oldValue) * 100;
-    }
-
-    return {
-      ...item,
-      previous: oldValue,
-      change
-    };
-  });
-}
-
-function suspiciousRows(rows) {
-  return rows.filter(row =>
-    row.value !== null &&
-    row.previous !== null &&
-    row.previous >= SPIKE_MIN_BASELINE &&
-    row.change !== null &&
-    row.change >= SPIKE_PERCENT
-  );
-}
-
-function saveSnapshot() {
-  if (!currentData.length) return;
-
-  const signature = snapshotSignature(currentData);
-  const last = history[history.length - 1];
-
-  // لا نحفظ القراءة نفسها مرتين.
-  if (last?.signature === signature) return;
-
-  history.push({
-    savedAt: new Date().toISOString(),
-    signature,
-    sourceUpdatedAt: currentMeta.updated_at || "",
-    source: currentMeta.source || "Google Trends",
-    count: currentData.length,
-    trends: currentData.map(row => ({
-      title: row.title,
-      value: row.value
-    }))
-  });
-
-  if (history.length > MAX_HISTORY) {
-    history = history.slice(-MAX_HISTORY);
+  if (sortElement.value === "name") {
+    items.sort((a, b) => a.name.localeCompare(b.name, "ar"));
   }
 
-  writeStorage(STORAGE_KEY, history);
-}
+  totalElement.textContent = allTrends.length.toLocaleString("ar-SA");
 
-function classification(row) {
-  if (row.value === null) return "لا تتوفر قيمة رقمية";
-  if (row.change === null) return "بانتظار قراءة قابلة للمقارنة";
-  if (row.change >= SPIKE_PERCENT) return "ارتفاع كبير";
-  if (row.change > 0) return "صاعد";
-  if (row.change < 0) return "هابط";
-  return "مستقر";
-}
-
-function renderTables(rows) {
-  $("topTrends").innerHTML = rows.length
-    ? rows.map(row => `
-      <tr>
-        <td><strong>${escapeHTML(row.title)}</strong></td>
-        <td>${number(row.value)}</td>
-        <td>${row.change === null
-          ? '<span class="muted">غير متاح</span>'
-          : percent(row.change)}</td>
-        <td>${escapeHTML(classification(row))}</td>
-      </tr>`).join("")
-    : '<tr><td colspan="4" class="empty">لا توجد ترندات في ملف البيانات.</td></tr>';
-
-  $("allTrends").innerHTML = rows.length
-    ? rows.map(row => `
-      <tr>
-        <td>${escapeHTML(row.title)}</td>
-        <td>${number(row.value)}</td>
-        <td>${number(row.previous)}</td>
-        <td>${row.change === null ? "غير متوفر" : percent(row.change)}</td>
-        <td>${escapeHTML(classification(row))}</td>
-      </tr>`).join("")
-    : '<tr><td colspan="5" class="empty">لا توجد بيانات لعرضها.</td></tr>';
-}
-
-function renderSuspicious(rows) {
-  const suspects = suspiciousRows(rows);
-
-  $("statSuspicious").textContent = number(suspects.length);
-  $("suspiciousCountPill").textContent = suspects.length
-    ? number(suspects.length) + " تحتاج مراجعة"
-    : "لا توجد مؤشرات كافية";
-
-  const html = suspects.length
-    ? suspects.map(row => `
-      <div class="alert-item">
-        <strong>${escapeHTML(row.title)}</strong>
-        <p>التغير المسجل: ${percent(row.change)}. ارتفاع يستدعي المراجعة، لكنه لا يثبت وجود بوتات.</p>
-      </div>`).join("")
-    : '<div class="empty">لا توجد قفزات قابلة للتحقق أو لا تتوفر قراءات سابقة للمقارنة.</div>';
-
-  $("suspiciousPreview").innerHTML = html;
-  $("suspiciousFull").innerHTML = html;
-}
-
-function renderHistory() {
-  $("historyTable").innerHTML = history.length
-    ? history.slice().reverse().map(snapshot => {
-      const values = (snapshot.trends || [])
-        .map(trend => parseNumber(trend.value))
-        .filter(value => value !== null);
-
-      const average = values.length
-        ? values.reduce((a, b) => a + b, 0) / values.length
-        : null;
-
-      return `<tr>
-        <td>${escapeHTML(new Date(snapshot.savedAt).toLocaleString("ar-SA"))}</td>
-        <td>${number(snapshot.count)}</td>
-        <td>${number(average)}</td>
-        <td>${escapeHTML(snapshot.source || "Google Trends")}</td>
-      </tr>`;
-    }).join("")
-    : '<tr><td colspan="4" class="empty">لا توجد قراءات محفوظة بعد.</td></tr>';
-}
-
-function renderChart() {
-  const area = $("chartArea");
-  const values = history.slice(-12).map(snapshot => {
-    const nums = (snapshot.trends || [])
-      .map(trend => parseNumber(trend.value))
-      .filter(value => value !== null);
-
-    return nums.length
-      ? nums.reduce((a, b) => a + b, 0) / nums.length
-      : null;
-  }).filter(value => value !== null);
-
-  if (values.length < 2) {
-    area.className = "empty";
-    area.textContent = "سيظهر الرسم عند توفر قراءتين رقميتين على الأقل.";
-    $("chartMessage").textContent =
-      "لا تتوفر قراءات رقمية كافية للرسم حتى الآن.";
+  if (!items.length) {
+    trendsElement.innerHTML =
+      '<div class="empty">لا توجد نتائج مطابقة لبحثك.</div>';
     return;
   }
 
-  const min = Math.min(...values);
-  const max = Math.max(...values);
-  const range = max - min || 1;
+  trendsElement.innerHTML = items.map((item, index) => {
+    const growth = getGrowth(item);
+    const growthClass = growth !== null && growth < 0 ? "growth" : "green";
 
-  const points = values.map((value, index) => {
-    const x = 15 + index * (570 / (values.length - 1));
-    const y = 205 - ((value - min) / range) * 170;
-    return `${x},${y}`;
-  }).join(" ");
-
-  area.className = "";
-  area.innerHTML = `<svg viewBox="0 0 600 230" style="width:100%;height:220px">
-    <polyline points="${points}" fill="none" stroke="#35d68a"
-      stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    ${values.map((value, index) => {
-      const x = 15 + index * (570 / (values.length - 1));
-      const y = 205 - ((value - min) / range) * 170;
-      return `<circle cx="${x}" cy="${y}" r="4" fill="#c8a85b"/>`;
-    }).join("")}
-  </svg>`;
-
-  $("chartMessage").textContent =
-    "يعرض الرسم متوسط القيم الرقمية في السجل المحلي، وليس مقياسًا رسميًا مستقلًا.";
-}
-
-function render() {
-  const rows = comparisonRows();
-
-  $("statTotal").textContent = number(currentData.length);
-
-  $("statUp").textContent = number(
-    rows.filter(row => row.change !== null && row.change > 0).length
-  );
-
-  const changes = rows
-    .map(row => row.change)
-    .filter(value => value !== null);
-
-  $("statChange").textContent = changes.length
-    ? percent(changes.reduce((a, b) => a + b, 0) / changes.length)
-    : "—";
-
-  renderTables(rows);
-  renderSuspicious(rows);
-  renderHistory();
-  renderChart();
-
-  $("lastUpdated").textContent = currentMeta.updated_at
-    ? new Date(currentMeta.updated_at).toLocaleString("ar-SA")
-    : "غير محدد من المصدر";
+    return `
+      <article class="trend">
+        <div class="trend-top">
+          <div class="trend-name">${escapeHTML(item.name)}</div>
+          <span class="rank">#${(index + 1).toLocaleString("ar-SA")}</span>
+        </div>
+        <div class="trend-meta">
+          <div class="metric">
+            <div class="metric-label">حجم البحث التقريبي</div>
+            <div class="metric-value">${escapeHTML(formatVolume(item.volume))}</div>
+          </div>
+          <div class="metric">
+            <div class="metric-label">نسبة التغير</div>
+            <div class="metric-value ${growthClass}">${escapeHTML(formatGrowth(item))}</div>
+          </div>
+        </div>
+        <div class="small" style="margin-top:12px">
+          المصدر: Google Trends
+        </div>
+      </article>
+    `;
+  }).join("");
 }
 
 async function loadData() {
-  if (loading) return;
-
-  loading = true;
-  $("refreshBtn").disabled = true;
-  setStatus("", "جاري تحميل البيانات...");
+  refreshButton.disabled = true;
+  statusElement.textContent = "جارٍ جلب البيانات…";
 
   try {
-    const url = DATA_URL + (DATA_URL.includes("?") ? "&" : "?") +
-      "_=" + Date.now();
-
-    const response = await fetch(url, { cache: "no-store" });
+    const response = await fetch(DATA_URL + "?t=" + Date.now(), {
+      cache: "no-store"
+    });
 
     if (!response.ok) {
-      throw new Error(
-        "تعذر فتح ملف البيانات (HTTP " + response.status + ")."
-      );
+      throw new Error("تعذر الوصول إلى ملف البيانات");
     }
 
-    const json = await response.json();
-    const rows = extractRows(json);
+    const data = await response.json();
+    allTrends = normalizeData(data);
 
-    if (!rows.length) {
-      throw new Error(
-        "الملف موجود لكنه لا يحتوي على ترندات بالتنسيق المعروف."
-      );
+    renderTrends();
+
+    if (data.updated_at) {
+      const date = new Date(data.updated_at);
+      updatedElement.textContent = Number.isNaN(date.getTime())
+        ? data.updated_at
+        : date.toLocaleString("ar-SA");
+    } else {
+      updatedElement.textContent = "غير محدد";
     }
 
-    currentData = rows;
-    currentMeta = {
-      updated_at: json?.updated_at ||
-        json?.last_updated ||
-        json?.meta?.updated_at || "",
-      source: json?.source ||
-        json?.meta?.source || "Google Trends"
-    };
-
-    // نحسب المقارنة قبل حفظ القراءة الجديدة.
-    render();
-    saveSnapshot();
-    renderHistory();
-    renderChart();
-
-    setStatus("ok", "تم تحميل " + rows.length + " ترندات");
-    notice(
-      "تم تحميل " + rows.length + " موضوعًا. تُحسب نسبة التغير فقط عند توفر قراءة سابقة قابلة للمقارنة.",
-      "success"
-    );
+    statusElement.textContent = allTrends.length
+      ? "تم تحميل البيانات"
+      : "لا توجد ترندات في الملف";
   } catch (error) {
-    setStatus("bad", "تعذر تحميل البيانات");
-
-    notice(
-      "تعذر تحميل الترندات: " + error.message +
-      " تأكد من وجود الملف في المسار: " + DATA_URL,
-      "error"
-    );
-
-    $("topTrends").innerHTML =
-      '<tr><td colspan="4" class="empty">تعذر تحميل البيانات. راجع رسالة الخطأ أعلى الصفحة.</td></tr>';
-
-    $("allTrends").innerHTML =
-      '<tr><td colspan="5" class="empty">لا توجد بيانات معروضة بسبب خطأ التحميل.</td></tr>';
-
-    $("suspiciousPreview").innerHTML =
-      '<div class="empty">تعذر تحليل البيانات قبل تحميلها.</div>';
-
-    $("suspiciousFull").innerHTML =
-      '<div class="empty">تعذر تحليل البيانات قبل تحميلها.</div>';
-
-    $("statTotal").textContent = "—";
-    $("statUp").textContent = "—";
-    $("statChange").textContent = "—";
-    $("statSuspicious").textContent = "—";
+    trendsElement.innerHTML =
+      '<div class="empty">تعذر تحميل البيانات. تأكد من نشر الموقع ووجود الملف data/x-trends.json.</div>';
+    totalElement.textContent = "—";
+    updatedElement.textContent = "غير متاح";
+    statusElement.textContent = "فشل تحميل البيانات";
   } finally {
-    loading = false;
-    $("refreshBtn").disabled = false;
+    refreshButton.disabled = false;
   }
 }
 
-document.querySelectorAll("[data-tab]").forEach(button => {
-  button.addEventListener("click", () => {
-    document.querySelectorAll("[data-tab]").forEach(item =>
-      item.classList.toggle("active", item === button)
-    );
+searchElement.addEventListener("input", renderTrends);
+sortElement.addEventListener("change", renderTrends);
+refreshButton.addEventListener("click", loadData);
 
-    document.querySelectorAll(".section").forEach(section =>
-      section.classList.toggle("active", section.id === button.dataset.tab)
-    );
-  });
-});
-
-$("refreshBtn").addEventListener("click", loadData);
-$("periodSelect").addEventListener("change", render);
-
-$("alertsBtn").addEventListener("click", async () => {
-  if (!("Notification" in window)) {
-    notice("المتصفح لا يدعم إشعارات الويب.", "info");
-    return;
-  }
-
-  try {
-    const permission = await Notification.requestPermission();
-
-    if (permission === "granted") {
-      new Notification("مرصد", {
-        body: "تم تفعيل الإشعارات لهذا الموقع."
-      });
-      notice("تم السماح بالإشعارات في هذا المتصفح.", "success");
-    } else {
-      notice("لم يتم السماح بالإشعارات. تحقق من إعدادات المتصفح.", "info");
-    }
-  } catch {
-    notice("تعذر تفعيل الإشعارات في هذا المتصفح.", "error");
-  }
-});
-
-$("exportBtn").addEventListener("click", () => {
-  const blob = new Blob(
-    [JSON.stringify(history, null, 2)],
-    { type: "application/json;charset=utf-8" }
-  );
-
-  const url = URL.createObjectURL(blob);
-  const link = document.createElement("a");
-
-  link.href = url;
-  link.download = "marsad-history.json";
-  link.click();
-
-  setTimeout(() => URL.revokeObjectURL(url), 1000);
-});
-
-$("clearHistoryBtn").addEventListener("click", () => {
-  if (!confirm("هل أنت متأكد من مسح السجل المحلي؟")) return;
-
-  history = [];
-  writeStorage(STORAGE_KEY, history);
-  render();
-
-  notice("تم مسح السجل المحلي من هذا المتصفح.", "success");
-});
-
-renderHistory();
 loadData();
 </script>
+</body>
+</html>
