@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T14:51:50.670781+00:00",
+  "updated_at": "2026-10-16T15:50:00.934437+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,55 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بني ياس ضد الوصل",
+          "created_at": "Fri, 16 Oct 2026 08:40:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بيراميدز",
+          "created_at": "Fri, 16 Oct 2026 08:40:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سي إن إن",
+          "created_at": "Fri, 16 Oct 2026 08:30:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الهلال والرياض",
+          "created_at": "Fri, 16 Oct 2026 08:30:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إيران",
+          "created_at": "Fri, 16 Oct 2026 08:10:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "الحرس الوطني",
+          "created_at": "Fri, 16 Oct 2026 07:40:00 -0700",
+          "metrics": {
+            "search_volume": ""
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "المغرب",
           "created_at": "Fri, 16 Oct 2026 07:40:00 -0700",
           "metrics": {
             "search_volume": ""
@@ -34,54 +82,6 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "prize bond",
           "created_at": "Fri, 16 Oct 2026 06:30:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "zimbabwe vs india",
-          "created_at": "Fri, 16 Oct 2026 06:10:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رجوة الحسين",
-          "created_at": "Fri, 16 Oct 2026 06:10:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ايفون ديو",
-          "created_at": "Fri, 16 Oct 2026 05:50:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "القادسية ضد أبها",
-          "created_at": "Fri, 16 Oct 2026 05:30:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إقالة",
-          "created_at": "Fri, 16 Oct 2026 05:10:00 -0700",
-          "metrics": {
-            "search_volume": ""
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ابل",
-          "created_at": "Fri, 16 Oct 2026 05:10:00 -0700",
           "metrics": {
             "search_volume": ""
           }
