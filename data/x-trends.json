@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T02:48:49.611532+00:00",
+  "updated_at": "2026-10-17T03:48:52.942839+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,20 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تهريب",
-          "created_at": "Fri, 16 Oct 2026 17:10:00 -0700",
+          "text": "كأس آسيا 2027",
+          "created_at": "Fri, 16 Oct 2026 20:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اخبار اليمن",
-          "created_at": "Fri, 16 Oct 2026 16:30:00 -0700",
+          "text": "دونالد ترمب",
+          "created_at": "Fri, 16 Oct 2026 20:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kick",
+          "created_at": "Fri, 16 Oct 2026 20:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تهريب",
+          "created_at": "Fri, 16 Oct 2026 17:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -29,8 +47,8 @@
           "text": "مطار الملك عبدالعزيز الدولي",
           "created_at": "Fri, 16 Oct 2026 16:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "100+",
+            "growth_percent": -50.0
           }
         },
         {
@@ -53,6 +71,15 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الحرس",
+          "created_at": "Fri, 16 Oct 2026 14:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "rajinikanth jailer movie review",
           "created_at": "Fri, 16 Oct 2026 14:30:00 -0700",
           "metrics": {
@@ -67,33 +94,6 @@
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ركلة جزاء",
-          "created_at": "Fri, 16 Oct 2026 13:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بيرنلي ضد وولفرهامبتون",
-          "created_at": "Fri, 16 Oct 2026 12:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مضيق هرمز",
-          "created_at": "Fri, 16 Oct 2026 12:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
           }
         }
       ]
