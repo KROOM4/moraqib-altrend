@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T14:43:56.394220+00:00",
+  "updated_at": "2026-10-17T15:07:13.144889+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نيوم ضد الاتفاق",
+          "created_at": "Sat, 17 Oct 2026 08:00:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تجارة",
+          "created_at": "Sat, 17 Oct 2026 07:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "strasbourg vs psg",
+          "created_at": "Sat, 17 Oct 2026 07:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "bristol city vs sheffield united",
           "created_at": "Sat, 17 Oct 2026 07:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,22 +48,13 @@
           "created_at": "Sat, 17 Oct 2026 07:10:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "فولهام ضد هال سيتي",
           "created_at": "Sat, 17 Oct 2026 07:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "villarreal vs elche",
-          "created_at": "Sat, 17 Oct 2026 07:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
@@ -53,6 +71,15 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدوري الإنجليزي الممتاز",
+          "created_at": "Sat, 17 Oct 2026 07:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "يونيون برلين ضد دورتموند",
           "created_at": "Sat, 17 Oct 2026 07:00:00 -0700",
           "metrics": {
@@ -62,38 +89,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "everton f.c. vs chelsea f.c. standings",
-          "created_at": "Sat, 17 Oct 2026 06:50:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cricbuzz",
-          "created_at": "Sat, 17 Oct 2026 06:50:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "tanker",
-          "created_at": "Sat, 17 Oct 2026 06:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": -50.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جريمة",
-          "created_at": "Sat, 17 Oct 2026 06:40:00 -0700",
+          "text": "saudis",
+          "created_at": "Sat, 17 Oct 2026 07:00:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": -90.0
+            "growth_percent": null
           }
         }
       ]
