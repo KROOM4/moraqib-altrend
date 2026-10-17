@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T02:12:25.291240+00:00",
+  "updated_at": "2026-10-17T02:48:49.611532+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -53,15 +53,6 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الحرس",
-          "created_at": "Fri, 16 Oct 2026 14:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "rajinikanth jailer movie review",
           "created_at": "Fri, 16 Oct 2026 14:30:00 -0700",
           "metrics": {
@@ -83,8 +74,8 @@
           "text": "ركلة جزاء",
           "created_at": "Fri, 16 Oct 2026 13:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -94,6 +85,15 @@
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مضيق هرمز",
+          "created_at": "Fri, 16 Oct 2026 12:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
           }
         }
       ]
