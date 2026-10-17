@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T15:07:13.144889+00:00",
+  "updated_at": "2026-10-17T15:43:56.059976+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "شباب الأهلي ضد العين",
+          "created_at": "Sat, 17 Oct 2026 08:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bologna vs inter",
+          "created_at": "Sat, 17 Oct 2026 08:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "epl",
+          "created_at": "Sat, 17 Oct 2026 08:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "نيوم ضد الاتفاق",
           "created_at": "Sat, 17 Oct 2026 08:00:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,7 +48,7 @@
           "created_at": "Sat, 17 Oct 2026 07:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,7 +56,16 @@
           "text": "strasbourg vs psg",
           "created_at": "Sat, 17 Oct 2026 07:40:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "2000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ستراسبورغ ضد بي اس جي",
+          "created_at": "Sat, 17 Oct 2026 07:40:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
@@ -38,8 +74,17 @@
           "text": "bristol city vs sheffield united",
           "created_at": "Sat, 17 Oct 2026 07:20:00 -0700",
           "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "union berlin vs dortmund",
+          "created_at": "Sat, 17 Oct 2026 07:20:00 -0700",
+          "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
@@ -47,53 +92,8 @@
           "text": "الاهلي المصري",
           "created_at": "Sat, 17 Oct 2026 07:10:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فولهام ضد هال سيتي",
-          "created_at": "Sat, 17 Oct 2026 07:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fulham vs hull",
-          "created_at": "Sat, 17 Oct 2026 07:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدوري الإنجليزي الممتاز",
-          "created_at": "Sat, 17 Oct 2026 07:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "يونيون برلين ضد دورتموند",
-          "created_at": "Sat, 17 Oct 2026 07:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saudis",
-          "created_at": "Sat, 17 Oct 2026 07:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         }
       ]
