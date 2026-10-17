@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T10:45:13.502285+00:00",
+  "updated_at": "2026-10-17T11:08:18.344240+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر",
+          "created_at": "Sat, 17 Oct 2026 03:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "everton vs chelsea",
+          "created_at": "Sat, 17 Oct 2026 03:40:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إيفرتون ضد تشيلسي",
+          "created_at": "Sat, 17 Oct 2026 03:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ebay",
+          "created_at": "Sat, 17 Oct 2026 03:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "عبد الفتاح السيسي",
           "created_at": "Sat, 17 Oct 2026 03:10:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -20,8 +56,8 @@
           "text": "المصري اليوم",
           "created_at": "Sat, 17 Oct 2026 02:40:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,6 +74,15 @@
           "text": "ban vs zim",
           "created_at": "Sat, 17 Oct 2026 02:10:00 -0700",
           "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": 1900.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "زكريا هوساوي",
+          "created_at": "Sat, 17 Oct 2026 02:00:00 -0700",
+          "metrics": {
             "search_volume": "100+",
             "growth_percent": null
           }
@@ -46,51 +91,6 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "القوات المسلحة السودانية",
           "created_at": "Sat, 17 Oct 2026 02:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kuwait",
-          "created_at": "Sat, 17 Oct 2026 01:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "বাংলাদেশ",
-          "created_at": "Sat, 17 Oct 2026 01:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "aden international airport",
-          "created_at": "Sat, 17 Oct 2026 01:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kavya maran",
-          "created_at": "Sat, 17 Oct 2026 00:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "yandex",
-          "created_at": "Fri, 16 Oct 2026 22:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
