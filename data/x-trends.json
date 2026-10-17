@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T13:26:40.393615+00:00",
+  "updated_at": "2026-10-17T13:44:21.288286+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,65 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "القتل",
+          "created_at": "Sat, 17 Oct 2026 06:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "india vs west indies",
+          "created_at": "Sat, 17 Oct 2026 06:20:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "برينتفورد ضد ليفربول",
+          "created_at": "Sat, 17 Oct 2026 06:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "brentford vs liverpool",
+          "created_at": "Sat, 17 Oct 2026 06:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "saudi flights cancelled",
+          "created_at": "Sat, 17 Oct 2026 06:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "gençlerbirliği vs galatasaray",
+          "created_at": "Sat, 17 Oct 2026 06:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "ind vs wi",
           "created_at": "Sat, 17 Oct 2026 06:10:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -20,8 +74,8 @@
           "text": "man city vs ipswich town",
           "created_at": "Sat, 17 Oct 2026 06:10:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -29,8 +83,8 @@
           "text": "مان سيتي ضد إيبسويتش تاون",
           "created_at": "Sat, 17 Oct 2026 06:10:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,62 +92,8 @@
           "text": "vaibhav sooryavanshi",
           "created_at": "Sat, 17 Oct 2026 06:10:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سلاح",
-          "created_at": "Sat, 17 Oct 2026 06:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "persita vs persija jakarta",
-          "created_at": "Sat, 17 Oct 2026 05:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "arsenal vs birmingham city",
-          "created_at": "Sat, 17 Oct 2026 05:30:00 -0700",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دولار أمريكي",
-          "created_at": "Sat, 17 Oct 2026 05:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "എയര് ഇന്ത്യ",
-          "created_at": "Sat, 17 Oct 2026 05:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تعليم عن بعد",
-          "created_at": "Sat, 17 Oct 2026 04:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "growth_percent": 100.0
           }
         }
       ]

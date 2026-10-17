@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-17T13:26:40.393615+00:00",
+  "updated_at": "2026-10-17T13:44:21.288286+00:00",
   "trends": {
-    "ind vs wi": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-17T13:26:40.393615+00:00"
-    },
-    "man city vs ipswich town": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-17T13:26:40.393615+00:00"
-    },
-    "مان سيتي ضد إيبسويتش تاون": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-17T13:26:40.393615+00:00"
-    },
-    "vaibhav sooryavanshi": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-17T13:26:40.393615+00:00"
-    },
-    "سلاح": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-17T13:26:40.393615+00:00"
-    },
-    "persita vs persija jakarta": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-17T13:26:40.393615+00:00"
-    },
-    "arsenal vs birmingham city": {
+    "القتل": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-17T13:26:40.393615+00:00"
+      "updated_at": "2026-10-17T13:44:21.288286+00:00"
     },
-    "دولار أمريكي": {
+    "india vs west indies": {
+      "volume": 10000.0,
+      "raw_volume": "10000+",
+      "updated_at": "2026-10-17T13:44:21.288286+00:00"
+    },
+    "برينتفورد ضد ليفربول": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-17T13:44:21.288286+00:00"
+    },
+    "brentford vs liverpool": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-17T13:44:21.288286+00:00"
+    },
+    "saudi flights cancelled": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-17T13:44:21.288286+00:00"
+    },
+    "gençlerbirliği vs galatasaray": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-17T13:26:40.393615+00:00"
+      "updated_at": "2026-10-17T13:44:21.288286+00:00"
     },
-    "എയര് ഇന്ത്യ": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-17T13:26:40.393615+00:00"
+    "ind vs wi": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-17T13:44:21.288286+00:00"
     },
-    "تعليم عن بعد": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-17T13:26:40.393615+00:00"
+    "man city vs ipswich town": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-17T13:44:21.288286+00:00"
+    },
+    "مان سيتي ضد إيبسويتش تاون": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-17T13:44:21.288286+00:00"
+    },
+    "vaibhav sooryavanshi": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-17T13:44:21.288286+00:00"
     }
   }
 }
