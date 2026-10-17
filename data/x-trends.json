@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T06:09:53.869865+00:00",
+  "updated_at": "2026-10-17T06:58:44.231879+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,26 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "yandex",
-          "created_at": "Fri, 16 Oct 2026 22:50:00 -0700",
+          "text": "سعر الريال مقابل الجنيه المصري اليوم",
+          "created_at": "Fri, 16 Oct 2026 23:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jailer 2 box office collection",
+          "text": "yandex",
           "created_at": "Fri, 16 Oct 2026 22:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "رئيس",
           "created_at": "Fri, 16 Oct 2026 22:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "air arabia",
+          "created_at": "Fri, 16 Oct 2026 22:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -38,13 +47,22 @@
           "text": "canada vs nepal",
           "created_at": "Fri, 16 Oct 2026 22:10:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "hava durumu",
+          "text": "تركي المالكي",
+          "created_at": "Fri, 16 Oct 2026 21:10:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "സ്വര്ണം",
           "created_at": "Fri, 16 Oct 2026 20:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
@@ -53,47 +71,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "hava durumu",
+          "created_at": "Fri, 16 Oct 2026 20:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "oil tanker",
           "created_at": "Fri, 16 Oct 2026 20:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كأس آسيا 2027",
-          "created_at": "Fri, 16 Oct 2026 20:20:00 -0700",
+          "text": "ناس",
+          "created_at": "Fri, 16 Oct 2026 20:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دونالد ترمب",
-          "created_at": "Fri, 16 Oct 2026 20:10:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kick",
-          "created_at": "Fri, 16 Oct 2026 20:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إيفانكا ترامب",
-          "created_at": "Fri, 16 Oct 2026 18:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
           }
         }
       ]
