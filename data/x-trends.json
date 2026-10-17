@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T03:48:52.942839+00:00",
+  "updated_at": "2026-10-17T04:48:04.471459+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -12,7 +12,7 @@
           "created_at": "Fri, 16 Oct 2026 20:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -20,8 +20,8 @@
           "text": "دونالد ترمب",
           "created_at": "Fri, 16 Oct 2026 20:10:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +30,7 @@
           "created_at": "Fri, 16 Oct 2026 20:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +39,7 @@
           "created_at": "Fri, 16 Oct 2026 17:10:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +48,7 @@
           "created_at": "Fri, 16 Oct 2026 16:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": -50.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -71,15 +71,6 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الحرس",
-          "created_at": "Fri, 16 Oct 2026 14:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "rajinikanth jailer movie review",
           "created_at": "Fri, 16 Oct 2026 14:30:00 -0700",
           "metrics": {
@@ -94,6 +85,15 @@
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ركلة جزاء",
+          "created_at": "Fri, 16 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
           }
         }
       ]
