@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T20:44:13.834983+00:00",
+  "updated_at": "2026-10-17T21:08:01.014994+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نادي ضمك",
+          "created_at": "Sat, 17 Oct 2026 13:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al draih vs al-taawoun fc standings",
+          "created_at": "Sat, 17 Oct 2026 13:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "كأس الخليج العربي",
           "created_at": "Sat, 17 Oct 2026 13:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +39,7 @@
           "created_at": "Sat, 17 Oct 2026 12:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +66,16 @@
           "created_at": "Sat, 17 Oct 2026 12:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ام القنابل",
+          "created_at": "Sat, 17 Oct 2026 12:30:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -62,37 +89,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ام القنابل",
-          "created_at": "Sat, 17 Oct 2026 12:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": -60.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "വിമാനത്താവളം",
           "created_at": "Sat, 17 Oct 2026 12:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "real betis vs fc barcelona standings",
-          "created_at": "Sat, 17 Oct 2026 11:50:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "التعاون",
-          "created_at": "Sat, 17 Oct 2026 11:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": 0.0
           }
         }
