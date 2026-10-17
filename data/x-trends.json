@@ -1,11 +1,20 @@
 {
-  "updated_at": "2026-10-17T09:45:45.992119+00:00",
+  "updated_at": "2026-10-17T10:09:05.544380+00:00",
   "source": "Google Trends",
   "results": [
     {
       "hashtag": "مواضيع رائجة في السعودية",
       "post_count": 10,
       "posts": [
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "elon musk tesla roadster flying car",
+          "created_at": "Sat, 17 Oct 2026 02:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "القوات المسلحة السودانية",
@@ -39,7 +48,7 @@
           "created_at": "Sat, 17 Oct 2026 01:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +57,7 @@
           "created_at": "Sat, 17 Oct 2026 00:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -85,15 +94,6 @@
           "metrics": {
             "search_volume": "5000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدولار مقابل الجنيه",
-          "created_at": "Fri, 16 Oct 2026 21:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
           }
         }
       ]
