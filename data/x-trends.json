@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T04:48:04.471459+00:00",
+  "updated_at": "2026-10-17T05:45:41.274819+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كأس آسيا 2027",
-          "created_at": "Fri, 16 Oct 2026 20:20:00 -0700",
+          "text": "air arabia",
+          "created_at": "Fri, 16 Oct 2026 22:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "canada vs nepal",
+          "created_at": "Fri, 16 Oct 2026 22:10:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
           }
         },
         {
@@ -20,8 +29,8 @@
           "text": "دونالد ترمب",
           "created_at": "Fri, 16 Oct 2026 20:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -35,11 +44,38 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سلمان بن إبراهيم آل خليفة",
+          "created_at": "Fri, 16 Oct 2026 19:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إيفانكا ترامب",
+          "created_at": "Fri, 16 Oct 2026 18:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "تهريب",
           "created_at": "Fri, 16 Oct 2026 17:10:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اخبار اليمن",
+          "created_at": "Fri, 16 Oct 2026 16:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -47,8 +83,8 @@
           "text": "مطار الملك عبدالعزيز الدولي",
           "created_at": "Fri, 16 Oct 2026 16:10:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -58,42 +94,6 @@
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "houthis saudi arabia",
-          "created_at": "Fri, 16 Oct 2026 14:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "rajinikanth jailer movie review",
-          "created_at": "Fri, 16 Oct 2026 14:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "frosinone vs sassuolo",
-          "created_at": "Fri, 16 Oct 2026 13:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ركلة جزاء",
-          "created_at": "Fri, 16 Oct 2026 13:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
           }
         }
       ]
