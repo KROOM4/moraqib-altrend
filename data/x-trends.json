@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T12:53:35.849803+00:00",
+  "updated_at": "2026-10-17T13:26:40.393615+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,65 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ind vs wi",
+          "created_at": "Sat, 17 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "man city vs ipswich town",
+          "created_at": "Sat, 17 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مان سيتي ضد إيبسويتش تاون",
+          "created_at": "Sat, 17 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "vaibhav sooryavanshi",
+          "created_at": "Sat, 17 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سلاح",
+          "created_at": "Sat, 17 Oct 2026 06:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "persita vs persija jakarta",
+          "created_at": "Sat, 17 Oct 2026 05:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "arsenal vs birmingham city",
           "created_at": "Sat, 17 Oct 2026 05:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +75,7 @@
           "created_at": "Sat, 17 Oct 2026 05:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +83,8 @@
           "text": "എയര് ഇന്ത്യ",
           "created_at": "Sat, 17 Oct 2026 05:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -39,61 +93,7 @@
           "created_at": "Sat, 17 Oct 2026 04:50:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "chelsea",
-          "created_at": "Sat, 17 Oct 2026 04:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عبدالعزيز الشهري لاعب ضمك",
-          "created_at": "Sat, 17 Oct 2026 04:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إسبانيول ضد أتلتيكو مدريد",
-          "created_at": "Sat, 17 Oct 2026 04:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "espanyol vs atlético",
-          "created_at": "Sat, 17 Oct 2026 04:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اغلاق مطار الرياض",
-          "created_at": "Sat, 17 Oct 2026 04:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "zimbabwe vs bangladesh",
-          "created_at": "Sat, 17 Oct 2026 04:10:00 -0700",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 100.0
           }
         }
       ]
