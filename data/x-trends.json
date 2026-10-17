@@ -1,11 +1,20 @@
 {
-  "updated_at": "2026-10-17T08:08:25.423380+00:00",
+  "updated_at": "2026-10-17T08:46:53.946371+00:00",
   "source": "Google Trends",
   "results": [
     {
       "hashtag": "مواضيع رائجة في السعودية",
       "post_count": 10,
       "posts": [
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "aden international airport",
+          "created_at": "Sat, 17 Oct 2026 01:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "سيارة تسلا تطير",
@@ -17,11 +26,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الريال مقابل الجنيه المصري اليوم",
-          "created_at": "Fri, 16 Oct 2026 23:20:00 -0700",
+          "text": "kavya maran",
+          "created_at": "Sat, 17 Oct 2026 00:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "jailer 2 box office collection",
+          "created_at": "Fri, 16 Oct 2026 22:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -38,17 +56,17 @@
           "text": "رئيس",
           "created_at": "Fri, 16 Oct 2026 22:40:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
+            "search_volume": "1000+",
+            "growth_percent": -50.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "air arabia",
-          "created_at": "Fri, 16 Oct 2026 22:20:00 -0700",
+          "text": "saudi airlines",
+          "created_at": "Fri, 16 Oct 2026 22:40:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": null
           }
         },
         {
@@ -66,7 +84,7 @@
           "created_at": "Fri, 16 Oct 2026 21:50:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 400.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -75,24 +93,6 @@
           "created_at": "Fri, 16 Oct 2026 21:10:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "സ്വര്ണം",
-          "created_at": "Fri, 16 Oct 2026 20:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "hava durumu",
-          "created_at": "Fri, 16 Oct 2026 20:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
