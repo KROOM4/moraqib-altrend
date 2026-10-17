@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-17T17:08:45.101759+00:00",
+  "updated_at": "2026-10-17T17:42:18.335973+00:00",
   "trends": {
-    "laliga": {
+    "indian embassy riyadh": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-17T17:42:18.335973+00:00"
+    },
+    "ليغ 1": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-17T17:42:18.335973+00:00"
+    },
+    "مباراه الاهلي اليوم بث مباشر": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-17T17:42:18.335973+00:00"
+    },
+    "سامي الجابر": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-17T17:42:18.335973+00:00"
+    },
+    "سعر الريال السعودي اليوم": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-17T17:42:18.335973+00:00"
+    },
+    "مأرب": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-17T17:08:45.101759+00:00"
+      "updated_at": "2026-10-17T17:42:18.335973+00:00"
     },
     "barca": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-17T17:08:45.101759+00:00"
+      "updated_at": "2026-10-17T17:42:18.335973+00:00"
     },
-    "tilak varma": {
+    "fc barcelona": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-17T17:08:45.101759+00:00"
+      "updated_at": "2026-10-17T17:42:18.335973+00:00"
+    },
+    "تشكيلات الفِرَق: ريال بيتيس – نادي برشلونة": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-17T17:42:18.335973+00:00"
     },
     "fenerbahçe - alanyaspor": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-17T17:08:45.101759+00:00"
-    },
-    "arshdeep singh": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-17T17:08:45.101759+00:00"
-    },
-    "sanju samson": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-17T17:08:45.101759+00:00"
-    },
-    "ligue 1": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-17T17:08:45.101759+00:00"
-    },
-    "brentford f.c. vs liverpool f.c. standings": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-17T17:08:45.101759+00:00"
-    },
-    "abhishek sharma": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-17T17:08:45.101759+00:00"
-    },
-    "ishan kishan": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-17T17:08:45.101759+00:00"
+      "updated_at": "2026-10-17T17:42:18.335973+00:00"
     }
   }
 }
