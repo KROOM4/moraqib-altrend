@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-17T16:45:38.126524+00:00",
+  "updated_at": "2026-10-17T17:08:45.101759+00:00",
   "trends": {
+    "laliga": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-17T17:08:45.101759+00:00"
+    },
+    "barca": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-17T17:08:45.101759+00:00"
+    },
+    "tilak varma": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-17T17:08:45.101759+00:00"
+    },
+    "fenerbahçe - alanyaspor": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-17T17:08:45.101759+00:00"
+    },
+    "arshdeep singh": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-17T17:08:45.101759+00:00"
+    },
     "sanju samson": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-17T16:45:38.126524+00:00"
+      "updated_at": "2026-10-17T17:08:45.101759+00:00"
     },
-    "ترتيبات مانشستر سيتى – إيبسويتش تاون": {
+    "ligue 1": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-17T17:08:45.101759+00:00"
+    },
+    "brentford f.c. vs liverpool f.c. standings": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-10-17T16:45:38.126524+00:00"
+      "updated_at": "2026-10-17T17:08:45.101759+00:00"
     },
     "abhishek sharma": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-17T16:45:38.126524+00:00"
+      "updated_at": "2026-10-17T17:08:45.101759+00:00"
     },
     "ishan kishan": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-17T16:45:38.126524+00:00"
-    },
-    "تركي آل الشيخ": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-17T16:45:38.126524+00:00"
-    },
-    "نيوكاسل يونايتد ضد أستون فيلا": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-17T16:45:38.126524+00:00"
-    },
-    "man city": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-17T16:45:38.126524+00:00"
-    },
-    "البايرن ضد ار بي ليبزيج": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-17T16:45:38.126524+00:00"
-    },
-    "bayern vs rb leipzig": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-17T16:45:38.126524+00:00"
-    },
-    "أمن": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-17T16:45:38.126524+00:00"
+      "updated_at": "2026-10-17T17:08:45.101759+00:00"
     }
   }
 }

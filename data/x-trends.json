@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T16:45:38.126524+00:00",
+  "updated_at": "2026-10-17T17:08:45.101759+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sanju samson",
-          "created_at": "Sat, 17 Oct 2026 09:30:00 -0700",
+          "text": "laliga",
+          "created_at": "Sat, 17 Oct 2026 10:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,7 +17,61 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيبات مانشستر سيتى – إيبسويتش تاون",
+          "text": "barca",
+          "created_at": "Sat, 17 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "tilak varma",
+          "created_at": "Sat, 17 Oct 2026 09:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "fenerbahçe - alanyaspor",
+          "created_at": "Sat, 17 Oct 2026 09:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "arshdeep singh",
+          "created_at": "Sat, 17 Oct 2026 09:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sanju samson",
+          "created_at": "Sat, 17 Oct 2026 09:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ligue 1",
+          "created_at": "Sat, 17 Oct 2026 09:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "brentford f.c. vs liverpool f.c. standings",
           "created_at": "Sat, 17 Oct 2026 09:20:00 -0700",
           "metrics": {
             "search_volume": "1000+",
@@ -30,7 +84,7 @@
           "created_at": "Sat, 17 Oct 2026 09:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,61 +93,7 @@
           "created_at": "Sat, 17 Oct 2026 09:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تركي آل الشيخ",
-          "created_at": "Sat, 17 Oct 2026 09:00:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نيوكاسل يونايتد ضد أستون فيلا",
-          "created_at": "Sat, 17 Oct 2026 09:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "man city",
-          "created_at": "Sat, 17 Oct 2026 09:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "البايرن ضد ار بي ليبزيج",
-          "created_at": "Sat, 17 Oct 2026 08:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bayern vs rb leipzig",
-          "created_at": "Sat, 17 Oct 2026 08:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أمن",
-          "created_at": "Sat, 17 Oct 2026 08:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         }
       ]
