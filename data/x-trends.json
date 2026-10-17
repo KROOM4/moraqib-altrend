@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T09:10:58.470970+00:00",
+  "updated_at": "2026-10-17T09:45:45.992119+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -12,7 +12,7 @@
           "created_at": "Sat, 17 Oct 2026 02:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +21,7 @@
           "created_at": "Sat, 17 Oct 2026 01:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +30,7 @@
           "created_at": "Sat, 17 Oct 2026 01:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,17 +38,8 @@
           "text": "aden international airport",
           "created_at": "Sat, 17 Oct 2026 01:30:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سيارة تسلا تطير",
-          "created_at": "Sat, 17 Oct 2026 00:30:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -56,8 +47,8 @@
           "text": "kavya maran",
           "created_at": "Sat, 17 Oct 2026 00:10:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -75,7 +66,7 @@
           "created_at": "Fri, 16 Oct 2026 22:40:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -84,7 +75,7 @@
           "created_at": "Fri, 16 Oct 2026 22:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -94,6 +85,15 @@
           "metrics": {
             "search_volume": "5000+",
             "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدولار مقابل الجنيه",
+          "created_at": "Fri, 16 Oct 2026 21:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         }
       ]
