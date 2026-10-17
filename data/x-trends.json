@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T13:44:21.288286+00:00",
+  "updated_at": "2026-10-17T14:08:13.551730+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "القتل",
-          "created_at": "Sat, 17 Oct 2026 06:30:00 -0700",
+          "text": "villarreal vs elche",
+          "created_at": "Sat, 17 Oct 2026 07:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,35 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "india vs west indies",
-          "created_at": "Sat, 17 Oct 2026 06:20:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "برينتفورد ضد ليفربول",
-          "created_at": "Sat, 17 Oct 2026 06:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "brentford vs liverpool",
-          "created_at": "Sat, 17 Oct 2026 06:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saudi flights cancelled",
-          "created_at": "Sat, 17 Oct 2026 06:20:00 -0700",
+          "text": "fulham vs hull",
+          "created_at": "Sat, 17 Oct 2026 07:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -53,8 +26,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gençlerbirliği vs galatasaray",
-          "created_at": "Sat, 17 Oct 2026 06:20:00 -0700",
+          "text": "يونيون برلين ضد دورتموند",
+          "created_at": "Sat, 17 Oct 2026 07:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -62,38 +35,65 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ind vs wi",
-          "created_at": "Sat, 17 Oct 2026 06:10:00 -0700",
+          "text": "cricbuzz",
+          "created_at": "Sat, 17 Oct 2026 06:50:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "tanker",
+          "created_at": "Sat, 17 Oct 2026 06:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جريمة",
+          "created_at": "Sat, 17 Oct 2026 06:40:00 -0700",
           "metrics": {
             "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "venezia vs napoli",
+          "created_at": "Sat, 17 Oct 2026 06:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بث مباريات اليوم",
+          "created_at": "Sat, 17 Oct 2026 06:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "القتل",
+          "created_at": "Sat, 17 Oct 2026 06:30:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": 150.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "man city vs ipswich town",
-          "created_at": "Sat, 17 Oct 2026 06:10:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مان سيتي ضد إيبسويتش تاون",
-          "created_at": "Sat, 17 Oct 2026 06:10:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "vaibhav sooryavanshi",
-          "created_at": "Sat, 17 Oct 2026 06:10:00 -0700",
+          "text": "india national cricket team",
+          "created_at": "Sat, 17 Oct 2026 06:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": null
           }
         }
       ]
