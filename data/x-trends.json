@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T20:02:47.374380+00:00",
+  "updated_at": "2026-10-17T20:44:13.834983+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ilhan omar",
+          "text": "كأس الخليج العربي",
+          "created_at": "Sat, 17 Oct 2026 13:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "troyes vs lens",
           "created_at": "Sat, 17 Oct 2026 12:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ilhan omar",
+          "created_at": "Sat, 17 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +47,8 @@
           "text": "real madrid vs espanyol",
           "created_at": "Sat, 17 Oct 2026 12:30:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -47,17 +65,8 @@
           "text": "ام القنابل",
           "created_at": "Sat, 17 Oct 2026 12:30:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بوندسليغا",
-          "created_at": "Sat, 17 Oct 2026 12:20:00 -0700",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": -60.0
           }
         },
         {
@@ -84,15 +93,6 @@
           "created_at": "Sat, 17 Oct 2026 11:50:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "روما ضد جنوى",
-          "created_at": "Sat, 17 Oct 2026 11:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         }
