@@ -20,7 +20,8 @@ body{
   margin:0;background:radial-gradient(ellipse at 75% -15%,#3a2b142c,transparent 42%),var(--bg);
   color:var(--text);font-family:"Segoe UI",Tahoma,Arial,sans-serif;min-height:100vh
 }
-button,input,select{font:inherit}button{cursor:pointer}
+button,input,select{font:inherit}
+button{cursor:pointer}
 a{color:inherit;text-decoration:none}
 .app{display:flex;min-height:100vh}
 .sidebar{
@@ -89,7 +90,8 @@ table{width:100%;border-collapse:collapse;min-width:620px;text-align:right}
 thead{background:#141419}
 th{color:#898993;font-weight:600;font-size:11px;padding:14px 18px;white-space:nowrap}
 td{padding:16px 18px;border-top:1px solid #25252b;font-size:12px}
-tbody tr{transition:background .15s}tbody tr:hover{background:#d8b56a06}
+tbody tr{transition:background .15s}
+tbody tr:hover{background:#d8b56a06}
 .trend-name{display:flex;align-items:center;gap:12px;font-weight:650;min-width:180px}
 .trend-index{width:31px;height:31px;display:grid;place-items:center;background:#211d14;border:1px solid #6e583126;color:var(--gold);border-radius:9px;font-size:11px;flex-shrink:0}
 .volume{font-weight:700;font-variant-numeric:tabular-nums}
@@ -138,6 +140,32 @@ tbody tr{transition:background .15s}tbody tr:hover{background:#d8b56a06}
 .explorer-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
 .explorer-links a{display:inline-block;border:1px solid var(--border);padding:7px 10px;border-radius:8px;font-size:11px;color:var(--gold-light);background:#d8b56a08}
 .explorer-links a:hover{border-color:#8b713e}
+
+/* إضافات قائمة الهاشتاقات */
+.watch-form{display:flex;gap:10px;flex-wrap:wrap;padding:18px 20px}
+.watch-form input{
+  flex:1;min-width:180px;background:#0b0c10;color:var(--text);
+  border:1px solid var(--border);border-radius:9px;padding:12px;outline:none
+}
+.watch-form input:focus{border-color:var(--gold)}
+.watch-list{padding:0 20px 20px}
+.watch-item{
+  display:flex;justify-content:space-between;align-items:center;gap:12px;
+  flex-wrap:wrap;padding:14px;margin-top:10px;background:#111217;
+  border:1px solid var(--border);border-radius:12px
+}
+.watch-item.paused{opacity:.65}
+.watch-name{font-weight:700;overflow-wrap:anywhere}
+.watch-status{color:var(--muted);font-size:11px;margin-top:6px}
+.watch-actions{display:flex;gap:7px;flex-wrap:wrap}
+.watch-actions button{
+  border:1px solid #79643a;border-radius:8px;color:var(--gold-light);
+  background:#292216;padding:8px 10px;font-size:11px
+}
+.watch-actions button:hover{background:#3a2d18}
+.watch-actions .delete-btn{border-color:#713b3b;background:#2b1719;color:#ffaaaa}
+.watch-note{padding:0 20px 18px;color:var(--muted);font-size:11px;line-height:2}
+.watch-empty{padding:20px;text-align:center;color:var(--muted);font-size:12px}
 @media(max-width:1100px){.sidebar{width:205px}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:760px){
  .app{display:block}.sidebar{width:100%;padding:14px 16px;border-left:0;border-bottom:1px solid var(--border);gap:14px}
@@ -155,6 +183,8 @@ tbody tr{transition:background .15s}tbody tr:hover{background:#d8b56a06}
  .analysis-row{grid-template-columns:1fr;gap:8px;padding:15px}
  .analysis-banner{padding:17px}.analysis-emblem{width:40px;height:40px}
  .source-note{flex-direction:column}.explorer-form{grid-template-columns:1fr}
+ .watch-form{padding:15px}.watch-list{padding:0 15px 15px}
+ .watch-note{padding:0 15px 15px}
 }
 @media(max-width:390px){.stats{grid-template-columns:1fr}.topbar{align-items:flex-start;flex-direction:column}}
 </style>
@@ -173,6 +203,7 @@ tbody tr{transition:background .15s}tbody tr:hover{background:#d8b56a06}
     <nav class="nav">
       <a href="#overview" class="active"><span class="nav-icon">◈</span> لوحة المراقبة</a>
       <a href="#explorer"><span class="nav-icon">⌕</span> استكشاف موضوع</a>
+      <a href="#my-hashtags"><span class="nav-icon">#</span> هاشتاقاتي</a>
       <a href="#trends"><span class="nav-icon">⌁</span> الترندات المرصودة</a>
       <a href="#activity"><span class="nav-icon">⌘</span> تحليل النشاط</a>
       <a href="#about"><span class="nav-icon">ⓘ</span> حول المرصد</a>
@@ -228,6 +259,32 @@ tbody tr{transition:background .15s}tbody tr:hover{background:#d8b56a06}
             <a href="https://trends.google.com/trending?geo=SA" target="_blank" rel="noopener noreferrer">الترندات الرائجة في السعودية ↗</a>
             <a href="https://trends.google.com/trends/" target="_blank" rel="noopener noreferrer">الصفحة الرئيسية لـ Google Trends ↗</a>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- قسم الهاشتاقات الجديدة -->
+    <section id="my-hashtags">
+      <div class="section-title">
+        <div>
+          <h2>هاشتاقاتي المرصودة</h2>
+          <p>أضف هاشتاقات أو أسماء حسابات واحفظ قائمتك في هذا المتصفح</p>
+        </div>
+      </div>
+      <div class="panel">
+        <form id="hashtagForm" class="watch-form">
+          <input id="hashtagInput" type="text" maxlength="100"
+            placeholder="مثال: #السعودية أو #جلاجل أو اسم حساب"
+            aria-label="هاشتاق أو اسم حساب" required>
+          <button class="btn" type="submit">＋ إضافة إلى القائمة</button>
+        </form>
+        <div id="hashtagList" class="watch-list">
+          <div class="watch-empty">جارٍ تحميل قائمتك...</div>
+        </div>
+        <div class="watch-note">
+          الإضافة تحفظ الموضوع في قائمتك فقط. زر Google Trends يفتح بيانات الاهتمام بالبحث؛
+          ولا يجلب عدد منشورات X أو يثبت أن النشاط صادر عن بوتات.
+          الإيقاف المؤقت يوقف حالة المتابعة في قائمتك، ولا يوقف خدمة خارجية.
         </div>
       </div>
     </section>
@@ -295,13 +352,12 @@ tbody tr{transition:background .15s}tbody tr:hover{background:#d8b56a06}
 <script>
 "use strict";
 
-/*
-  حافظنا على مسار ملف المشروع القديم لتجنب تعطيل GitHub Actions.
-  هذا الملف يعرض البيانات الموجودة، ولا يتصل بـ Google Trends API مباشرة.
-*/
 const DATA_URL = "./data/x-trends.json";
+const WATCH_STORAGE_KEY = "marsad-watchlist-v3";
+
 let allTrends = [];
 let lastData = null;
+let watchedHashtags = [];
 
 const $ = id => document.getElementById(id);
 
@@ -350,7 +406,6 @@ function normalizeTrend(item, index) {
     item.growth_percent, item.change_percent, item.growth
   );
 
-  // لا نحسب النسبة إلا إذا كانت محفوظة صراحةً أو توفرت قراءتان فعليتان.
   let growth = asNumber(rawGrowth);
   const current = asNumber(firstValue(
     metrics.current_value, metrics.current, post.current_value,
@@ -413,7 +468,7 @@ function extractTrends(data) {
 
 function formatNumber(number) {
   if (number === null || number === undefined || !Number.isFinite(number)) return "غير متاح";
-  return new Intl.NumberFormat("ar-SA", {maximumFractionDigits: 1}).format(number);
+  return new Intl.NumberFormat("ar-SA", {maximumFractionDigits:1}).format(number);
 }
 
 function formatVolume(trend) {
@@ -558,6 +613,120 @@ function escapeHtml(value) {
     .replace(/'/g, "&#039;");
 }
 
+/* إدارة قائمة الهاشتاقات */
+function loadWatchlist() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(WATCH_STORAGE_KEY) || "[]");
+    watchedHashtags = Array.isArray(saved)
+      ? saved.filter(item => item && typeof item.name === "string")
+      : [];
+  } catch {
+    watchedHashtags = [];
+  }
+  renderWatchlist();
+}
+
+function saveWatchlist() {
+  try {
+    localStorage.setItem(WATCH_STORAGE_KEY, JSON.stringify(watchedHashtags));
+    renderWatchlist();
+  } catch (error) {
+    alert("تعذر حفظ القائمة في المتصفح. تحقق من إعدادات التخزين.");
+  }
+}
+
+function openGoogleTrends(name) {
+  const params = new URLSearchParams();
+  params.set("q", name);
+  params.set("geo", "SA");
+  window.open(
+    "https://trends.google.com/trends/explore?" + params.toString(),
+    "_blank",
+    "noopener,noreferrer"
+  );
+}
+
+function renderWatchlist() {
+  const list = $("hashtagList");
+  list.replaceChildren();
+
+  if (!watchedHashtags.length) {
+    const empty = document.createElement("div");
+    empty.className = "watch-empty";
+    empty.textContent = "ما أضفت أي هاشتاقات حتى الآن. اكتب هاشتاقًا في الأعلى ثم اضغط إضافة.";
+    list.appendChild(empty);
+    return;
+  }
+
+  watchedHashtags.forEach((tag, index) => {
+    const item = document.createElement("div");
+    item.className = "watch-item" + (tag.paused ? " paused" : "");
+
+    const info = document.createElement("div");
+    const name = document.createElement("div");
+    name.className = "watch-name";
+    name.textContent = tag.name;
+
+    const status = document.createElement("div");
+    status.className = "watch-status";
+    status.textContent = tag.paused ? "الحالة: متوقف مؤقتًا" : "الحالة: نشط في قائمتك";
+
+    info.append(name, status);
+
+    const actions = document.createElement("div");
+    actions.className = "watch-actions";
+
+    const trendsButton = document.createElement("button");
+    trendsButton.type = "button";
+    trendsButton.textContent = "فتح Google Trends";
+    trendsButton.addEventListener("click", () => openGoogleTrends(tag.name));
+
+    const pauseButton = document.createElement("button");
+    pauseButton.type = "button";
+    pauseButton.textContent = tag.paused ? "استئناف" : "إيقاف مؤقت";
+    pauseButton.addEventListener("click", () => {
+      watchedHashtags[index].paused = !watchedHashtags[index].paused;
+      saveWatchlist();
+    });
+
+    const deleteButton = document.createElement("button");
+    deleteButton.type = "button";
+    deleteButton.className = "delete-btn";
+    deleteButton.textContent = "حذف";
+    deleteButton.addEventListener("click", () => {
+      watchedHashtags.splice(index, 1);
+      saveWatchlist();
+    });
+
+    actions.append(trendsButton, pauseButton, deleteButton);
+    item.append(info, actions);
+    list.appendChild(item);
+  });
+}
+
+$("hashtagForm").addEventListener("submit", event => {
+  event.preventDefault();
+
+  const input = $("hashtagInput");
+  const name = input.value.trim();
+
+  if (!name) return;
+
+  const exists = watchedHashtags.some(
+    tag => tag.name.toLocaleLowerCase("ar") === name.toLocaleLowerCase("ar")
+  );
+
+  if (exists) {
+    alert("هذا الهاشتاق موجود بالفعل في قائمتك.");
+    return;
+  }
+
+  watchedHashtags.push({name, paused:false});
+  input.value = "";
+  saveWatchlist();
+});
+
+/* تحميل بيانات الترندات من ملف المشروع */
 async function loadData() {
   const button = $("refreshBtn");
   button.disabled = true;
@@ -601,7 +770,7 @@ async function loadData() {
   }
 }
 
-// استكشاف أي كلمة أو هاشتاق في Google Trends.
+/* استكشاف أي موضوع في Google Trends */
 $("trendSearchForm").addEventListener("submit", function(event) {
   event.preventDefault();
 
@@ -620,7 +789,7 @@ $("trendSearchForm").addEventListener("submit", function(event) {
 
   const url = "https://trends.google.com/trends/explore?" + params.toString();
   message.textContent = "يتم فتح Google Trends للموضوع: " + query +
-    ". ستجد هناك مؤشر الاهتمام بحسب الدولة والفترة المختارتين.";
+    ". ستجد هناك مؤشر الاهتمام بحسب الدولة والفترة المتاحة.";
 
   window.open(url, "_blank", "noopener,noreferrer");
 });
@@ -628,6 +797,7 @@ $("trendSearchForm").addEventListener("submit", function(event) {
 $("searchInput").addEventListener("input", renderTrends);
 $("refreshBtn").addEventListener("click", loadData);
 
+loadWatchlist();
 loadData();
 </script>
 </body>
