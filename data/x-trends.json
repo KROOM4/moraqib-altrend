@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T23:37:32.116479+00:00",
+  "updated_at": "2026-10-18T00:01:41.039081+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -11,8 +11,8 @@
           "text": "أتلانتا يونايتد ضد إنتر ميامي",
           "created_at": "Sat, 17 Oct 2026 16:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -21,7 +21,7 @@
           "created_at": "Sat, 17 Oct 2026 16:00:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +30,7 @@
           "created_at": "Sat, 17 Oct 2026 15:50:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +39,7 @@
           "created_at": "Sat, 17 Oct 2026 15:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": -95.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -58,6 +58,15 @@
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "saudi arabia news",
+          "created_at": "Sat, 17 Oct 2026 14:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -84,15 +93,6 @@
           "created_at": "Sat, 17 Oct 2026 14:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي ضمك",
-          "created_at": "Sat, 17 Oct 2026 13:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
             "growth_percent": 0.0
           }
         }
