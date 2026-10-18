@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T12:53:33.776494+00:00",
+  "updated_at": "2026-10-18T13:43:59.357081+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "brighton vs palace",
-          "created_at": "Sun, 18 Oct 2026 05:40:00 -0700",
+          "text": "رشاد العليمي",
+          "created_at": "Sun, 18 Oct 2026 06:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,11 +17,47 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fiorentina vs como",
-          "created_at": "Sun, 18 Oct 2026 05:40:00 -0700",
+          "text": "saudi arabia airport",
+          "created_at": "Sun, 18 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "صحة",
+          "created_at": "Sun, 18 Oct 2026 05:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "egypt",
+          "created_at": "Sun, 18 Oct 2026 05:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "brighton vs palace",
+          "created_at": "Sun, 18 Oct 2026 05:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "fiorentina vs como",
+          "created_at": "Sun, 18 Oct 2026 05:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -30,12 +66,21 @@
           "created_at": "Sun, 18 Oct 2026 05:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "persib bandung vs persik",
+          "created_at": "Sun, 18 Oct 2026 05:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "osasuna vs racing santander",
           "created_at": "Sun, 18 Oct 2026 05:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
@@ -47,53 +92,8 @@
           "text": "bournemouth vs sunderland",
           "created_at": "Sun, 18 Oct 2026 05:30:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "leeds vs man utd",
-          "created_at": "Sun, 18 Oct 2026 05:10:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ليدز ضد مان يونايتد",
-          "created_at": "Sun, 18 Oct 2026 05:10:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دولار أمريكي",
-          "created_at": "Sun, 18 Oct 2026 05:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مجلس الدفاع الوطني",
-          "created_at": "Sun, 18 Oct 2026 04:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ليلى علوي",
-          "created_at": "Sun, 18 Oct 2026 04:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         }
       ]
