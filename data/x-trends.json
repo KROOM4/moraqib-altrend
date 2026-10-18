@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T10:09:43.698445+00:00",
+  "updated_at": "2026-10-18T10:45:15.383164+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sociedad vs barcelona",
+          "created_at": "Sun, 18 Oct 2026 03:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "باب المندب",
           "created_at": "Sun, 18 Oct 2026 02:40:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -20,8 +29,8 @@
           "text": "ريال سعودي",
           "created_at": "Sun, 18 Oct 2026 02:30:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +39,7 @@
           "created_at": "Sun, 18 Oct 2026 01:50:00 -0700",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -53,20 +62,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تحويل الدراسه",
-          "created_at": "Sun, 18 Oct 2026 01:30:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "new zealand vs australia",
           "created_at": "Sun, 18 Oct 2026 01:20:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -75,7 +75,7 @@
           "created_at": "Sun, 18 Oct 2026 01:10:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -83,8 +83,8 @@
           "text": "south africa vs australia",
           "created_at": "Sun, 18 Oct 2026 01:00:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": -60.0
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
