@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T08:08:32.137872+00:00",
+  "updated_at": "2026-10-18T08:47:12.488858+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تحويل الدراسه",
+          "created_at": "Sun, 18 Oct 2026 01:30:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "babar azam",
+          "created_at": "Sun, 18 Oct 2026 01:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "new zealand vs australia",
+          "created_at": "Sun, 18 Oct 2026 01:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ولي عهد دبي",
+          "created_at": "Sun, 18 Oct 2026 01:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "pakistan national cricket team vs sri lanka national cricket team match scorecard",
           "created_at": "Sun, 18 Oct 2026 01:00:00 -0700",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -20,7 +56,25 @@
           "text": "pakistan vs sri lanka",
           "created_at": "Sun, 18 Oct 2026 00:50:00 -0700",
           "metrics": {
-            "search_volume": "10000+",
+            "search_volume": "20000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "القضارف",
+          "created_at": "Sun, 18 Oct 2026 00:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "south africa national cricket team vs australia national cricket team match scorecard",
+          "created_at": "Sun, 18 Oct 2026 00:40:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
             "growth_percent": null
           }
         },
@@ -29,68 +83,14 @@
           "text": "اعتماد",
           "created_at": "Sun, 18 Oct 2026 00:20:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sa vs aus",
-          "created_at": "Sun, 18 Oct 2026 00:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 400.0
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "منطقة نجران",
           "created_at": "Sat, 17 Oct 2026 23:50:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حلف شمال الأطلسي",
-          "created_at": "Sat, 17 Oct 2026 23:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي ضمك عبدالعزيز الشهري",
-          "created_at": "Sat, 17 Oct 2026 23:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الاباتشي",
-          "created_at": "Sat, 17 Oct 2026 23:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سيارة ايلون ماسك الطائرة",
-          "created_at": "Sat, 17 Oct 2026 23:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "helicopter",
-          "created_at": "Sat, 17 Oct 2026 23:10:00 -0700",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": 0.0

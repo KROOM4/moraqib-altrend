@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-18T08:08:32.137872+00:00",
+  "updated_at": "2026-10-18T08:47:12.488858+00:00",
   "trends": {
+    "تحويل الدراسه": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-18T08:47:12.488858+00:00"
+    },
+    "babar azam": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-18T08:47:12.488858+00:00"
+    },
+    "new zealand vs australia": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-18T08:47:12.488858+00:00"
+    },
+    "ولي عهد دبي": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-18T08:47:12.488858+00:00"
+    },
     "pakistan national cricket team vs sri lanka national cricket team match scorecard": {
       "volume": 5000.0,
       "raw_volume": "5000+",
-      "updated_at": "2026-10-18T08:08:32.137872+00:00"
+      "updated_at": "2026-10-18T08:47:12.488858+00:00"
     },
     "pakistan vs sri lanka": {
-      "volume": 10000.0,
-      "raw_volume": "10000+",
-      "updated_at": "2026-10-18T08:08:32.137872+00:00"
+      "volume": 20000.0,
+      "raw_volume": "20000+",
+      "updated_at": "2026-10-18T08:47:12.488858+00:00"
+    },
+    "القضارف": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-18T08:47:12.488858+00:00"
+    },
+    "south africa national cricket team vs australia national cricket team match scorecard": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-18T08:47:12.488858+00:00"
     },
     "اعتماد": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-18T08:08:32.137872+00:00"
-    },
-    "sa vs aus": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-18T08:08:32.137872+00:00"
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-18T08:47:12.488858+00:00"
     },
     "منطقة نجران": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-10-18T08:08:32.137872+00:00"
-    },
-    "حلف شمال الأطلسي": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-18T08:08:32.137872+00:00"
-    },
-    "نادي ضمك عبدالعزيز الشهري": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-18T08:08:32.137872+00:00"
-    },
-    "الاباتشي": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-18T08:08:32.137872+00:00"
-    },
-    "سيارة ايلون ماسك الطائرة": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-18T08:08:32.137872+00:00"
-    },
-    "helicopter": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-18T08:08:32.137872+00:00"
+      "updated_at": "2026-10-18T08:47:12.488858+00:00"
     }
   }
 }
