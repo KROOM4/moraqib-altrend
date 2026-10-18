@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T08:47:12.488858+00:00",
+  "updated_at": "2026-10-18T09:46:20.889309+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,28 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تحويل الدراسه",
-          "created_at": "Sun, 18 Oct 2026 01:30:00 -0700",
+          "text": "ريال سعودي",
+          "created_at": "Sun, 18 Oct 2026 02:30:00 -0700",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اليَمَن",
+          "created_at": "Sun, 18 Oct 2026 01:50:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عبد الرزاق حمد الله",
+          "created_at": "Sun, 18 Oct 2026 01:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -20,8 +38,17 @@
           "text": "babar azam",
           "created_at": "Sun, 18 Oct 2026 01:30:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تحويل الدراسه",
+          "created_at": "Sun, 18 Oct 2026 01:30:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": 900.0
           }
         },
         {
@@ -29,8 +56,8 @@
           "text": "new zealand vs australia",
           "created_at": "Sun, 18 Oct 2026 01:20:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,7 +65,16 @@
           "text": "ولي عهد دبي",
           "created_at": "Sun, 18 Oct 2026 01:10:00 -0700",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "1000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "south africa vs australia",
+          "created_at": "Sun, 18 Oct 2026 01:00:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
             "growth_percent": null
           }
         },
@@ -56,44 +92,8 @@
           "text": "pakistan vs sri lanka",
           "created_at": "Sun, 18 Oct 2026 00:50:00 -0700",
           "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "القضارف",
-          "created_at": "Sun, 18 Oct 2026 00:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "south africa national cricket team vs australia national cricket team match scorecard",
-          "created_at": "Sun, 18 Oct 2026 00:40:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اعتماد",
-          "created_at": "Sun, 18 Oct 2026 00:20:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
+            "search_volume": "50000+",
             "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منطقة نجران",
-          "created_at": "Sat, 17 Oct 2026 23:50:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
           }
         }
       ]
