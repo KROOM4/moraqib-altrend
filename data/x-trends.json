@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T19:40:04.080008+00:00",
+  "updated_at": "2026-10-18T20:02:57.861349+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,56 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "laliga",
+          "created_at": "Sun, 18 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "real madrid – séville",
+          "created_at": "Sun, 18 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "real madrid",
+          "created_at": "Sun, 18 Oct 2026 12:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدوري الاسباني",
+          "created_at": "Sun, 18 Oct 2026 12:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ترتيب الدوري الاسباني",
+          "created_at": "Sun, 18 Oct 2026 12:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "madrid vs sevilla",
           "created_at": "Sun, 18 Oct 2026 12:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +66,7 @@
           "created_at": "Sun, 18 Oct 2026 12:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +75,7 @@
           "created_at": "Sun, 18 Oct 2026 11:50:00 -0700",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +84,7 @@
           "created_at": "Sun, 18 Oct 2026 11:50:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,53 +92,8 @@
           "text": "نجران",
           "created_at": "Sun, 18 Oct 2026 11:40:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fluminense vs santos",
-          "created_at": "Sun, 18 Oct 2026 11:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "1000+",
             "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الريال ضد إشبيلية",
-          "created_at": "Sun, 18 Oct 2026 11:10:00 -0700",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "real madrid vs sevilla",
-          "created_at": "Sun, 18 Oct 2026 11:10:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "juventus vs lazio",
-          "created_at": "Sun, 18 Oct 2026 11:10:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "يوفنتوس ضد لاتسيو",
-          "created_at": "Sun, 18 Oct 2026 11:10:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
           }
         }
       ]
