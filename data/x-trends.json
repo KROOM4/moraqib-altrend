@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T20:02:57.861349+00:00",
+  "updated_at": "2026-10-18T20:43:45.407942+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,16 +8,43 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "laliga",
-          "created_at": "Sun, 18 Oct 2026 12:50:00 -0700",
+          "text": "la liga",
+          "created_at": "Sun, 18 Oct 2026 13:30:00 -0700",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "القوات الجوية المصرية",
+          "created_at": "Sun, 18 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "laliga",
+          "created_at": "Sun, 18 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "real madrid – séville",
+          "created_at": "Sun, 18 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "maasranga television",
           "created_at": "Sun, 18 Oct 2026 12:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
@@ -30,16 +57,7 @@
           "created_at": "Sun, 18 Oct 2026 12:40:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدوري الاسباني",
-          "created_at": "Sun, 18 Oct 2026 12:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,15 +66,6 @@
           "created_at": "Sun, 18 Oct 2026 12:40:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "madrid vs sevilla",
-          "created_at": "Sun, 18 Oct 2026 12:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         },
@@ -65,8 +74,17 @@
           "text": "أولمبيك ليون ضد نيس",
           "created_at": "Sun, 18 Oct 2026 12:20:00 -0700",
           "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "air india express",
+          "created_at": "Sun, 18 Oct 2026 12:00:00 -0700",
+          "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
@@ -76,24 +94,6 @@
           "metrics": {
             "search_volume": "5000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كأس الخليج العربي",
-          "created_at": "Sun, 18 Oct 2026 11:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نجران",
-          "created_at": "Sun, 18 Oct 2026 11:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
           }
         }
       ]
