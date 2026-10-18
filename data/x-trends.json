@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T17:10:16.761521+00:00",
+  "updated_at": "2026-10-18T17:42:44.001734+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الفتح ضد الخليج",
+          "created_at": "Sun, 18 Oct 2026 10:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "tiger shroff",
+          "created_at": "Sun, 18 Oct 2026 10:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "البرلمان المصري",
+          "created_at": "Sun, 18 Oct 2026 10:10:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "arsenal f.c.",
+          "created_at": "Sun, 18 Oct 2026 10:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "لاعب نادي ضمك عبدالعزيز الشهري",
           "created_at": "Sun, 18 Oct 2026 10:00:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +57,7 @@
           "created_at": "Sun, 18 Oct 2026 09:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +66,7 @@
           "created_at": "Sun, 18 Oct 2026 09:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +74,8 @@
           "text": "الدوري السعودي للمحترفين",
           "created_at": "Sun, 18 Oct 2026 09:40:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": -50.0
           }
         },
         {
@@ -48,49 +84,13 @@
           "created_at": "Sun, 18 Oct 2026 09:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "خالد بن سلمان",
-          "created_at": "Sun, 18 Oct 2026 09:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تيجراي",
+          "text": "ملك المغرب",
           "created_at": "Sun, 18 Oct 2026 09:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "24",
-          "created_at": "Sun, 18 Oct 2026 09:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": -90.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "মৌসুমী",
-          "created_at": "Sun, 18 Oct 2026 09:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "northeast united fc vs kerala blasters standings",
-          "created_at": "Sun, 18 Oct 2026 09:20:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
