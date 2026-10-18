@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T20:43:45.407942+00:00",
+  "updated_at": "2026-10-18T21:07:00.371283+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -12,7 +12,7 @@
           "created_at": "Sun, 18 Oct 2026 13:30:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -20,8 +20,17 @@
           "text": "القوات الجوية المصرية",
           "created_at": "Sun, 18 Oct 2026 13:00:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "real madrid – séville",
+          "created_at": "Sun, 18 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -35,20 +44,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "real madrid – séville",
-          "created_at": "Sun, 18 Oct 2026 12:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "maasranga television",
           "created_at": "Sun, 18 Oct 2026 12:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,8 +56,8 @@
           "text": "real madrid",
           "created_at": "Sun, 18 Oct 2026 12:40:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -75,7 +75,7 @@
           "created_at": "Sun, 18 Oct 2026 12:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -84,7 +84,7 @@
           "created_at": "Sun, 18 Oct 2026 12:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
