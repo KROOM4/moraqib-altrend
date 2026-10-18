@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-18T13:43:59.357081+00:00",
+  "updated_at": "2026-10-18T14:07:28.399974+00:00",
   "trends": {
+    "zimbabwe vs india": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-18T14:07:28.399974+00:00"
+    },
+    "northeast united vs kerala blasters": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-18T14:07:28.399974+00:00"
+    },
     "رشاد العليمي": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-18T13:43:59.357081+00:00"
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-18T14:07:28.399974+00:00"
     },
     "saudi arabia airport": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-18T13:43:59.357081+00:00"
+      "updated_at": "2026-10-18T14:07:28.399974+00:00"
+    },
+    "برايتون ضد كريستال بالاس": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-18T14:07:28.399974+00:00"
     },
     "صحة": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-18T13:43:59.357081+00:00"
-    },
-    "egypt": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-18T13:43:59.357081+00:00"
-    },
-    "brighton vs palace": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-18T13:43:59.357081+00:00"
+      "updated_at": "2026-10-18T14:07:28.399974+00:00"
     },
     "fiorentina vs como": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-18T13:43:59.357081+00:00"
+      "updated_at": "2026-10-18T14:07:28.399974+00:00"
     },
     "بورنموث ضد سندرلاند": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-18T13:43:59.357081+00:00"
-    },
-    "persib bandung vs persik": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-18T13:43:59.357081+00:00"
-    },
-    "osasuna vs racing santander": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-18T13:43:59.357081+00:00"
-    },
-    "bournemouth vs sunderland": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-18T13:43:59.357081+00:00"
+      "updated_at": "2026-10-18T14:07:28.399974+00:00"
+    },
+    "ginebra vs phoenix": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-18T14:07:28.399974+00:00"
+    },
+    "persib bandung vs persik": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-18T14:07:28.399974+00:00"
     }
   }
 }
