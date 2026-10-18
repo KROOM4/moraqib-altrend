@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T00:01:41.039081+00:00",
+  "updated_at": "2026-10-18T01:00:15.801529+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عملية فجر اليمن",
+          "created_at": "Sat, 17 Oct 2026 17:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "أتلانتا يونايتد ضد إنتر ميامي",
           "created_at": "Sat, 17 Oct 2026 16:10:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -20,8 +29,8 @@
           "text": "atlanta united vs inter miami",
           "created_at": "Sat, 17 Oct 2026 16:00:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,15 +39,6 @@
           "created_at": "Sat, 17 Oct 2026 15:50:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "خميس مشيط",
-          "created_at": "Sat, 17 Oct 2026 15:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         },
@@ -56,8 +56,8 @@
           "text": "المنصة الوطنية للإنذار المبكر",
           "created_at": "Sat, 17 Oct 2026 14:50:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -66,7 +66,7 @@
           "created_at": "Sat, 17 Oct 2026 14:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
