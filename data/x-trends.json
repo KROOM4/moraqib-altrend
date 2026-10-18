@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T12:05:34.538281+00:00",
+  "updated_at": "2026-10-18T12:53:33.776494+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,80 +8,62 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "শামা ওবায়েদ",
-          "created_at": "Sun, 18 Oct 2026 03:50:00 -0700",
+          "text": "brighton vs palace",
+          "created_at": "Sun, 18 Oct 2026 05:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سزائے موت",
-          "created_at": "Sun, 18 Oct 2026 03:20:00 -0700",
+          "text": "fiorentina vs como",
+          "created_at": "Sun, 18 Oct 2026 05:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sociedad vs barcelona",
-          "created_at": "Sun, 18 Oct 2026 03:10:00 -0700",
+          "text": "بورنموث ضد سندرلاند",
+          "created_at": "Sun, 18 Oct 2026 05:40:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "പോലീസ്",
-          "created_at": "Sun, 18 Oct 2026 03:10:00 -0700",
+          "text": "persib bandung vs persik",
+          "created_at": "Sun, 18 Oct 2026 05:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "باب المندب",
-          "created_at": "Sun, 18 Oct 2026 02:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ريال سعودي",
-          "created_at": "Sun, 18 Oct 2026 02:30:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اليَمَن",
-          "created_at": "Sun, 18 Oct 2026 01:50:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عبد الرزاق حمد الله",
-          "created_at": "Sun, 18 Oct 2026 01:40:00 -0700",
+          "text": "bournemouth vs sunderland",
+          "created_at": "Sun, 18 Oct 2026 05:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تحويل الدراسه",
-          "created_at": "Sun, 18 Oct 2026 01:30:00 -0700",
+          "text": "leeds vs man utd",
+          "created_at": "Sun, 18 Oct 2026 05:10:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ليدز ضد مان يونايتد",
+          "created_at": "Sun, 18 Oct 2026 05:10:00 -0700",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -89,11 +71,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand vs australia",
-          "created_at": "Sun, 18 Oct 2026 01:20:00 -0700",
+          "text": "دولار أمريكي",
+          "created_at": "Sun, 18 Oct 2026 05:10:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مجلس الدفاع الوطني",
+          "created_at": "Sun, 18 Oct 2026 04:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ليلى علوي",
+          "created_at": "Sun, 18 Oct 2026 04:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         }
       ]
