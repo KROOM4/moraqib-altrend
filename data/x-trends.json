@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T11:42:56.383095+00:00",
+  "updated_at": "2026-10-18T12:05:34.538281+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -30,7 +30,7 @@
           "created_at": "Sun, 18 Oct 2026 03:10:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +39,7 @@
           "created_at": "Sun, 18 Oct 2026 03:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -80,20 +80,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تحويل الدراسه",
+          "created_at": "Sun, 18 Oct 2026 01:30:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "new zealand vs australia",
           "created_at": "Sun, 18 Oct 2026 01:20:00 -0700",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ولي عهد دبي",
-          "created_at": "Sun, 18 Oct 2026 01:10:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
           }
         }
       ]
