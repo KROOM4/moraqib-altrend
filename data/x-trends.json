@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T17:42:44.001734+00:00",
+  "updated_at": "2026-10-18T18:04:17.265490+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الفتح ضد الخليج",
-          "created_at": "Sun, 18 Oct 2026 10:20:00 -0700",
+          "text": "nottingham forest vs arsenal f.c. standings",
+          "created_at": "Sun, 18 Oct 2026 10:40:00 -0700",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "معركة",
+          "created_at": "Sun, 18 Oct 2026 10:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مسلسل احلى نصيب",
+          "created_at": "Sun, 18 Oct 2026 10:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ذكاء اصطناعي",
+          "created_at": "Sun, 18 Oct 2026 10:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الفتح ضد الخليج",
+          "created_at": "Sun, 18 Oct 2026 10:20:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,7 +57,7 @@
           "created_at": "Sun, 18 Oct 2026 10:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,17 +65,8 @@
           "text": "البرلمان المصري",
           "created_at": "Sun, 18 Oct 2026 10:10:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "arsenal f.c.",
-          "created_at": "Sun, 18 Oct 2026 10:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": -50.0
           }
         },
         {
@@ -56,8 +83,8 @@
           "text": "الغرافة ضد الريان",
           "created_at": "Sun, 18 Oct 2026 09:50:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -67,33 +94,6 @@
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدوري السعودي للمحترفين",
-          "created_at": "Sun, 18 Oct 2026 09:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": -50.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "málaga vs real sociedad",
-          "created_at": "Sun, 18 Oct 2026 09:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ملك المغرب",
-          "created_at": "Sun, 18 Oct 2026 09:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
           }
         }
       ]
