@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T10:45:15.383164+00:00",
+  "updated_at": "2026-10-18T11:08:28.480643+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sociedad vs barcelona",
-          "created_at": "Sun, 18 Oct 2026 03:10:00 -0700",
+          "text": "শামা ওবায়েদ",
+          "created_at": "Sun, 18 Oct 2026 03:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,11 +17,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سزائے موت",
+          "created_at": "Sun, 18 Oct 2026 03:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sociedad vs barcelona",
+          "created_at": "Sun, 18 Oct 2026 03:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "باب المندب",
           "created_at": "Sun, 18 Oct 2026 02:40:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -30,7 +48,7 @@
           "created_at": "Sun, 18 Oct 2026 02:30:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +56,8 @@
           "text": "اليَمَن",
           "created_at": "Sun, 18 Oct 2026 01:50:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
+            "search_volume": "10000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -66,7 +84,7 @@
           "created_at": "Sun, 18 Oct 2026 01:20:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -75,24 +93,6 @@
           "created_at": "Sun, 18 Oct 2026 01:10:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "south africa vs australia",
-          "created_at": "Sun, 18 Oct 2026 01:00:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pakistan national cricket team vs sri lanka national cricket team match scorecard",
-          "created_at": "Sun, 18 Oct 2026 01:00:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
             "growth_percent": 0.0
           }
         }
