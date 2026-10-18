@@ -1,11 +1,74 @@
 {
-  "updated_at": "2026-10-18T06:09:08.988167+00:00",
+  "updated_at": "2026-10-18T06:57:29.509812+00:00",
   "source": "Google Trends",
   "results": [
     {
       "hashtag": "مواضيع رائجة في السعودية",
       "post_count": 10,
       "posts": [
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منطقة نجران",
+          "created_at": "Sat, 17 Oct 2026 23:50:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حلف شمال الأطلسي",
+          "created_at": "Sat, 17 Oct 2026 23:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نادي ضمك عبدالعزيز الشهري",
+          "created_at": "Sat, 17 Oct 2026 23:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "السعودية والحوثيين",
+          "created_at": "Sat, 17 Oct 2026 23:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سيارة ايلون ماسك الطائرة",
+          "created_at": "Sat, 17 Oct 2026 23:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "helicopter",
+          "created_at": "Sat, 17 Oct 2026 23:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اباتشي",
+          "created_at": "Sat, 17 Oct 2026 23:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "صدى",
@@ -21,7 +84,7 @@
           "created_at": "Sat, 17 Oct 2026 21:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,71 +92,8 @@
           "text": "ابعاد",
           "created_at": "Sat, 17 Oct 2026 21:30:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طائرة عمودية",
-          "created_at": "Sat, 17 Oct 2026 20:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تي",
-          "created_at": "Sat, 17 Oct 2026 20:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فوزي لقجع",
-          "created_at": "Sat, 17 Oct 2026 20:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ماتياس يايسله",
-          "created_at": "Sat, 17 Oct 2026 19:40:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "the best",
-          "created_at": "Sat, 17 Oct 2026 18:20:00 -0700",
-          "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mls",
-          "created_at": "Sat, 17 Oct 2026 18:10:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عملية فجر اليمن",
-          "created_at": "Sat, 17 Oct 2026 17:30:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
+            "growth_percent": 100.0
           }
         }
       ]
