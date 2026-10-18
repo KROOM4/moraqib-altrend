@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T07:45:21.948999+00:00",
+  "updated_at": "2026-10-18T08:08:32.137872+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,19 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pakistan national cricket team vs sri lanka national cricket team players",
-          "created_at": "Sun, 18 Oct 2026 00:30:00 -0700",
+          "text": "pakistan national cricket team vs sri lanka national cricket team match scorecard",
+          "created_at": "Sun, 18 Oct 2026 01:00:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "pakistan vs sri lanka",
+          "created_at": "Sun, 18 Oct 2026 00:50:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
             "growth_percent": null
           }
         },
@@ -21,7 +30,7 @@
           "created_at": "Sun, 18 Oct 2026 00:20:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +38,8 @@
           "text": "sa vs aus",
           "created_at": "Sun, 18 Oct 2026 00:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -39,7 +48,7 @@
           "created_at": "Sat, 17 Oct 2026 23:50:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,8 +56,8 @@
           "text": "حلف شمال الأطلسي",
           "created_at": "Sat, 17 Oct 2026 23:40:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -66,7 +75,7 @@
           "created_at": "Sat, 17 Oct 2026 23:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -75,7 +84,7 @@
           "created_at": "Sat, 17 Oct 2026 23:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": -80.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -84,15 +93,6 @@
           "created_at": "Sat, 17 Oct 2026 23:10:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اباتشي",
-          "created_at": "Sat, 17 Oct 2026 23:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         }
