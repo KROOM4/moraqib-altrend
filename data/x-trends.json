@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T16:07:03.958873+00:00",
+  "updated_at": "2026-10-18T16:46:29.137617+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,53 +8,80 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "milan vs atalanta",
-          "created_at": "Sun, 18 Oct 2026 08:30:00 -0700",
+          "text": "خالد بن سلمان",
+          "created_at": "Sun, 18 Oct 2026 09:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "brighton & hove albion f.c. vs crystal palace f.c. standings",
-          "created_at": "Sun, 18 Oct 2026 08:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ميلان ضد أتالانتا",
-          "created_at": "Sun, 18 Oct 2026 08:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "রাষ্ট্রদূত",
-          "created_at": "Sun, 18 Oct 2026 08:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "celta vs alavés",
-          "created_at": "Sun, 18 Oct 2026 08:00:00 -0700",
+          "text": "تيجراي",
+          "created_at": "Sun, 18 Oct 2026 09:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "isl",
-          "created_at": "Sun, 18 Oct 2026 07:50:00 -0700",
+          "text": "24",
+          "created_at": "Sun, 18 Oct 2026 09:30:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "মৌসুমী",
+          "created_at": "Sun, 18 Oct 2026 09:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "lorient vs monaco",
+          "created_at": "Sun, 18 Oct 2026 09:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ارسنال",
+          "created_at": "Sun, 18 Oct 2026 09:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الريال السعودي",
+          "created_at": "Sun, 18 Oct 2026 08:40:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "afc bournemouth vs sunderland a.f.c. standings",
+          "created_at": "Sun, 18 Oct 2026 08:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "milan vs atalanta",
+          "created_at": "Sun, 18 Oct 2026 08:30:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": 150.0
@@ -62,38 +89,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nottm forest vs arsenal",
-          "created_at": "Sun, 18 Oct 2026 07:40:00 -0700",
+          "text": "acf fiorentina vs como 1907 standings",
+          "created_at": "Sun, 18 Oct 2026 08:30:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فيورنتينا ضد كومو",
-          "created_at": "Sun, 18 Oct 2026 07:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "البحرين",
-          "created_at": "Sun, 18 Oct 2026 07:30:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 900.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "السد ضد الدحيل",
-          "created_at": "Sun, 18 Oct 2026 07:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": null
           }
         }
       ]
