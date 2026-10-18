@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T14:07:28.399974+00:00",
+  "updated_at": "2026-10-18T14:44:21.327957+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مانشستر يونايتد",
+          "created_at": "Sun, 18 Oct 2026 07:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "السد ضد الدحيل",
+          "created_at": "Sun, 18 Oct 2026 07:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سيرجيو كونسيساو",
+          "created_at": "Sun, 18 Oct 2026 07:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "zimbabwe vs india",
           "created_at": "Sun, 18 Oct 2026 06:40:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -20,8 +47,8 @@
           "text": "northeast united vs kerala blasters",
           "created_at": "Sun, 18 Oct 2026 06:30:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -29,8 +56,17 @@
           "text": "رشاد العليمي",
           "created_at": "Sun, 18 Oct 2026 06:10:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مسلسل ورود وذنوب",
+          "created_at": "Sun, 18 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -48,7 +84,7 @@
           "created_at": "Sun, 18 Oct 2026 05:50:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -58,42 +94,6 @@
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fiorentina vs como",
-          "created_at": "Sun, 18 Oct 2026 05:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بورنموث ضد سندرلاند",
-          "created_at": "Sun, 18 Oct 2026 05:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ginebra vs phoenix",
-          "created_at": "Sun, 18 Oct 2026 05:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "persib bandung vs persik",
-          "created_at": "Sun, 18 Oct 2026 05:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
           }
         }
       ]
