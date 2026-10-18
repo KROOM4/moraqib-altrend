@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T16:46:29.137617+00:00",
+  "updated_at": "2026-10-18T17:10:16.761521+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,56 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "لاعب نادي ضمك عبدالعزيز الشهري",
+          "created_at": "Sun, 18 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الغرافة ضد الريان",
+          "created_at": "Sun, 18 Oct 2026 09:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الولايات المتحدة",
+          "created_at": "Sun, 18 Oct 2026 09:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدوري السعودي للمحترفين",
+          "created_at": "Sun, 18 Oct 2026 09:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "málaga vs real sociedad",
+          "created_at": "Sun, 18 Oct 2026 09:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "خالد بن سلمان",
           "created_at": "Sun, 18 Oct 2026 09:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +66,7 @@
           "created_at": "Sun, 18 Oct 2026 09:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +74,8 @@
           "text": "24",
           "created_at": "Sun, 18 Oct 2026 09:30:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "100+",
+            "growth_percent": -90.0
           }
         },
         {
@@ -39,58 +84,13 @@
           "created_at": "Sun, 18 Oct 2026 09:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lorient vs monaco",
-          "created_at": "Sun, 18 Oct 2026 09:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ارسنال",
-          "created_at": "Sun, 18 Oct 2026 09:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الريال السعودي",
-          "created_at": "Sun, 18 Oct 2026 08:40:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "afc bournemouth vs sunderland a.f.c. standings",
-          "created_at": "Sun, 18 Oct 2026 08:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "milan vs atalanta",
-          "created_at": "Sun, 18 Oct 2026 08:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "acf fiorentina vs como 1907 standings",
-          "created_at": "Sun, 18 Oct 2026 08:30:00 -0700",
+          "text": "northeast united fc vs kerala blasters standings",
+          "created_at": "Sun, 18 Oct 2026 09:20:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
