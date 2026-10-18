@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-18T09:46:20.889309+00:00",
+  "updated_at": "2026-10-18T10:09:43.698445+00:00",
   "trends": {
+    "باب المندب": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-18T10:09:43.698445+00:00"
+    },
     "ريال سعودي": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-10-18T09:46:20.889309+00:00"
+      "updated_at": "2026-10-18T10:09:43.698445+00:00"
     },
     "اليَمَن": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-18T09:46:20.889309+00:00"
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-18T10:09:43.698445+00:00"
     },
     "عبد الرزاق حمد الله": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-18T09:46:20.889309+00:00"
+      "updated_at": "2026-10-18T10:09:43.698445+00:00"
     },
     "babar azam": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-18T09:46:20.889309+00:00"
+      "updated_at": "2026-10-18T10:09:43.698445+00:00"
     },
     "تحويل الدراسه": {
       "volume": 5000.0,
       "raw_volume": "5000+",
-      "updated_at": "2026-10-18T09:46:20.889309+00:00"
+      "updated_at": "2026-10-18T10:09:43.698445+00:00"
     },
     "new zealand vs australia": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-10-18T09:46:20.889309+00:00"
+      "updated_at": "2026-10-18T10:09:43.698445+00:00"
     },
     "ولي عهد دبي": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-18T09:46:20.889309+00:00"
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-18T10:09:43.698445+00:00"
     },
     "south africa vs australia": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-18T09:46:20.889309+00:00"
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-18T10:09:43.698445+00:00"
     },
     "pakistan national cricket team vs sri lanka national cricket team match scorecard": {
       "volume": 5000.0,
       "raw_volume": "5000+",
-      "updated_at": "2026-10-18T09:46:20.889309+00:00"
-    },
-    "pakistan vs sri lanka": {
-      "volume": 50000.0,
-      "raw_volume": "50000+",
-      "updated_at": "2026-10-18T09:46:20.889309+00:00"
+      "updated_at": "2026-10-18T10:09:43.698445+00:00"
     }
   }
 }
