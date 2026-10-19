@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T19:50:36.416531+00:00",
+  "updated_at": "2026-10-19T20:50:34.104657+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,73 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حسام حسن",
+          "created_at": "Mon, 19 Oct 2026 13:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نتيجة الهلال",
+          "created_at": "Mon, 19 Oct 2026 13:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kim jong un",
+          "created_at": "Mon, 19 Oct 2026 13:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جدول الدوري السعودي",
+          "created_at": "Mon, 19 Oct 2026 13:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ترتيب الدوري السعودي",
+          "created_at": "Mon, 19 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ترتيب دوري روشن السعودي 2026",
+          "created_at": "Mon, 19 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "trabzonspor vs beşiktaş standings",
           "created_at": "Mon, 19 Oct 2026 12:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الرائد",
+          "created_at": "Mon, 19 Oct 2026 12:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -20,8 +83,8 @@
           "text": "സൗദി അറേബ്യ",
           "created_at": "Mon, 19 Oct 2026 12:10:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -29,71 +92,8 @@
           "text": "طائرة مقاتلة",
           "created_at": "Mon, 19 Oct 2026 12:00:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ক্রিকেট",
-          "created_at": "Mon, 19 Oct 2026 12:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الشباب",
-          "created_at": "Mon, 19 Oct 2026 12:00:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الهلال و",
-          "created_at": "Mon, 19 Oct 2026 11:40:00 -0700",
-          "metrics": {
             "search_volume": "200+",
             "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ثمانيه",
-          "created_at": "Mon, 19 Oct 2026 11:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "getafe vs rayo",
-          "created_at": "Mon, 19 Oct 2026 11:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ثمانية",
-          "created_at": "Mon, 19 Oct 2026 11:30:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "خيتافي ضد رايو فاليكانو",
-          "created_at": "Mon, 19 Oct 2026 11:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
