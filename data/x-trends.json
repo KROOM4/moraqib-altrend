@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T21:48:03.861027+00:00",
+  "updated_at": "2026-10-19T22:47:04.184045+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "برلمان",
-          "created_at": "Mon, 19 Oct 2026 14:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مسلسل حب اسود",
-          "created_at": "Mon, 19 Oct 2026 14:00:00 -0700",
+          "text": "كيم جونغ أون",
+          "created_at": "Mon, 19 Oct 2026 15:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -26,11 +17,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بروكسل",
+          "created_at": "Mon, 19 Oct 2026 14:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "برلمان",
+          "created_at": "Mon, 19 Oct 2026 14:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "كهبوب",
           "created_at": "Mon, 19 Oct 2026 13:50:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -39,15 +48,6 @@
           "created_at": "Mon, 19 Oct 2026 13:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نتيجة الهلال",
-          "created_at": "Mon, 19 Oct 2026 13:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         },
@@ -56,8 +56,17 @@
           "text": "kim jong un",
           "created_at": "Mon, 19 Oct 2026 13:20:00 -0700",
           "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جدول الدوري السعودي",
+          "created_at": "Mon, 19 Oct 2026 13:10:00 -0700",
+          "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": null
           }
         },
         {
@@ -66,7 +75,7 @@
           "created_at": "Mon, 19 Oct 2026 13:00:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -76,15 +85,6 @@
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيب الدوري",
-          "created_at": "Mon, 19 Oct 2026 12:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
           }
         },
         {
