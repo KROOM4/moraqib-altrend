@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T10:50:28.675965+00:00",
+  "updated_at": "2026-10-19T11:51:59.245928+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جندي",
-          "created_at": "Mon, 19 Oct 2026 03:30:00 -0700",
+          "text": "king abdulaziz international airport",
+          "created_at": "Mon, 19 Oct 2026 04:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,10 +17,55 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "شبوة",
+          "created_at": "Mon, 19 Oct 2026 04:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "মেঘনা আলম",
+          "created_at": "Mon, 19 Oct 2026 04:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "afghanistan vs zimbabwe",
+          "created_at": "Mon, 19 Oct 2026 04:10:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جندي",
+          "created_at": "Mon, 19 Oct 2026 03:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "വൈ.എസ്. ജഗന്മോഹന് റെഡ്ഡി",
           "created_at": "Mon, 19 Oct 2026 03:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أنور قرقاش",
+          "created_at": "Mon, 19 Oct 2026 03:10:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
@@ -29,8 +74,8 @@
           "text": "சவூதி அரேபியா",
           "created_at": "Mon, 19 Oct 2026 03:10:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,8 +83,8 @@
           "text": "embassy of india, riyadh",
           "created_at": "Mon, 19 Oct 2026 03:00:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -47,53 +92,8 @@
           "text": "جدة",
           "created_at": "Mon, 19 Oct 2026 03:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "etihad airways",
-          "created_at": "Mon, 19 Oct 2026 02:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي ضمك",
-          "created_at": "Mon, 19 Oct 2026 02:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "बांग्लादेश",
-          "created_at": "Mon, 19 Oct 2026 02:00:00 -0700",
-          "metrics": {
             "search_volume": "500+",
             "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kingdom centre",
-          "created_at": "Mon, 19 Oct 2026 02:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ben simmons",
-          "created_at": "Mon, 19 Oct 2026 02:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
           }
         }
       ]
