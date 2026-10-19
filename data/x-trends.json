@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T13:03:29.393623+00:00",
+  "updated_at": "2026-10-19T14:01:35.789148+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,70 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدولار مقابل الجنيه المصري",
+          "text": "south africa vs australia",
+          "created_at": "Mon, 19 Oct 2026 06:50:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "abhijeet dipke",
+          "created_at": "Mon, 19 Oct 2026 06:50:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "icc cwc league 2",
+          "created_at": "Mon, 19 Oct 2026 06:40:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دولار",
+          "created_at": "Mon, 19 Oct 2026 06:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "التوازن العقاري",
+          "created_at": "Mon, 19 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وزارة",
+          "created_at": "Mon, 19 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الريال مقابل الجنيه المصري",
+          "created_at": "Mon, 19 Oct 2026 06:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كارثة",
           "created_at": "Mon, 19 Oct 2026 05:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
@@ -17,83 +80,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدولار مقابل الجنيه المصري",
+          "created_at": "Mon, 19 Oct 2026 05:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "عباس عراقجي",
           "created_at": "Mon, 19 Oct 2026 05:30:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أوكرانيا",
-          "created_at": "Mon, 19 Oct 2026 05:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جواو فيليكس",
-          "created_at": "Mon, 19 Oct 2026 05:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "flydubai",
-          "created_at": "Mon, 19 Oct 2026 05:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد بن راشد آل مكتوم",
-          "created_at": "Mon, 19 Oct 2026 05:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قضاء",
-          "created_at": "Mon, 19 Oct 2026 05:00:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دواء",
-          "created_at": "Mon, 19 Oct 2026 04:50:00 -0700",
-          "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "alexandra eala",
-          "created_at": "Mon, 19 Oct 2026 04:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "houthi attack saudi arabia",
-          "created_at": "Mon, 19 Oct 2026 04:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 150.0
           }
         }
       ]
