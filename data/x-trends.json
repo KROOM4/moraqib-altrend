@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T16:53:14.821908+00:00",
+  "updated_at": "2026-10-19T17:46:54.674825+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,52 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ترتيب الدوري التركي",
+          "created_at": "Mon, 19 Oct 2026 10:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al-hilal vs al-hazem",
+          "created_at": "Mon, 19 Oct 2026 10:20:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مباريات الدوري السعودي",
+          "created_at": "Mon, 19 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الاهلي الفيحاء",
+          "created_at": "Mon, 19 Oct 2026 09:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "غرق",
+          "created_at": "Mon, 19 Oct 2026 09:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sikandar raza",
           "created_at": "Mon, 19 Oct 2026 09:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
@@ -20,8 +65,8 @@
           "text": "طرابزون سبور ضد بشكتاش",
           "created_at": "Mon, 19 Oct 2026 09:20:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -29,71 +74,26 @@
           "text": "trabzonspor vs beşiktaş",
           "created_at": "Mon, 19 Oct 2026 09:20:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "24",
-          "created_at": "Mon, 19 Oct 2026 09:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دوري يلو",
-          "created_at": "Mon, 19 Oct 2026 09:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مباريات الدوري السعودي اليوم",
-          "created_at": "Mon, 19 Oct 2026 08:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ziaur rahman",
-          "created_at": "Mon, 19 Oct 2026 08:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نيوكاسل يونايتد",
-          "created_at": "Mon, 19 Oct 2026 08:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
             "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موهبه",
-          "created_at": "Mon, 19 Oct 2026 08:20:00 -0700",
+          "text": "إلهام شاهين",
+          "created_at": "Mon, 19 Oct 2026 09:20:00 -0700",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الاهلي والفيحاء",
-          "created_at": "Mon, 19 Oct 2026 07:50:00 -0700",
+          "text": "middle east",
+          "created_at": "Mon, 19 Oct 2026 09:10:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": -90.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         }
       ]
