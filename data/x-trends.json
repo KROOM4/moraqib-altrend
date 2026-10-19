@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T04:52:43.680144+00:00",
+  "updated_at": "2026-10-19T05:49:04.043321+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -11,8 +11,8 @@
           "text": "teams",
           "created_at": "Sun, 18 Oct 2026 20:50:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -20,8 +20,8 @@
           "text": "منصة",
           "created_at": "Sun, 18 Oct 2026 20:50:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +30,7 @@
           "created_at": "Sun, 18 Oct 2026 20:30:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": -60.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +48,7 @@
           "created_at": "Sun, 18 Oct 2026 17:30:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -62,20 +62,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "england champions vs west indies champions standings",
+          "created_at": "Sun, 18 Oct 2026 15:00:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "نيمار",
           "created_at": "Sun, 18 Oct 2026 14:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "real madrid vs sevilla fc standings",
-          "created_at": "Sun, 18 Oct 2026 14:20:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
           }
         },
         {

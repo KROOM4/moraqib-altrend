@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-19T04:52:43.680144+00:00",
+  "updated_at": "2026-10-19T05:49:04.043321+00:00",
   "trends": {
     "teams": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-19T04:52:43.680144+00:00"
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-19T05:49:04.043321+00:00"
     },
     "منصة": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-19T04:52:43.680144+00:00"
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-19T05:49:04.043321+00:00"
     },
     "منصه": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-10-19T04:52:43.680144+00:00"
+      "updated_at": "2026-10-19T05:49:04.043321+00:00"
     },
     "barbara palvin": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-19T04:52:43.680144+00:00"
+      "updated_at": "2026-10-19T05:49:04.043321+00:00"
     },
     "عيدروس الزبيدي": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-10-19T04:52:43.680144+00:00"
+      "updated_at": "2026-10-19T05:49:04.043321+00:00"
     },
     "bahia vs flamengo": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-19T04:52:43.680144+00:00"
+      "updated_at": "2026-10-19T05:49:04.043321+00:00"
+    },
+    "england champions vs west indies champions standings": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-19T05:49:04.043321+00:00"
     },
     "نيمار": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-19T04:52:43.680144+00:00"
-    },
-    "real madrid vs sevilla fc standings": {
-      "volume": 10000.0,
-      "raw_volume": "10000+",
-      "updated_at": "2026-10-19T04:52:43.680144+00:00"
+      "updated_at": "2026-10-19T05:49:04.043321+00:00"
     },
     "santos fc": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-19T04:52:43.680144+00:00"
+      "updated_at": "2026-10-19T05:49:04.043321+00:00"
     },
     "yan diomandé": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-19T04:52:43.680144+00:00"
+      "updated_at": "2026-10-19T05:49:04.043321+00:00"
     }
   }
 }
