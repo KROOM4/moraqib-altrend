@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T14:54:33.280133+00:00",
+  "updated_at": "2026-10-19T15:51:22.817532+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,37 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fluminense vs santos",
-          "created_at": "Mon, 19 Oct 2026 07:30:00 -0700",
+          "text": "مباريات الدوري السعودي اليوم",
+          "created_at": "Mon, 19 Oct 2026 08:40:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ziaur rahman",
+          "created_at": "Mon, 19 Oct 2026 08:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نيوكاسل يونايتد",
+          "created_at": "Mon, 19 Oct 2026 08:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الاهلي والفيحاء",
+          "created_at": "Mon, 19 Oct 2026 07:50:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
             "growth_percent": null
           }
         },
@@ -20,8 +47,17 @@
           "text": "بنيامين نتنياهو",
           "created_at": "Mon, 19 Oct 2026 07:30:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "fluminense vs santos",
+          "created_at": "Mon, 19 Oct 2026 07:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": -90.0
           }
         },
         {
@@ -29,8 +65,8 @@
           "text": "al-fayha vs al-ahli",
           "created_at": "Mon, 19 Oct 2026 07:20:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,41 +74,14 @@
           "text": "الجونة ضد سموحة",
           "created_at": "Mon, 19 Oct 2026 07:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "south africa vs australia",
-          "created_at": "Mon, 19 Oct 2026 06:50:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "abhijeet dipke",
-          "created_at": "Mon, 19 Oct 2026 06:50:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "icc cwc league 2",
-          "created_at": "Mon, 19 Oct 2026 06:40:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بلوشستان",
-          "created_at": "Mon, 19 Oct 2026 06:40:00 -0700",
+          "text": "pak vs eng",
+          "created_at": "Mon, 19 Oct 2026 07:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -80,20 +89,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دولار",
-          "created_at": "Mon, 19 Oct 2026 06:30:00 -0700",
+          "text": "فلومينينسي ضد سانتوس",
+          "created_at": "Mon, 19 Oct 2026 07:10:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "التوازن العقاري",
-          "created_at": "Mon, 19 Oct 2026 06:10:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         }
       ]
