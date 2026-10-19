@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T14:01:35.789148+00:00",
+  "updated_at": "2026-10-19T14:54:33.280133+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "south africa vs australia",
-          "created_at": "Mon, 19 Oct 2026 06:50:00 -0700",
+          "text": "fluminense vs santos",
+          "created_at": "Mon, 19 Oct 2026 07:30:00 -0700",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بنيامين نتنياهو",
+          "created_at": "Mon, 19 Oct 2026 07:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al-fayha vs al-ahli",
+          "created_at": "Mon, 19 Oct 2026 07:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الجونة ضد سموحة",
+          "created_at": "Mon, 19 Oct 2026 07:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "south africa vs australia",
+          "created_at": "Mon, 19 Oct 2026 06:50:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -21,7 +57,7 @@
           "created_at": "Mon, 19 Oct 2026 06:50:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,6 +66,15 @@
           "created_at": "Mon, 19 Oct 2026 06:40:00 -0700",
           "metrics": {
             "search_volume": "2000+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بلوشستان",
+          "created_at": "Mon, 19 Oct 2026 06:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -38,8 +83,8 @@
           "text": "دولار",
           "created_at": "Mon, 19 Oct 2026 06:30:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -48,52 +93,7 @@
           "created_at": "Mon, 19 Oct 2026 06:10:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزارة",
-          "created_at": "Mon, 19 Oct 2026 06:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الريال مقابل الجنيه المصري",
-          "created_at": "Mon, 19 Oct 2026 06:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كارثة",
-          "created_at": "Mon, 19 Oct 2026 05:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدولار مقابل الجنيه المصري",
-          "created_at": "Mon, 19 Oct 2026 05:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عباس عراقجي",
-          "created_at": "Mon, 19 Oct 2026 05:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
