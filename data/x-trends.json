@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T05:49:04.043321+00:00",
+  "updated_at": "2026-10-19T07:09:54.982812+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طیارہ",
+          "created_at": "Sun, 18 Oct 2026 23:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "humanitarian crisis",
+          "created_at": "Sun, 18 Oct 2026 23:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الصحة القابضة",
+          "created_at": "Sun, 18 Oct 2026 22:50:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "nepal national cricket team vs oman national cricket team match scorecard",
+          "created_at": "Sun, 18 Oct 2026 22:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "teams",
           "created_at": "Sun, 18 Oct 2026 20:50:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +57,7 @@
           "created_at": "Sun, 18 Oct 2026 20:50:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,50 +83,14 @@
           "text": "عيدروس الزبيدي",
           "created_at": "Sun, 18 Oct 2026 17:30:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "bahia vs flamengo",
           "created_at": "Sun, 18 Oct 2026 16:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "england champions vs west indies champions standings",
-          "created_at": "Sun, 18 Oct 2026 15:00:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نيمار",
-          "created_at": "Sun, 18 Oct 2026 14:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "santos fc",
-          "created_at": "Sun, 18 Oct 2026 14:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "yan diomandé",
-          "created_at": "Sun, 18 Oct 2026 14:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0

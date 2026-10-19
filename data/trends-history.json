@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-19T05:49:04.043321+00:00",
+  "updated_at": "2026-10-19T07:09:54.982812+00:00",
   "trends": {
+    "طیارہ": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-19T07:09:54.982812+00:00"
+    },
+    "humanitarian crisis": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-19T07:09:54.982812+00:00"
+    },
+    "الصحة القابضة": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-19T07:09:54.982812+00:00"
+    },
+    "nepal national cricket team vs oman national cricket team match scorecard": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-19T07:09:54.982812+00:00"
+    },
     "teams": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-10-19T05:49:04.043321+00:00"
+      "updated_at": "2026-10-19T07:09:54.982812+00:00"
     },
     "منصة": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-10-19T05:49:04.043321+00:00"
+      "updated_at": "2026-10-19T07:09:54.982812+00:00"
     },
     "منصه": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-10-19T05:49:04.043321+00:00"
+      "updated_at": "2026-10-19T07:09:54.982812+00:00"
     },
     "barbara palvin": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-19T05:49:04.043321+00:00"
+      "updated_at": "2026-10-19T07:09:54.982812+00:00"
     },
     "عيدروس الزبيدي": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-19T05:49:04.043321+00:00"
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-19T07:09:54.982812+00:00"
     },
     "bahia vs flamengo": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-19T05:49:04.043321+00:00"
-    },
-    "england champions vs west indies champions standings": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-19T05:49:04.043321+00:00"
-    },
-    "نيمار": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-19T05:49:04.043321+00:00"
-    },
-    "santos fc": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-19T05:49:04.043321+00:00"
-    },
-    "yan diomandé": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-19T05:49:04.043321+00:00"
+      "updated_at": "2026-10-19T07:09:54.982812+00:00"
     }
   }
 }
