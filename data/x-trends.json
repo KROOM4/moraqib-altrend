@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T20:51:23.964155+00:00",
+  "updated_at": "2026-10-20T21:49:40.035093+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "nba",
+          "created_at": "Tue, 20 Oct 2026 14:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "fabián ruiz",
+          "created_at": "Tue, 20 Oct 2026 14:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "champions league standings",
+          "created_at": "Tue, 20 Oct 2026 14:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "ترتيبات طلائع الجيش – نادى بيراميدز",
           "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -21,25 +48,7 @@
           "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيب دوري ابطال اوروبا",
-          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "القتل",
-          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,51 +57,42 @@
           "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيب",
-          "created_at": "Tue, 20 Oct 2026 13:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "برشا",
-          "created_at": "Tue, 20 Oct 2026 13:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "النص",
-          "created_at": "Tue, 20 Oct 2026 13:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مباريات الدوري السعودي",
-          "created_at": "Tue, 20 Oct 2026 13:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "psg vs fc barcelona stats",
-          "created_at": "Tue, 20 Oct 2026 12:50:00 -0700",
+          "text": "القتل",
+          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "psg vs fc barcelona standings",
+          "created_at": "Tue, 20 Oct 2026 13:10:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عثمان ديمبيلي",
+          "created_at": "Tue, 20 Oct 2026 13:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ترتيب الدوري السعودي",
+          "created_at": "Tue, 20 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
             "growth_percent": null
           }
         }
