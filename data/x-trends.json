@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T17:46:10.211001+00:00",
+  "updated_at": "2026-10-20T18:15:09.850731+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,19 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "راكان بن سلمان بن عبد العزيز آل سعود",
-          "created_at": "Tue, 20 Oct 2026 10:30:00 -0700",
+          "text": "المنصة الوطنية للإنذار المبكر",
+          "created_at": "Tue, 20 Oct 2026 11:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "احلى نصيب",
+          "created_at": "Tue, 20 Oct 2026 11:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
@@ -21,7 +30,16 @@
           "created_at": "Tue, 20 Oct 2026 10:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "راكان بن سلمان بن عبد العزيز آل سعود",
+          "created_at": "Tue, 20 Oct 2026 10:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +48,7 @@
           "created_at": "Tue, 20 Oct 2026 10:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +56,8 @@
           "text": "al-nassr vs neom",
           "created_at": "Tue, 20 Oct 2026 10:20:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -47,8 +65,17 @@
           "text": "al-ettifaq vs al-ittihad",
           "created_at": "Tue, 20 Oct 2026 10:20:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "النصر ضد نيوم",
+          "created_at": "Tue, 20 Oct 2026 10:10:00 -0700",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -57,42 +84,15 @@
           "created_at": "Tue, 20 Oct 2026 10:10:00 -0700",
           "metrics": {
             "search_volume": "10000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "النصر ضد نيوم",
+          "text": "ترتيبات بترول أسيوط – نادى الزمالك",
           "created_at": "Tue, 20 Oct 2026 10:10:00 -0700",
           "metrics": {
             "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فنربخشة ضد سلافيا براغ",
-          "created_at": "Tue, 20 Oct 2026 10:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fenerbahçe vs slavia praha",
-          "created_at": "Tue, 20 Oct 2026 10:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طلائع الجيش ضد الأهرام",
-          "created_at": "Tue, 20 Oct 2026 09:50:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
             "growth_percent": null
           }
         }
