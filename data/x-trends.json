@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T13:03:07.878402+00:00",
+  "updated_at": "2026-10-20T13:57:01.379405+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,65 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "tom banton",
-          "created_at": "Tue, 20 Oct 2026 05:30:00 -0700",
+          "text": "india vs zimbabwe",
+          "created_at": "Tue, 20 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بترول أسيوط ضد الزمالك",
+          "created_at": "Tue, 20 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إيران",
+          "created_at": "Tue, 20 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مجلس الوزراء",
+          "created_at": "Tue, 20 Oct 2026 06:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "قاض",
+          "created_at": "Tue, 20 Oct 2026 06:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "riyadh",
+          "created_at": "Tue, 20 Oct 2026 05:40:00 -0700",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "tom banton",
+          "created_at": "Tue, 20 Oct 2026 05:30:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": -50.0
           }
         },
         {
@@ -20,8 +74,8 @@
           "text": "joe root",
           "created_at": "Tue, 20 Oct 2026 05:30:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -29,17 +83,8 @@
           "text": "زفاف",
           "created_at": "Tue, 20 Oct 2026 05:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مقاتلات تايفون",
-          "created_at": "Tue, 20 Oct 2026 05:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -47,53 +92,8 @@
           "text": "shaheen afridi",
           "created_at": "Tue, 20 Oct 2026 05:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الملك سلمان",
-          "created_at": "Tue, 20 Oct 2026 05:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "etihad airways",
-          "created_at": "Tue, 20 Oct 2026 04:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سامي الجابر",
-          "created_at": "Tue, 20 Oct 2026 04:40:00 -0700",
-          "metrics": {
             "search_volume": "200+",
             "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مكة",
-          "created_at": "Tue, 20 Oct 2026 04:30:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 900.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جنيه مصري",
-          "created_at": "Tue, 20 Oct 2026 04:30:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
           }
         }
       ]
