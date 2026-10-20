@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T08:53:09.358394+00:00",
+  "updated_at": "2026-10-20T09:50:13.859899+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,34 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "صاروخ باليستي",
+          "created_at": "Tue, 20 Oct 2026 02:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جدة",
+          "created_at": "Tue, 20 Oct 2026 01:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "عقوبة",
+          "created_at": "Tue, 20 Oct 2026 01:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "helen haines",
           "created_at": "Tue, 20 Oct 2026 01:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
@@ -20,8 +47,8 @@
           "text": "سعر الدولار مقابل الجنيه",
           "created_at": "Tue, 20 Oct 2026 01:30:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +57,7 @@
           "created_at": "Tue, 20 Oct 2026 01:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +66,7 @@
           "created_at": "Tue, 20 Oct 2026 01:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,8 +74,8 @@
           "text": "تاسي",
           "created_at": "Tue, 20 Oct 2026 01:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -57,43 +84,16 @@
           "created_at": "Tue, 20 Oct 2026 01:10:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "australia vs new zealand",
-          "created_at": "Tue, 20 Oct 2026 01:00:00 -0700",
+          "text": "sonny baker",
+          "created_at": "Tue, 20 Oct 2026 01:10:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مأرب",
-          "created_at": "Tue, 20 Oct 2026 00:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pakistan vs england",
-          "created_at": "Tue, 20 Oct 2026 00:10:00 -0700",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "روب يتن",
-          "created_at": "Mon, 19 Oct 2026 23:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
           }
         }
       ]
