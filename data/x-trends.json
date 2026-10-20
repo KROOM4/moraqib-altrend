@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T10:50:07.345272+00:00",
+  "updated_at": "2026-10-20T11:49:37.293585+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فورين بوليسي",
-          "created_at": "Tue, 20 Oct 2026 02:40:00 -0700",
+          "text": "سامي الجابر",
+          "created_at": "Tue, 20 Oct 2026 04:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "etihad airways",
+          "created_at": "Tue, 20 Oct 2026 04:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مكة",
+          "created_at": "Tue, 20 Oct 2026 04:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,11 +35,47 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "پاکستان قومی کرکٹ ٹیم",
-          "created_at": "Tue, 20 Oct 2026 02:10:00 -0700",
+          "text": "حادث",
+          "created_at": "Tue, 20 Oct 2026 03:50:00 -0700",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "1000+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "arafat minhas",
+          "created_at": "Tue, 20 Oct 2026 03:40:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "marco jansen",
+          "created_at": "Tue, 20 Oct 2026 03:40:00 -0700",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دولار أمريكي",
+          "created_at": "Tue, 20 Oct 2026 03:30:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "فورين بوليسي",
+          "created_at": "Tue, 20 Oct 2026 02:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
           }
         },
         {
@@ -35,64 +89,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saad baig",
-          "created_at": "Tue, 20 Oct 2026 02:00:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جدة",
-          "created_at": "Tue, 20 Oct 2026 01:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رجاء محمد",
-          "created_at": "Tue, 20 Oct 2026 01:40:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عقوبة",
-          "created_at": "Tue, 20 Oct 2026 01:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "helen haines",
-          "created_at": "Tue, 20 Oct 2026 01:40:00 -0700",
+          "text": "پاکستان قومی کرکٹ ٹیم",
+          "created_at": "Tue, 20 Oct 2026 02:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الدولار مقابل الجنيه",
-          "created_at": "Tue, 20 Oct 2026 01:30:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تاسي",
-          "created_at": "Tue, 20 Oct 2026 01:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": 0.0
           }
         }
