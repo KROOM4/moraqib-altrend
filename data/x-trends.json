@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T05:48:32.442336+00:00",
+  "updated_at": "2026-10-20T07:03:35.310778+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "روب يتن",
+          "created_at": "Mon, 19 Oct 2026 23:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "موعد",
+          "created_at": "Mon, 19 Oct 2026 22:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "king khalid international airport",
           "created_at": "Mon, 19 Oct 2026 22:40:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,7 +39,7 @@
           "created_at": "Mon, 19 Oct 2026 22:30:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +47,8 @@
           "text": "filipino workers wounded saudi arabia",
           "created_at": "Mon, 19 Oct 2026 21:40:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,7 +57,7 @@
           "created_at": "Mon, 19 Oct 2026 21:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,8 +65,8 @@
           "text": "الامن السيبراني",
           "created_at": "Mon, 19 Oct 2026 21:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -57,6 +75,15 @@
           "created_at": "Mon, 19 Oct 2026 21:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "समाचार",
+          "created_at": "Mon, 19 Oct 2026 20:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -66,33 +93,6 @@
           "created_at": "Mon, 19 Oct 2026 20:40:00 -0700",
           "metrics": {
             "search_volume": "20000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منصه",
-          "created_at": "Mon, 19 Oct 2026 20:40:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مؤتمر",
-          "created_at": "Mon, 19 Oct 2026 20:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أحلام",
-          "created_at": "Mon, 19 Oct 2026 19:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": 0.0
           }
         }
