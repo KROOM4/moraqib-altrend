@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T03:51:23.274532+00:00",
+  "updated_at": "2026-10-20T04:49:57.970711+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,28 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مدرستي",
+          "created_at": "Mon, 19 Oct 2026 20:40:00 -0700",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "منصه",
           "created_at": "Mon, 19 Oct 2026 20:40:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "2000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مؤتمر",
+          "created_at": "Mon, 19 Oct 2026 20:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -21,7 +39,7 @@
           "created_at": "Mon, 19 Oct 2026 19:30:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +48,7 @@
           "created_at": "Mon, 19 Oct 2026 15:50:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -76,24 +94,6 @@
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كهبوب",
-          "created_at": "Mon, 19 Oct 2026 13:50:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حسام حسن",
-          "created_at": "Mon, 19 Oct 2026 13:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
