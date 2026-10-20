@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-20T07:55:13.070279+00:00",
+  "updated_at": "2026-10-20T08:53:09.358394+00:00",
   "trends": {
-    "مأرب": {
+    "عقوبة": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-20T07:55:13.070279+00:00"
+      "updated_at": "2026-10-20T08:53:09.358394+00:00"
+    },
+    "سعر الدولار مقابل الجنيه": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-20T08:53:09.358394+00:00"
+    },
+    "fakhar zaman": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-20T08:53:09.358394+00:00"
+    },
+    "babar azam": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-20T08:53:09.358394+00:00"
+    },
+    "تاسي": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-20T08:53:09.358394+00:00"
+    },
+    "qatar airways": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-20T08:53:09.358394+00:00"
+    },
+    "australia vs new zealand": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-20T08:53:09.358394+00:00"
+    },
+    "مأرب": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-20T08:53:09.358394+00:00"
     },
     "pakistan vs england": {
-      "volume": 10000.0,
-      "raw_volume": "10000+",
-      "updated_at": "2026-10-20T07:55:13.070279+00:00"
+      "volume": 20000.0,
+      "raw_volume": "20000+",
+      "updated_at": "2026-10-20T08:53:09.358394+00:00"
     },
     "روب يتن": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-20T07:55:13.070279+00:00"
-    },
-    "مطار الخرطوم الدولي": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-20T07:55:13.070279+00:00"
-    },
-    "موعد": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-20T07:55:13.070279+00:00"
-    },
-    "king khalid international airport": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-20T07:55:13.070279+00:00"
-    },
-    "ديوان المظالم": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-20T07:55:13.070279+00:00"
-    },
-    "filipino workers wounded saudi arabia": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-20T07:55:13.070279+00:00"
-    },
-    "ranabaali movie": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-20T07:55:13.070279+00:00"
-    },
-    "الامن السيبراني": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-20T07:55:13.070279+00:00"
+      "updated_at": "2026-10-20T08:53:09.358394+00:00"
     }
   }
 }
