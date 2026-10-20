@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T16:50:39.484394+00:00",
+  "updated_at": "2026-10-20T17:46:10.211001+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nandani sharma",
-          "created_at": "Tue, 20 Oct 2026 09:40:00 -0700",
+          "text": "راكان بن سلمان بن عبد العزيز آل سعود",
+          "created_at": "Tue, 20 Oct 2026 10:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,8 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fenerbahçe - slavia prag",
-          "created_at": "Tue, 20 Oct 2026 09:30:00 -0700",
+          "text": "سالم الدوسري",
+          "created_at": "Tue, 20 Oct 2026 10:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -26,35 +26,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فضل شاكر",
-          "created_at": "Tue, 20 Oct 2026 09:20:00 -0700",
+          "text": "وزارة العمل والتنمية الاجتماعية",
+          "created_at": "Tue, 20 Oct 2026 10:30:00 -0700",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "24",
-          "created_at": "Tue, 20 Oct 2026 09:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pakistan national cricket team vs england cricket team standings",
-          "created_at": "Tue, 20 Oct 2026 08:50:00 -0700",
-          "metrics": {
-            "search_volume": "100000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طائرة",
-          "created_at": "Tue, 20 Oct 2026 08:50:00 -0700",
+          "text": "al-nassr vs neom",
+          "created_at": "Tue, 20 Oct 2026 10:20:00 -0700",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -62,38 +44,56 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عبد الفتاح السيسي",
-          "created_at": "Tue, 20 Oct 2026 08:30:00 -0700",
+          "text": "al-ettifaq vs al-ittihad",
+          "created_at": "Tue, 20 Oct 2026 10:20:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "தண்டனை",
-          "created_at": "Tue, 20 Oct 2026 08:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "التعاون ضد القادسية",
-          "created_at": "Tue, 20 Oct 2026 07:30:00 -0700",
+          "text": "الاتفاق ضد الاتحاد",
+          "created_at": "Tue, 20 Oct 2026 10:10:00 -0700",
           "metrics": {
             "search_volume": "10000+",
-            "growth_percent": 100.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "harmanpreet kaur",
-          "created_at": "Tue, 20 Oct 2026 07:20:00 -0700",
+          "text": "النصر ضد نيوم",
+          "created_at": "Tue, 20 Oct 2026 10:10:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "فنربخشة ضد سلافيا براغ",
+          "created_at": "Tue, 20 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "fenerbahçe vs slavia praha",
+          "created_at": "Tue, 20 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طلائع الجيش ضد الأهرام",
+          "created_at": "Tue, 20 Oct 2026 09:50:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": null
           }
         }
       ]
