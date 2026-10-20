@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T22:47:54.389602+00:00",
+  "updated_at": "2026-10-20T23:43:41.067216+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,29 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "vfb stuttgart vs atlético madrid standings",
-          "created_at": "Tue, 20 Oct 2026 14:10:00 -0700",
+          "text": "knicks vs 76ers",
+          "created_at": "Tue, 20 Oct 2026 16:30:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "as roma vs slovan bratislava standings",
-          "created_at": "Tue, 20 Oct 2026 14:10:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fabián ruiz",
-          "created_at": "Tue, 20 Oct 2026 14:00:00 -0700",
+          "text": "كايلي جينر",
+          "created_at": "Tue, 20 Oct 2026 15:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "nba",
+          "created_at": "Tue, 20 Oct 2026 14:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
           }
         },
         {
@@ -49,6 +49,24 @@
           "metrics": {
             "search_volume": "5000+",
             "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ترتيب دوري ابطال اوروبا",
+          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "xavi espart",
+          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
           }
         },
         {
@@ -75,24 +93,6 @@
           "created_at": "Tue, 20 Oct 2026 13:10:00 -0700",
           "metrics": {
             "search_volume": "10000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عثمان ديمبيلي",
-          "created_at": "Tue, 20 Oct 2026 13:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيب الدوري السعودي",
-          "created_at": "Tue, 20 Oct 2026 13:00:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
             "growth_percent": 0.0
           }
         }
