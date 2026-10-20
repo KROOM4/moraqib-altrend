@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T04:49:57.970711+00:00",
+  "updated_at": "2026-10-20T05:48:32.442336+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,65 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "king khalid international airport",
+          "created_at": "Mon, 19 Oct 2026 22:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ديوان المظالم",
+          "created_at": "Mon, 19 Oct 2026 22:30:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "filipino workers wounded saudi arabia",
+          "created_at": "Mon, 19 Oct 2026 21:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ranabaali movie",
+          "created_at": "Mon, 19 Oct 2026 21:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الامن السيبراني",
+          "created_at": "Mon, 19 Oct 2026 21:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "teams",
+          "created_at": "Mon, 19 Oct 2026 21:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "مدرستي",
           "created_at": "Mon, 19 Oct 2026 20:40:00 -0700",
           "metrics": {
             "search_volume": "20000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +75,7 @@
           "created_at": "Mon, 19 Oct 2026 20:40:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +84,7 @@
           "created_at": "Mon, 19 Oct 2026 20:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,60 +93,6 @@
           "created_at": "Mon, 19 Oct 2026 19:30:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رئيس كوريا الشمالية",
-          "created_at": "Mon, 19 Oct 2026 15:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "برشلونه وباريس",
-          "created_at": "Mon, 19 Oct 2026 15:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pink",
-          "created_at": "Mon, 19 Oct 2026 15:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بروكسل",
-          "created_at": "Mon, 19 Oct 2026 14:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "برلمان",
-          "created_at": "Mon, 19 Oct 2026 14:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مسلسل حب اسود",
-          "created_at": "Mon, 19 Oct 2026 14:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
