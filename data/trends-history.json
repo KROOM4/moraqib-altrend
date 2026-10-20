@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-20T19:02:14.820669+00:00",
+  "updated_at": "2026-10-20T19:49:28.563585+00:00",
   "trends": {
-    "defense pact": {
+    "matvey safonov": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-20T19:49:28.563585+00:00"
+    },
+    "يلا": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-20T19:02:14.820669+00:00"
+      "updated_at": "2026-10-20T19:49:28.563585+00:00"
     },
-    "روما ضد سلوفان براتيسلافا": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-20T19:02:14.820669+00:00"
+    "napoli vs bodø/glimt": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-20T19:49:28.563585+00:00"
     },
-    "بث مباريات": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-20T19:02:14.820669+00:00"
+    "uefa champions league": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-20T19:49:28.563585+00:00"
     },
-    "man city vs aek": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-20T19:02:14.820669+00:00"
-    },
-    "مان سيتي ضد أيك": {
+    "barcelona": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-10-20T19:02:14.820669+00:00"
+      "updated_at": "2026-10-20T19:49:28.563585+00:00"
     },
-    "roma vs slovan bratislava": {
+    "thunderstorm": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-20T19:49:28.563585+00:00"
+    },
+    "kooora": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-20T19:49:28.563585+00:00"
+    },
+    "pistons vs celtics": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-20T19:49:28.563585+00:00"
+    },
+    "psg": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-20T19:02:14.820669+00:00"
+      "updated_at": "2026-10-20T19:49:28.563585+00:00"
     },
-    "ثمانية": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-20T19:02:14.820669+00:00"
-    },
-    "ليفربول ضد فياريال": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-20T19:02:14.820669+00:00"
-    },
-    "liverpool vs villarreal": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-20T19:02:14.820669+00:00"
-    },
-    "vfb stuttgart vs atlético": {
+    "يلا قول": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-10-20T19:02:14.820669+00:00"
+      "updated_at": "2026-10-20T19:49:28.563585+00:00"
     }
   }
 }
