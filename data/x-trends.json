@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T01:03:06.791051+00:00",
+  "updated_at": "2026-10-20T01:49:31.947002+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رئيس كوريا الشمالية",
-          "created_at": "Mon, 19 Oct 2026 15:50:00 -0700",
+          "text": "كيم جونغ أون",
+          "created_at": "Mon, 19 Oct 2026 15:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -21,7 +21,16 @@
           "created_at": "Mon, 19 Oct 2026 15:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": -50.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "pink",
+          "created_at": "Mon, 19 Oct 2026 15:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -38,8 +47,8 @@
           "text": "برلمان",
           "created_at": "Mon, 19 Oct 2026 14:20:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +57,7 @@
           "created_at": "Mon, 19 Oct 2026 14:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -75,25 +84,16 @@
           "created_at": "Mon, 19 Oct 2026 13:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kim jong un",
+          "text": "al hilal sfc vs al-hazem f.c. standings",
           "created_at": "Mon, 19 Oct 2026 13:20:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيب الدوري السعودي",
-          "created_at": "Mon, 19 Oct 2026 13:00:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": null
           }
         }
       ]
