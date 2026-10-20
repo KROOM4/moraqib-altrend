@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T19:49:28.563585+00:00",
+  "updated_at": "2026-10-20T20:51:23.964155+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,44 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "matvey safonov",
-          "created_at": "Tue, 20 Oct 2026 12:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "يلا",
-          "created_at": "Tue, 20 Oct 2026 12:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "napoli vs bodø/glimt",
-          "created_at": "Tue, 20 Oct 2026 12:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "uefa champions league",
-          "created_at": "Tue, 20 Oct 2026 12:30:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "barcelona",
-          "created_at": "Tue, 20 Oct 2026 12:30:00 -0700",
+          "text": "ترتيبات طلائع الجيش – نادى بيراميدز",
+          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -53,35 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "thunderstorm",
-          "created_at": "Tue, 20 Oct 2026 12:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kooora",
-          "created_at": "Tue, 20 Oct 2026 12:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pistons vs celtics",
-          "created_at": "Tue, 20 Oct 2026 12:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "psg",
-          "created_at": "Tue, 20 Oct 2026 12:10:00 -0700",
+          "text": "xavi espart",
+          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -89,10 +26,73 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "يلا قول",
-          "created_at": "Tue, 20 Oct 2026 12:10:00 -0700",
+          "text": "ترتيب دوري ابطال اوروبا",
+          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "القتل",
+          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "khvicha kvaratskhelia",
+          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ترتيب",
+          "created_at": "Tue, 20 Oct 2026 13:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "برشا",
+          "created_at": "Tue, 20 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "النص",
+          "created_at": "Tue, 20 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مباريات الدوري السعودي",
+          "created_at": "Tue, 20 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "psg vs fc barcelona stats",
+          "created_at": "Tue, 20 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         }
