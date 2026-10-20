@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T14:52:16.418979+00:00",
+  "updated_at": "2026-10-20T15:50:39.798847+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "التعاون ضد القادسية",
-          "created_at": "Tue, 20 Oct 2026 07:30:00 -0700",
+          "text": "عبد الفتاح السيسي",
+          "created_at": "Tue, 20 Oct 2026 08:30:00 -0700",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -17,7 +17,34 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "தண்டனை",
+          "created_at": "Tue, 20 Oct 2026 08:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "التعاون ضد القادسية",
+          "created_at": "Tue, 20 Oct 2026 07:30:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "harmanpreet kaur",
+          "created_at": "Tue, 20 Oct 2026 07:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الاتحاد والاتفاق",
           "created_at": "Tue, 20 Oct 2026 07:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
@@ -29,16 +56,16 @@
           "text": "إريك تين هاج",
           "created_at": "Tue, 20 Oct 2026 07:10:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ഖത്തര്",
+          "text": "وكالة الأنباء السعودية",
           "created_at": "Tue, 20 Oct 2026 07:00:00 -0700",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
@@ -48,7 +75,16 @@
           "created_at": "Tue, 20 Oct 2026 07:00:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ഖത്തര്",
+          "created_at": "Tue, 20 Oct 2026 07:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,44 +92,8 @@
           "text": "shafali verma",
           "created_at": "Tue, 20 Oct 2026 06:50:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "india vs zimbabwe",
-          "created_at": "Tue, 20 Oct 2026 06:10:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بترول أسيوط ضد الزمالك",
-          "created_at": "Tue, 20 Oct 2026 06:10:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إيران",
-          "created_at": "Tue, 20 Oct 2026 06:10:00 -0700",
-          "metrics": {
             "search_volume": "2000+",
             "growth_percent": 300.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "egypt saudi arabia",
-          "created_at": "Tue, 20 Oct 2026 06:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
           }
         }
       ]
