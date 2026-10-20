@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T02:51:08.908939+00:00",
+  "updated_at": "2026-10-20T03:51:23.274532+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منصه",
+          "created_at": "Mon, 19 Oct 2026 20:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "أحلام",
           "created_at": "Mon, 19 Oct 2026 19:30:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -20,8 +29,8 @@
           "text": "رئيس كوريا الشمالية",
           "created_at": "Mon, 19 Oct 2026 15:50:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -75,7 +84,7 @@
           "created_at": "Mon, 19 Oct 2026 13:50:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -83,17 +92,8 @@
           "text": "حسام حسن",
           "created_at": "Mon, 19 Oct 2026 13:40:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نتيجة الهلال",
-          "created_at": "Mon, 19 Oct 2026 13:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         }
       ]
