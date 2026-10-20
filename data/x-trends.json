@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T18:15:09.850731+00:00",
+  "updated_at": "2026-10-20T19:02:14.820669+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,91 +8,91 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المنصة الوطنية للإنذار المبكر",
-          "created_at": "Tue, 20 Oct 2026 11:00:00 -0700",
+          "text": "defense pact",
+          "created_at": "Tue, 20 Oct 2026 11:50:00 -0700",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "احلى نصيب",
-          "created_at": "Tue, 20 Oct 2026 11:00:00 -0700",
+          "text": "روما ضد سلوفان براتيسلافا",
+          "created_at": "Tue, 20 Oct 2026 11:50:00 -0700",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سالم الدوسري",
-          "created_at": "Tue, 20 Oct 2026 10:30:00 -0700",
+          "text": "بث مباريات",
+          "created_at": "Tue, 20 Oct 2026 11:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "راكان بن سلمان بن عبد العزيز آل سعود",
-          "created_at": "Tue, 20 Oct 2026 10:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزارة العمل والتنمية الاجتماعية",
-          "created_at": "Tue, 20 Oct 2026 10:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al-nassr vs neom",
-          "created_at": "Tue, 20 Oct 2026 10:20:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al-ettifaq vs al-ittihad",
-          "created_at": "Tue, 20 Oct 2026 10:20:00 -0700",
+          "text": "man city vs aek",
+          "created_at": "Tue, 20 Oct 2026 11:20:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "النصر ضد نيوم",
-          "created_at": "Tue, 20 Oct 2026 10:10:00 -0700",
+          "text": "مان سيتي ضد أيك",
+          "created_at": "Tue, 20 Oct 2026 11:20:00 -0700",
           "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 100.0
+            "search_volume": "1000+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الاتفاق ضد الاتحاد",
-          "created_at": "Tue, 20 Oct 2026 10:10:00 -0700",
+          "text": "roma vs slovan bratislava",
+          "created_at": "Tue, 20 Oct 2026 11:20:00 -0700",
           "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيبات بترول أسيوط – نادى الزمالك",
-          "created_at": "Tue, 20 Oct 2026 10:10:00 -0700",
+          "text": "ثمانية",
+          "created_at": "Tue, 20 Oct 2026 11:20:00 -0700",
           "metrics": {
-            "search_volume": "10000+",
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ليفربول ضد فياريال",
+          "created_at": "Tue, 20 Oct 2026 11:10:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "liverpool vs villarreal",
+          "created_at": "Tue, 20 Oct 2026 11:10:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "vfb stuttgart vs atlético",
+          "created_at": "Tue, 20 Oct 2026 11:10:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
             "growth_percent": null
           }
         }
