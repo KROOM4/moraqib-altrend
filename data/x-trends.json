@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T13:56:31.208565+00:00",
+  "updated_at": "2026-10-21T14:51:36.043962+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منظمة الصحة العالمية",
-          "created_at": "Wed, 21 Oct 2026 06:20:00 -0700",
+          "text": "السوق المالية السعودية",
+          "created_at": "Wed, 21 Oct 2026 07:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,8 +17,35 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مدرب",
+          "text": "غزل المحلة ضد الاتحاد السكندري",
+          "created_at": "Wed, 21 Oct 2026 07:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منظمة الصحة العالمية",
+          "created_at": "Wed, 21 Oct 2026 06:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "aix investment group",
           "created_at": "Wed, 21 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "travis head",
+          "created_at": "Wed, 21 Oct 2026 06:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -29,7 +56,16 @@
           "text": "persija jakarta vs arema fc",
           "created_at": "Wed, 21 Oct 2026 06:00:00 -0700",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كفاراتسخيليا",
+          "created_at": "Wed, 21 Oct 2026 05:50:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
             "growth_percent": null
           }
         },
@@ -57,42 +93,6 @@
           "created_at": "Wed, 21 Oct 2026 04:50:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ban vs afg",
-          "created_at": "Wed, 21 Oct 2026 04:40:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مطار الريان",
-          "created_at": "Wed, 21 Oct 2026 04:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "पाकिस्तान",
-          "created_at": "Wed, 21 Oct 2026 04:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "san miguel vs road warriors",
-          "created_at": "Wed, 21 Oct 2026 03:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
