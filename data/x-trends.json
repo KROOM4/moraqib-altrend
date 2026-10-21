@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T14:51:36.043962+00:00",
+  "updated_at": "2026-10-21T15:53:17.680627+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,43 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "rashid khan",
+          "created_at": "Wed, 21 Oct 2026 08:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "taskin ahmed",
+          "created_at": "Wed, 21 Oct 2026 08:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "موهبة",
+          "created_at": "Wed, 21 Oct 2026 08:10:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "السوق المالية السعودية",
+          "created_at": "Wed, 21 Oct 2026 07:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "সৌদি আরবে মৃত্যুদণ্ড",
           "created_at": "Wed, 21 Oct 2026 07:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
@@ -20,8 +56,8 @@
           "text": "غزل المحلة ضد الاتحاد السكندري",
           "created_at": "Wed, 21 Oct 2026 07:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -30,7 +66,7 @@
           "created_at": "Wed, 21 Oct 2026 06:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,16 +75,7 @@
           "created_at": "Wed, 21 Oct 2026 06:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "travis head",
-          "created_at": "Wed, 21 Oct 2026 06:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,7 +84,7 @@
           "created_at": "Wed, 21 Oct 2026 06:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -66,33 +93,6 @@
           "created_at": "Wed, 21 Oct 2026 05:50:00 -0700",
           "metrics": {
             "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سلطان عمان",
-          "created_at": "Wed, 21 Oct 2026 05:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bangladesh vs afghanistan",
-          "created_at": "Wed, 21 Oct 2026 04:50:00 -0700",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المركز الوطني للأرصاد",
-          "created_at": "Wed, 21 Oct 2026 04:50:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
             "growth_percent": 0.0
           }
         }
