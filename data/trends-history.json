@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-21T19:48:46.538571+00:00",
+  "updated_at": "2026-10-21T20:51:22.155483+00:00",
   "trends": {
-    "real madrid": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-21T19:48:46.538571+00:00"
-    },
-    "champions league": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-21T19:48:46.538571+00:00"
-    },
-    "الجزيرة كابيتال": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-21T19:48:46.538571+00:00"
-    },
-    "sporting vs lask": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-21T19:48:46.538571+00:00"
-    },
-    "madrid vs leipzig": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-21T19:48:46.538571+00:00"
-    },
-    "arsenal": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-21T19:48:46.538571+00:00"
-    },
-    "koora": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-21T19:48:46.538571+00:00"
-    },
-    "حقل شيبه": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-21T19:48:46.538571+00:00"
-    },
-    "كلوب بروج ضد لنس": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-21T19:48:46.538571+00:00"
-    },
-    "champions league games": {
+    "دفاع جوي": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-21T19:48:46.538571+00:00"
+      "updated_at": "2026-10-21T20:51:22.155483+00:00"
+    },
+    "al ahly sc vs el qanah fc standings": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-21T20:51:22.155483+00:00"
+    },
+    "shaybah oil field": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-21T20:51:22.155483+00:00"
+    },
+    "bernardo silva": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-21T20:51:22.155483+00:00"
+    },
+    "bayern": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-21T20:51:22.155483+00:00"
+    },
+    "دوري الأبطال": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-21T20:51:22.155483+00:00"
+    },
+    "ucl": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-21T20:51:22.155483+00:00"
+    },
+    "عبد الرزاق حمد الله": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-21T20:51:22.155483+00:00"
+    },
+    "real madrid": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-21T20:51:22.155483+00:00"
+    },
+    "الجزيرة كابيتال": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-21T20:51:22.155483+00:00"
     }
   }
 }
