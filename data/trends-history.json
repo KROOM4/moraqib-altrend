@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-21T01:50:47.228922+00:00",
+  "updated_at": "2026-10-21T02:50:09.260269+00:00",
   "trends": {
+    "spurs vs thunder": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-21T02:50:09.260269+00:00"
+    },
+    "سعر الريال السعودي اليوم": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-21T02:50:09.260269+00:00"
+    },
     "knicks vs 76ers": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-10-21T01:50:47.228922+00:00"
+      "updated_at": "2026-10-21T02:50:09.260269+00:00"
     },
     "ضمان اجتماعي": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-21T01:50:47.228922+00:00"
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-21T02:50:09.260269+00:00"
     },
     "champions league standings": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-21T01:50:47.228922+00:00"
+      "updated_at": "2026-10-21T02:50:09.260269+00:00"
+    },
+    "saudi stock market index decline": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-21T02:50:09.260269+00:00"
+    },
+    "al-nassr vs neom sc standings": {
+      "volume": 10000.0,
+      "raw_volume": "10000+",
+      "updated_at": "2026-10-21T02:50:09.260269+00:00"
     },
     "ترتيبات طلائع الجيش – نادى بيراميدز": {
       "volume": 5000.0,
       "raw_volume": "5000+",
-      "updated_at": "2026-10-21T01:50:47.228922+00:00"
+      "updated_at": "2026-10-21T02:50:09.260269+00:00"
     },
     "xavi espart": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-21T01:50:47.228922+00:00"
-    },
-    "khvicha kvaratskhelia": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-21T01:50:47.228922+00:00"
+      "updated_at": "2026-10-21T02:50:09.260269+00:00"
     },
     "القتل": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-21T01:50:47.228922+00:00"
-    },
-    "psg vs fc barcelona standings": {
-      "volume": 10000.0,
-      "raw_volume": "10000+",
-      "updated_at": "2026-10-21T01:50:47.228922+00:00"
-    },
-    "al-ettifaq vs al-ittihad club standings": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-21T01:50:47.228922+00:00"
-    },
-    "barcelona vs": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-21T01:50:47.228922+00:00"
+      "updated_at": "2026-10-21T02:50:09.260269+00:00"
     }
   }
 }

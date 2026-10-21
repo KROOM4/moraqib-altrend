@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T01:50:47.228922+00:00",
+  "updated_at": "2026-10-21T02:50:09.260269+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "spurs vs thunder",
+          "created_at": "Tue, 20 Oct 2026 19:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الريال السعودي اليوم",
+          "created_at": "Tue, 20 Oct 2026 19:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "knicks vs 76ers",
           "created_at": "Tue, 20 Oct 2026 16:30:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 400.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -20,8 +38,8 @@
           "text": "ضمان اجتماعي",
           "created_at": "Tue, 20 Oct 2026 15:10:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -31,6 +49,24 @@
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "saudi stock market index decline",
+          "created_at": "Tue, 20 Oct 2026 13:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al-nassr vs neom sc standings",
+          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
           }
         },
         {
@@ -53,47 +89,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "khvicha kvaratskhelia",
-          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "القتل",
           "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "psg vs fc barcelona standings",
-          "created_at": "Tue, 20 Oct 2026 13:10:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al-ettifaq vs al-ittihad club standings",
-          "created_at": "Tue, 20 Oct 2026 13:10:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "barcelona vs",
-          "created_at": "Tue, 20 Oct 2026 13:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
           }
         }
       ]
