@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-21T18:59:35.157739+00:00",
+  "updated_at": "2026-10-21T19:48:46.538571+00:00",
   "trends": {
-    "كلوب بروج ضد لنس": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-21T18:59:35.157739+00:00"
+    "real madrid": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-21T19:48:46.538571+00:00"
     },
-    "منطقة الرياض": {
+    "champions league": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-21T19:48:46.538571+00:00"
+    },
+    "الجزيرة كابيتال": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-21T18:59:35.157739+00:00"
+      "updated_at": "2026-10-21T19:48:46.538571+00:00"
     },
-    "champions league games": {
+    "sporting vs lask": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-21T18:59:35.157739+00:00"
+      "updated_at": "2026-10-21T19:48:46.538571+00:00"
     },
-    "inter vs shakhtar donetsk": {
+    "madrid vs leipzig": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-21T19:48:46.538571+00:00"
+    },
+    "arsenal": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-21T18:59:35.157739+00:00"
+      "updated_at": "2026-10-21T19:48:46.538571+00:00"
     },
-    "betis vs feyenoord": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-21T18:59:35.157739+00:00"
+    "koora": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-21T19:48:46.538571+00:00"
     },
-    "الإنتر ضد شاختار": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-21T18:59:35.157739+00:00"
-    },
-    "aston villa vs viking": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-21T18:59:35.157739+00:00"
-    },
-    "الريال ضد ار بي ليبزيج": {
-      "volume": 20000.0,
-      "raw_volume": "20000+",
-      "updated_at": "2026-10-21T18:59:35.157739+00:00"
-    },
-    "real madrid vs rb leipzig": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-21T18:59:35.157739+00:00"
-    },
-    "bayern vs arsenal": {
+    "حقل شيبه": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-10-21T18:59:35.157739+00:00"
+      "updated_at": "2026-10-21T19:48:46.538571+00:00"
+    },
+    "كلوب بروج ضد لنس": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-21T19:48:46.538571+00:00"
+    },
+    "champions league games": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-21T19:48:46.538571+00:00"
     }
   }
 }
