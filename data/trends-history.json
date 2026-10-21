@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-21T11:51:14.936731+00:00",
+  "updated_at": "2026-10-21T13:04:11.597878+00:00",
   "trends": {
-    "bangladesh national cricket team vs afghanistan national cricket team match scorecard": {
-      "volume": 10000.0,
-      "raw_volume": "10000+",
-      "updated_at": "2026-10-21T11:51:14.936731+00:00"
-    },
-    "المكلا": {
+    "كفاراتسخيليا": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-21T11:51:14.936731+00:00"
+      "updated_at": "2026-10-21T13:04:11.597878+00:00"
     },
-    "عاصفة رعدية": {
+    "سلطان عمان": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-21T13:04:11.597878+00:00"
+    },
+    "bangladesh vs afghanistan": {
+      "volume": 20000.0,
+      "raw_volume": "20000+",
+      "updated_at": "2026-10-21T13:04:11.597878+00:00"
+    },
+    "المركز الوطني للأرصاد": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-21T13:04:11.597878+00:00"
+    },
+    "مطار الريان": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-21T11:51:14.936731+00:00"
+      "updated_at": "2026-10-21T13:04:11.597878+00:00"
+    },
+    "पाकिस्तान": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-21T13:04:11.597878+00:00"
+    },
+    "san miguel vs road warriors": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-21T13:04:11.597878+00:00"
     },
     "جدة": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-21T11:51:14.936731+00:00"
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-21T13:04:11.597878+00:00"
+    },
+    "clayface": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-21T13:04:11.597878+00:00"
     },
     "اقتصاد مصر": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-21T11:51:14.936731+00:00"
-    },
-    "مصرف الإنماء": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-21T11:51:14.936731+00:00"
-    },
-    "iqoo": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-21T11:51:14.936731+00:00"
-    },
-    "pakistan": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-21T11:51:14.936731+00:00"
-    },
-    "fraud": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-21T11:51:14.936731+00:00"
-    },
-    "gaël monfils": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-21T11:51:14.936731+00:00"
+      "updated_at": "2026-10-21T13:04:11.597878+00:00"
     }
   }
 }

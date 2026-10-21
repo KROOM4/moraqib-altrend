@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T11:51:14.936731+00:00",
+  "updated_at": "2026-10-21T13:04:11.597878+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bangladesh national cricket team vs afghanistan national cricket team match scorecard",
-          "created_at": "Wed, 21 Oct 2026 04:20:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المكلا",
-          "created_at": "Wed, 21 Oct 2026 04:10:00 -0700",
+          "text": "كفاراتسخيليا",
+          "created_at": "Wed, 21 Oct 2026 05:50:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -26,10 +17,55 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عاصفة رعدية",
+          "text": "سلطان عمان",
+          "created_at": "Wed, 21 Oct 2026 05:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bangladesh vs afghanistan",
+          "created_at": "Wed, 21 Oct 2026 04:50:00 -0700",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "المركز الوطني للأرصاد",
+          "created_at": "Wed, 21 Oct 2026 04:50:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مطار الريان",
+          "created_at": "Wed, 21 Oct 2026 04:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "पाकिस्तान",
+          "created_at": "Wed, 21 Oct 2026 04:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "san miguel vs road warriors",
           "created_at": "Wed, 21 Oct 2026 03:50:00 -0700",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -38,8 +74,17 @@
           "text": "جدة",
           "created_at": "Wed, 21 Oct 2026 03:40:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "clayface",
+          "created_at": "Wed, 21 Oct 2026 03:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -48,52 +93,7 @@
           "created_at": "Wed, 21 Oct 2026 03:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مصرف الإنماء",
-          "created_at": "Wed, 21 Oct 2026 03:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "iqoo",
-          "created_at": "Wed, 21 Oct 2026 03:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pakistan",
-          "created_at": "Wed, 21 Oct 2026 02:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fraud",
-          "created_at": "Wed, 21 Oct 2026 02:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gaël monfils",
-          "created_at": "Wed, 21 Oct 2026 02:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
           }
         }
       ]
