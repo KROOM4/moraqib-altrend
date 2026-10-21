@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T10:51:04.630352+00:00",
+  "updated_at": "2026-10-21T11:51:14.936731+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,20 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جدة",
-          "created_at": "Wed, 21 Oct 2026 03:40:00 -0700",
+          "text": "bangladesh national cricket team vs afghanistan national cricket team match scorecard",
+          "created_at": "Wed, 21 Oct 2026 04:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "10000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "afghanistan vs bangladesh",
+          "text": "المكلا",
+          "created_at": "Wed, 21 Oct 2026 04:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عاصفة رعدية",
+          "created_at": "Wed, 21 Oct 2026 03:50:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جدة",
           "created_at": "Wed, 21 Oct 2026 03:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,13 +47,22 @@
           "text": "اقتصاد مصر",
           "created_at": "Wed, 21 Oct 2026 03:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "مصرف الإنماء",
+          "created_at": "Wed, 21 Oct 2026 03:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "iqoo",
           "created_at": "Wed, 21 Oct 2026 03:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
@@ -48,7 +75,7 @@
           "created_at": "Wed, 21 Oct 2026 02:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,8 +83,8 @@
           "text": "fraud",
           "created_at": "Wed, 21 Oct 2026 02:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -65,35 +92,8 @@
           "text": "gaël monfils",
           "created_at": "Wed, 21 Oct 2026 02:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نمو",
-          "created_at": "Wed, 21 Oct 2026 02:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "job",
-          "created_at": "Wed, 21 Oct 2026 02:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "marco jansen",
-          "created_at": "Wed, 21 Oct 2026 01:50:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         }
       ]
