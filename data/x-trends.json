@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T09:51:59.458481+00:00",
+  "updated_at": "2026-10-21T10:51:04.630352+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,46 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جائزة أفضل لاعب في آسيا",
-          "created_at": "Wed, 21 Oct 2026 02:40:00 -0700",
+          "text": "جدة",
+          "created_at": "Wed, 21 Oct 2026 03:40:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "afghanistan vs bangladesh",
+          "created_at": "Wed, 21 Oct 2026 03:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اقتصاد مصر",
+          "created_at": "Wed, 21 Oct 2026 03:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مصرف الإنماء",
+          "created_at": "Wed, 21 Oct 2026 03:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "pakistan",
+          "created_at": "Wed, 21 Oct 2026 02:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -20,8 +56,8 @@
           "text": "fraud",
           "created_at": "Wed, 21 Oct 2026 02:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +66,7 @@
           "created_at": "Wed, 21 Oct 2026 02:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,61 +75,25 @@
           "created_at": "Wed, 21 Oct 2026 02:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وقود",
-          "created_at": "Wed, 21 Oct 2026 01:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قرش",
-          "created_at": "Wed, 21 Oct 2026 01:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "south africa vs australia",
-          "created_at": "Wed, 21 Oct 2026 01:00:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سهم الراجحي",
-          "created_at": "Wed, 21 Oct 2026 01:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الشرائع",
-          "created_at": "Wed, 21 Oct 2026 00:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الراجحي المالية",
-          "created_at": "Wed, 21 Oct 2026 00:40:00 -0700",
+          "text": "job",
+          "created_at": "Wed, 21 Oct 2026 02:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "marco jansen",
+          "created_at": "Wed, 21 Oct 2026 01:50:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
           }
         }
       ]
