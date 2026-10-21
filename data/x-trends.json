@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T05:49:09.727353+00:00",
+  "updated_at": "2026-10-21T07:05:32.180642+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "alex eala",
+          "created_at": "Tue, 20 Oct 2026 23:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ريهام عبد الغفور",
+          "created_at": "Tue, 20 Oct 2026 22:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الريال السعودي",
+          "created_at": "Tue, 20 Oct 2026 22:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الامن السيبراني",
+          "created_at": "Tue, 20 Oct 2026 22:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "porimoni",
           "created_at": "Tue, 20 Oct 2026 21:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +66,7 @@
           "created_at": "Tue, 20 Oct 2026 20:50:00 -0700",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +74,8 @@
           "text": "جريدة الرياض",
           "created_at": "Tue, 20 Oct 2026 20:30:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +84,7 @@
           "created_at": "Tue, 20 Oct 2026 20:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,44 +92,8 @@
           "text": "spurs vs thunder",
           "created_at": "Tue, 20 Oct 2026 19:20:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أمن المنشآت",
-          "created_at": "Tue, 20 Oct 2026 19:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هبة مجدي",
-          "created_at": "Tue, 20 Oct 2026 18:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "knicks vs 76ers",
-          "created_at": "Tue, 20 Oct 2026 16:30:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "500+",
             "growth_percent": -50.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "গ্রেফতার",
-          "created_at": "Tue, 20 Oct 2026 15:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
           }
         }
       ]
