@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T17:48:25.571259+00:00",
+  "updated_at": "2026-10-21T18:59:35.157739+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,26 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيبات غزل المحلة – الاتحاد السكندرى",
-          "created_at": "Wed, 21 Oct 2026 10:30:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "manchester united",
-          "created_at": "Wed, 21 Oct 2026 10:30:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "levante vs athletic",
-          "created_at": "Wed, 21 Oct 2026 10:20:00 -0700",
+          "text": "كلوب بروج ضد لنس",
+          "created_at": "Wed, 21 Oct 2026 11:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -35,8 +17,44 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "biman bangladesh airlines",
-          "created_at": "Wed, 21 Oct 2026 10:20:00 -0700",
+          "text": "منطقة الرياض",
+          "created_at": "Wed, 21 Oct 2026 11:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "champions league games",
+          "created_at": "Wed, 21 Oct 2026 11:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "inter vs shakhtar donetsk",
+          "created_at": "Wed, 21 Oct 2026 11:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "betis vs feyenoord",
+          "created_at": "Wed, 21 Oct 2026 11:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الإنتر ضد شاختار",
+          "created_at": "Wed, 21 Oct 2026 11:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -44,8 +62,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دوري يلو",
-          "created_at": "Wed, 21 Oct 2026 10:20:00 -0700",
+          "text": "aston villa vs viking",
+          "created_at": "Wed, 21 Oct 2026 11:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -53,46 +71,28 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ماكرون",
-          "created_at": "Wed, 21 Oct 2026 10:20:00 -0700",
+          "text": "الريال ضد ار بي ليبزيج",
+          "created_at": "Wed, 21 Oct 2026 11:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "20000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مانشستر يونايتد",
-          "created_at": "Wed, 21 Oct 2026 10:10:00 -0700",
+          "text": "real madrid vs rb leipzig",
+          "created_at": "Wed, 21 Oct 2026 11:10:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "5000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سيراميكا كليوباترا ضد السويس بتروجيت",
-          "created_at": "Wed, 21 Oct 2026 10:10:00 -0700",
+          "text": "bayern vs arsenal",
+          "created_at": "Wed, 21 Oct 2026 11:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lille - galatasaray",
-          "created_at": "Wed, 21 Oct 2026 09:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "বিমান বাংলাদেশ এয়ারলাইন্স",
-          "created_at": "Wed, 21 Oct 2026 09:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
+            "search_volume": "2000+",
             "growth_percent": null
           }
         }
