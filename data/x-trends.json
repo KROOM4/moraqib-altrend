@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T00:07:45.081715+00:00",
+  "updated_at": "2026-10-21T01:02:58.813514+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -11,17 +11,26 @@
           "text": "knicks vs 76ers",
           "created_at": "Tue, 20 Oct 2026 16:30:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 400.0
+            "search_volume": "200+",
+            "growth_percent": -60.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كايلي جينر",
-          "created_at": "Tue, 20 Oct 2026 15:50:00 -0700",
+          "text": "ضمان اجتماعي",
+          "created_at": "Tue, 20 Oct 2026 15:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "nba",
+          "created_at": "Tue, 20 Oct 2026 14:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
@@ -44,20 +53,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيب دوري ابطال اوروبا",
+          "text": "khvicha kvaratskhelia",
           "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تشافي إسبارت",
-          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
           }
         },
         {
@@ -80,20 +80,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "khvicha kvaratskhelia",
-          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "psg vs fc barcelona standings",
           "created_at": "Tue, 20 Oct 2026 13:10:00 -0700",
           "metrics": {
             "search_volume": "10000+",
             "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al-ettifaq vs al-ittihad club standings",
+          "created_at": "Tue, 20 Oct 2026 13:10:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
           }
         }
       ]
