@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T02:50:09.260269+00:00",
+  "updated_at": "2026-10-21T03:52:10.975140+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "spurs vs thunder",
-          "created_at": "Tue, 20 Oct 2026 19:20:00 -0700",
+          "text": "منصة",
+          "created_at": "Tue, 20 Oct 2026 20:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عمر السومة",
+          "created_at": "Tue, 20 Oct 2026 20:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,10 +26,19 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الريال السعودي اليوم",
-          "created_at": "Tue, 20 Oct 2026 19:10:00 -0700",
+          "text": "spurs vs thunder",
+          "created_at": "Tue, 20 Oct 2026 19:20:00 -0700",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أمن المنشآت",
+          "created_at": "Tue, 20 Oct 2026 19:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -35,11 +53,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "গ্রেফতার",
+          "created_at": "Tue, 20 Oct 2026 15:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "ضمان اجتماعي",
           "created_at": "Tue, 20 Oct 2026 15:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "vfb stuttgart vs atlético madrid standings",
+          "created_at": "Tue, 20 Oct 2026 14:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
           }
         },
         {
@@ -53,47 +89,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saudi stock market index decline",
-          "created_at": "Tue, 20 Oct 2026 13:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al-nassr vs neom sc standings",
-          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيبات طلائع الجيش – نادى بيراميدز",
-          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "xavi espart",
-          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
+          "text": "لامين يامال",
+          "created_at": "Tue, 20 Oct 2026 13:50:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "القتل",
-          "created_at": "Tue, 20 Oct 2026 13:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         }
       ]
