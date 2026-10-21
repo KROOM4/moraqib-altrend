@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T07:05:32.180642+00:00",
+  "updated_at": "2026-10-21T07:58:09.957438+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سوق الاسهم السعودي",
+          "created_at": "Wed, 21 Oct 2026 00:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مجلس النواب السعودية",
+          "created_at": "Wed, 21 Oct 2026 00:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "alex eala",
           "created_at": "Tue, 20 Oct 2026 23:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +39,7 @@
           "created_at": "Tue, 20 Oct 2026 22:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +48,7 @@
           "created_at": "Tue, 20 Oct 2026 22:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +57,7 @@
           "created_at": "Tue, 20 Oct 2026 22:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -65,17 +83,8 @@
           "text": "منصه",
           "created_at": "Tue, 20 Oct 2026 20:50:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جريدة الرياض",
-          "created_at": "Tue, 20 Oct 2026 20:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "2000+",
+            "growth_percent": -60.0
           }
         },
         {
@@ -85,15 +94,6 @@
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "spurs vs thunder",
-          "created_at": "Tue, 20 Oct 2026 19:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": -50.0
           }
         }
       ]
