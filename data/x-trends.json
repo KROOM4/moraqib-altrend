@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T01:01:36.416976+00:00",
+  "updated_at": "2026-10-22T01:50:46.212893+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -20,8 +20,8 @@
           "text": "مطار الملك فهد",
           "created_at": "Wed, 21 Oct 2026 15:30:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -29,17 +29,8 @@
           "text": "محمد صبحي",
           "created_at": "Wed, 21 Oct 2026 15:10:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مطر",
-          "created_at": "Wed, 21 Oct 2026 15:00:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -47,8 +38,8 @@
           "text": "aston villa vs viking fk standings",
           "created_at": "Wed, 21 Oct 2026 14:50:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -62,28 +53,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "shaybah",
-          "created_at": "Wed, 21 Oct 2026 14:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "يسرا",
           "created_at": "Wed, 21 Oct 2026 14:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "real madrid vs rb leipzig standings",
-          "created_at": "Wed, 21 Oct 2026 14:10:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
             "growth_percent": 0.0
           }
         },
@@ -94,6 +67,33 @@
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دفاع جوي",
+          "created_at": "Wed, 21 Oct 2026 13:30:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al ahly sc vs el qanah fc standings",
+          "created_at": "Wed, 21 Oct 2026 13:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bioware",
+          "created_at": "Wed, 21 Oct 2026 13:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
           }
         }
       ]
