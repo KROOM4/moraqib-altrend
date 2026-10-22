@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T03:52:31.670271+00:00",
+  "updated_at": "2026-10-22T04:50:42.689649+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,52 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نور",
+          "created_at": "Wed, 21 Oct 2026 21:30:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al jazeera news",
+          "created_at": "Wed, 21 Oct 2026 20:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منصة",
+          "created_at": "Wed, 21 Oct 2026 20:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "rockets vs mavericks",
+          "created_at": "Wed, 21 Oct 2026 20:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "palmeiras vs fluminense",
+          "created_at": "Wed, 21 Oct 2026 19:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "gold",
           "created_at": "Wed, 21 Oct 2026 19:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
@@ -20,8 +65,8 @@
           "text": "lakers vs warriors",
           "created_at": "Wed, 21 Oct 2026 19:20:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +75,7 @@
           "created_at": "Wed, 21 Oct 2026 19:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,51 +93,6 @@
           "created_at": "Wed, 21 Oct 2026 17:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "king fahd international airport",
-          "created_at": "Wed, 21 Oct 2026 17:00:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إيلي صعب",
-          "created_at": "Wed, 21 Oct 2026 15:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مطار الملك فهد",
-          "created_at": "Wed, 21 Oct 2026 15:30:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد صبحي",
-          "created_at": "Wed, 21 Oct 2026 15:10:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مطر",
-          "created_at": "Wed, 21 Oct 2026 15:00:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
             "growth_percent": 0.0
           }
         }
