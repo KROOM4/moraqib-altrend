@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-22T19:50:01.852515+00:00",
+  "updated_at": "2026-10-22T20:49:56.922523+00:00",
   "trends": {
+    "monaco vs freiburg": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-22T20:49:56.922523+00:00"
+    },
+    "fk jablonec vs brighton & hove albion f.c. standings": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-22T20:49:56.922523+00:00"
+    },
+    "juventus vs stade rennais f.c. standings": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-22T20:49:56.922523+00:00"
+    },
+    "الجزائر": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-22T20:49:56.922523+00:00"
+    },
     "lillestrøm vs real sociedad": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-22T19:50:01.852515+00:00"
+      "updated_at": "2026-10-22T20:49:56.922523+00:00"
+    },
+    "trabzonspor vs heart of midlothian f.c. standings": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-22T20:49:56.922523+00:00"
     },
     "ليلستروم ضد ريال سوسيداد": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-22T19:50:01.852515+00:00"
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-22T20:49:56.922523+00:00"
     },
     "trabzonspor": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-22T19:50:01.852515+00:00"
+      "updated_at": "2026-10-22T20:49:56.922523+00:00"
+    },
+    "محمد صلاح": {
+      "volume": 10000.0,
+      "raw_volume": "10000+",
+      "updated_at": "2026-10-22T20:49:56.922523+00:00"
     },
     "beşiktaş vs palace": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-22T19:50:01.852515+00:00"
-    },
-    "بشكتاش ضد كريستال بالاس": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-22T19:50:01.852515+00:00"
-    },
-    "دوري أوروبا": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-22T19:50:01.852515+00:00"
-    },
-    "bournemouth vs milan": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-22T19:50:01.852515+00:00"
-    },
-    "بورنموث ضد ميلان": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-22T19:50:01.852515+00:00"
-    },
-    "بي بي سي عربي": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-22T19:50:01.852515+00:00"
-    },
-    "نادي الخليج": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-22T19:50:01.852515+00:00"
+      "updated_at": "2026-10-22T20:49:56.922523+00:00"
     }
   }
 }

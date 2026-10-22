@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T19:50:01.852515+00:00",
+  "updated_at": "2026-10-22T20:49:56.922523+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,55 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "monaco vs freiburg",
+          "created_at": "Thu, 22 Oct 2026 13:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "fk jablonec vs brighton & hove albion f.c. standings",
+          "created_at": "Thu, 22 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "juventus vs stade rennais f.c. standings",
+          "created_at": "Thu, 22 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الجزائر",
+          "created_at": "Thu, 22 Oct 2026 12:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "lillestrøm vs real sociedad",
           "created_at": "Thu, 22 Oct 2026 12:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "trabzonspor vs heart of midlothian f.c. standings",
+          "created_at": "Thu, 22 Oct 2026 12:10:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
@@ -20,8 +65,8 @@
           "text": "ليلستروم ضد ريال سوسيداد",
           "created_at": "Thu, 22 Oct 2026 12:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -30,6 +75,15 @@
           "created_at": "Thu, 22 Oct 2026 12:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "محمد صلاح",
+          "created_at": "Thu, 22 Oct 2026 11:50:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
             "growth_percent": null
           }
         },
@@ -38,62 +92,8 @@
           "text": "beşiktaş vs palace",
           "created_at": "Thu, 22 Oct 2026 11:50:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بشكتاش ضد كريستال بالاس",
-          "created_at": "Thu, 22 Oct 2026 11:40:00 -0700",
-          "metrics": {
             "search_volume": "500+",
             "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دوري أوروبا",
-          "created_at": "Thu, 22 Oct 2026 11:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bournemouth vs milan",
-          "created_at": "Thu, 22 Oct 2026 11:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بورنموث ضد ميلان",
-          "created_at": "Thu, 22 Oct 2026 11:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بي بي سي عربي",
-          "created_at": "Thu, 22 Oct 2026 10:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي الخليج",
-          "created_at": "Thu, 22 Oct 2026 10:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
           }
         }
       ]
