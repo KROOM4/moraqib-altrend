@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T15:51:38.837593+00:00",
+  "updated_at": "2026-10-22T16:52:14.825521+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,44 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "النادي الأهلي السعودي لكرة القدم",
-          "created_at": "Thu, 22 Oct 2026 08:20:00 -0700",
+          "text": "lech poznań vs sunderland",
+          "created_at": "Thu, 22 Oct 2026 09:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "شركة الصحة القابضة",
+          "created_at": "Thu, 22 Oct 2026 09:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "england cricket team vs sri lanka national cricket team standings",
+          "created_at": "Thu, 22 Oct 2026 09:30:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "getafe vs lugano",
+          "created_at": "Thu, 22 Oct 2026 09:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "jablonec vs brighton",
+          "created_at": "Thu, 22 Oct 2026 09:10:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -17,8 +53,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ক্রিকেট",
-          "created_at": "Thu, 22 Oct 2026 07:50:00 -0700",
+          "text": "shamonda virus",
+          "created_at": "Thu, 22 Oct 2026 09:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -26,35 +62,26 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سلامة مرورية",
-          "created_at": "Thu, 22 Oct 2026 07:40:00 -0700",
+          "text": "نادي الشباب",
+          "created_at": "Thu, 22 Oct 2026 09:10:00 -0700",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al fateh vs al-shabab",
-          "created_at": "Thu, 22 Oct 2026 07:30:00 -0700",
+          "text": "جائزة الكرة الذهبية",
+          "created_at": "Thu, 22 Oct 2026 09:10:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 400.0
+            "search_volume": "200+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الشحانية ضد السد",
-          "created_at": "Thu, 22 Oct 2026 07:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pavan rathnayake",
-          "created_at": "Thu, 22 Oct 2026 07:20:00 -0700",
+          "text": "طرابزون سبور ضد هارتز",
+          "created_at": "Thu, 22 Oct 2026 09:00:00 -0700",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -62,38 +89,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دولار أمريكي",
-          "created_at": "Thu, 22 Oct 2026 07:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فيروس شاموندا",
-          "created_at": "Thu, 22 Oct 2026 07:10:00 -0700",
+          "text": "trabzonspor vs hearts",
+          "created_at": "Thu, 22 Oct 2026 09:00:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الفتح ضد الشباب",
-          "created_at": "Thu, 22 Oct 2026 07:00:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أرامكو السعودية",
-          "created_at": "Thu, 22 Oct 2026 07:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": null
           }
         }
       ]
