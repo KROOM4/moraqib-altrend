@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T17:47:24.690129+00:00",
+  "updated_at": "2026-10-22T18:59:41.365883+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,74 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "europa conference league",
-          "created_at": "Thu, 22 Oct 2026 10:30:00 -0700",
+          "text": "beşiktaş vs palace",
+          "created_at": "Thu, 22 Oct 2026 11:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بشكتاش ضد كريستال بالاس",
+          "created_at": "Thu, 22 Oct 2026 11:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بورنموث ضد ميلان",
+          "created_at": "Thu, 22 Oct 2026 11:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bournemouth vs milan",
+          "created_at": "Thu, 22 Oct 2026 11:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "يوفنتوس",
+          "created_at": "Thu, 22 Oct 2026 11:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدوري المصري الممتاز",
+          "created_at": "Thu, 22 Oct 2026 10:50:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بي بي سي عربي",
+          "created_at": "Thu, 22 Oct 2026 10:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "europa conference league",
+          "created_at": "Thu, 22 Oct 2026 10:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,79 +84,16 @@
           "created_at": "Thu, 22 Oct 2026 10:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "القادسية ضد الهلال",
-          "created_at": "Thu, 22 Oct 2026 10:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إمام عاشور",
-          "created_at": "Thu, 22 Oct 2026 10:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حفل فضل شاكر",
-          "created_at": "Thu, 22 Oct 2026 10:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزارة الصناعة والثروة المعدنية",
-          "created_at": "Thu, 22 Oct 2026 10:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صندوق الثروة السيادي",
-          "created_at": "Thu, 22 Oct 2026 09:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lech poznań vs sunderland",
-          "created_at": "Thu, 22 Oct 2026 09:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "شركة الصحة القابضة",
-          "created_at": "Thu, 22 Oct 2026 09:40:00 -0700",
+          "text": "النادي الأهلي",
+          "created_at": "Thu, 22 Oct 2026 10:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "england cricket team vs sri lanka national cricket team standings",
-          "created_at": "Thu, 22 Oct 2026 09:30:00 -0700",
-          "metrics": {
-            "search_volume": "50000+",
-            "growth_percent": 900.0
+            "growth_percent": null
           }
         }
       ]
