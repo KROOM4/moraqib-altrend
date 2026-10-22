@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-22T04:50:42.689649+00:00",
+  "updated_at": "2026-10-22T05:48:44.202144+00:00",
   "trends": {
-    "نور": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-22T04:50:42.689649+00:00"
+    "منصة": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-22T05:48:44.202144+00:00"
     },
     "al jazeera news": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-22T04:50:42.689649+00:00"
-    },
-    "منصة": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-22T04:50:42.689649+00:00"
+      "updated_at": "2026-10-22T05:48:44.202144+00:00"
     },
     "rockets vs mavericks": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-22T04:50:42.689649+00:00"
+      "updated_at": "2026-10-22T05:48:44.202144+00:00"
     },
     "palmeiras vs fluminense": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-22T04:50:42.689649+00:00"
+      "updated_at": "2026-10-22T05:48:44.202144+00:00"
     },
     "gold": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-22T04:50:42.689649+00:00"
+      "updated_at": "2026-10-22T05:48:44.202144+00:00"
     },
     "lakers vs warriors": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-10-22T04:50:42.689649+00:00"
+      "updated_at": "2026-10-22T05:48:44.202144+00:00"
     },
     "nba": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-22T04:50:42.689649+00:00"
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-22T05:48:44.202144+00:00"
     },
     "best": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-22T04:50:42.689649+00:00"
+      "updated_at": "2026-10-22T05:48:44.202144+00:00"
     },
     "activision": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-22T04:50:42.689649+00:00"
+      "updated_at": "2026-10-22T05:48:44.202144+00:00"
+    },
+    "king fahd international airport": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-22T05:48:44.202144+00:00"
     }
   }
 }
