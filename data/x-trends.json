@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T07:07:10.631409+00:00",
+  "updated_at": "2026-10-22T07:59:13.179582+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,53 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand national cricket team vs india national cricket team match scorecard",
-          "created_at": "Wed, 21 Oct 2026 23:40:00 -0700",
+          "text": "england vs sri lanka",
+          "created_at": "Thu, 22 Oct 2026 00:40:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ireland vs namibia",
+          "created_at": "Thu, 22 Oct 2026 00:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bhuvneshwar kumar",
+          "created_at": "Thu, 22 Oct 2026 00:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bioware games",
+          "created_at": "Thu, 22 Oct 2026 00:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "new zealand national cricket team vs india national cricket team players",
+          "created_at": "Wed, 21 Oct 2026 23:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "new zealand vs india",
+          "created_at": "Wed, 21 Oct 2026 23:20:00 -0700",
           "metrics": {
             "search_volume": "20000+",
             "growth_percent": null
@@ -20,8 +65,8 @@
           "text": "समाचार",
           "created_at": "Wed, 21 Oct 2026 22:50:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +75,7 @@
           "created_at": "Wed, 21 Oct 2026 22:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +84,7 @@
           "created_at": "Wed, 21 Oct 2026 20:50:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -49,51 +94,6 @@
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al jazeera news",
-          "created_at": "Wed, 21 Oct 2026 20:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "rockets vs mavericks",
-          "created_at": "Wed, 21 Oct 2026 20:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gold",
-          "created_at": "Wed, 21 Oct 2026 19:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "palmeiras vs fluminense",
-          "created_at": "Wed, 21 Oct 2026 19:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lakers vs warriors",
-          "created_at": "Wed, 21 Oct 2026 19:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
           }
         }
       ]

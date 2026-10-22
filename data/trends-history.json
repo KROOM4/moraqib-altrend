@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-22T07:07:10.631409+00:00",
+  "updated_at": "2026-10-22T07:59:13.179582+00:00",
   "trends": {
-    "new zealand national cricket team vs india national cricket team match scorecard": {
-      "volume": 20000.0,
-      "raw_volume": "20000+",
-      "updated_at": "2026-10-22T07:07:10.631409+00:00"
+    "england vs sri lanka": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-22T07:59:13.179582+00:00"
     },
-    "समाचार": {
+    "ireland vs namibia": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-22T07:59:13.179582+00:00"
+    },
+    "bhuvneshwar kumar": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-22T07:59:13.179582+00:00"
+    },
+    "bioware games": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-22T07:59:13.179582+00:00"
+    },
+    "new zealand national cricket team vs india national cricket team players": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-22T07:07:10.631409+00:00"
+      "updated_at": "2026-10-22T07:59:13.179582+00:00"
+    },
+    "new zealand vs india": {
+      "volume": 20000.0,
+      "raw_volume": "20000+",
+      "updated_at": "2026-10-22T07:59:13.179582+00:00"
+    },
+    "समाचार": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-22T07:59:13.179582+00:00"
     },
     "بيل كلينتون": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-22T07:07:10.631409+00:00"
+      "updated_at": "2026-10-22T07:59:13.179582+00:00"
     },
     "منصه": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-10-22T07:07:10.631409+00:00"
+      "updated_at": "2026-10-22T07:59:13.179582+00:00"
     },
     "منصة": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-22T07:07:10.631409+00:00"
-    },
-    "al jazeera news": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-22T07:07:10.631409+00:00"
-    },
-    "rockets vs mavericks": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-22T07:07:10.631409+00:00"
-    },
-    "gold": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-22T07:07:10.631409+00:00"
-    },
-    "palmeiras vs fluminense": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-22T07:07:10.631409+00:00"
-    },
-    "lakers vs warriors": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-22T07:07:10.631409+00:00"
+      "updated_at": "2026-10-22T07:59:13.179582+00:00"
     }
   }
 }
