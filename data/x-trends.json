@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T07:59:13.179582+00:00",
+  "updated_at": "2026-10-22T08:55:57.682709+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,62 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "petroleum",
+          "created_at": "Thu, 22 Oct 2026 01:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عقوبة الإعدام",
+          "created_at": "Thu, 22 Oct 2026 01:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "australia vs new zealand",
+          "created_at": "Thu, 22 Oct 2026 01:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "nathan smith",
+          "created_at": "Thu, 22 Oct 2026 01:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "england vs sri lanka",
           "created_at": "Thu, 22 Oct 2026 00:40:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "10000+",
+            "growth_percent": 400.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "ireland vs namibia",
           "created_at": "Thu, 22 Oct 2026 00:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bevon jacobs",
+          "created_at": "Thu, 22 Oct 2026 00:30:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -29,8 +74,8 @@
           "text": "bhuvneshwar kumar",
           "created_at": "Thu, 22 Oct 2026 00:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -39,61 +84,16 @@
           "created_at": "Thu, 22 Oct 2026 00:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand national cricket team vs india national cricket team players",
-          "created_at": "Wed, 21 Oct 2026 23:30:00 -0700",
+          "text": "تراسل",
+          "created_at": "Wed, 21 Oct 2026 23:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand vs india",
-          "created_at": "Wed, 21 Oct 2026 23:20:00 -0700",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "समाचार",
-          "created_at": "Wed, 21 Oct 2026 22:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بيل كلينتون",
-          "created_at": "Wed, 21 Oct 2026 22:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منصه",
-          "created_at": "Wed, 21 Oct 2026 20:50:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منصة",
-          "created_at": "Wed, 21 Oct 2026 20:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
           }
         }
       ]

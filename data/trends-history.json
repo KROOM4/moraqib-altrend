@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-22T07:59:13.179582+00:00",
+  "updated_at": "2026-10-22T08:55:57.682709+00:00",
   "trends": {
-    "england vs sri lanka": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-22T07:59:13.179582+00:00"
+    "petroleum": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-22T08:55:57.682709+00:00"
     },
-    "ireland vs namibia": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-22T07:59:13.179582+00:00"
-    },
-    "bhuvneshwar kumar": {
+    "عقوبة الإعدام": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-22T07:59:13.179582+00:00"
+      "updated_at": "2026-10-22T08:55:57.682709+00:00"
+    },
+    "australia vs new zealand": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-22T08:55:57.682709+00:00"
+    },
+    "nathan smith": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-22T08:55:57.682709+00:00"
+    },
+    "england vs sri lanka": {
+      "volume": 10000.0,
+      "raw_volume": "10000+",
+      "updated_at": "2026-10-22T08:55:57.682709+00:00"
+    },
+    "ireland vs namibia": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-22T08:55:57.682709+00:00"
+    },
+    "bevon jacobs": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-22T08:55:57.682709+00:00"
+    },
+    "bhuvneshwar kumar": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-22T08:55:57.682709+00:00"
     },
     "bioware games": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-22T07:59:13.179582+00:00"
+      "updated_at": "2026-10-22T08:55:57.682709+00:00"
     },
-    "new zealand national cricket team vs india national cricket team players": {
+    "تراسل": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-22T07:59:13.179582+00:00"
-    },
-    "new zealand vs india": {
-      "volume": 20000.0,
-      "raw_volume": "20000+",
-      "updated_at": "2026-10-22T07:59:13.179582+00:00"
-    },
-    "समाचार": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-22T07:59:13.179582+00:00"
-    },
-    "بيل كلينتون": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-22T07:59:13.179582+00:00"
-    },
-    "منصه": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-22T07:59:13.179582+00:00"
-    },
-    "منصة": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-22T07:59:13.179582+00:00"
+      "updated_at": "2026-10-22T08:55:57.682709+00:00"
     }
   }
 }
