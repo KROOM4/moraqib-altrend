@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T20:49:56.922523+00:00",
+  "updated_at": "2026-10-22T21:48:49.083261+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,44 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نوال الكويتية",
+          "created_at": "Thu, 22 Oct 2026 14:10:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سيلتك ضد سلتا فيغو",
+          "created_at": "Thu, 22 Oct 2026 14:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "monaco vs freiburg",
           "created_at": "Thu, 22 Oct 2026 13:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "امرأة",
+          "created_at": "Thu, 22 Oct 2026 13:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ajax vs atalanta",
+          "created_at": "Thu, 22 Oct 2026 13:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -20,8 +56,8 @@
           "text": "fk jablonec vs brighton & hove albion f.c. standings",
           "created_at": "Thu, 22 Oct 2026 13:00:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +66,7 @@
           "created_at": "Thu, 22 Oct 2026 12:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +75,7 @@
           "created_at": "Thu, 22 Oct 2026 12:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,53 +83,17 @@
           "text": "lillestrøm vs real sociedad",
           "created_at": "Thu, 22 Oct 2026 12:30:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "trabzonspor vs heart of midlothian f.c. standings",
-          "created_at": "Thu, 22 Oct 2026 12:10:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ليلستروم ضد ريال سوسيداد",
-          "created_at": "Thu, 22 Oct 2026 12:00:00 -0700",
-          "metrics": {
             "search_volume": "500+",
             "growth_percent": 150.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "trabzonspor",
-          "created_at": "Thu, 22 Oct 2026 12:00:00 -0700",
+          "text": "pakistan international airlines",
+          "created_at": "Thu, 22 Oct 2026 12:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد صلاح",
-          "created_at": "Thu, 22 Oct 2026 11:50:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
             "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "beşiktaş vs palace",
-          "created_at": "Thu, 22 Oct 2026 11:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
