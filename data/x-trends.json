@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T02:51:11.670175+00:00",
+  "updated_at": "2026-10-22T03:52:31.670271+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "palmeiras vs fluminense",
+          "created_at": "Wed, 21 Oct 2026 19:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "lakers vs warriors",
           "created_at": "Wed, 21 Oct 2026 19:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -20,8 +29,8 @@
           "text": "nba",
           "created_at": "Wed, 21 Oct 2026 19:00:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +39,7 @@
           "created_at": "Wed, 21 Oct 2026 18:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +48,7 @@
           "created_at": "Wed, 21 Oct 2026 17:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,8 +56,17 @@
           "text": "king fahd international airport",
           "created_at": "Wed, 21 Oct 2026 17:00:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 400.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إيلي صعب",
+          "created_at": "Wed, 21 Oct 2026 15:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -75,25 +93,7 @@
           "created_at": "Wed, 21 Oct 2026 15:00:00 -0700",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "يان ديوماندي",
-          "created_at": "Wed, 21 Oct 2026 14:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "shaybah",
-          "created_at": "Wed, 21 Oct 2026 14:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
           }
         }
       ]
