@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T10:50:57.443786+00:00",
+  "updated_at": "2026-10-22T11:50:09.400039+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nitish kumar reddy",
-          "created_at": "Thu, 22 Oct 2026 03:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "joe root",
-          "created_at": "Thu, 22 Oct 2026 03:40:00 -0700",
+          "text": "bangladeshi couple news saudi arabia",
+          "created_at": "Thu, 22 Oct 2026 04:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -26,35 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "travis head",
-          "created_at": "Thu, 22 Oct 2026 03:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "dunith wellalage",
-          "created_at": "Thu, 22 Oct 2026 03:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المصري اليوم",
-          "created_at": "Thu, 22 Oct 2026 03:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand vs australia",
-          "created_at": "Thu, 22 Oct 2026 03:00:00 -0700",
+          "text": "تاسي",
+          "created_at": "Thu, 22 Oct 2026 04:30:00 -0700",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -62,8 +26,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "abhishek sharma",
-          "created_at": "Thu, 22 Oct 2026 02:50:00 -0700",
+          "text": "live cricket",
+          "created_at": "Thu, 22 Oct 2026 04:30:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تداول",
+          "created_at": "Thu, 22 Oct 2026 04:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -71,29 +44,56 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sanju samson",
-          "created_at": "Thu, 22 Oct 2026 02:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "متحدہ عرب امارات",
-          "created_at": "Thu, 22 Oct 2026 02:30:00 -0700",
+          "text": "داليا إبراهيم",
+          "created_at": "Thu, 22 Oct 2026 04:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jeddah saudi arabia",
-          "created_at": "Thu, 22 Oct 2026 02:20:00 -0700",
+          "text": "ishan kishan",
+          "created_at": "Thu, 22 Oct 2026 04:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الريال مقابل الجنيه",
+          "created_at": "Thu, 22 Oct 2026 04:00:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الدولار مقابل الجنيه",
+          "created_at": "Thu, 22 Oct 2026 03:50:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "باسم سمرة",
+          "created_at": "Thu, 22 Oct 2026 03:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "cricket live score",
+          "created_at": "Thu, 22 Oct 2026 03:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         }
       ]
