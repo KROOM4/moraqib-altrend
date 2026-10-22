@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-22T08:55:57.682709+00:00",
+  "updated_at": "2026-10-22T09:53:46.957501+00:00",
   "trends": {
-    "petroleum": {
+    "cricket live": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-22T08:55:57.682709+00:00"
+      "updated_at": "2026-10-22T09:53:46.957501+00:00"
+    },
+    "متحدہ عرب امارات": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-22T09:53:46.957501+00:00"
+    },
+    "jeddah saudi arabia": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-22T09:53:46.957501+00:00"
+    },
+    "سيموني إنزاغي": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-22T09:53:46.957501+00:00"
+    },
+    "tom banton": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-22T09:53:46.957501+00:00"
+    },
+    "سهم الراجحي": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-22T09:53:46.957501+00:00"
+    },
+    "alexandra eala": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-22T09:53:46.957501+00:00"
+    },
+    "petroleum": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-22T09:53:46.957501+00:00"
     },
     "عقوبة الإعدام": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-22T08:55:57.682709+00:00"
-    },
-    "australia vs new zealand": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-22T08:55:57.682709+00:00"
+      "updated_at": "2026-10-22T09:53:46.957501+00:00"
     },
     "nathan smith": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-22T08:55:57.682709+00:00"
-    },
-    "england vs sri lanka": {
-      "volume": 10000.0,
-      "raw_volume": "10000+",
-      "updated_at": "2026-10-22T08:55:57.682709+00:00"
-    },
-    "ireland vs namibia": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-22T08:55:57.682709+00:00"
-    },
-    "bevon jacobs": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-22T08:55:57.682709+00:00"
-    },
-    "bhuvneshwar kumar": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-22T08:55:57.682709+00:00"
-    },
-    "bioware games": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-22T08:55:57.682709+00:00"
-    },
-    "تراسل": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-22T08:55:57.682709+00:00"
+      "updated_at": "2026-10-22T09:53:46.957501+00:00"
     }
   }
 }

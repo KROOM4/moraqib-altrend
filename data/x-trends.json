@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T08:55:57.682709+00:00",
+  "updated_at": "2026-10-22T09:53:46.957501+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,74 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "petroleum",
-          "created_at": "Thu, 22 Oct 2026 01:30:00 -0700",
+          "text": "cricket live",
+          "created_at": "Thu, 22 Oct 2026 02:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "متحدہ عرب امارات",
+          "created_at": "Thu, 22 Oct 2026 02:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "jeddah saudi arabia",
+          "created_at": "Thu, 22 Oct 2026 02:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سيموني إنزاغي",
+          "created_at": "Thu, 22 Oct 2026 02:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "tom banton",
+          "created_at": "Thu, 22 Oct 2026 02:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سهم الراجحي",
+          "created_at": "Thu, 22 Oct 2026 02:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "alexandra eala",
+          "created_at": "Thu, 22 Oct 2026 02:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "petroleum",
+          "created_at": "Thu, 22 Oct 2026 01:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,16 +84,7 @@
           "created_at": "Thu, 22 Oct 2026 01:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "australia vs new zealand",
-          "created_at": "Thu, 22 Oct 2026 01:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,62 +92,8 @@
           "text": "nathan smith",
           "created_at": "Thu, 22 Oct 2026 01:00:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "england vs sri lanka",
-          "created_at": "Thu, 22 Oct 2026 00:40:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ireland vs namibia",
-          "created_at": "Thu, 22 Oct 2026 00:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bevon jacobs",
-          "created_at": "Thu, 22 Oct 2026 00:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bhuvneshwar kumar",
-          "created_at": "Thu, 22 Oct 2026 00:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bioware games",
-          "created_at": "Thu, 22 Oct 2026 00:00:00 -0700",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تراسل",
-          "created_at": "Wed, 21 Oct 2026 23:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 100.0
           }
         }
       ]
