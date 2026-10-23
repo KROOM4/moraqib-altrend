@@ -1,11 +1,56 @@
 {
-  "updated_at": "2026-10-23T05:49:29.349803+00:00",
+  "updated_at": "2026-10-23T07:04:36.666111+00:00",
   "source": "Google Trends",
   "results": [
     {
       "hashtag": "مواضيع رائجة في السعودية",
       "post_count": 10,
       "posts": [
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نادية كرم",
+          "created_at": "Thu, 22 Oct 2026 23:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "सऊदी अरामको",
+          "created_at": "Thu, 22 Oct 2026 23:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "saudi arabia",
+          "created_at": "Thu, 22 Oct 2026 22:50:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "iphone duo",
+          "created_at": "Thu, 22 Oct 2026 22:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "riyadh ministry of defense",
+          "created_at": "Thu, 22 Oct 2026 22:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "اسعار النفط",
@@ -26,11 +71,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الذهب",
+          "created_at": "Thu, 22 Oct 2026 20:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "flamengo vs estudiantes",
           "created_at": "Thu, 22 Oct 2026 19:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,60 +93,6 @@
           "created_at": "Thu, 22 Oct 2026 19:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nba",
-          "created_at": "Thu, 22 Oct 2026 19:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الذهب اليوم",
-          "created_at": "Thu, 22 Oct 2026 18:10:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صاروخ باليستي",
-          "created_at": "Thu, 22 Oct 2026 18:10:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": -50.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "76ers vs cavaliers",
-          "created_at": "Thu, 22 Oct 2026 16:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "riyadh",
-          "created_at": "Thu, 22 Oct 2026 15:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قوى",
-          "created_at": "Thu, 22 Oct 2026 15:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
             "growth_percent": 0.0
           }
         }
