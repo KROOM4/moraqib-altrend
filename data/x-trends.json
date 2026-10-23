@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T17:47:29.689049+00:00",
+  "updated_at": "2026-10-23T18:58:09.485664+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,74 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "dammam",
-          "created_at": "Fri, 23 Oct 2026 10:30:00 -0700",
+          "text": "إيبسويتش تاون ضد نوتينغهام فورست",
+          "created_at": "Fri, 23 Oct 2026 11:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ipswich town vs nottm forest",
+          "created_at": "Fri, 23 Oct 2026 11:30:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الهلال",
+          "created_at": "Fri, 23 Oct 2026 11:20:00 -0700",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al-ahli vs al-khaleej",
+          "created_at": "Fri, 23 Oct 2026 11:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كأس آسيا",
+          "created_at": "Fri, 23 Oct 2026 11:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "السيلية ضد الريان",
+          "created_at": "Fri, 23 Oct 2026 11:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ثمانية",
+          "created_at": "Fri, 23 Oct 2026 10:50:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "dammam",
+          "created_at": "Fri, 23 Oct 2026 10:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -20,17 +83,8 @@
           "text": "al qadsiah vs al-hilal",
           "created_at": "Fri, 23 Oct 2026 10:10:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "خام برنت",
-          "created_at": "Fri, 23 Oct 2026 10:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "10000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -38,62 +92,8 @@
           "text": "ittihad",
           "created_at": "Fri, 23 Oct 2026 10:00:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عاصفة",
-          "created_at": "Fri, 23 Oct 2026 09:50:00 -0700",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "economy",
-          "created_at": "Fri, 23 Oct 2026 09:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "avengers doomsday",
-          "created_at": "Fri, 23 Oct 2026 09:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جدول ترتيب الدوري السعودي",
-          "created_at": "Fri, 23 Oct 2026 09:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الشمال ضد قطر",
-          "created_at": "Fri, 23 Oct 2026 09:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جدول مباريات الدوري السعودي",
-          "created_at": "Fri, 23 Oct 2026 09:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": -50.0
+            "growth_percent": 100.0
           }
         }
       ]
