@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T04:50:16.469896+00:00",
+  "updated_at": "2026-10-23T05:49:29.349803+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -12,7 +12,7 @@
           "created_at": "Thu, 22 Oct 2026 20:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +21,7 @@
           "created_at": "Thu, 22 Oct 2026 20:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +29,17 @@
           "text": "flamengo vs estudiantes",
           "created_at": "Thu, 22 Oct 2026 19:30:00 -0700",
           "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الذهب اليوم في السعودية",
+          "created_at": "Thu, 22 Oct 2026 19:20:00 -0700",
+          "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
@@ -39,7 +48,16 @@
           "created_at": "Thu, 22 Oct 2026 19:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الذهب اليوم",
+          "created_at": "Thu, 22 Oct 2026 18:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
           }
         },
         {
@@ -47,8 +65,8 @@
           "text": "صاروخ باليستي",
           "created_at": "Thu, 22 Oct 2026 18:10:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": -50.0
           }
         },
         {
@@ -76,24 +94,6 @@
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "afc bournemouth vs ac milan standings",
-          "created_at": "Thu, 22 Oct 2026 14:30:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مصعب الجوير",
-          "created_at": "Thu, 22 Oct 2026 14:10:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
