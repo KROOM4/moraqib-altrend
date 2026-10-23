@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T22:47:13.835543+00:00",
+  "updated_at": "2026-10-23T23:44:46.780709+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,10 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المدينة المنورة",
-          "created_at": "Fri, 23 Oct 2026 14:00:00 -0700",
+          "text": "كوبا",
+          "created_at": "Fri, 23 Oct 2026 14:40:00 -0700",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -21,7 +21,7 @@
           "created_at": "Fri, 23 Oct 2026 13:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +39,25 @@
           "created_at": "Fri, 23 Oct 2026 13:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أمانة منطقة المدينة المنورة",
+          "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هداف الدوري السعودي",
+          "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 0.0
           }
         },
         {
@@ -53,11 +71,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هداف الدوري السعودي",
+          "text": "نتيجة مباراة الهلال",
           "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": null
           }
         },
         {
@@ -73,24 +91,6 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "حفلة فضل شاكر",
           "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": -50.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مباراه",
-          "created_at": "Fri, 23 Oct 2026 12:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gabriel martinelli",
-          "created_at": "Fri, 23 Oct 2026 12:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
