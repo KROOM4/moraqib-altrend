@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T08:52:34.383354+00:00",
+  "updated_at": "2026-10-23T09:51:55.000804+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,19 +8,37 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اسعار الذهب اليوم في السعودية",
-          "created_at": "Fri, 23 Oct 2026 01:30:00 -0700",
+          "text": "سعر الدولار اليوم مقابل الجنيه المصري",
+          "created_at": "Fri, 23 Oct 2026 02:40:00 -0700",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "10000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "zimbabwe women's national cricket team vs india women's national cricket team match scorecard",
-          "created_at": "Fri, 23 Oct 2026 01:20:00 -0700",
+          "text": "خطبة الجمعة اليوم",
+          "created_at": "Fri, 23 Oct 2026 02:10:00 -0700",
           "metrics": {
             "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "qatar",
+          "created_at": "Fri, 23 Oct 2026 01:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "موعد اذان المغرب",
+          "created_at": "Fri, 23 Oct 2026 01:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
@@ -29,8 +47,17 @@
           "text": "রিয়াদ",
           "created_at": "Fri, 23 Oct 2026 01:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "zimbabwe women's national cricket team vs india women's national cricket team match scorecard",
+          "created_at": "Fri, 23 Oct 2026 01:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +65,8 @@
           "text": "zimbabwe vs india",
           "created_at": "Fri, 23 Oct 2026 01:10:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -48,7 +75,7 @@
           "created_at": "Fri, 23 Oct 2026 00:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -62,38 +89,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الذهب اليوم",
+          "text": "نادي الدرعية",
           "created_at": "Fri, 23 Oct 2026 00:30:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الذهب",
-          "created_at": "Fri, 23 Oct 2026 00:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gold rate today",
-          "created_at": "Thu, 22 Oct 2026 23:30:00 -0700",
-          "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادية كرم",
-          "created_at": "Thu, 22 Oct 2026 23:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         }
       ]
