@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T11:50:58.406732+00:00",
+  "updated_at": "2026-10-23T13:00:40.561684+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,19 +8,82 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "zimbabwe vs afghanistan",
-          "created_at": "Fri, 23 Oct 2026 04:10:00 -0700",
+          "text": "al-faisaly vs al-nassr",
+          "created_at": "Fri, 23 Oct 2026 05:50:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "zimbabwe national cricket team vs afghanistan national cricket team match scorecard",
-          "created_at": "Fri, 23 Oct 2026 04:10:00 -0700",
+          "text": "الفيصلي ضد النصر",
+          "created_at": "Fri, 23 Oct 2026 05:40:00 -0700",
           "metrics": {
             "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "موعد اذان العصر",
+          "created_at": "Fri, 23 Oct 2026 05:20:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "المملكة المتحدة",
+          "created_at": "Fri, 23 Oct 2026 05:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kranti gaud",
+          "created_at": "Fri, 23 Oct 2026 04:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "europe",
+          "created_at": "Fri, 23 Oct 2026 04:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "zimbabwe vs afghanistan",
+          "created_at": "Fri, 23 Oct 2026 04:10:00 -0700",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": 300.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "സ്വര്ണം",
+          "created_at": "Fri, 23 Oct 2026 04:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هالة سرحان",
+          "created_at": "Fri, 23 Oct 2026 04:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -30,70 +93,7 @@
           "created_at": "Fri, 23 Oct 2026 04:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "സ്വര്ണം",
-          "created_at": "Fri, 23 Oct 2026 04:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هيثم حسن",
-          "created_at": "Fri, 23 Oct 2026 03:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "শামা ওবায়েদ",
-          "created_at": "Fri, 23 Oct 2026 03:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "बीबीसी",
-          "created_at": "Fri, 23 Oct 2026 03:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الدولار اليوم مقابل الجنيه المصري",
-          "created_at": "Fri, 23 Oct 2026 02:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": -90.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "خطبة الجمعة اليوم",
-          "created_at": "Fri, 23 Oct 2026 02:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الفنانة داليا ابراهيم",
-          "created_at": "Fri, 23 Oct 2026 01:50:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
           }
         }
       ]

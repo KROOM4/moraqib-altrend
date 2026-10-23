@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-23T11:50:58.406732+00:00",
+  "updated_at": "2026-10-23T13:00:40.561684+00:00",
   "trends": {
-    "zimbabwe vs afghanistan": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-23T11:50:58.406732+00:00"
-    },
-    "zimbabwe national cricket team vs afghanistan national cricket team match scorecard": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-23T11:50:58.406732+00:00"
-    },
-    "flight cancellation and delay": {
+    "al-faisaly vs al-nassr": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-23T11:50:58.406732+00:00"
+      "updated_at": "2026-10-23T13:00:40.561684+00:00"
+    },
+    "الفيصلي ضد النصر": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-23T13:00:40.561684+00:00"
+    },
+    "موعد اذان العصر": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-23T13:00:40.561684+00:00"
+    },
+    "المملكة المتحدة": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-23T13:00:40.561684+00:00"
+    },
+    "kranti gaud": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-23T13:00:40.561684+00:00"
+    },
+    "europe": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-23T13:00:40.561684+00:00"
+    },
+    "zimbabwe vs afghanistan": {
+      "volume": 20000.0,
+      "raw_volume": "20000+",
+      "updated_at": "2026-10-23T13:00:40.561684+00:00"
     },
     "സ്വര്ണം": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-23T11:50:58.406732+00:00"
+      "updated_at": "2026-10-23T13:00:40.561684+00:00"
     },
-    "هيثم حسن": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-23T11:50:58.406732+00:00"
-    },
-    "শামা ওবায়েদ": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-23T11:50:58.406732+00:00"
-    },
-    "बीबीसी": {
+    "هالة سرحان": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-23T11:50:58.406732+00:00"
+      "updated_at": "2026-10-23T13:00:40.561684+00:00"
     },
-    "سعر الدولار اليوم مقابل الجنيه المصري": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-23T11:50:58.406732+00:00"
-    },
-    "خطبة الجمعة اليوم": {
+    "flight cancellation and delay": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-23T11:50:58.406732+00:00"
-    },
-    "الفنانة داليا ابراهيم": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-23T11:50:58.406732+00:00"
+      "updated_at": "2026-10-23T13:00:40.561684+00:00"
     }
   }
 }
