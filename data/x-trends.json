@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T10:48:59.419334+00:00",
+  "updated_at": "2026-10-23T11:50:58.406732+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هيثم حسن",
-          "created_at": "Fri, 23 Oct 2026 03:40:00 -0700",
+          "text": "zimbabwe vs afghanistan",
+          "created_at": "Fri, 23 Oct 2026 04:10:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "zimbabwe national cricket team vs afghanistan national cricket team match scorecard",
+          "created_at": "Fri, 23 Oct 2026 04:10:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "flight cancellation and delay",
+          "created_at": "Fri, 23 Oct 2026 04:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,10 +35,37 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "സ്വര്ണം",
+          "created_at": "Fri, 23 Oct 2026 04:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هيثم حسن",
+          "created_at": "Fri, 23 Oct 2026 03:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "শামা ওবায়েদ",
           "created_at": "Fri, 23 Oct 2026 03:20:00 -0700",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "1000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "बीबीसी",
+          "created_at": "Fri, 23 Oct 2026 03:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -29,8 +74,8 @@
           "text": "سعر الدولار اليوم مقابل الجنيه المصري",
           "created_at": "Fri, 23 Oct 2026 02:40:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": -50.0
+            "search_volume": "500+",
+            "growth_percent": -90.0
           }
         },
         {
@@ -39,61 +84,16 @@
           "created_at": "Fri, 23 Oct 2026 02:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": -80.0
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "qatar",
+          "text": "الفنانة داليا ابراهيم",
           "created_at": "Fri, 23 Oct 2026 01:50:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "النصر والفيصلي",
-          "created_at": "Fri, 23 Oct 2026 01:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
+            "search_volume": "1000+",
             "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موعد اذان المغرب",
-          "created_at": "Fri, 23 Oct 2026 01:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "zimbabwe women's national cricket team vs india women's national cricket team match scorecard",
-          "created_at": "Fri, 23 Oct 2026 01:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "zimbabwe vs india",
-          "created_at": "Fri, 23 Oct 2026 01:10:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طقس",
-          "created_at": "Fri, 23 Oct 2026 00:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
           }
         }
       ]
