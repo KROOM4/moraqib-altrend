@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T13:56:10.144861+00:00",
+  "updated_at": "2026-10-23T14:55:22.244302+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,37 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "shafali verma",
-          "created_at": "Fri, 23 Oct 2026 06:40:00 -0700",
+          "text": "الاتحاد ضد الدرعية",
+          "created_at": "Fri, 23 Oct 2026 07:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "المغرب",
+          "created_at": "Fri, 23 Oct 2026 07:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sikandar raza",
+          "created_at": "Fri, 23 Oct 2026 07:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ايفون ديو",
+          "created_at": "Fri, 23 Oct 2026 07:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -21,7 +48,7 @@
           "created_at": "Fri, 23 Oct 2026 06:20:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +57,7 @@
           "created_at": "Fri, 23 Oct 2026 06:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +66,7 @@
           "created_at": "Fri, 23 Oct 2026 06:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,8 +74,8 @@
           "text": "al-faisaly vs al-nassr",
           "created_at": "Fri, 23 Oct 2026 05:50:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 2400.0
+            "search_volume": "10000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -56,44 +83,17 @@
           "text": "الفيصلي ضد النصر",
           "created_at": "Fri, 23 Oct 2026 05:40:00 -0700",
           "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 900.0
+            "search_volume": "50000+",
+            "growth_percent": 150.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ginebra vs blackwater",
+          "text": "pratika rawal",
           "created_at": "Fri, 23 Oct 2026 05:30:00 -0700",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "10000+",
             "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موعد اذان العصر",
-          "created_at": "Fri, 23 Oct 2026 05:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المملكة المتحدة",
-          "created_at": "Fri, 23 Oct 2026 05:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kranti gaud",
-          "created_at": "Fri, 23 Oct 2026 04:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
           }
         }
       ]
