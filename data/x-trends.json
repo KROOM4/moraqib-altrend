@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T20:50:09.714420+00:00",
+  "updated_at": "2026-10-23T21:48:56.235015+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -11,8 +11,8 @@
           "text": "صن داونز",
           "created_at": "Fri, 23 Oct 2026 13:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -21,6 +21,24 @@
           "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هداف الدوري السعودي",
+          "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "দাম্মাম",
+          "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": 0.0
           }
         },
@@ -35,11 +53,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "দাম্মাম",
+          "text": "حفلة فضل شاكر",
           "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مباراه",
+          "created_at": "Fri, 23 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "gabriel martinelli",
+          "created_at": "Fri, 23 Oct 2026 12:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -47,8 +83,8 @@
           "text": "شرطة",
           "created_at": "Fri, 23 Oct 2026 12:30:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -57,42 +93,6 @@
           "created_at": "Fri, 23 Oct 2026 12:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فيرمين لوبيز",
-          "created_at": "Fri, 23 Oct 2026 12:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الهلال و",
-          "created_at": "Fri, 23 Oct 2026 11:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إيبسويتش تاون ضد نوتينغهام فورست",
-          "created_at": "Fri, 23 Oct 2026 11:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ipswich town vs nottm forest",
-          "created_at": "Fri, 23 Oct 2026 11:30:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
             "growth_percent": 0.0
           }
         }
