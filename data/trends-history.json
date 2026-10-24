@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-24T07:48:17.097708+00:00",
+  "updated_at": "2026-10-24T08:50:02.710227+00:00",
   "trends": {
-    "tim seifert": {
+    "jeddah airport": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-24T08:50:02.710227+00:00"
+    },
+    "glenn phillips": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-24T07:48:17.097708+00:00"
+      "updated_at": "2026-10-24T08:50:02.710227+00:00"
     },
-    "سعر الدولار مقابل الجنيه المصري اليوم": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-24T07:48:17.097708+00:00"
+    "ايجار": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-24T08:50:02.710227+00:00"
     },
     "bhuvneshwar kumar": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-24T07:48:17.097708+00:00"
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-24T08:50:02.710227+00:00"
     },
     "namibia vs ireland": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-24T07:48:17.097708+00:00"
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-24T08:50:02.710227+00:00"
     },
     "icc": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-24T07:48:17.097708+00:00"
+      "updated_at": "2026-10-24T08:50:02.710227+00:00"
     },
     "عبد الإله المالكي": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-24T08:50:02.710227+00:00"
+    },
+    "cricket live": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-24T08:50:02.710227+00:00"
+    },
+    "udta teer": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-24T07:48:17.097708+00:00"
+      "updated_at": "2026-10-24T08:50:02.710227+00:00"
     },
     "cricket": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-24T07:48:17.097708+00:00"
-    },
-    "new zealand national cricket team vs india national cricket team match scorecard": {
-      "volume": 10000.0,
-      "raw_volume": "10000+",
-      "updated_at": "2026-10-24T07:48:17.097708+00:00"
-    },
-    "vaibhav sooryavanshi": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-24T07:48:17.097708+00:00"
-    },
-    "google maps": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-24T07:48:17.097708+00:00"
+      "updated_at": "2026-10-24T08:50:02.710227+00:00"
     }
   }
 }
