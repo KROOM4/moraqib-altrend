@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T02:49:27.945496+00:00",
+  "updated_at": "2026-10-24T03:51:01.626219+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "القران الكريم",
-          "created_at": "Fri, 23 Oct 2026 19:30:00 -0700",
+          "text": "المنصة الوطنية للإنذار المبكر",
+          "created_at": "Fri, 23 Oct 2026 20:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الراتب",
+          "created_at": "Fri, 23 Oct 2026 20:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الذهب في السعودية اليوم",
+          "created_at": "Fri, 23 Oct 2026 20:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "lakers vs clippers",
+          "created_at": "Fri, 23 Oct 2026 20:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,10 +44,37 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موعد اذان",
+          "text": "سعر جرام الذهب اليوم",
+          "created_at": "Fri, 23 Oct 2026 20:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طقس العرب",
+          "created_at": "Fri, 23 Oct 2026 19:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "موعد صلاة الفجر",
           "created_at": "Fri, 23 Oct 2026 19:00:00 -0700",
           "metrics": {
             "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اللائحة التنفيذية لنظام التنفيذ",
+          "created_at": "Fri, 23 Oct 2026 18:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -30,70 +84,16 @@
           "created_at": "Fri, 23 Oct 2026 18:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ufc 333",
-          "created_at": "Fri, 23 Oct 2026 14:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كوبا",
-          "created_at": "Fri, 23 Oct 2026 14:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "استثمار",
-          "created_at": "Fri, 23 Oct 2026 13:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "oil spill",
-          "created_at": "Fri, 23 Oct 2026 13:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيبات النادي الأهلي السعودي لكرة القدم – نادى الخليج",
-          "created_at": "Fri, 23 Oct 2026 13:20:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صن داونز",
-          "created_at": "Fri, 23 Oct 2026 13:10:00 -0700",
+          "text": "دوري ابطال افريقيا",
+          "created_at": "Fri, 23 Oct 2026 14:40:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ثغرة أمنية",
-          "created_at": "Fri, 23 Oct 2026 13:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         }
       ]
