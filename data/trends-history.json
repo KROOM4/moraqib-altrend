@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-24T20:43:49.439438+00:00",
+  "updated_at": "2026-10-24T21:08:18.309310+00:00",
   "trends": {
+    "rbny vs inter miami": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-24T21:08:18.309310+00:00"
+    },
+    "ريد بولز ضد إنتر ميامي": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-24T21:08:18.309310+00:00"
+    },
+    "lens vs paris fc": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-24T21:08:18.309310+00:00"
+    },
+    "leonardo balerdi": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-24T21:08:18.309310+00:00"
+    },
     "كووورة": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-24T20:43:49.439438+00:00"
+      "updated_at": "2026-10-24T21:08:18.309310+00:00"
     },
     "valencia cf vs villarreal cf standings": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-24T20:43:49.439438+00:00"
+      "updated_at": "2026-10-24T21:08:18.309310+00:00"
     },
     "barcelona vs granada": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-24T20:43:49.439438+00:00"
+      "updated_at": "2026-10-24T21:08:18.309310+00:00"
     },
     "ssc napoli vs as roma standings": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-10-24T20:43:49.439438+00:00"
+      "updated_at": "2026-10-24T21:08:18.309310+00:00"
     },
     "إخلاء": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-24T20:43:49.439438+00:00"
+      "updated_at": "2026-10-24T21:08:18.309310+00:00"
     },
     "al-riyadh vs al-taawoun": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-10-24T20:43:49.439438+00:00"
-    },
-    "الدوري الايطالي": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-24T20:43:49.439438+00:00"
-    },
-    "آيفون ديو": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-24T20:43:49.439438+00:00"
-    },
-    "emirates": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-24T20:43:49.439438+00:00"
-    },
-    "الرياض ضد التعاون": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-24T20:43:49.439438+00:00"
+      "updated_at": "2026-10-24T21:08:18.309310+00:00"
     }
   }
 }
