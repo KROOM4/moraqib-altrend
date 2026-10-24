@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T16:48:16.153730+00:00",
+  "updated_at": "2026-10-24T17:43:43.777623+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,65 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "emirates",
+          "created_at": "Sat, 24 Oct 2026 10:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الرياض ضد التعاون",
+          "created_at": "Sat, 24 Oct 2026 10:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "smuggling",
+          "created_at": "Sat, 24 Oct 2026 10:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الزمالك",
+          "created_at": "Sat, 24 Oct 2026 10:10:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دورتموند ضد آينتراخت",
+          "created_at": "Sat, 24 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وليد الفراج",
+          "created_at": "Sat, 24 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "valencia vs villarreal",
           "created_at": "Sat, 24 Oct 2026 09:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -21,7 +75,7 @@
           "created_at": "Sat, 24 Oct 2026 08:50:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +83,8 @@
           "text": "محمد رمضان",
           "created_at": "Sat, 24 Oct 2026 08:50:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,62 +92,8 @@
           "text": "chelsea vs spurs",
           "created_at": "Sat, 24 Oct 2026 08:40:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تشيلسي ضد توتنهام",
-          "created_at": "Sat, 24 Oct 2026 08:40:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نابولي ضد روما",
-          "created_at": "Sat, 24 Oct 2026 08:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
+            "search_volume": "5000+",
             "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "napoli vs roma",
-          "created_at": "Sat, 24 Oct 2026 08:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موت",
-          "created_at": "Sat, 24 Oct 2026 08:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": -96.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "serie a",
-          "created_at": "Sat, 24 Oct 2026 08:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رواتب",
-          "created_at": "Sat, 24 Oct 2026 08:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
           }
         }
       ]
