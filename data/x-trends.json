@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T20:04:06.630000+00:00",
+  "updated_at": "2026-10-24T20:43:49.439438+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,20 +8,11 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "التعاون",
-          "created_at": "Sat, 24 Oct 2026 12:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": -80.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "كووورة",
           "created_at": "Sat, 24 Oct 2026 12:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -30,7 +21,7 @@
           "created_at": "Sat, 24 Oct 2026 12:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +29,8 @@
           "text": "barcelona vs granada",
           "created_at": "Sat, 24 Oct 2026 11:30:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -84,7 +75,7 @@
           "created_at": "Sat, 24 Oct 2026 10:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -94,6 +85,15 @@
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الرياض ضد التعاون",
+          "created_at": "Sat, 24 Oct 2026 10:20:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
           }
         }
       ]
