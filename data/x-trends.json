@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T22:09:40.471134+00:00",
+  "updated_at": "2026-10-24T22:44:41.592922+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -17,8 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "alexander volkanovski",
-          "created_at": "Sat, 24 Oct 2026 14:10:00 -0700",
+          "text": "لاتسيو ضد بارما",
+          "created_at": "Sat, 24 Oct 2026 14:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -30,7 +30,7 @@
           "created_at": "Sat, 24 Oct 2026 14:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -62,20 +62,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "movsar evloev",
+          "created_at": "Sat, 24 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "كووورة",
           "created_at": "Sat, 24 Oct 2026 12:10:00 -0700",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "valencia cf vs villarreal cf standings",
-          "created_at": "Sat, 24 Oct 2026 12:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
           }
         },
         {
