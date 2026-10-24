@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T21:46:21.267455+00:00",
+  "updated_at": "2026-10-24T22:09:40.471134+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -12,6 +12,24 @@
           "created_at": "Sat, 24 Oct 2026 14:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "alexander volkanovski",
+          "created_at": "Sat, 24 Oct 2026 14:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدوري الفرنسي",
+          "created_at": "Sat, 24 Oct 2026 14:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -21,7 +39,7 @@
           "created_at": "Sat, 24 Oct 2026 13:50:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +48,7 @@
           "created_at": "Sat, 24 Oct 2026 13:50:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -44,20 +62,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "leonardo balerdi",
-          "created_at": "Sat, 24 Oct 2026 12:40:00 -0700",
+          "text": "كووورة",
+          "created_at": "Sat, 24 Oct 2026 12:10:00 -0700",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "1000+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كووورة",
-          "created_at": "Sat, 24 Oct 2026 12:10:00 -0700",
+          "text": "valencia cf vs villarreal cf standings",
+          "created_at": "Sat, 24 Oct 2026 12:00:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
+            "search_volume": "200+",
+            "growth_percent": null
           }
         },
         {
@@ -76,24 +94,6 @@
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إخلاء",
-          "created_at": "Sat, 24 Oct 2026 11:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al-riyadh vs al-taawoun",
-          "created_at": "Sat, 24 Oct 2026 11:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": -50.0
           }
         }
       ]
