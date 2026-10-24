@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-24T05:48:35.961575+00:00",
+  "updated_at": "2026-10-24T07:00:51.620376+00:00",
   "trends": {
-    "أحمد السعدني": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-24T05:48:35.961575+00:00"
+    "cricket": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-24T07:00:51.620376+00:00"
     },
-    "سعر الريال السعودي في مصر اليوم": {
+    "new zealand national cricket team vs india national cricket team match scorecard": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-24T07:00:51.620376+00:00"
+    },
+    "vaibhav sooryavanshi": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-24T07:00:51.620376+00:00"
+    },
+    "سعر الدولار اليوم في مصر": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-24T07:00:51.620376+00:00"
+    },
+    "google maps": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-24T05:48:35.961575+00:00"
+      "updated_at": "2026-10-24T07:00:51.620376+00:00"
+    },
+    "ريال سعودي": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-24T07:00:51.620376+00:00"
+    },
+    "saudi airlines": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-24T07:00:51.620376+00:00"
+    },
+    "أحمد السعدني": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-24T07:00:51.620376+00:00"
+    },
+    "gold": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-24T07:00:51.620376+00:00"
     },
     "warriors vs grizzlies": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-24T05:48:35.961575+00:00"
-    },
-    "spurs vs rockets": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-24T05:48:35.961575+00:00"
-    },
-    "flight cancellation and delay": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-24T05:48:35.961575+00:00"
-    },
-    "مسلسل طالع نازل": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-24T05:48:35.961575+00:00"
-    },
-    "الراتب": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-24T05:48:35.961575+00:00"
-    },
-    "المنصة الوطنية للإنذار المبكر": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-24T05:48:35.961575+00:00"
-    },
-    "سعر الذهب في السعودية اليوم": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-24T05:48:35.961575+00:00"
-    },
-    "lakers vs clippers": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-24T05:48:35.961575+00:00"
+      "updated_at": "2026-10-24T07:00:51.620376+00:00"
     }
   }
 }

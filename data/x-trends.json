@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T05:48:35.961575+00:00",
+  "updated_at": "2026-10-24T07:00:51.620376+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,44 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أحمد السعدني",
-          "created_at": "Fri, 23 Oct 2026 22:30:00 -0700",
+          "text": "cricket",
+          "created_at": "Fri, 23 Oct 2026 23:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "new zealand national cricket team vs india national cricket team match scorecard",
+          "created_at": "Fri, 23 Oct 2026 23:40:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "vaibhav sooryavanshi",
+          "created_at": "Fri, 23 Oct 2026 23:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الدولار اليوم في مصر",
+          "created_at": "Fri, 23 Oct 2026 23:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "google maps",
+          "created_at": "Fri, 23 Oct 2026 23:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,10 +53,37 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الريال السعودي في مصر اليوم",
-          "created_at": "Fri, 23 Oct 2026 22:10:00 -0700",
+          "text": "ريال سعودي",
+          "created_at": "Fri, 23 Oct 2026 23:10:00 -0700",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "saudi airlines",
+          "created_at": "Fri, 23 Oct 2026 22:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أحمد السعدني",
+          "created_at": "Fri, 23 Oct 2026 22:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "gold",
+          "created_at": "Fri, 23 Oct 2026 22:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -30,70 +93,7 @@
           "created_at": "Fri, 23 Oct 2026 21:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "spurs vs rockets",
-          "created_at": "Fri, 23 Oct 2026 21:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "flight cancellation and delay",
-          "created_at": "Fri, 23 Oct 2026 21:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مسلسل طالع نازل",
-          "created_at": "Fri, 23 Oct 2026 21:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الراتب",
-          "created_at": "Fri, 23 Oct 2026 20:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المنصة الوطنية للإنذار المبكر",
-          "created_at": "Fri, 23 Oct 2026 20:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الذهب في السعودية اليوم",
-          "created_at": "Fri, 23 Oct 2026 20:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lakers vs clippers",
-          "created_at": "Fri, 23 Oct 2026 20:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
