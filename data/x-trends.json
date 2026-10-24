@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T14:09:52.032196+00:00",
+  "updated_at": "2026-10-24T14:46:16.733375+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دولار أمريكي",
-          "created_at": "Sat, 24 Oct 2026 07:00:00 -0700",
+          "text": "الخلود ضد الاتفاق",
+          "created_at": "Sat, 24 Oct 2026 07:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "موعد اذان المغرب",
+          "created_at": "Sat, 24 Oct 2026 07:30:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طيران الرياض",
+          "created_at": "Sat, 24 Oct 2026 07:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,11 +35,38 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "neom vs abha",
-          "created_at": "Sat, 24 Oct 2026 06:40:00 -0700",
+          "text": "coventry vs fulham",
+          "created_at": "Sat, 24 Oct 2026 07:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مباريات الدوري الإنجليزي",
+          "created_at": "Sat, 24 Oct 2026 07:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دولار أمريكي",
+          "created_at": "Sat, 24 Oct 2026 07:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "neom vs abha",
+          "created_at": "Sat, 24 Oct 2026 06:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -30,70 +75,25 @@
           "created_at": "Sat, 24 Oct 2026 06:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طقس حائل",
+          "created_at": "Sat, 24 Oct 2026 06:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "arsenal vs everton",
-          "created_at": "Sat, 24 Oct 2026 06:10:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "آرسنال ضد إيفرتون",
-          "created_at": "Sat, 24 Oct 2026 06:10:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هيئة الزكاة والضريبة والجمارك",
-          "created_at": "Sat, 24 Oct 2026 06:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "rb leipzig vs sv elversberg",
-          "created_at": "Sat, 24 Oct 2026 06:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "man city",
-          "created_at": "Sat, 24 Oct 2026 06:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مصر",
-          "created_at": "Sat, 24 Oct 2026 05:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "php vulnerabilities",
-          "created_at": "Sat, 24 Oct 2026 05:40:00 -0700",
+          "text": "সোনা",
+          "created_at": "Sat, 24 Oct 2026 06:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         }
       ]
