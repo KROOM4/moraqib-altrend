@@ -1,11 +1,20 @@
 {
-  "updated_at": "2026-10-24T00:07:52.067383+00:00",
+  "updated_at": "2026-10-24T01:08:26.461765+00:00",
   "source": "Google Trends",
   "results": [
     {
       "hashtag": "مواضيع رائجة في السعودية",
       "post_count": 10,
       "posts": [
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ufc",
+          "created_at": "Fri, 23 Oct 2026 17:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "كوبا",
@@ -21,7 +30,7 @@
           "created_at": "Fri, 23 Oct 2026 13:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -65,8 +74,8 @@
           "text": "দাম্মাম",
           "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": -60.0
           }
         },
         {
@@ -81,15 +90,6 @@
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "نتائج مباريات اليوم",
-          "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حفلة فضل شاكر",
           "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
