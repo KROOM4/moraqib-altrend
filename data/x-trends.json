@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T03:51:01.626219+00:00",
+  "updated_at": "2026-10-24T04:48:40.048533+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "spurs vs rockets",
+          "created_at": "Fri, 23 Oct 2026 21:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "nba",
+          "created_at": "Fri, 23 Oct 2026 21:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "flight cancellation and delay",
+          "created_at": "Fri, 23 Oct 2026 21:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مسلسل طالع نازل",
+          "created_at": "Fri, 23 Oct 2026 21:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "المنصة الوطنية للإنذار المبكر",
           "created_at": "Fri, 23 Oct 2026 20:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +57,7 @@
           "created_at": "Fri, 23 Oct 2026 20:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +66,7 @@
           "created_at": "Fri, 23 Oct 2026 20:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +74,8 @@
           "text": "lakers vs clippers",
           "created_at": "Fri, 23 Oct 2026 20:00:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -47,8 +83,8 @@
           "text": "سعر جرام الذهب اليوم",
           "created_at": "Fri, 23 Oct 2026 20:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "100+",
+            "growth_percent": -50.0
           }
         },
         {
@@ -57,43 +93,7 @@
           "created_at": "Fri, 23 Oct 2026 19:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موعد صلاة الفجر",
-          "created_at": "Fri, 23 Oct 2026 19:00:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اللائحة التنفيذية لنظام التنفيذ",
-          "created_at": "Fri, 23 Oct 2026 18:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "celtics vs knicks",
-          "created_at": "Fri, 23 Oct 2026 18:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دوري ابطال افريقيا",
-          "created_at": "Fri, 23 Oct 2026 14:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
           }
         }
       ]
