@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T09:48:00.269767+00:00",
+  "updated_at": "2026-10-24T10:47:51.349237+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,64 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nathan smith",
-          "created_at": "Sat, 24 Oct 2026 02:30:00 -0700",
+          "text": "aston villa vs man city",
+          "created_at": "Sat, 24 Oct 2026 03:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أستون فيلا ضد مان سيتي",
+          "created_at": "Sat, 24 Oct 2026 03:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حريق",
+          "created_at": "Sat, 24 Oct 2026 03:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "tilak varma",
+          "created_at": "Sat, 24 Oct 2026 03:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دفاع مدني",
+          "created_at": "Sat, 24 Oct 2026 02:50:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "abhishek sharma",
+          "created_at": "Sat, 24 Oct 2026 02:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "jacob duffy",
+          "created_at": "Sat, 24 Oct 2026 02:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
@@ -20,17 +74,8 @@
           "text": "رامز جلال",
           "created_at": "Sat, 24 Oct 2026 02:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مكه",
-          "created_at": "Sat, 24 Oct 2026 02:10:00 -0700",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,7 +84,7 @@
           "created_at": "Sat, 24 Oct 2026 02:00:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,53 +92,8 @@
           "text": "mitchell santner",
           "created_at": "Sat, 24 Oct 2026 01:50:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اخبار السعودية اليوم",
-          "created_at": "Sat, 24 Oct 2026 01:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jeddah airport",
-          "created_at": "Sat, 24 Oct 2026 01:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jeddah",
-          "created_at": "Sat, 24 Oct 2026 01:20:00 -0700",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ايجار",
-          "created_at": "Sat, 24 Oct 2026 00:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الدولار مقابل الجنيه المصري اليوم",
-          "created_at": "Sat, 24 Oct 2026 00:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 100.0
           }
         }
       ]
