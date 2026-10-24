@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T15:46:57.412125+00:00",
+  "updated_at": "2026-10-24T16:11:44.733402+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نابولي ضد روما",
-          "created_at": "Sat, 24 Oct 2026 08:30:00 -0700",
+          "text": "valencia vs villarreal",
+          "created_at": "Sat, 24 Oct 2026 09:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,11 +17,38 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تشيلسي ضد توتنهام",
+          "created_at": "Sat, 24 Oct 2026 08:40:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "chelsea vs spurs",
+          "created_at": "Sat, 24 Oct 2026 08:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نابولي ضد روما",
+          "created_at": "Sat, 24 Oct 2026 08:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "napoli vs roma",
           "created_at": "Sat, 24 Oct 2026 08:20:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -29,8 +56,8 @@
           "text": "موت",
           "created_at": "Sat, 24 Oct 2026 08:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 4900.0
           }
         },
         {
@@ -38,8 +65,17 @@
           "text": "racing santander vs espanyol",
           "created_at": "Sat, 24 Oct 2026 07:50:00 -0700",
           "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طعام",
+          "created_at": "Sat, 24 Oct 2026 07:50:00 -0700",
+          "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
@@ -48,24 +84,6 @@
           "created_at": "Sat, 24 Oct 2026 07:40:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "west ham vs southampton",
-          "created_at": "Sat, 24 Oct 2026 07:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كومو ضد ساسولو",
-          "created_at": "Sat, 24 Oct 2026 07:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         },
@@ -75,25 +93,7 @@
           "created_at": "Sat, 24 Oct 2026 07:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الخلود ضد الاتفاق",
-          "created_at": "Sat, 24 Oct 2026 07:30:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طيران الرياض",
-          "created_at": "Sat, 24 Oct 2026 07:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
           }
         }
       ]
