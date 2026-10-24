@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T01:08:26.461765+00:00",
+  "updated_at": "2026-10-24T01:53:42.855024+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "موعد اذان الفجر",
+          "created_at": "Fri, 23 Oct 2026 18:30:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "ufc",
           "created_at": "Fri, 23 Oct 2026 17:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -62,6 +71,15 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حفلة فضل شاكر",
+          "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "هداف الدوري السعودي",
           "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
           "metrics": {
@@ -75,24 +93,6 @@
           "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": -60.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نتيجة مباراة الهلال",
-          "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نتائج مباريات اليوم",
-          "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
