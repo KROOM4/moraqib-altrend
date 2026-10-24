@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T04:48:40.048533+00:00",
+  "updated_at": "2026-10-24T05:48:35.961575+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "spurs vs rockets",
-          "created_at": "Fri, 23 Oct 2026 21:20:00 -0700",
+          "text": "أحمد السعدني",
+          "created_at": "Fri, 23 Oct 2026 22:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,11 +17,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nba",
-          "created_at": "Fri, 23 Oct 2026 21:00:00 -0700",
+          "text": "سعر الريال السعودي في مصر اليوم",
+          "created_at": "Fri, 23 Oct 2026 22:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "warriors vs grizzlies",
+          "created_at": "Fri, 23 Oct 2026 21:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "spurs vs rockets",
+          "created_at": "Fri, 23 Oct 2026 21:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +48,7 @@
           "created_at": "Fri, 23 Oct 2026 21:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,12 +57,12 @@
           "created_at": "Fri, 23 Oct 2026 21:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المنصة الوطنية للإنذار المبكر",
+          "text": "الراتب",
           "created_at": "Fri, 23 Oct 2026 20:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
@@ -53,7 +71,7 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الراتب",
+          "text": "المنصة الوطنية للإنذار المبكر",
           "created_at": "Fri, 23 Oct 2026 20:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
@@ -74,26 +92,8 @@
           "text": "lakers vs clippers",
           "created_at": "Fri, 23 Oct 2026 20:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر جرام الذهب اليوم",
-          "created_at": "Fri, 23 Oct 2026 20:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": -50.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طقس العرب",
-          "created_at": "Fri, 23 Oct 2026 19:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         }
       ]
