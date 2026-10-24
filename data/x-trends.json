@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T22:44:41.592922+00:00",
+  "updated_at": "2026-10-24T23:07:44.789722+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -19,6 +19,15 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "لاتسيو ضد بارما",
           "created_at": "Sat, 24 Oct 2026 14:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "alexander volkanovski",
+          "created_at": "Sat, 24 Oct 2026 14:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -47,8 +56,8 @@
           "text": "ريد بولز ضد إنتر ميامي",
           "created_at": "Sat, 24 Oct 2026 13:50:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -58,15 +67,6 @@
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "movsar evloev",
-          "created_at": "Sat, 24 Oct 2026 12:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
           }
         },
         {
