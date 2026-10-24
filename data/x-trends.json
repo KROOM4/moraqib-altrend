@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T10:47:51.349237+00:00",
+  "updated_at": "2026-10-24T11:47:28.279620+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,35 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "aston villa vs man city",
-          "created_at": "Sat, 24 Oct 2026 03:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أستون فيلا ضد مان سيتي",
-          "created_at": "Sat, 24 Oct 2026 03:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حريق",
-          "created_at": "Sat, 24 Oct 2026 03:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "tilak varma",
-          "created_at": "Sat, 24 Oct 2026 03:20:00 -0700",
+          "text": "rayo vs elche",
+          "created_at": "Sat, 24 Oct 2026 04:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -44,10 +17,55 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دفاع مدني",
+          "text": "sheffield united vs derby county",
+          "created_at": "Sat, 24 Oct 2026 04:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "aston villa vs man city",
+          "created_at": "Sat, 24 Oct 2026 03:40:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أستون فيلا ضد مان سيتي",
+          "created_at": "Sat, 24 Oct 2026 03:40:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": 900.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حريق",
+          "created_at": "Sat, 24 Oct 2026 03:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "tilak varma",
+          "created_at": "Sat, 24 Oct 2026 03:20:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": 900.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مكة",
           "created_at": "Sat, 24 Oct 2026 02:50:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
@@ -57,43 +75,25 @@
           "created_at": "Sat, 24 Oct 2026 02:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jacob duffy",
-          "created_at": "Sat, 24 Oct 2026 02:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رامز جلال",
-          "created_at": "Sat, 24 Oct 2026 02:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سبق",
-          "created_at": "Sat, 24 Oct 2026 02:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mitchell santner",
-          "created_at": "Sat, 24 Oct 2026 01:50:00 -0700",
+          "text": "sanju samson",
+          "created_at": "Sat, 24 Oct 2026 02:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "nathan smith",
+          "created_at": "Sat, 24 Oct 2026 02:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
           }
         }
       ]
