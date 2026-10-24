@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T07:00:51.620376+00:00",
+  "updated_at": "2026-10-24T07:48:17.097708+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,65 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "tim seifert",
+          "created_at": "Sat, 24 Oct 2026 00:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الدولار مقابل الجنيه المصري اليوم",
+          "created_at": "Sat, 24 Oct 2026 00:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bhuvneshwar kumar",
+          "created_at": "Sat, 24 Oct 2026 00:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "namibia vs ireland",
+          "created_at": "Sat, 24 Oct 2026 00:10:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "icc",
+          "created_at": "Sat, 24 Oct 2026 00:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عبد الإله المالكي",
+          "created_at": "Sat, 24 Oct 2026 00:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "cricket",
           "created_at": "Fri, 23 Oct 2026 23:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -20,8 +74,8 @@
           "text": "new zealand national cricket team vs india national cricket team match scorecard",
           "created_at": "Fri, 23 Oct 2026 23:40:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
+            "search_volume": "10000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -29,17 +83,8 @@
           "text": "vaibhav sooryavanshi",
           "created_at": "Fri, 23 Oct 2026 23:40:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الدولار اليوم في مصر",
-          "created_at": "Fri, 23 Oct 2026 23:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,51 +93,6 @@
           "created_at": "Fri, 23 Oct 2026 23:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ريال سعودي",
-          "created_at": "Fri, 23 Oct 2026 23:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saudi airlines",
-          "created_at": "Fri, 23 Oct 2026 22:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أحمد السعدني",
-          "created_at": "Fri, 23 Oct 2026 22:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gold",
-          "created_at": "Fri, 23 Oct 2026 22:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "warriors vs grizzlies",
-          "created_at": "Fri, 23 Oct 2026 21:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         }

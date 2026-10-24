@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-24T07:00:51.620376+00:00",
+  "updated_at": "2026-10-24T07:48:17.097708+00:00",
   "trends": {
+    "tim seifert": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-24T07:48:17.097708+00:00"
+    },
+    "سعر الدولار مقابل الجنيه المصري اليوم": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-24T07:48:17.097708+00:00"
+    },
+    "bhuvneshwar kumar": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-24T07:48:17.097708+00:00"
+    },
+    "namibia vs ireland": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-24T07:48:17.097708+00:00"
+    },
+    "icc": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-24T07:48:17.097708+00:00"
+    },
+    "عبد الإله المالكي": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-24T07:48:17.097708+00:00"
+    },
     "cricket": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-24T07:00:51.620376+00:00"
+      "updated_at": "2026-10-24T07:48:17.097708+00:00"
     },
     "new zealand national cricket team vs india national cricket team match scorecard": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-24T07:00:51.620376+00:00"
+      "volume": 10000.0,
+      "raw_volume": "10000+",
+      "updated_at": "2026-10-24T07:48:17.097708+00:00"
     },
     "vaibhav sooryavanshi": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-24T07:00:51.620376+00:00"
-    },
-    "سعر الدولار اليوم في مصر": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-24T07:00:51.620376+00:00"
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-24T07:48:17.097708+00:00"
     },
     "google maps": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-24T07:00:51.620376+00:00"
-    },
-    "ريال سعودي": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-24T07:00:51.620376+00:00"
-    },
-    "saudi airlines": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-24T07:00:51.620376+00:00"
-    },
-    "أحمد السعدني": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-24T07:00:51.620376+00:00"
-    },
-    "gold": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-24T07:00:51.620376+00:00"
-    },
-    "warriors vs grizzlies": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-24T07:00:51.620376+00:00"
+      "updated_at": "2026-10-24T07:48:17.097708+00:00"
     }
   }
 }
