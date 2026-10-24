@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T01:53:42.855024+00:00",
+  "updated_at": "2026-10-24T02:49:27.945496+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,20 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موعد اذان الفجر",
-          "created_at": "Fri, 23 Oct 2026 18:30:00 -0700",
+          "text": "القران الكريم",
+          "created_at": "Fri, 23 Oct 2026 19:30:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ufc",
-          "created_at": "Fri, 23 Oct 2026 17:50:00 -0700",
+          "text": "موعد اذان",
+          "created_at": "Fri, 23 Oct 2026 19:00:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "celtics vs knicks",
+          "created_at": "Fri, 23 Oct 2026 18:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ufc 333",
+          "created_at": "Fri, 23 Oct 2026 14:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -44,6 +62,24 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "oil spill",
+          "created_at": "Fri, 23 Oct 2026 13:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ترتيبات النادي الأهلي السعودي لكرة القدم – نادى الخليج",
+          "created_at": "Fri, 23 Oct 2026 13:20:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "صن داونز",
           "created_at": "Fri, 23 Oct 2026 13:10:00 -0700",
           "metrics": {
@@ -57,42 +93,6 @@
           "created_at": "Fri, 23 Oct 2026 13:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أمانة منطقة المدينة المنورة",
-          "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حفلة فضل شاكر",
-          "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هداف الدوري السعودي",
-          "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "দাম্মাম",
-          "created_at": "Fri, 23 Oct 2026 13:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         }
