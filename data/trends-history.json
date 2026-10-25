@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-25T15:47:31.504311+00:00",
+  "updated_at": "2026-10-25T16:48:29.118242+00:00",
   "trends": {
+    "laliga": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T16:48:29.118242+00:00"
+    },
+    "في الجول": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T16:48:29.118242+00:00"
+    },
+    "manchester united f.c. vs afc bournemouth standings": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-25T16:48:29.118242+00:00"
+    },
+    "القنوات الناقلة لمباراة الأهلي اليوم": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-25T16:48:29.118242+00:00"
+    },
+    "freiburg vs bayern": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-25T16:48:29.118242+00:00"
+    },
+    "sunderland vs leeds": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T16:48:29.118242+00:00"
+    },
+    "الهيلينية": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T16:48:29.118242+00:00"
+    },
+    "atalanta vs frosinone": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-25T16:48:29.118242+00:00"
+    },
     "athletic bilbao vs getafe cf standings": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-25T15:47:31.504311+00:00"
+      "updated_at": "2026-10-25T16:48:29.118242+00:00"
     },
-    "الرواتب": {
+    "موناكو ضد ليل": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-25T15:47:31.504311+00:00"
-    },
-    "isl": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T15:47:31.504311+00:00"
-    },
-    "مانشستر يونايتد": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T15:47:31.504311+00:00"
-    },
-    "monaco vs losc": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-25T15:47:31.504311+00:00"
-    },
-    "epl": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T15:47:31.504311+00:00"
-    },
-    "سلتا فيغو ضد ريال بتيس": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-25T15:47:31.504311+00:00"
-    },
-    "celta vs betis": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-25T15:47:31.504311+00:00"
-    },
-    "حساب": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-25T15:47:31.504311+00:00"
-    },
-    "kerala blasters vs mumbai city": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-25T15:47:31.504311+00:00"
+      "updated_at": "2026-10-25T16:48:29.118242+00:00"
     }
   }
 }
