@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T12:10:06.101457+00:00",
+  "updated_at": "2026-10-25T12:57:17.232269+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,56 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "آية",
-          "created_at": "Sun, 25 Oct 2026 05:00:00 -0700",
+          "text": "اخبار السعودية اليوم",
+          "created_at": "Sun, 25 Oct 2026 05:50:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "babar azam",
+          "created_at": "Sun, 25 Oct 2026 05:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "athletic vs getafe",
+          "created_at": "Sun, 25 Oct 2026 05:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "garudayaksa fc vs persib bandung",
+          "created_at": "Sun, 25 Oct 2026 05:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طائر",
+          "created_at": "Sun, 25 Oct 2026 05:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "آية",
+          "created_at": "Sun, 25 Oct 2026 05:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,7 +66,7 @@
           "created_at": "Sun, 25 Oct 2026 04:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +74,8 @@
           "text": "تسرب نفطي",
           "created_at": "Sun, 25 Oct 2026 04:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -38,8 +83,8 @@
           "text": "نادي الوصل",
           "created_at": "Sun, 25 Oct 2026 04:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -47,53 +92,8 @@
           "text": "inter vs fiorentina",
           "created_at": "Sun, 25 Oct 2026 04:00:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جنيه مصري",
-          "created_at": "Sun, 25 Oct 2026 04:00:00 -0700",
-          "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أروى جودة",
-          "created_at": "Sun, 25 Oct 2026 03:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سوق الاسهم السعودي",
-          "created_at": "Sun, 25 Oct 2026 03:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الشركة الوطنية السعودية للنقل البحري",
-          "created_at": "Sun, 25 Oct 2026 02:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي لانس",
-          "created_at": "Sun, 25 Oct 2026 02:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
           }
         }
       ]
