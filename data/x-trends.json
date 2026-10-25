@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T02:53:19.459801+00:00",
+  "updated_at": "2026-10-25T03:51:39.127600+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "weather",
+          "created_at": "Sat, 24 Oct 2026 20:30:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "सउदी अरब",
+          "created_at": "Sat, 24 Oct 2026 20:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "suns vs warriors",
+          "created_at": "Sat, 24 Oct 2026 20:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "mavericks vs spurs",
+          "created_at": "Sat, 24 Oct 2026 19:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "76ers vs bucks",
           "created_at": "Sat, 24 Oct 2026 18:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +57,7 @@
           "created_at": "Sat, 24 Oct 2026 18:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +84,7 @@
           "created_at": "Sat, 24 Oct 2026 16:30:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,44 +92,8 @@
           "text": "هيا الشعيبي",
           "created_at": "Sat, 24 Oct 2026 16:30:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صحيفة عكاظ",
-          "created_at": "Sat, 24 Oct 2026 16:10:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عائشة الكيلاني",
-          "created_at": "Sat, 24 Oct 2026 14:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "atlético madrid vs deportivo de la coruna standings",
-          "created_at": "Sat, 24 Oct 2026 14:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "لاتسيو ضد بارما",
-          "created_at": "Sat, 24 Oct 2026 14:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         }
       ]
