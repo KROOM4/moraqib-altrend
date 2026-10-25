@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-25T09:48:20.744257+00:00",
+  "updated_at": "2026-10-25T10:47:13.939217+00:00",
   "trends": {
-    "سعر الدولار مقابل الجنيه المصري اليوم": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-25T09:48:20.744257+00:00"
+    "weather warning": {
+      "volume": 20000.0,
+      "raw_volume": "20000+",
+      "updated_at": "2026-10-25T10:47:13.939217+00:00"
     },
-    "shaheen afridi": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-25T09:48:20.744257+00:00"
-    },
-    "harmanpreet kaur": {
+    "سوق الاسهم السعودي": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-25T09:48:20.744257+00:00"
+      "updated_at": "2026-10-25T10:47:13.939217+00:00"
+    },
+    "سعر الدولار مقابل الجنيه المصري": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-25T10:47:13.939217+00:00"
+    },
+    "نادي لانس": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T10:47:13.939217+00:00"
+    },
+    "makkah madinah heavy rain warning": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-25T10:47:13.939217+00:00"
+    },
+    "pak vs england": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-25T10:47:13.939217+00:00"
+    },
+    "shaheen afridi": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T10:47:13.939217+00:00"
+    },
+    "harmanpreet kaur": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-25T10:47:13.939217+00:00"
     },
     "joe root": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-25T09:48:20.744257+00:00"
+      "updated_at": "2026-10-25T10:47:13.939217+00:00"
     },
-    "india vs zimbabwe": {
-      "volume": 10000.0,
-      "raw_volume": "10000+",
-      "updated_at": "2026-10-25T09:48:20.744257+00:00"
-    },
-    "സൗദി അറേബ്യ": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-25T09:48:20.744257+00:00"
-    },
-    "tom banton": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T09:48:20.744257+00:00"
-    },
-    "americano": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T09:48:20.744257+00:00"
-    },
-    "किंग खालिद हवाई अड्डा": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T09:48:20.744257+00:00"
-    },
-    "ফ্লাইট": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-25T09:48:20.744257+00:00"
+    "smriti mandhana": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-25T10:47:13.939217+00:00"
     }
   }
 }
