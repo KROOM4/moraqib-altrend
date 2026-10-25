@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T11:45:43.994479+00:00",
+  "updated_at": "2026-10-25T12:10:06.101457+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "آية",
+          "created_at": "Sun, 25 Oct 2026 05:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جائزة الكرة الذهبية",
+          "created_at": "Sun, 25 Oct 2026 04:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "تسرب نفطي",
           "created_at": "Sun, 25 Oct 2026 04:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -20,8 +38,8 @@
           "text": "نادي الوصل",
           "created_at": "Sun, 25 Oct 2026 04:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +48,7 @@
           "created_at": "Sun, 25 Oct 2026 04:00:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,16 +57,16 @@
           "created_at": "Sun, 25 Oct 2026 04:00:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "weather warning",
-          "created_at": "Sun, 25 Oct 2026 03:30:00 -0700",
+          "text": "أروى جودة",
+          "created_at": "Sun, 25 Oct 2026 03:50:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": -99.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -57,7 +75,7 @@
           "created_at": "Sun, 25 Oct 2026 03:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": -50.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -65,32 +83,14 @@
           "text": "الشركة الوطنية السعودية للنقل البحري",
           "created_at": "Sun, 25 Oct 2026 02:50:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "نادي لانس",
           "created_at": "Sun, 25 Oct 2026 02:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sam curran",
-          "created_at": "Sun, 25 Oct 2026 02:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "shaheen afridi",
-          "created_at": "Sun, 25 Oct 2026 02:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
