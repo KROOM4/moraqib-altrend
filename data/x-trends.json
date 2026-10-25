@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T07:49:51.871419+00:00",
+  "updated_at": "2026-10-25T08:49:29.499452+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,83 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "england vs pakistan",
-          "created_at": "Sun, 25 Oct 2026 00:40:00 -0700",
+          "text": "സൗദി അറേബ്യ",
+          "created_at": "Sun, 25 Oct 2026 01:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "tom banton",
+          "created_at": "Sun, 25 Oct 2026 01:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "americano",
+          "created_at": "Sun, 25 Oct 2026 01:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "किंग खालिद हवाई अड्डा",
+          "created_at": "Sun, 25 Oct 2026 01:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الاسهم السعودية",
+          "created_at": "Sun, 25 Oct 2026 01:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "india women's national cricket team vs zimbabwe women's national cricket team match scorecard",
+          "created_at": "Sun, 25 Oct 2026 01:10:00 -0700",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "قوي",
+          "created_at": "Sun, 25 Oct 2026 01:10:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "saudi arabian airlines",
+          "created_at": "Sun, 25 Oct 2026 01:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "england vs pakistan",
+          "created_at": "Sun, 25 Oct 2026 00:40:00 -0700",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": 900.0
           }
         },
         {
@@ -20,80 +92,8 @@
           "text": "عبد الرزاق حمد الله",
           "created_at": "Sun, 25 Oct 2026 00:40:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تاسي",
-          "created_at": "Sun, 25 Oct 2026 00:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pakistan national cricket team vs england cricket team players",
-          "created_at": "Sun, 25 Oct 2026 00:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هيئة الزكاة",
-          "created_at": "Sun, 25 Oct 2026 00:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الراجحي",
-          "created_at": "Sat, 24 Oct 2026 23:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الريال اليوم في مصر",
-          "created_at": "Sat, 24 Oct 2026 23:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "google flights",
-          "created_at": "Sat, 24 Oct 2026 23:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "uae vs netherlands",
-          "created_at": "Sat, 24 Oct 2026 22:40:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الفلبين",
-          "created_at": "Sat, 24 Oct 2026 22:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         }
       ]

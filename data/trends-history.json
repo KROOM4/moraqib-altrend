@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-25T07:49:51.871419+00:00",
+  "updated_at": "2026-10-25T08:49:29.499452+00:00",
   "trends": {
-    "england vs pakistan": {
+    "സൗദി അറേബ്യ": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-25T08:49:29.499452+00:00"
+    },
+    "tom banton": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T08:49:29.499452+00:00"
+    },
+    "americano": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T08:49:29.499452+00:00"
+    },
+    "किंग खालिद हवाई अड्डा": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-25T08:49:29.499452+00:00"
+    },
+    "الاسهم السعودية": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-25T08:49:29.499452+00:00"
+    },
+    "india women's national cricket team vs zimbabwe women's national cricket team match scorecard": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-10-25T07:49:51.871419+00:00"
+      "updated_at": "2026-10-25T08:49:29.499452+00:00"
     },
-    "عبد الرزاق حمد الله": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T07:49:51.871419+00:00"
-    },
-    "تاسي": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T07:49:51.871419+00:00"
-    },
-    "pakistan national cricket team vs england cricket team players": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T07:49:51.871419+00:00"
-    },
-    "هيئة الزكاة": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T07:49:51.871419+00:00"
-    },
-    "الراجحي": {
+    "قوي": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-10-25T07:49:51.871419+00:00"
+      "updated_at": "2026-10-25T08:49:29.499452+00:00"
     },
-    "سعر الريال اليوم في مصر": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-25T07:49:51.871419+00:00"
-    },
-    "google flights": {
+    "saudi arabian airlines": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-25T07:49:51.871419+00:00"
+      "updated_at": "2026-10-25T08:49:29.499452+00:00"
     },
-    "uae vs netherlands": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-25T07:49:51.871419+00:00"
+    "england vs pakistan": {
+      "volume": 20000.0,
+      "raw_volume": "20000+",
+      "updated_at": "2026-10-25T08:49:29.499452+00:00"
     },
-    "الفلبين": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-25T07:49:51.871419+00:00"
+    "عبد الرزاق حمد الله": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-25T08:49:29.499452+00:00"
     }
   }
 }
