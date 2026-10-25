@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T08:49:29.499452+00:00",
+  "updated_at": "2026-10-25T09:48:20.744257+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,56 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الدولار مقابل الجنيه المصري اليوم",
+          "created_at": "Sun, 25 Oct 2026 02:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "shaheen afridi",
+          "created_at": "Sun, 25 Oct 2026 02:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "harmanpreet kaur",
+          "created_at": "Sun, 25 Oct 2026 02:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "joe root",
+          "created_at": "Sun, 25 Oct 2026 02:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "india vs zimbabwe",
+          "created_at": "Sun, 25 Oct 2026 01:40:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "സൗദി അറേബ്യ",
           "created_at": "Sun, 25 Oct 2026 01:40:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,7 +66,7 @@
           "created_at": "Sun, 25 Oct 2026 01:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +75,7 @@
           "created_at": "Sun, 25 Oct 2026 01:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,62 +83,17 @@
           "text": "किंग खालिद हवाई अड्डा",
           "created_at": "Sun, 25 Oct 2026 01:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الاسهم السعودية",
+          "text": "ফ্লাইট",
           "created_at": "Sun, 25 Oct 2026 01:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "india women's national cricket team vs zimbabwe women's national cricket team match scorecard",
-          "created_at": "Sun, 25 Oct 2026 01:10:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قوي",
-          "created_at": "Sun, 25 Oct 2026 01:10:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saudi arabian airlines",
-          "created_at": "Sun, 25 Oct 2026 01:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "england vs pakistan",
-          "created_at": "Sun, 25 Oct 2026 00:40:00 -0700",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 900.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عبد الرزاق حمد الله",
-          "created_at": "Sun, 25 Oct 2026 00:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]

@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-25T08:49:29.499452+00:00",
+  "updated_at": "2026-10-25T09:48:20.744257+00:00",
   "trends": {
+    "سعر الدولار مقابل الجنيه المصري اليوم": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-25T09:48:20.744257+00:00"
+    },
+    "shaheen afridi": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-25T09:48:20.744257+00:00"
+    },
+    "harmanpreet kaur": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T09:48:20.744257+00:00"
+    },
+    "joe root": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-25T09:48:20.744257+00:00"
+    },
+    "india vs zimbabwe": {
+      "volume": 10000.0,
+      "raw_volume": "10000+",
+      "updated_at": "2026-10-25T09:48:20.744257+00:00"
+    },
     "സൗദി അറേബ്യ": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-25T08:49:29.499452+00:00"
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-25T09:48:20.744257+00:00"
     },
     "tom banton": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-25T08:49:29.499452+00:00"
+      "updated_at": "2026-10-25T09:48:20.744257+00:00"
     },
     "americano": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-25T08:49:29.499452+00:00"
+      "updated_at": "2026-10-25T09:48:20.744257+00:00"
     },
     "किंग खालिद हवाई अड्डा": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-25T08:49:29.499452+00:00"
-    },
-    "الاسهم السعودية": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-25T08:49:29.499452+00:00"
-    },
-    "india women's national cricket team vs zimbabwe women's national cricket team match scorecard": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-25T08:49:29.499452+00:00"
-    },
-    "قوي": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-25T08:49:29.499452+00:00"
-    },
-    "saudi arabian airlines": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-25T08:49:29.499452+00:00"
+      "updated_at": "2026-10-25T09:48:20.744257+00:00"
     },
-    "england vs pakistan": {
-      "volume": 20000.0,
-      "raw_volume": "20000+",
-      "updated_at": "2026-10-25T08:49:29.499452+00:00"
-    },
-    "عبد الرزاق حمد الله": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-25T08:49:29.499452+00:00"
+    "ফ্লাইট": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-25T09:48:20.744257+00:00"
     }
   }
 }
