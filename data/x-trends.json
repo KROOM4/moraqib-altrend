@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T16:48:29.118242+00:00",
+  "updated_at": "2026-10-25T17:44:29.267484+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,64 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "laliga",
-          "created_at": "Sun, 25 Oct 2026 09:30:00 -0700",
+          "text": "إير كايرو",
+          "created_at": "Sun, 25 Oct 2026 10:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ريال سوسيداد ضد ليفانتي",
+          "created_at": "Sun, 25 Oct 2026 10:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نادي التعاون",
+          "created_at": "Sun, 25 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "النيجر",
+          "created_at": "Sun, 25 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ليتشي ضد يوفنتوس",
+          "created_at": "Sun, 25 Oct 2026 09:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "lecce vs juventus",
+          "created_at": "Sun, 25 Oct 2026 09:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الاهلي المصري",
+          "created_at": "Sun, 25 Oct 2026 09:40:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
@@ -21,78 +75,24 @@
           "created_at": "Sun, 25 Oct 2026 09:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "manchester united f.c. vs afc bournemouth standings",
-          "created_at": "Sun, 25 Oct 2026 09:10:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "القنوات الناقلة لمباراة الأهلي اليوم",
-          "created_at": "Sun, 25 Oct 2026 09:10:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "freiburg vs bayern",
-          "created_at": "Sun, 25 Oct 2026 08:50:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sunderland vs leeds",
-          "created_at": "Sun, 25 Oct 2026 08:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الهيلينية",
-          "created_at": "Sun, 25 Oct 2026 08:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "atalanta vs frosinone",
-          "created_at": "Sun, 25 Oct 2026 08:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "athletic bilbao vs getafe cf standings",
-          "created_at": "Sun, 25 Oct 2026 08:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موناكو ضد ليل",
-          "created_at": "Sun, 25 Oct 2026 08:40:00 -0700",
+          "text": "england cricket team vs pakistan national cricket team standings",
+          "created_at": "Sun, 25 Oct 2026 09:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "100000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kerala blasters vs mumbai city fc standings",
+          "created_at": "Sun, 25 Oct 2026 09:20:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
             "growth_percent": null
           }
         }

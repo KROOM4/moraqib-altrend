@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-25T16:48:29.118242+00:00",
+  "updated_at": "2026-10-25T17:44:29.267484+00:00",
   "trends": {
-    "laliga": {
+    "إير كايرو": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-25T16:48:29.118242+00:00"
+      "updated_at": "2026-10-25T17:44:29.267484+00:00"
+    },
+    "ريال سوسيداد ضد ليفانتي": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T17:44:29.267484+00:00"
+    },
+    "نادي التعاون": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T17:44:29.267484+00:00"
+    },
+    "النيجر": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-25T17:44:29.267484+00:00"
+    },
+    "ليتشي ضد يوفنتوس": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T17:44:29.267484+00:00"
+    },
+    "lecce vs juventus": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T17:44:29.267484+00:00"
+    },
+    "الاهلي المصري": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-25T17:44:29.267484+00:00"
     },
     "في الجول": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-25T16:48:29.118242+00:00"
+      "updated_at": "2026-10-25T17:44:29.267484+00:00"
     },
-    "manchester united f.c. vs afc bournemouth standings": {
+    "england cricket team vs pakistan national cricket team standings": {
+      "volume": 100000.0,
+      "raw_volume": "100000+",
+      "updated_at": "2026-10-25T17:44:29.267484+00:00"
+    },
+    "kerala blasters vs mumbai city fc standings": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-10-25T16:48:29.118242+00:00"
-    },
-    "القنوات الناقلة لمباراة الأهلي اليوم": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-25T16:48:29.118242+00:00"
-    },
-    "freiburg vs bayern": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-25T16:48:29.118242+00:00"
-    },
-    "sunderland vs leeds": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T16:48:29.118242+00:00"
-    },
-    "الهيلينية": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T16:48:29.118242+00:00"
-    },
-    "atalanta vs frosinone": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-25T16:48:29.118242+00:00"
-    },
-    "athletic bilbao vs getafe cf standings": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T16:48:29.118242+00:00"
-    },
-    "موناكو ضد ليل": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-25T16:48:29.118242+00:00"
+      "updated_at": "2026-10-25T17:44:29.267484+00:00"
     }
   }
 }
