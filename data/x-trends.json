@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T14:11:13.997376+00:00",
+  "updated_at": "2026-10-25T14:47:09.184495+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "palace vs newcastle",
-          "created_at": "Sun, 25 Oct 2026 07:00:00 -0700",
+          "text": "سلتا فيغو ضد ريال بتيس",
+          "created_at": "Sun, 25 Oct 2026 07:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,11 +17,38 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "celta vs betis",
+          "created_at": "Sun, 25 Oct 2026 07:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "شركة الصحة القابضة",
+          "created_at": "Sun, 25 Oct 2026 07:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "palace vs newcastle",
+          "created_at": "Sun, 25 Oct 2026 07:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "inter milan vs acf fiorentina standings",
           "created_at": "Sun, 25 Oct 2026 06:50:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +57,7 @@
           "created_at": "Sun, 25 Oct 2026 06:50:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +66,7 @@
           "created_at": "Sun, 25 Oct 2026 06:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,7 +74,16 @@
           "text": "حساب المواطن",
           "created_at": "Sun, 25 Oct 2026 06:40:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "5000+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كريستال بالاس ضد نيوكاسل يونايتد",
+          "created_at": "Sun, 25 Oct 2026 06:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
@@ -56,44 +92,8 @@
           "text": "طقس جدة",
           "created_at": "Sun, 25 Oct 2026 06:40:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "انتر ميلان",
-          "created_at": "Sun, 25 Oct 2026 06:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "liverpool vs brighton",
-          "created_at": "Sun, 25 Oct 2026 06:30:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 900.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand cricket",
-          "created_at": "Sun, 25 Oct 2026 06:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ليفربول ضد برايتون",
-          "created_at": "Sun, 25 Oct 2026 06:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 900.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         }
       ]

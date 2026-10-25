@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-25T14:11:13.997376+00:00",
+  "updated_at": "2026-10-25T14:47:09.184495+00:00",
   "trends": {
+    "سلتا فيغو ضد ريال بتيس": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T14:47:09.184495+00:00"
+    },
+    "celta vs betis": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T14:47:09.184495+00:00"
+    },
+    "شركة الصحة القابضة": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T14:47:09.184495+00:00"
+    },
     "palace vs newcastle": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-25T14:11:13.997376+00:00"
+      "updated_at": "2026-10-25T14:47:09.184495+00:00"
     },
     "inter milan vs acf fiorentina standings": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-25T14:11:13.997376+00:00"
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-25T14:47:09.184495+00:00"
     },
     "kerala blasters vs mumbai city": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-25T14:11:13.997376+00:00"
+      "updated_at": "2026-10-25T14:47:09.184495+00:00"
     },
     "hull vs brentford": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-25T14:11:13.997376+00:00"
+      "updated_at": "2026-10-25T14:47:09.184495+00:00"
     },
     "حساب المواطن": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-25T14:11:13.997376+00:00"
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-25T14:47:09.184495+00:00"
+    },
+    "كريستال بالاس ضد نيوكاسل يونايتد": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-25T14:47:09.184495+00:00"
     },
     "طقس جدة": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T14:11:13.997376+00:00"
-    },
-    "انتر ميلان": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-25T14:11:13.997376+00:00"
-    },
-    "liverpool vs brighton": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-25T14:11:13.997376+00:00"
-    },
-    "new zealand cricket": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T14:11:13.997376+00:00"
-    },
-    "ليفربول ضد برايتون": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-25T14:11:13.997376+00:00"
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-25T14:47:09.184495+00:00"
     }
   }
 }
