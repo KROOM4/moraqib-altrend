@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T23:06:58.885512+00:00",
+  "updated_at": "2026-10-25T23:41:44.679620+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كوكوريلا",
+          "text": "فليك",
           "created_at": "Sun, 25 Oct 2026 15:00:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "barcelona vs",
+          "created_at": "Sun, 25 Oct 2026 15:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -21,21 +30,30 @@
           "created_at": "Sun, 25 Oct 2026 14:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تابع كورة",
+          "created_at": "Sun, 25 Oct 2026 14:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "anthony gordon",
+          "created_at": "Sun, 25 Oct 2026 14:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "jazz vs lakers",
-          "created_at": "Sun, 25 Oct 2026 14:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": -60.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بيدري",
           "created_at": "Sun, 25 Oct 2026 14:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
@@ -53,16 +71,7 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إصابة",
-          "created_at": "Sun, 25 Oct 2026 14:20:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كورة مباريات اليوم مباشر",
+          "text": "ديوماندي",
           "created_at": "Sun, 25 Oct 2026 14:10:00 -0700",
           "metrics": {
             "search_volume": "500+",
@@ -71,29 +80,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كورة مباريات اليوم مباشر",
+          "created_at": "Sun, 25 Oct 2026 14:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": -60.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "fc barcelona vs real madrid standings",
           "created_at": "Sun, 25 Oct 2026 14:00:00 -0700",
           "metrics": {
             "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "برشلونة ضد ريال مدريد",
-          "created_at": "Sun, 25 Oct 2026 14:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "لامين يامال",
-          "created_at": "Sun, 25 Oct 2026 13:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         }
       ]
