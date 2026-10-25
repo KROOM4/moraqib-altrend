@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T12:57:17.232269+00:00",
+  "updated_at": "2026-10-25T13:46:20.934208+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اخبار السعودية اليوم",
-          "created_at": "Sun, 25 Oct 2026 05:50:00 -0700",
+          "text": "liverpool vs brighton",
+          "created_at": "Sun, 25 Oct 2026 06:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الطقس جدة",
+          "created_at": "Sun, 25 Oct 2026 06:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ليفربول ضد برايتون",
+          "created_at": "Sun, 25 Oct 2026 06:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "man utd vs bournemouth",
+          "created_at": "Sun, 25 Oct 2026 06:10:00 -0700",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -17,8 +44,35 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "babar azam",
-          "created_at": "Sun, 25 Oct 2026 05:40:00 -0700",
+          "text": "مان يونايتد ضد بورنموث",
+          "created_at": "Sun, 25 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عاجل",
+          "created_at": "Sun, 25 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اخبار السعودية",
+          "created_at": "Sun, 25 Oct 2026 06:00:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الذهب عيار 21",
+          "created_at": "Sun, 25 Oct 2026 06:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -26,74 +80,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "athletic vs getafe",
-          "created_at": "Sun, 25 Oct 2026 05:30:00 -0700",
+          "text": "اخبار السعودية اليوم",
+          "created_at": "Sun, 25 Oct 2026 05:50:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "garudayaksa fc vs persib bandung",
-          "created_at": "Sun, 25 Oct 2026 05:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طائر",
-          "created_at": "Sun, 25 Oct 2026 05:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "آية",
-          "created_at": "Sun, 25 Oct 2026 05:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جائزة الكرة الذهبية",
-          "created_at": "Sun, 25 Oct 2026 04:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
+            "search_volume": "2000+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تسرب نفطي",
-          "created_at": "Sun, 25 Oct 2026 04:20:00 -0700",
+          "text": "نبض",
+          "created_at": "Sun, 25 Oct 2026 05:50:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي الوصل",
-          "created_at": "Sun, 25 Oct 2026 04:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "inter vs fiorentina",
-          "created_at": "Sun, 25 Oct 2026 04:00:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         }
       ]
