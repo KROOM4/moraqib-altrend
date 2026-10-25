@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T07:05:06.678438+00:00",
+  "updated_at": "2026-10-25T07:49:51.871419+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,56 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الراجحي",
-          "created_at": "Sat, 24 Oct 2026 23:20:00 -0700",
+          "text": "england vs pakistan",
+          "created_at": "Sun, 25 Oct 2026 00:40:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عبد الرزاق حمد الله",
+          "created_at": "Sun, 25 Oct 2026 00:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تاسي",
+          "created_at": "Sun, 25 Oct 2026 00:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "pakistan national cricket team vs england cricket team players",
+          "created_at": "Sun, 25 Oct 2026 00:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هيئة الزكاة",
+          "created_at": "Sun, 25 Oct 2026 00:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الراجحي",
+          "created_at": "Sat, 24 Oct 2026 23:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -21,7 +66,7 @@
           "created_at": "Sat, 24 Oct 2026 23:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,15 +84,6 @@
           "created_at": "Sat, 24 Oct 2026 22:40:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الراتب",
-          "created_at": "Sat, 24 Oct 2026 22:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         },
@@ -57,42 +93,6 @@
           "created_at": "Sat, 24 Oct 2026 22:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الدولار في مصر",
-          "created_at": "Sat, 24 Oct 2026 22:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "houthis",
-          "created_at": "Sat, 24 Oct 2026 22:00:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "météo",
-          "created_at": "Sat, 24 Oct 2026 21:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "العربية",
-          "created_at": "Sat, 24 Oct 2026 20:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         }
