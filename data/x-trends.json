@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T05:46:57.337316+00:00",
+  "updated_at": "2026-10-25T06:13:15.674304+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اليوم السابع",
+          "created_at": "Sat, 24 Oct 2026 23:00:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "google flights",
+          "created_at": "Sat, 24 Oct 2026 23:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "uae vs netherlands",
+          "created_at": "Sat, 24 Oct 2026 22:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الراتب",
+          "created_at": "Sat, 24 Oct 2026 22:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "موعد",
           "created_at": "Sat, 24 Oct 2026 22:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +57,7 @@
           "created_at": "Sat, 24 Oct 2026 22:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +65,8 @@
           "text": "houthis",
           "created_at": "Sat, 24 Oct 2026 22:00:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,7 +75,7 @@
           "created_at": "Sat, 24 Oct 2026 21:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,50 +83,14 @@
           "text": "العربية",
           "created_at": "Sat, 24 Oct 2026 20:50:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الطقس",
-          "created_at": "Sat, 24 Oct 2026 20:30:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "weather",
-          "created_at": "Sat, 24 Oct 2026 20:30:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "सउदी अरब",
-          "created_at": "Sat, 24 Oct 2026 20:30:00 -0700",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "extra",
-          "created_at": "Sat, 24 Oct 2026 20:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nba standings",
-          "created_at": "Sat, 24 Oct 2026 20:10:00 -0700",
+          "text": "nba",
+          "created_at": "Sat, 24 Oct 2026 20:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
