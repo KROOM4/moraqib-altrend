@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T20:03:38.702950+00:00",
+  "updated_at": "2026-10-25T20:45:12.408519+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,92 +8,92 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "barcelone – real madrid",
-          "created_at": "Sun, 25 Oct 2026 12:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيب الدوري الاسباني",
-          "created_at": "Sun, 25 Oct 2026 12:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بث مباريات اليوم",
-          "created_at": "Sun, 25 Oct 2026 12:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رادار",
-          "created_at": "Sun, 25 Oct 2026 12:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "iptv",
-          "created_at": "Sun, 25 Oct 2026 12:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أودينيزي ضد ميلان",
-          "created_at": "Sun, 25 Oct 2026 12:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "tod",
-          "created_at": "Sun, 25 Oct 2026 12:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "udinese vs milan",
-          "created_at": "Sun, 25 Oct 2026 12:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تشكيلات الفِرَق: نادي برشلونة – ريال مدريد",
-          "created_at": "Sun, 25 Oct 2026 11:50:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سهم",
-          "created_at": "Sun, 25 Oct 2026 11:50:00 -0700",
+          "text": "مباريات اليوم",
+          "created_at": "Sun, 25 Oct 2026 13:30:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 0.0
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "يلا كورة مباريات اليوم",
+          "created_at": "Sun, 25 Oct 2026 13:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "xavi espart",
+          "created_at": "Sun, 25 Oct 2026 13:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "live",
+          "created_at": "Sun, 25 Oct 2026 13:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أوريان غورين",
+          "created_at": "Sun, 25 Oct 2026 13:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "orian goren",
+          "created_at": "Sun, 25 Oct 2026 13:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "andriy lunin",
+          "created_at": "Sun, 25 Oct 2026 13:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "barca",
+          "created_at": "Sun, 25 Oct 2026 13:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "يلا كورة",
+          "created_at": "Sun, 25 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "yallakora",
+          "created_at": "Sun, 25 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
           }
         }
       ]
