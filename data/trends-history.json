@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-25T17:44:29.267484+00:00",
+  "updated_at": "2026-10-25T18:08:07.989586+00:00",
   "trends": {
-    "إير كايرو": {
+    "real sociedad vs levante": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-25T17:44:29.267484+00:00"
+      "updated_at": "2026-10-25T18:08:07.989586+00:00"
+    },
+    "rc celta de vigo vs real betis standings": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-25T18:08:07.989586+00:00"
+    },
+    "إير كايرو": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-25T18:08:07.989586+00:00"
     },
     "ريال سوسيداد ضد ليفانتي": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-25T17:44:29.267484+00:00"
-    },
-    "نادي التعاون": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T17:44:29.267484+00:00"
+      "updated_at": "2026-10-25T18:08:07.989586+00:00"
     },
     "النيجر": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-25T17:44:29.267484+00:00"
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-25T18:08:07.989586+00:00"
+    },
+    "نادي التعاون": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-25T18:08:07.989586+00:00"
     },
     "ليتشي ضد يوفنتوس": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T17:44:29.267484+00:00"
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-25T18:08:07.989586+00:00"
     },
     "lecce vs juventus": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-25T17:44:29.267484+00:00"
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-25T18:08:07.989586+00:00"
     },
     "الاهلي المصري": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-10-25T17:44:29.267484+00:00"
+      "updated_at": "2026-10-25T18:08:07.989586+00:00"
     },
-    "في الجول": {
+    "laliga": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-25T17:44:29.267484+00:00"
-    },
-    "england cricket team vs pakistan national cricket team standings": {
-      "volume": 100000.0,
-      "raw_volume": "100000+",
-      "updated_at": "2026-10-25T17:44:29.267484+00:00"
-    },
-    "kerala blasters vs mumbai city fc standings": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-25T17:44:29.267484+00:00"
+      "updated_at": "2026-10-25T18:08:07.989586+00:00"
     }
   }
 }
