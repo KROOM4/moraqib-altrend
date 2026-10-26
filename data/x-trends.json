@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T02:52:59.932910+00:00",
+  "updated_at": "2026-10-26T03:54:49.850494+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,20 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الفنانه عائشة الكيلاني",
-          "created_at": "Sun, 25 Oct 2026 18:40:00 -0700",
+          "text": "منصتي",
+          "created_at": "Sun, 25 Oct 2026 20:40:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
+            "search_volume": "5000+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صاروخ باليستي",
+          "text": "جريدة البلاد",
+          "created_at": "Sun, 25 Oct 2026 20:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "king khalid international airport riyadh",
+          "created_at": "Sun, 25 Oct 2026 20:20:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sports",
+          "created_at": "Sun, 25 Oct 2026 19:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "उड़ान",
           "created_at": "Sun, 25 Oct 2026 18:40:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -30,6 +57,15 @@
           "created_at": "Sun, 25 Oct 2026 18:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "npl",
+          "created_at": "Sun, 25 Oct 2026 17:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -38,8 +74,8 @@
           "text": "هنا شيحة",
           "created_at": "Sun, 25 Oct 2026 17:10:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -53,44 +89,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فليك",
-          "created_at": "Sun, 25 Oct 2026 15:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "ارامكو",
           "created_at": "Sun, 25 Oct 2026 14:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "anthony gordon",
-          "created_at": "Sun, 25 Oct 2026 14:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jazz vs lakers",
-          "created_at": "Sun, 25 Oct 2026 14:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رودري",
-          "created_at": "Sun, 25 Oct 2026 14:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
