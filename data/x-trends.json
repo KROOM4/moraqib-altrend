@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T22:52:12.945619+00:00",
+  "updated_at": "2026-10-26T23:47:07.107203+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,20 +8,11 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أليكسيا بوتياس",
-          "created_at": "Mon, 26 Oct 2026 15:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "twitch",
           "created_at": "Mon, 26 Oct 2026 15:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,7 +20,16 @@
           "text": "alexia putellas",
           "created_at": "Mon, 26 Oct 2026 15:30:00 -0700",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "1000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بوتياس",
+          "created_at": "Mon, 26 Oct 2026 15:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
@@ -39,7 +39,7 @@
           "created_at": "Mon, 26 Oct 2026 15:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,8 +47,8 @@
           "text": "sophie turner",
           "created_at": "Mon, 26 Oct 2026 15:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -56,8 +56,17 @@
           "text": "ايجار",
           "created_at": "Mon, 26 Oct 2026 15:00:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مبابي",
+          "created_at": "Mon, 26 Oct 2026 15:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -66,16 +75,7 @@
           "created_at": "Mon, 26 Oct 2026 15:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مبابي",
-          "created_at": "Mon, 26 Oct 2026 15:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -84,7 +84,7 @@
           "created_at": "Mon, 26 Oct 2026 14:40:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -93,7 +93,7 @@
           "created_at": "Mon, 26 Oct 2026 14:40:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         }
       ]
