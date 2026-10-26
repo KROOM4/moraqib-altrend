@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T21:49:26.718393+00:00",
+  "updated_at": "2026-10-26T22:52:12.945619+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "psg vs olympique lyon standings",
-          "created_at": "Mon, 26 Oct 2026 14:40:00 -0700",
+          "text": "أليكسيا بوتياس",
+          "created_at": "Mon, 26 Oct 2026 15:40:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -17,83 +17,83 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "twitch",
+          "created_at": "Mon, 26 Oct 2026 15:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "alexia putellas",
+          "created_at": "Mon, 26 Oct 2026 15:30:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "charlyn corral",
+          "created_at": "Mon, 26 Oct 2026 15:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sophie turner",
+          "created_at": "Mon, 26 Oct 2026 15:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ايجار",
+          "created_at": "Mon, 26 Oct 2026 15:00:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وزارة الموارد البشرية والتنمية الاجتماعية",
+          "created_at": "Mon, 26 Oct 2026 15:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مبابي",
+          "created_at": "Mon, 26 Oct 2026 15:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "psg vs olympique lyon standings",
+          "created_at": "Mon, 26 Oct 2026 14:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "أوناي سيمون",
           "created_at": "Mon, 26 Oct 2026 14:40:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "unai simon",
-          "created_at": "Mon, 26 Oct 2026 14:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فيكي لوبيز",
-          "created_at": "Mon, 26 Oct 2026 14:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "من الذي فاز بالكرة الذهبية 2026",
-          "created_at": "Mon, 26 Oct 2026 14:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سفينة",
-          "created_at": "Mon, 26 Oct 2026 14:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الرواتب",
-          "created_at": "Mon, 26 Oct 2026 14:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ballon d'or live stream",
-          "created_at": "Mon, 26 Oct 2026 14:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الضمان",
-          "created_at": "Mon, 26 Oct 2026 14:00:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "vicky lopez",
-          "created_at": "Mon, 26 Oct 2026 14:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         }
       ]
