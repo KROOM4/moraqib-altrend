@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T05:52:44.197510+00:00",
+  "updated_at": "2026-10-26T07:11:00.187353+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -12,7 +12,7 @@
           "created_at": "Sun, 25 Oct 2026 22:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +21,7 @@
           "created_at": "Sun, 25 Oct 2026 21:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -53,20 +53,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جريدة البلاد",
-          "created_at": "Sun, 25 Oct 2026 20:30:00 -0700",
+          "text": "مهدي المشاط",
+          "created_at": "Sun, 25 Oct 2026 20:40:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "king khalid international airport riyadh",
-          "created_at": "Sun, 25 Oct 2026 20:20:00 -0700",
+          "text": "جريدة البلاد",
+          "created_at": "Sun, 25 Oct 2026 20:30:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": -60.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -80,20 +80,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "প্রবাসী",
-          "created_at": "Sun, 25 Oct 2026 19:50:00 -0700",
+          "text": "king khalid international airport riyadh",
+          "created_at": "Sun, 25 Oct 2026 20:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "2000+",
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lula",
-          "created_at": "Sun, 25 Oct 2026 19:30:00 -0700",
+          "text": "প্রবাসী",
+          "created_at": "Sun, 25 Oct 2026 19:50:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 0.0
           }
         }
       ]
