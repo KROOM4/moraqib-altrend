@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T10:56:48.330897+00:00",
+  "updated_at": "2026-10-26T13:34:47.626425+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الذهب في مصر",
-          "created_at": "Mon, 26 Oct 2026 03:40:00 -0700",
+          "text": "tadawul all-share index",
+          "created_at": "Mon, 26 Oct 2026 06:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,8 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الاسهم السعودية",
-          "created_at": "Mon, 26 Oct 2026 03:40:00 -0700",
+          "text": "أبشر",
+          "created_at": "Mon, 26 Oct 2026 06:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -26,8 +26,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سهم الانماء",
-          "created_at": "Mon, 26 Oct 2026 03:20:00 -0700",
+          "text": "persija jakarta vs persik",
+          "created_at": "Mon, 26 Oct 2026 06:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -35,65 +35,65 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزير الدفاع السعودي",
-          "created_at": "Mon, 26 Oct 2026 03:20:00 -0700",
+          "text": "نيفتشي فرغانة ضد الاتحاد",
+          "created_at": "Mon, 26 Oct 2026 06:00:00 -0700",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "10000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "riyadh air",
-          "created_at": "Mon, 26 Oct 2026 03:10:00 -0700",
+          "text": "دولار أمريكي",
+          "created_at": "Mon, 26 Oct 2026 05:30:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الريال مقابل الجنيه",
-          "created_at": "Mon, 26 Oct 2026 02:50:00 -0700",
+          "text": "تقاعد",
+          "created_at": "Mon, 26 Oct 2026 05:00:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الدولار مقابل الجنيه المصري",
-          "created_at": "Mon, 26 Oct 2026 02:40:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "متى حفل الكره الذهبيه",
-          "created_at": "Mon, 26 Oct 2026 02:30:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سنغافورة",
-          "created_at": "Mon, 26 Oct 2026 02:20:00 -0700",
+          "text": "سامي عبد الحليم",
+          "created_at": "Mon, 26 Oct 2026 05:00:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "রিয়াদ",
-          "created_at": "Mon, 26 Oct 2026 01:30:00 -0700",
+          "text": "محمد ثروت",
+          "created_at": "Mon, 26 Oct 2026 04:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "saim ayub",
+          "created_at": "Mon, 26 Oct 2026 03:50:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "সুজাত শিমুল",
+          "created_at": "Mon, 26 Oct 2026 03:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         }
       ]
