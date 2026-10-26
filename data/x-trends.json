@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T17:26:28.639541+00:00",
+  "updated_at": "2026-10-26T18:21:08.712694+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي العين",
-          "created_at": "Mon, 26 Oct 2026 09:40:00 -0700",
+          "text": "القادسية",
+          "created_at": "Mon, 26 Oct 2026 11:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "king salman international stadium",
+          "created_at": "Mon, 26 Oct 2026 11:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,62 +26,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "neftchi fergana vs al-ittihad club standings",
-          "created_at": "Mon, 26 Oct 2026 09:00:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "salman bin abdulaziz al saud",
-          "created_at": "Mon, 26 Oct 2026 08:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "dazn",
-          "created_at": "Mon, 26 Oct 2026 08:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ريزيسبور ضد طرابزون سبور",
-          "created_at": "Mon, 26 Oct 2026 08:30:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "rizespor vs trabzonspor",
-          "created_at": "Mon, 26 Oct 2026 08:30:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الأهلي ضد الغرافة",
-          "created_at": "Mon, 26 Oct 2026 08:10:00 -0700",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "arab saudi",
-          "created_at": "Mon, 26 Oct 2026 08:00:00 -0700",
+          "text": "طيران",
+          "created_at": "Mon, 26 Oct 2026 11:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -80,20 +35,65 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كأس آسيا 2027",
-          "created_at": "Mon, 26 Oct 2026 07:50:00 -0700",
+          "text": "غلطة سراي ضد فنربخشة",
+          "created_at": "Mon, 26 Oct 2026 11:00:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": -50.0
+            "search_volume": "200+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "خالد بن سلمان",
-          "created_at": "Mon, 26 Oct 2026 07:30:00 -0700",
+          "text": "galatasaray - fenerbahçe",
+          "created_at": "Mon, 26 Oct 2026 11:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al-nassr vs al wasl",
+          "created_at": "Mon, 26 Oct 2026 10:30:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al qadsiah vs al sadd",
+          "created_at": "Mon, 26 Oct 2026 10:30:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 0.0
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "missile",
+          "created_at": "Mon, 26 Oct 2026 10:30:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kick",
+          "created_at": "Mon, 26 Oct 2026 10:30:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "trabzonspor",
+          "created_at": "Mon, 26 Oct 2026 10:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
           }
         }
       ]
