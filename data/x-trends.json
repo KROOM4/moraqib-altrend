@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T13:34:47.626425+00:00",
+  "updated_at": "2026-10-26T15:23:04.662102+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,80 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "tadawul all-share index",
-          "created_at": "Mon, 26 Oct 2026 06:20:00 -0700",
+          "text": "الأهلي ضد الغرافة",
+          "created_at": "Mon, 26 Oct 2026 08:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أبشر",
-          "created_at": "Mon, 26 Oct 2026 06:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "persija jakarta vs persik",
-          "created_at": "Mon, 26 Oct 2026 06:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نيفتشي فرغانة ضد الاتحاد",
-          "created_at": "Mon, 26 Oct 2026 06:00:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دولار أمريكي",
-          "created_at": "Mon, 26 Oct 2026 05:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تقاعد",
-          "created_at": "Mon, 26 Oct 2026 05:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سامي عبد الحليم",
-          "created_at": "Mon, 26 Oct 2026 05:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد ثروت",
-          "created_at": "Mon, 26 Oct 2026 04:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saim ayub",
-          "created_at": "Mon, 26 Oct 2026 03:50:00 -0700",
+          "text": "خالد بن سلمان",
+          "created_at": "Mon, 26 Oct 2026 07:30:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -89,10 +26,73 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "সুজাত শিমুল",
-          "created_at": "Mon, 26 Oct 2026 03:40:00 -0700",
+          "text": "قوي",
+          "created_at": "Mon, 26 Oct 2026 07:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بسمة بوسيل",
+          "created_at": "Mon, 26 Oct 2026 07:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "हत्या",
+          "created_at": "Mon, 26 Oct 2026 06:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بث مباريات اليوم",
+          "created_at": "Mon, 26 Oct 2026 06:50:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سوق الأسهم",
+          "created_at": "Mon, 26 Oct 2026 06:30:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "tadawul all-share index",
+          "created_at": "Mon, 26 Oct 2026 06:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أبشر",
+          "created_at": "Mon, 26 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ഏഷ്യാനെറ്റ് ന്യൂസ്",
+          "created_at": "Mon, 26 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         }
