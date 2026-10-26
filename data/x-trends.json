@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T19:27:17.428361+00:00",
+  "updated_at": "2026-10-26T20:14:47.376076+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sevilla vs osasuna",
-          "created_at": "Mon, 26 Oct 2026 12:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بشار الأسد",
-          "created_at": "Mon, 26 Oct 2026 12:10:00 -0700",
+          "text": "saudi arabia electricity tariff 2027",
+          "created_at": "Mon, 26 Oct 2026 13:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -26,10 +17,37 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sevilla vs osasuna",
+          "created_at": "Mon, 26 Oct 2026 12:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بشار الأسد",
+          "created_at": "Mon, 26 Oct 2026 12:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "psg vs ol",
           "created_at": "Mon, 26 Oct 2026 12:00:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "5000+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "galatasaray",
+          "created_at": "Mon, 26 Oct 2026 12:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -39,6 +57,15 @@
           "created_at": "Mon, 26 Oct 2026 11:50:00 -0700",
           "metrics": {
             "search_volume": "2000+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "big ticket",
+          "created_at": "Mon, 26 Oct 2026 11:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -47,8 +74,8 @@
           "text": "santa clara vs benfica",
           "created_at": "Mon, 26 Oct 2026 11:30:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -57,7 +84,7 @@
           "created_at": "Mon, 26 Oct 2026 11:20:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -66,33 +93,6 @@
           "created_at": "Mon, 26 Oct 2026 11:20:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "القادسية",
-          "created_at": "Mon, 26 Oct 2026 11:10:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 300.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "king salman international stadium",
-          "created_at": "Mon, 26 Oct 2026 11:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طيران",
-          "created_at": "Mon, 26 Oct 2026 11:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }

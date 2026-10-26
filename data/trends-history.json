@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-26T19:27:17.428361+00:00",
+  "updated_at": "2026-10-26T20:14:47.376076+00:00",
   "trends": {
-    "sevilla vs osasuna": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-26T19:27:17.428361+00:00"
-    },
-    "بشار الأسد": {
+    "saudi arabia electricity tariff 2027": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-26T19:27:17.428361+00:00"
+      "updated_at": "2026-10-26T20:14:47.376076+00:00"
+    },
+    "sevilla vs osasuna": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-26T20:14:47.376076+00:00"
+    },
+    "بشار الأسد": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-26T20:14:47.376076+00:00"
     },
     "psg vs ol": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-26T19:27:17.428361+00:00"
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-26T20:14:47.376076+00:00"
+    },
+    "galatasaray": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-26T20:14:47.376076+00:00"
     },
     "بي اس جي ضد أولمبيك ليون": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-10-26T19:27:17.428361+00:00"
+      "updated_at": "2026-10-26T20:14:47.376076+00:00"
+    },
+    "big ticket": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-26T20:14:47.376076+00:00"
     },
     "santa clara vs benfica": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-26T19:27:17.428361+00:00"
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-26T20:14:47.376076+00:00"
     },
     "al-ahli saudi fc vs al-gharafa standings": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-10-26T19:27:17.428361+00:00"
+      "updated_at": "2026-10-26T20:14:47.376076+00:00"
     },
     "galatasaray vs fenerbahçe": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-26T19:27:17.428361+00:00"
-    },
-    "القادسية": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-26T19:27:17.428361+00:00"
-    },
-    "king salman international stadium": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-26T19:27:17.428361+00:00"
-    },
-    "طيران": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-26T19:27:17.428361+00:00"
+      "updated_at": "2026-10-26T20:14:47.376076+00:00"
     }
   }
 }
