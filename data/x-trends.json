@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T11:52:00.683338+00:00",
+  "updated_at": "2026-10-27T13:06:51.985016+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,73 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ginebra vs san miguel",
+          "created_at": "Tue, 27 Oct 2026 05:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "npl live",
+          "created_at": "Tue, 27 Oct 2026 05:30:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أبها ضد الفيصلي",
+          "created_at": "Tue, 27 Oct 2026 05:20:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نظام المعاملات التجارية",
+          "created_at": "Tue, 27 Oct 2026 05:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الحريق",
+          "created_at": "Tue, 27 Oct 2026 04:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عبدالعزيز بن سلمان",
+          "created_at": "Tue, 27 Oct 2026 04:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "ballistic missile",
           "created_at": "Tue, 27 Oct 2026 04:40:00 -0700",
           "metrics": {
             "search_volume": "5000+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "قناة العربية",
+          "created_at": "Tue, 27 Oct 2026 04:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -21,78 +84,15 @@
           "created_at": "Tue, 27 Oct 2026 04:30:00 -0700",
           "metrics": {
             "search_volume": "10000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صابرين",
-          "created_at": "Tue, 27 Oct 2026 03:30:00 -0700",
+          "text": "sl vs pak",
+          "created_at": "Tue, 27 Oct 2026 03:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mitchell santner",
-          "created_at": "Tue, 27 Oct 2026 03:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sanju samson",
-          "created_at": "Tue, 27 Oct 2026 02:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "icc",
-          "created_at": "Tue, 27 Oct 2026 02:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مصر",
-          "created_at": "Tue, 27 Oct 2026 02:30:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "آي باد ميني",
-          "created_at": "Tue, 27 Oct 2026 02:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "live cricket match",
-          "created_at": "Tue, 27 Oct 2026 02:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cricbuzz",
-          "created_at": "Tue, 27 Oct 2026 02:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
             "growth_percent": null
           }
         }
