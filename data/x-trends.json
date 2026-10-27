@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T07:05:59.695720+00:00",
+  "updated_at": "2026-10-27T08:00:22.311144+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,62 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand national cricket team vs india national cricket team match scorecard",
-          "created_at": "Mon, 26 Oct 2026 23:40:00 -0700",
+          "text": "maaz sadaqat",
+          "created_at": "Tue, 27 Oct 2026 00:50:00 -0700",
           "metrics": {
-            "search_volume": "10000+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "netherlands vs oman",
-          "created_at": "Mon, 26 Oct 2026 22:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "israel elections 2026",
-          "created_at": "Mon, 26 Oct 2026 21:40:00 -0700",
+          "text": "daryl mitchell",
+          "created_at": "Tue, 27 Oct 2026 00:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "heat vs mavericks",
-          "created_at": "Mon, 26 Oct 2026 21:40:00 -0700",
+          "text": "sa vs aus",
+          "created_at": "Tue, 27 Oct 2026 00:50:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ريهام عبد الغفور",
-          "created_at": "Mon, 26 Oct 2026 21:00:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منصه",
-          "created_at": "Mon, 26 Oct 2026 21:00:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": -60.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "زين",
-          "created_at": "Mon, 26 Oct 2026 21:00:00 -0700",
+          "text": "live cricket score",
+          "created_at": "Tue, 27 Oct 2026 00:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -71,28 +44,55 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مد",
-          "created_at": "Mon, 26 Oct 2026 21:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منصتي",
-          "created_at": "Mon, 26 Oct 2026 20:50:00 -0700",
+          "text": "pak vs sl",
+          "created_at": "Tue, 27 Oct 2026 00:40:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منصة",
-          "created_at": "Mon, 26 Oct 2026 20:50:00 -0700",
+          "text": "finn allen",
+          "created_at": "Tue, 27 Oct 2026 00:40:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "namibia national cricket team vs ireland cricket team match scorecard",
+          "created_at": "Tue, 27 Oct 2026 00:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "dawid malan",
+          "created_at": "Tue, 27 Oct 2026 00:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نجيب ساويرس",
+          "created_at": "Tue, 27 Oct 2026 00:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "new zealand vs india",
+          "created_at": "Tue, 27 Oct 2026 00:00:00 -0700",
+          "metrics": {
+            "search_volume": "20000+",
             "growth_percent": null
           }
         }
