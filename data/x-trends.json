@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T13:06:51.985016+00:00",
+  "updated_at": "2026-10-27T14:05:14.394646+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,64 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "afg vs zim",
+          "created_at": "Tue, 27 Oct 2026 06:50:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kusal perera",
+          "created_at": "Tue, 27 Oct 2026 06:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "لوكهيد مارتن",
+          "created_at": "Tue, 27 Oct 2026 06:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جامعة ام القرى",
+          "created_at": "Tue, 27 Oct 2026 06:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سيارة",
+          "created_at": "Tue, 27 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "ginebra vs san miguel",
           "created_at": "Tue, 27 Oct 2026 05:30:00 -0700",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ياسمين عبد العزيز",
+          "created_at": "Tue, 27 Oct 2026 05:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -20,8 +74,8 @@
           "text": "npl live",
           "created_at": "Tue, 27 Oct 2026 05:30:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": -80.0
           }
         },
         {
@@ -30,7 +84,7 @@
           "created_at": "Tue, 27 Oct 2026 05:20:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,62 +92,8 @@
           "text": "نظام المعاملات التجارية",
           "created_at": "Tue, 27 Oct 2026 05:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الحريق",
-          "created_at": "Tue, 27 Oct 2026 04:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عبدالعزيز بن سلمان",
-          "created_at": "Tue, 27 Oct 2026 04:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ballistic missile",
-          "created_at": "Tue, 27 Oct 2026 04:40:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قناة العربية",
-          "created_at": "Tue, 27 Oct 2026 04:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد صلاح",
-          "created_at": "Tue, 27 Oct 2026 04:30:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sl vs pak",
-          "created_at": "Tue, 27 Oct 2026 03:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 400.0
           }
         }
       ]
