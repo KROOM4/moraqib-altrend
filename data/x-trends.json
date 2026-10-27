@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T03:52:24.992173+00:00",
+  "updated_at": "2026-10-27T04:50:59.163939+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,56 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nuggets vs warriors",
-          "created_at": "Mon, 26 Oct 2026 20:20:00 -0700",
+          "text": "israel elections 2026",
+          "created_at": "Mon, 26 Oct 2026 21:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منصه",
+          "created_at": "Mon, 26 Oct 2026 21:00:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ريهام عبد الغفور",
+          "created_at": "Mon, 26 Oct 2026 21:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مد",
+          "created_at": "Mon, 26 Oct 2026 21:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منصتي",
+          "created_at": "Mon, 26 Oct 2026 20:50:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "nuggets vs warriors",
+          "created_at": "Mon, 26 Oct 2026 20:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,13 +66,13 @@
           "created_at": "Mon, 26 Oct 2026 20:20:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "news",
-          "created_at": "Mon, 26 Oct 2026 17:30:00 -0700",
+          "text": "cavaliers vs timberwolves",
+          "created_at": "Mon, 26 Oct 2026 20:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -35,65 +80,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اخبار السعودية",
+          "text": "الاخبار",
           "created_at": "Mon, 26 Oct 2026 17:20:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": -75.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدمام",
-          "created_at": "Mon, 26 Oct 2026 17:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "flamengo vs atlético mineiro",
-          "created_at": "Mon, 26 Oct 2026 16:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حساب مواطن",
-          "created_at": "Mon, 26 Oct 2026 16:30:00 -0700",
+          "text": "اخبار",
+          "created_at": "Mon, 26 Oct 2026 17:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "twitch",
-          "created_at": "Mon, 26 Oct 2026 15:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "alexia putellas",
-          "created_at": "Mon, 26 Oct 2026 15:30:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بوتياس",
-          "created_at": "Mon, 26 Oct 2026 15:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         }
       ]
