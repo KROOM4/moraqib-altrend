@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T09:56:21.423688+00:00",
+  "updated_at": "2026-10-27T10:54:51.722230+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,19 +8,37 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "king khalid international airport",
-          "created_at": "Tue, 27 Oct 2026 02:30:00 -0700",
+          "text": "mitchell santner",
+          "created_at": "Tue, 27 Oct 2026 03:30:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حلف مكة ايران",
-          "created_at": "Tue, 27 Oct 2026 02:30:00 -0700",
+          "text": "sanju samson",
+          "created_at": "Tue, 27 Oct 2026 02:50:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "india national cricket team",
+          "created_at": "Tue, 27 Oct 2026 02:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "icc",
+          "created_at": "Tue, 27 Oct 2026 02:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -29,17 +47,8 @@
           "text": "مصر",
           "created_at": "Tue, 27 Oct 2026 02:30:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cricket",
-          "created_at": "Tue, 27 Oct 2026 02:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -47,8 +56,17 @@
           "text": "آي باد ميني",
           "created_at": "Tue, 27 Oct 2026 02:30:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "king khalid international airport",
+          "created_at": "Tue, 27 Oct 2026 02:30:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": -80.0
           }
         },
         {
@@ -56,7 +74,16 @@
           "text": "espncricinfo",
           "created_at": "Tue, 27 Oct 2026 02:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "abhishek sharma",
+          "created_at": "Tue, 27 Oct 2026 02:10:00 -0700",
+          "metrics": {
+            "search_volume": "50000+",
             "growth_percent": null
           }
         },
@@ -65,34 +92,7 @@
           "text": "cricinfo",
           "created_at": "Tue, 27 Oct 2026 02:10:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "south africa vs australia",
-          "created_at": "Tue, 27 Oct 2026 02:00:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "vaibhav sooryavanshi",
-          "created_at": "Tue, 27 Oct 2026 02:00:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دولار",
-          "created_at": "Tue, 27 Oct 2026 01:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
             "growth_percent": 100.0
           }
         }
