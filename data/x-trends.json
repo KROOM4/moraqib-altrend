@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T14:05:14.394646+00:00",
+  "updated_at": "2026-10-27T15:04:04.050675+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,16 +8,61 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "afg vs zim",
-          "created_at": "Tue, 27 Oct 2026 06:50:00 -0700",
+          "text": "afghanistan vs zimbabwe",
+          "created_at": "Tue, 27 Oct 2026 07:30:00 -0700",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الهلال السعودي",
+          "created_at": "Tue, 27 Oct 2026 07:30:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أرقام",
+          "created_at": "Tue, 27 Oct 2026 07:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "australia",
+          "created_at": "Tue, 27 Oct 2026 07:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "সোনা",
+          "created_at": "Tue, 27 Oct 2026 07:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "kusal perera",
+          "created_at": "Tue, 27 Oct 2026 06:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "karnali yaks vs janakpur bolts",
           "created_at": "Tue, 27 Oct 2026 06:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
@@ -27,6 +72,15 @@
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "لوكهيد مارتن",
+          "created_at": "Tue, 27 Oct 2026 06:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "متعب الحربي",
           "created_at": "Tue, 27 Oct 2026 06:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
@@ -39,61 +93,7 @@
           "created_at": "Tue, 27 Oct 2026 06:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سيارة",
-          "created_at": "Tue, 27 Oct 2026 06:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ginebra vs san miguel",
-          "created_at": "Tue, 27 Oct 2026 05:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ياسمين عبد العزيز",
-          "created_at": "Tue, 27 Oct 2026 05:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "npl live",
-          "created_at": "Tue, 27 Oct 2026 05:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": -80.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أبها ضد الفيصلي",
-          "created_at": "Tue, 27 Oct 2026 05:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نظام المعاملات التجارية",
-          "created_at": "Tue, 27 Oct 2026 05:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 400.0
           }
         }
       ]
