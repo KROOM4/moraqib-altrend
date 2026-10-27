@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-27T05:50:22.715740+00:00",
+  "updated_at": "2026-10-27T07:05:59.695720+00:00",
   "trends": {
+    "new zealand national cricket team vs india national cricket team match scorecard": {
+      "volume": 10000.0,
+      "raw_volume": "10000+",
+      "updated_at": "2026-10-27T07:05:59.695720+00:00"
+    },
     "netherlands vs oman": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-27T05:50:22.715740+00:00"
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-27T07:05:59.695720+00:00"
     },
     "israel elections 2026": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-27T05:50:22.715740+00:00"
+      "updated_at": "2026-10-27T07:05:59.695720+00:00"
     },
     "heat vs mavericks": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-27T05:50:22.715740+00:00"
+      "updated_at": "2026-10-27T07:05:59.695720+00:00"
     },
     "ريهام عبد الغفور": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-27T05:50:22.715740+00:00"
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-27T07:05:59.695720+00:00"
     },
     "منصه": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-27T05:50:22.715740+00:00"
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-27T07:05:59.695720+00:00"
+    },
+    "زين": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-27T07:05:59.695720+00:00"
     },
     "مد": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-27T05:50:22.715740+00:00"
+      "updated_at": "2026-10-27T07:05:59.695720+00:00"
     },
     "منصتي": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-10-27T05:50:22.715740+00:00"
+      "updated_at": "2026-10-27T07:05:59.695720+00:00"
     },
-    "nuggets vs warriors": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-27T05:50:22.715740+00:00"
-    },
-    "طقس": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-27T05:50:22.715740+00:00"
-    },
-    "cavaliers vs timberwolves": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-27T05:50:22.715740+00:00"
+    "منصة": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-27T07:05:59.695720+00:00"
     }
   }
 }
