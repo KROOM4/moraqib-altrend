@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T02:51:21.149380+00:00",
+  "updated_at": "2026-10-27T03:52:24.992173+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,28 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "درجة الحرارة",
-          "created_at": "Mon, 26 Oct 2026 19:10:00 -0700",
+          "text": "nuggets vs warriors",
+          "created_at": "Mon, 26 Oct 2026 20:20:00 -0700",
           "metrics": {
-            "search_volume": "10000+",
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طقس",
+          "created_at": "Mon, 26 Oct 2026 20:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "news",
+          "created_at": "Mon, 26 Oct 2026 17:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -20,17 +38,8 @@
           "text": "اخبار السعودية",
           "created_at": "Mon, 26 Oct 2026 17:20:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اخبار",
-          "created_at": "Mon, 26 Oct 2026 17:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": -75.0
           }
         },
         {
@@ -85,15 +94,6 @@
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "charlyn corral",
-          "created_at": "Mon, 26 Oct 2026 15:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
           }
         }
       ]
