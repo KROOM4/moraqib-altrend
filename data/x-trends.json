@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T04:50:59.163939+00:00",
+  "updated_at": "2026-10-27T05:50:22.715740+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,25 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "netherlands vs oman",
+          "created_at": "Mon, 26 Oct 2026 22:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "israel elections 2026",
+          "created_at": "Mon, 26 Oct 2026 21:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "heat vs mavericks",
           "created_at": "Mon, 26 Oct 2026 21:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
@@ -17,20 +35,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منصه",
+          "text": "ريهام عبد الغفور",
           "created_at": "Mon, 26 Oct 2026 21:00:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ريهام عبد الغفور",
+          "text": "منصه",
           "created_at": "Mon, 26 Oct 2026 21:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -39,7 +57,7 @@
           "created_at": "Mon, 26 Oct 2026 21:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +66,7 @@
           "created_at": "Mon, 26 Oct 2026 20:50:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,8 +74,8 @@
           "text": "nuggets vs warriors",
           "created_at": "Mon, 26 Oct 2026 20:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -75,25 +93,7 @@
           "created_at": "Mon, 26 Oct 2026 20:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الاخبار",
-          "created_at": "Mon, 26 Oct 2026 17:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اخبار",
-          "created_at": "Mon, 26 Oct 2026 17:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         }
       ]
