@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T01:56:39.276774+00:00",
+  "updated_at": "2026-10-27T02:51:21.149380+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,29 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صاروخ باليستي",
-          "created_at": "Mon, 26 Oct 2026 17:50:00 -0700",
+          "text": "درجة الحرارة",
+          "created_at": "Mon, 26 Oct 2026 19:10:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اخبار السعودية",
+          "created_at": "Mon, 26 Oct 2026 17:20:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الريال السعودي اليوم",
+          "text": "اخبار",
           "created_at": "Mon, 26 Oct 2026 17:20:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saudi news",
-          "created_at": "Mon, 26 Oct 2026 17:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -39,7 +39,7 @@
           "created_at": "Mon, 26 Oct 2026 17:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,16 +57,7 @@
           "created_at": "Mon, 26 Oct 2026 16:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ذهب اليوم",
-          "created_at": "Mon, 26 Oct 2026 16:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -84,7 +75,7 @@
           "created_at": "Mon, 26 Oct 2026 15:30:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -93,6 +84,15 @@
           "created_at": "Mon, 26 Oct 2026 15:20:00 -0700",
           "metrics": {
             "search_volume": "2000+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "charlyn corral",
+          "created_at": "Mon, 26 Oct 2026 15:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         }
