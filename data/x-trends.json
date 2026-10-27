@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T19:00:03.063489+00:00",
+  "updated_at": "2026-10-27T19:54:22.138406+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,46 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بي ان سبورت",
-          "created_at": "Tue, 27 Oct 2026 11:50:00 -0700",
+          "text": "dortmund vs werder",
+          "created_at": "Tue, 27 Oct 2026 12:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "fleetwood vs arsenal",
+          "created_at": "Tue, 27 Oct 2026 12:20:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "roma vs cagliari",
+          "created_at": "Tue, 27 Oct 2026 12:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "torino vs como",
+          "created_at": "Tue, 27 Oct 2026 12:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نخبة اسيا",
+          "created_at": "Tue, 27 Oct 2026 12:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -20,7 +56,25 @@
           "text": "alhilal",
           "created_at": "Tue, 27 Oct 2026 11:50:00 -0700",
           "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بي ان سبورت",
+          "created_at": "Tue, 27 Oct 2026 11:50:00 -0700",
+          "metrics": {
             "search_volume": "100+",
+            "growth_percent": -50.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دوري ابطال اسيا",
+          "created_at": "Tue, 27 Oct 2026 11:40:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
@@ -29,71 +83,17 @@
           "text": "afc champions league",
           "created_at": "Tue, 27 Oct 2026 11:40:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بث مباريات",
-          "created_at": "Tue, 27 Oct 2026 11:30:00 -0700",
-          "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 400.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ساسولو ضد لاتسيو",
-          "created_at": "Tue, 27 Oct 2026 11:00:00 -0700",
+          "text": "آيفون",
+          "created_at": "Tue, 27 Oct 2026 11:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "يوسف النصيري",
-          "created_at": "Tue, 27 Oct 2026 10:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sassuolo vs lazio",
-          "created_at": "Tue, 27 Oct 2026 10:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "روت فايس إيسن ضد ار بي ليبزيج",
-          "created_at": "Tue, 27 Oct 2026 10:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al-shamal vs al-hilal",
-          "created_at": "Tue, 27 Oct 2026 10:30:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إيفان توني",
-          "created_at": "Tue, 27 Oct 2026 10:10:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
