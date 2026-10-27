@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-27T08:58:18.871440+00:00",
+  "updated_at": "2026-10-27T09:56:21.423688+00:00",
   "trends": {
-    "دولار": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-27T08:58:18.871440+00:00"
+    "king khalid international airport": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-27T09:56:21.423688+00:00"
     },
-    "south africa national cricket team vs australia national cricket team match scorecard": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-27T08:58:18.871440+00:00"
+    "حلف مكة ايران": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-27T09:56:21.423688+00:00"
     },
-    "namibia vs ireland": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-27T08:58:18.871440+00:00"
-    },
-    "pakistan vs sri lanka": {
-      "volume": 20000.0,
-      "raw_volume": "20000+",
-      "updated_at": "2026-10-27T08:58:18.871440+00:00"
-    },
-    "maaz sadaqat": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-27T08:58:18.871440+00:00"
-    },
-    "daryl mitchell": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-27T08:58:18.871440+00:00"
-    },
-    "dawid malan": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-27T08:58:18.871440+00:00"
-    },
-    "نجيب ساويرس": {
+    "مصر": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-27T08:58:18.871440+00:00"
+      "updated_at": "2026-10-27T09:56:21.423688+00:00"
     },
-    "new zealand vs india": {
-      "volume": 20000.0,
-      "raw_volume": "20000+",
-      "updated_at": "2026-10-27T08:58:18.871440+00:00"
+    "cricket": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-27T09:56:21.423688+00:00"
     },
-    "new zealand national cricket team vs india national cricket team match scorecard": {
-      "volume": 10000.0,
-      "raw_volume": "10000+",
-      "updated_at": "2026-10-27T08:58:18.871440+00:00"
+    "آي باد ميني": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-27T09:56:21.423688+00:00"
+    },
+    "espncricinfo": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-27T09:56:21.423688+00:00"
+    },
+    "cricinfo": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-27T09:56:21.423688+00:00"
+    },
+    "south africa vs australia": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-27T09:56:21.423688+00:00"
+    },
+    "vaibhav sooryavanshi": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-27T09:56:21.423688+00:00"
+    },
+    "دولار": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-27T09:56:21.423688+00:00"
     }
   }
 }
