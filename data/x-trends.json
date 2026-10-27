@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T16:59:59.211598+00:00",
+  "updated_at": "2026-10-27T17:57:56.708177+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,65 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sassuolo vs lazio",
+          "created_at": "Tue, 27 Oct 2026 10:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "روت فايس إيسن ضد ار بي ليبزيج",
+          "created_at": "Tue, 27 Oct 2026 10:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إيفان توني",
+          "created_at": "Tue, 27 Oct 2026 10:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدخول العالمي",
+          "created_at": "Tue, 27 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أمن المنشآت",
+          "created_at": "Tue, 27 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ألكسيا بوتياس",
+          "created_at": "Tue, 27 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "محمد رمضان",
           "created_at": "Tue, 27 Oct 2026 09:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +75,7 @@
           "created_at": "Tue, 27 Oct 2026 09:20:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +84,7 @@
           "created_at": "Tue, 27 Oct 2026 09:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,61 +93,7 @@
           "created_at": "Tue, 27 Oct 2026 08:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قصاص",
-          "created_at": "Tue, 27 Oct 2026 08:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حساب المواطن",
-          "created_at": "Tue, 27 Oct 2026 08:10:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "afghanistan vs zimbabwe",
-          "created_at": "Tue, 27 Oct 2026 07:30:00 -0700",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الهلال السعودي",
-          "created_at": "Tue, 27 Oct 2026 07:30:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أرقام",
-          "created_at": "Tue, 27 Oct 2026 07:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "australia",
-          "created_at": "Tue, 27 Oct 2026 07:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
