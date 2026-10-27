@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T16:00:05.731558+00:00",
+  "updated_at": "2026-10-27T16:59:59.211598+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قصاص",
-          "created_at": "Tue, 27 Oct 2026 08:40:00 -0700",
+          "text": "محمد رمضان",
+          "created_at": "Tue, 27 Oct 2026 09:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "essen vs rb leipzig",
+          "created_at": "Tue, 27 Oct 2026 09:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "انتخابات اسرائيل",
+          "created_at": "Tue, 27 Oct 2026 09:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,11 +35,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "المراعي",
+          "created_at": "Tue, 27 Oct 2026 08:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "قصاص",
+          "created_at": "Tue, 27 Oct 2026 08:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "حساب المواطن",
           "created_at": "Tue, 27 Oct 2026 08:10:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -29,7 +65,7 @@
           "text": "afghanistan vs zimbabwe",
           "created_at": "Tue, 27 Oct 2026 07:30:00 -0700",
           "metrics": {
-            "search_volume": "10000+",
+            "search_volume": "20000+",
             "growth_percent": 100.0
           }
         },
@@ -38,8 +74,8 @@
           "text": "الهلال السعودي",
           "created_at": "Tue, 27 Oct 2026 07:30:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": -90.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -56,44 +92,8 @@
           "text": "australia",
           "created_at": "Tue, 27 Oct 2026 07:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "সোনা",
-          "created_at": "Tue, 27 Oct 2026 07:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "karnali yaks vs janakpur bolts",
-          "created_at": "Tue, 27 Oct 2026 06:50:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 900.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kusal perera",
-          "created_at": "Tue, 27 Oct 2026 06:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الانتخابات الاسرائيلية",
-          "created_at": "Tue, 27 Oct 2026 06:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         }
       ]
