@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T08:00:22.311144+00:00",
+  "updated_at": "2026-10-27T08:58:18.871440+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,35 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "maaz sadaqat",
-          "created_at": "Tue, 27 Oct 2026 00:50:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "daryl mitchell",
-          "created_at": "Tue, 27 Oct 2026 00:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sa vs aus",
-          "created_at": "Tue, 27 Oct 2026 00:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "live cricket score",
-          "created_at": "Tue, 27 Oct 2026 00:50:00 -0700",
+          "text": "دولار",
+          "created_at": "Tue, 27 Oct 2026 01:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -44,8 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pak vs sl",
-          "created_at": "Tue, 27 Oct 2026 00:40:00 -0700",
+          "text": "south africa national cricket team vs australia national cricket team match scorecard",
+          "created_at": "Tue, 27 Oct 2026 01:20:00 -0700",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -53,20 +26,38 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "finn allen",
-          "created_at": "Tue, 27 Oct 2026 00:40:00 -0700",
+          "text": "namibia vs ireland",
+          "created_at": "Tue, 27 Oct 2026 01:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "namibia national cricket team vs ireland cricket team match scorecard",
-          "created_at": "Tue, 27 Oct 2026 00:20:00 -0700",
+          "text": "pakistan vs sri lanka",
+          "created_at": "Tue, 27 Oct 2026 01:10:00 -0700",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "maaz sadaqat",
+          "created_at": "Tue, 27 Oct 2026 00:50:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "daryl mitchell",
+          "created_at": "Tue, 27 Oct 2026 00:50:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 150.0
           }
         },
         {
@@ -74,8 +65,8 @@
           "text": "dawid malan",
           "created_at": "Tue, 27 Oct 2026 00:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 900.0
           }
         },
         {
@@ -83,8 +74,8 @@
           "text": "نجيب ساويرس",
           "created_at": "Tue, 27 Oct 2026 00:10:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -93,6 +84,15 @@
           "created_at": "Tue, 27 Oct 2026 00:00:00 -0700",
           "metrics": {
             "search_volume": "20000+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "new zealand national cricket team vs india national cricket team match scorecard",
+          "created_at": "Mon, 26 Oct 2026 23:40:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
             "growth_percent": null
           }
         }

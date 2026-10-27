@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-27T08:00:22.311144+00:00",
+  "updated_at": "2026-10-27T08:58:18.871440+00:00",
   "trends": {
-    "maaz sadaqat": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-27T08:00:22.311144+00:00"
-    },
-    "daryl mitchell": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-27T08:00:22.311144+00:00"
-    },
-    "sa vs aus": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-27T08:00:22.311144+00:00"
-    },
-    "live cricket score": {
+    "دولار": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-27T08:00:22.311144+00:00"
+      "updated_at": "2026-10-27T08:58:18.871440+00:00"
     },
-    "pak vs sl": {
+    "south africa national cricket team vs australia national cricket team match scorecard": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-10-27T08:00:22.311144+00:00"
+      "updated_at": "2026-10-27T08:58:18.871440+00:00"
     },
-    "finn allen": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-27T08:00:22.311144+00:00"
+    "namibia vs ireland": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-27T08:58:18.871440+00:00"
     },
-    "namibia national cricket team vs ireland cricket team match scorecard": {
+    "pakistan vs sri lanka": {
+      "volume": 20000.0,
+      "raw_volume": "20000+",
+      "updated_at": "2026-10-27T08:58:18.871440+00:00"
+    },
+    "maaz sadaqat": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-27T08:58:18.871440+00:00"
+    },
+    "daryl mitchell": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-27T08:00:22.311144+00:00"
+      "updated_at": "2026-10-27T08:58:18.871440+00:00"
     },
     "dawid malan": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-27T08:00:22.311144+00:00"
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-27T08:58:18.871440+00:00"
     },
     "نجيب ساويرس": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-27T08:00:22.311144+00:00"
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-27T08:58:18.871440+00:00"
     },
     "new zealand vs india": {
       "volume": 20000.0,
       "raw_volume": "20000+",
-      "updated_at": "2026-10-27T08:00:22.311144+00:00"
+      "updated_at": "2026-10-27T08:58:18.871440+00:00"
+    },
+    "new zealand national cricket team vs india national cricket team match scorecard": {
+      "volume": 10000.0,
+      "raw_volume": "10000+",
+      "updated_at": "2026-10-27T08:58:18.871440+00:00"
     }
   }
 }
