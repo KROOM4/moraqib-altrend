@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T10:54:51.722230+00:00",
+  "updated_at": "2026-10-27T11:52:00.683338+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,25 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mitchell santner",
+          "text": "ballistic missile",
+          "created_at": "Tue, 27 Oct 2026 04:40:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "محمد صلاح",
+          "created_at": "Tue, 27 Oct 2026 04:30:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "صابرين",
           "created_at": "Tue, 27 Oct 2026 03:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
@@ -17,20 +35,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sanju samson",
-          "created_at": "Tue, 27 Oct 2026 02:50:00 -0700",
+          "text": "mitchell santner",
+          "created_at": "Tue, 27 Oct 2026 03:30:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "100+",
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "india national cricket team",
+          "text": "sanju samson",
           "created_at": "Tue, 27 Oct 2026 02:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +57,7 @@
           "created_at": "Tue, 27 Oct 2026 02:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,8 +65,8 @@
           "text": "مصر",
           "created_at": "Tue, 27 Oct 2026 02:30:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -57,43 +75,25 @@
           "created_at": "Tue, 27 Oct 2026 02:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "king khalid international airport",
+          "text": "live cricket match",
           "created_at": "Tue, 27 Oct 2026 02:30:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": -80.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "espncricinfo",
-          "created_at": "Tue, 27 Oct 2026 02:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "abhishek sharma",
-          "created_at": "Tue, 27 Oct 2026 02:10:00 -0700",
-          "metrics": {
-            "search_volume": "50000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cricinfo",
-          "created_at": "Tue, 27 Oct 2026 02:10:00 -0700",
+          "text": "cricbuzz",
+          "created_at": "Tue, 27 Oct 2026 02:20:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
+            "search_volume": "2000+",
+            "growth_percent": null
           }
         }
       ]
