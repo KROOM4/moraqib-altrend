@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-28T07:41:52.388802+00:00",
+  "updated_at": "2026-10-28T08:31:58.426840+00:00",
   "trends": {
+    "zimbabwe women's national cricket team vs india women's national cricket team match scorecard": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-28T08:31:58.426840+00:00"
+    },
+    "united arab emirates": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-28T08:31:58.426840+00:00"
+    },
     "الراجحي المالية": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-28T07:41:52.388802+00:00"
+      "updated_at": "2026-10-28T08:31:58.426840+00:00"
+    },
+    "mominul haque": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-28T08:31:58.426840+00:00"
     },
     "أشرف زكي": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-28T07:41:52.388802+00:00"
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-28T08:31:58.426840+00:00"
     },
     "apple iphone duo": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-28T07:41:52.388802+00:00"
-    },
-    "jomel warrican": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-28T07:41:52.388802+00:00"
+      "updated_at": "2026-10-28T08:31:58.426840+00:00"
     },
     "مصفاة راس تنورة": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-28T07:41:52.388802+00:00"
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-28T08:31:58.426840+00:00"
     },
     "منصه": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-10-28T07:41:52.388802+00:00"
-    },
-    "منصة": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-28T07:41:52.388802+00:00"
+      "updated_at": "2026-10-28T08:31:58.426840+00:00"
     },
     "منصة مدرستي": {
       "volume": 50000.0,
       "raw_volume": "50000+",
-      "updated_at": "2026-10-28T07:41:52.388802+00:00"
+      "updated_at": "2026-10-28T08:31:58.426840+00:00"
     },
     "lakers vs trail blazers": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-10-28T07:41:52.388802+00:00"
-    },
-    "knicks vs pistons": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-28T07:41:52.388802+00:00"
+      "updated_at": "2026-10-28T08:31:58.426840+00:00"
     }
   }
 }
