@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T10:27:48.390105+00:00",
+  "updated_at": "2026-10-28T11:23:57.054148+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,55 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دفاع مدني",
+          "created_at": "Wed, 28 Oct 2026 04:00:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الدولار في مصر",
+          "created_at": "Wed, 28 Oct 2026 03:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "alexandra eala",
           "created_at": "Wed, 28 Oct 2026 03:10:00 -0700",
           "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "vaishnavi sharma",
+          "created_at": "Wed, 28 Oct 2026 02:50:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "محمد العلي",
+          "created_at": "Wed, 28 Oct 2026 02:40:00 -0700",
+          "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جيهان راتب",
+          "created_at": "Wed, 28 Oct 2026 02:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -21,7 +66,7 @@
           "created_at": "Wed, 28 Oct 2026 02:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,15 +84,6 @@
           "created_at": "Wed, 28 Oct 2026 02:10:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "zimbabwe vs india",
-          "created_at": "Wed, 28 Oct 2026 02:00:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
             "growth_percent": 0.0
           }
         },
@@ -57,43 +93,7 @@
           "created_at": "Wed, 28 Oct 2026 01:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ballistic missile",
-          "created_at": "Wed, 28 Oct 2026 01:30:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "united arab emirates",
-          "created_at": "Wed, 28 Oct 2026 01:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عمر الشريف",
-          "created_at": "Wed, 28 Oct 2026 01:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "unemployment",
-          "created_at": "Wed, 28 Oct 2026 01:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
           }
         }
       ]
