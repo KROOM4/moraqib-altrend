@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T23:46:50.012848+00:00",
+  "updated_at": "2026-10-28T00:16:39.949218+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سابك",
+          "created_at": "Tue, 27 Oct 2026 16:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "صاروخ",
           "created_at": "Tue, 27 Oct 2026 16:00:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +30,25 @@
           "created_at": "Tue, 27 Oct 2026 15:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "torino fc vs como 1907 standings",
+          "created_at": "Tue, 27 Oct 2026 15:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نادي نيوم الرياضي",
+          "created_at": "Tue, 27 Oct 2026 15:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -35,20 +62,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي نيوم الرياضي",
-          "created_at": "Tue, 27 Oct 2026 15:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "صحيفة اليوم",
           "created_at": "Tue, 27 Oct 2026 14:50:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -75,24 +93,6 @@
           "created_at": "Tue, 27 Oct 2026 13:40:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "روما ضد كالياري",
-          "created_at": "Tue, 27 Oct 2026 12:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al hilal",
-          "created_at": "Tue, 27 Oct 2026 12:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         }
