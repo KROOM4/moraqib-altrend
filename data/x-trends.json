@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T09:29:59.925597+00:00",
+  "updated_at": "2026-10-28T10:27:48.390105+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "alexandra eala",
+          "created_at": "Wed, 28 Oct 2026 03:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "অভিনয়শিল্পী",
+          "created_at": "Wed, 28 Oct 2026 02:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "south africa vs australia",
           "created_at": "Wed, 28 Oct 2026 02:20:00 -0700",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -20,8 +38,8 @@
           "text": "makkah region orange weather alert",
           "created_at": "Wed, 28 Oct 2026 02:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -30,6 +48,15 @@
           "created_at": "Wed, 28 Oct 2026 02:00:00 -0700",
           "metrics": {
             "search_volume": "5000+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ദിയ കൃഷ്ണ",
+          "created_at": "Wed, 28 Oct 2026 01:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -39,7 +66,7 @@
           "created_at": "Wed, 28 Oct 2026 01:30:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +75,7 @@
           "created_at": "Wed, 28 Oct 2026 01:20:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,8 +83,8 @@
           "text": "عمر الشريف",
           "created_at": "Wed, 28 Oct 2026 01:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -65,35 +92,8 @@
           "text": "unemployment",
           "created_at": "Wed, 28 Oct 2026 01:00:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "മിസൈല്",
-          "created_at": "Wed, 28 Oct 2026 00:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الراجحي المالية",
-          "created_at": "Wed, 28 Oct 2026 00:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أشرف زكي",
-          "created_at": "Tue, 27 Oct 2026 23:10:00 -0700",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": 100.0
           }
         }
       ]
