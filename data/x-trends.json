@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T13:41:25.554577+00:00",
+  "updated_at": "2026-10-28T14:36:13.187946+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "البنك الاهلي ضد المصري",
+          "created_at": "Wed, 28 Oct 2026 07:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وزارة التربية والتعليم",
+          "created_at": "Wed, 28 Oct 2026 06:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "استثمار",
           "created_at": "Wed, 28 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أحمد الشمراني",
+          "created_at": "Wed, 28 Oct 2026 06:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -21,6 +48,24 @@
           "created_at": "Wed, 28 Oct 2026 06:00:00 -0700",
           "metrics": {
             "search_volume": "500+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ரூபாய்",
+          "created_at": "Wed, 28 Oct 2026 06:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أصالة",
+          "created_at": "Wed, 28 Oct 2026 06:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -30,7 +75,7 @@
           "created_at": "Wed, 28 Oct 2026 06:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +84,7 @@
           "created_at": "Wed, 28 Oct 2026 05:40:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,53 +92,8 @@
           "text": "matt renshaw",
           "created_at": "Wed, 28 Oct 2026 05:20:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nepal premier league",
-          "created_at": "Wed, 28 Oct 2026 05:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "persib bandung vs melbourne victory",
-          "created_at": "Wed, 28 Oct 2026 05:00:00 -0700",
-          "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "harleen deol",
-          "created_at": "Wed, 28 Oct 2026 04:40:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "yastika bhatia",
-          "created_at": "Wed, 28 Oct 2026 04:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "israeli elections exit polls",
-          "created_at": "Wed, 28 Oct 2026 04:40:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
+            "growth_percent": -90.0
           }
         }
       ]
