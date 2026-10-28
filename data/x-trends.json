@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T08:31:58.426840+00:00",
+  "updated_at": "2026-10-28T09:29:59.925597+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "zimbabwe women's national cricket team vs india women's national cricket team match scorecard",
-          "created_at": "Wed, 28 Oct 2026 01:20:00 -0700",
+          "text": "south africa vs australia",
+          "created_at": "Wed, 28 Oct 2026 02:20:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "makkah region orange weather alert",
+          "created_at": "Wed, 28 Oct 2026 02:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "zimbabwe vs india",
+          "created_at": "Wed, 28 Oct 2026 02:00:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ballistic missile",
+          "created_at": "Wed, 28 Oct 2026 01:30:00 -0700",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -20,7 +47,34 @@
           "text": "united arab emirates",
           "created_at": "Wed, 28 Oct 2026 01:20:00 -0700",
           "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عمر الشريف",
+          "created_at": "Wed, 28 Oct 2026 01:00:00 -0700",
+          "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "unemployment",
+          "created_at": "Wed, 28 Oct 2026 01:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "മിസൈല്",
+          "created_at": "Wed, 28 Oct 2026 00:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -35,64 +89,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mominul haque",
-          "created_at": "Tue, 27 Oct 2026 23:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "أشرف زكي",
           "created_at": "Tue, 27 Oct 2026 23:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "apple iphone duo",
-          "created_at": "Tue, 27 Oct 2026 23:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مصفاة راس تنورة",
-          "created_at": "Tue, 27 Oct 2026 21:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منصه",
-          "created_at": "Tue, 27 Oct 2026 21:10:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منصة مدرستي",
-          "created_at": "Tue, 27 Oct 2026 20:50:00 -0700",
-          "metrics": {
-            "search_volume": "50000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lakers vs trail blazers",
-          "created_at": "Tue, 27 Oct 2026 20:30:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
             "growth_percent": 0.0
           }
         }
