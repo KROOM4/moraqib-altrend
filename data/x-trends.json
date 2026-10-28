@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T03:24:37.302498+00:00",
+  "updated_at": "2026-10-28T04:24:49.461614+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,28 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ban vs wi",
-          "created_at": "Tue, 27 Oct 2026 20:10:00 -0700",
+          "text": "منصة مدرستي",
+          "created_at": "Tue, 27 Oct 2026 20:50:00 -0700",
+          "metrics": {
+            "search_volume": "50000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "lakers vs trail blazers",
+          "created_at": "Tue, 27 Oct 2026 20:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bangladesh vs west indies",
+          "created_at": "Tue, 27 Oct 2026 20:20:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
             "growth_percent": null
           }
         },
@@ -20,8 +38,8 @@
           "text": "حرس الحدود السعودي",
           "created_at": "Tue, 27 Oct 2026 20:00:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -29,8 +47,8 @@
           "text": "جدة",
           "created_at": "Tue, 27 Oct 2026 19:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -39,7 +57,7 @@
           "created_at": "Tue, 27 Oct 2026 16:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +66,7 @@
           "created_at": "Tue, 27 Oct 2026 16:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -74,26 +92,8 @@
           "text": "صاروخ",
           "created_at": "Tue, 27 Oct 2026 16:00:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بن غفير",
-          "created_at": "Tue, 27 Oct 2026 15:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الاتحاد الآسيوي لكرة القدم",
-          "created_at": "Tue, 27 Oct 2026 15:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": -60.0
           }
         }
       ]
