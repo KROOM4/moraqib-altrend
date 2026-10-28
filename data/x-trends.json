@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T16:33:34.259530+00:00",
+  "updated_at": "2026-10-28T17:29:57.256606+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,71 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "freiburg vs wolfsburg",
+          "created_at": "Wed, 28 Oct 2026 10:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بايرن ميونخ للسيدات ضد ريال مدريد للسيدات",
+          "created_at": "Wed, 28 Oct 2026 10:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "venezia vs inter",
+          "created_at": "Wed, 28 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "فينيزيا ضد الإنتر",
+          "created_at": "Wed, 28 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ميلان ضد بولونيا",
+          "created_at": "Wed, 28 Oct 2026 09:50:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "milan vs bologna",
+          "created_at": "Wed, 28 Oct 2026 09:50:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "الزمالك ضد المقاولون",
           "created_at": "Wed, 28 Oct 2026 09:20:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": 2400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "علم الأرصاد الجوية",
+          "created_at": "Wed, 28 Oct 2026 09:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -20,77 +83,14 @@
           "text": "الاتفاق",
           "created_at": "Wed, 28 Oct 2026 08:50:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "israeli election results",
           "created_at": "Wed, 28 Oct 2026 08:50:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مروحية هجومية",
-          "created_at": "Wed, 28 Oct 2026 08:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي بيراميدز",
-          "created_at": "Wed, 28 Oct 2026 08:30:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تصادم",
-          "created_at": "Wed, 28 Oct 2026 08:10:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "dipendra singh airee",
-          "created_at": "Wed, 28 Oct 2026 07:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نار",
-          "created_at": "Wed, 28 Oct 2026 07:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تجمع مكة المكرمة الصحي",
-          "created_at": "Wed, 28 Oct 2026 07:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "josh inglis",
-          "created_at": "Wed, 28 Oct 2026 07:20:00 -0700",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": 0.0
