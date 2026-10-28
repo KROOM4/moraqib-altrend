@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T11:23:57.054148+00:00",
+  "updated_at": "2026-10-28T12:21:56.091165+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,19 +8,82 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دفاع مدني",
-          "created_at": "Wed, 28 Oct 2026 04:00:00 -0700",
+          "text": "nepal premier league",
+          "created_at": "Wed, 28 Oct 2026 05:10:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الدولار في مصر",
-          "created_at": "Wed, 28 Oct 2026 03:30:00 -0700",
+          "text": "persib bandung vs melbourne victory",
+          "created_at": "Wed, 28 Oct 2026 05:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "yastika bhatia",
+          "created_at": "Wed, 28 Oct 2026 04:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "israeli elections exit polls",
+          "created_at": "Wed, 28 Oct 2026 04:40:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اقتصاد مصر",
+          "created_at": "Wed, 28 Oct 2026 04:30:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "jio platforms share price",
+          "created_at": "Wed, 28 Oct 2026 04:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دفاع مدني",
+          "created_at": "Wed, 28 Oct 2026 04:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": -90.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طقس المدينة المنورة",
+          "created_at": "Wed, 28 Oct 2026 03:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "smit machchhar",
+          "created_at": "Wed, 28 Oct 2026 03:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -30,69 +93,6 @@
           "created_at": "Wed, 28 Oct 2026 03:10:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "vaishnavi sharma",
-          "created_at": "Wed, 28 Oct 2026 02:50:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد العلي",
-          "created_at": "Wed, 28 Oct 2026 02:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جيهان راتب",
-          "created_at": "Wed, 28 Oct 2026 02:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "অভিনয়শিল্পী",
-          "created_at": "Wed, 28 Oct 2026 02:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "south africa vs australia",
-          "created_at": "Wed, 28 Oct 2026 02:20:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "makkah region orange weather alert",
-          "created_at": "Wed, 28 Oct 2026 02:10:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ദിയ കൃഷ്ണ",
-          "created_at": "Wed, 28 Oct 2026 01:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
