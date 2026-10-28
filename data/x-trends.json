@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T02:27:53.929937+00:00",
+  "updated_at": "2026-10-28T03:24:37.302498+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ban vs wi",
+          "created_at": "Tue, 27 Oct 2026 20:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حرس الحدود السعودي",
+          "created_at": "Tue, 27 Oct 2026 20:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "جدة",
           "created_at": "Tue, 27 Oct 2026 19:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "فلاي دبي",
+          "created_at": "Tue, 27 Oct 2026 16:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -20,17 +47,8 @@
           "text": "سابك",
           "created_at": "Tue, 27 Oct 2026 16:40:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "راس تنورة",
-          "created_at": "Tue, 27 Oct 2026 16:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +66,7 @@
           "created_at": "Tue, 27 Oct 2026 16:00:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,43 +75,25 @@
           "created_at": "Tue, 27 Oct 2026 16:00:00 -0700",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مشاعل الطويرقي",
-          "created_at": "Tue, 27 Oct 2026 15:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "torino fc vs como 1907 standings",
-          "created_at": "Tue, 27 Oct 2026 15:10:00 -0700",
+          "text": "بن غفير",
+          "created_at": "Tue, 27 Oct 2026 15:50:00 -0700",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي نيوم الرياضي",
-          "created_at": "Tue, 27 Oct 2026 15:00:00 -0700",
+          "text": "الاتحاد الآسيوي لكرة القدم",
+          "created_at": "Tue, 27 Oct 2026 15:40:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "as roma vs cagliari calcio standings",
-          "created_at": "Tue, 27 Oct 2026 15:00:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         }
       ]
