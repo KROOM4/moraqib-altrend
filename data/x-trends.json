@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T19:31:07.927211+00:00",
+  "updated_at": "2026-10-28T20:23:36.541261+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جنوى ضد يوفنتوس",
-          "created_at": "Wed, 28 Oct 2026 12:20:00 -0700",
+          "text": "filgoal",
+          "created_at": "Wed, 28 Oct 2026 13:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,35 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ليفربول ضد تشيلسي",
-          "created_at": "Wed, 28 Oct 2026 12:10:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "liverpool vs chelsea",
-          "created_at": "Wed, 28 Oct 2026 12:10:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "genoa vs juventus",
-          "created_at": "Wed, 28 Oct 2026 12:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bayern vs magdeburg",
-          "created_at": "Wed, 28 Oct 2026 12:00:00 -0700",
+          "text": "كريستيانو رونالدو",
+          "created_at": "Wed, 28 Oct 2026 13:00:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -53,46 +26,73 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bournemouth vs aston villa",
-          "created_at": "Wed, 28 Oct 2026 12:00:00 -0700",
+          "text": "monza vs napoli",
+          "created_at": "Wed, 28 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sunderland vs brentford",
+          "created_at": "Wed, 28 Oct 2026 13:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دولار أسترالي",
+          "created_at": "Wed, 28 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جواو فيليكس",
+          "created_at": "Wed, 28 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "fulham vs palace",
+          "created_at": "Wed, 28 Oct 2026 12:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دولار أمريكي",
+          "created_at": "Wed, 28 Oct 2026 12:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "فولهام ضد كريستال بالاس",
+          "created_at": "Wed, 28 Oct 2026 12:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دينا الشربيني",
+          "created_at": "Wed, 28 Oct 2026 12:30:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بورنموث ضد أستون فيلا",
-          "created_at": "Wed, 28 Oct 2026 12:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيب الدوري المصري",
-          "created_at": "Wed, 28 Oct 2026 12:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "التعاون",
-          "created_at": "Wed, 28 Oct 2026 12:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "man city vs brighton",
-          "created_at": "Wed, 28 Oct 2026 11:40:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
             "growth_percent": null
           }
         }
