@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T00:17:00.614168+00:00",
+  "updated_at": "2026-10-29T01:24:45.698687+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إثيوبيا",
-          "created_at": "Wed, 28 Oct 2026 16:40:00 -0700",
+          "text": "اخبار السعودية",
+          "created_at": "Wed, 28 Oct 2026 17:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "راتب",
+          "created_at": "Wed, 28 Oct 2026 17:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إثيوبيا",
+          "created_at": "Wed, 28 Oct 2026 16:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,7 +39,7 @@
           "created_at": "Wed, 28 Oct 2026 15:50:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +47,8 @@
           "text": "إنتر ميامي ضد سينسيناتي",
           "created_at": "Wed, 28 Oct 2026 15:50:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,16 +57,7 @@
           "created_at": "Wed, 28 Oct 2026 15:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدولار مقابل الجنيه",
-          "created_at": "Wed, 28 Oct 2026 15:30:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -62,19 +71,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جائزة الكرة الذهبية",
-          "created_at": "Wed, 28 Oct 2026 14:50:00 -0700",
+          "text": "كلية الملك عبد العزيز الحربية",
+          "created_at": "Wed, 28 Oct 2026 14:20:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "arsenal vs benfica",
-          "created_at": "Wed, 28 Oct 2026 14:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
             "growth_percent": 0.0
           }
         },
@@ -83,17 +83,17 @@
           "text": "سكني",
           "created_at": "Wed, 28 Oct 2026 14:20:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كلية الملك عبد العزيز الحربية",
+          "text": "عباس النوري",
           "created_at": "Wed, 28 Oct 2026 14:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         }
       ]
