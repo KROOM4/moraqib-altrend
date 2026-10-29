@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-29T18:25:28.472408+00:00",
+  "updated_at": "2026-10-29T19:32:36.581493+00:00",
   "trends": {
+    "saudi pro league": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-29T19:32:36.581493+00:00"
+    },
+    "عقد": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-29T19:32:36.581493+00:00"
+    },
+    "سعر الدولار اليوم البنك الأهلي": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-29T19:32:36.581493+00:00"
+    },
+    "إيفرتون ضد نيوكاسل يونايتد": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-29T19:32:36.581493+00:00"
+    },
+    "everton vs newcastle": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-29T19:32:36.581493+00:00"
+    },
+    "يورو": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-29T19:32:36.581493+00:00"
+    },
+    "ثمانية": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-29T19:32:36.581493+00:00"
+    },
+    "شاي": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-29T19:32:36.581493+00:00"
+    },
     "كيليان مبابي": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-29T18:25:28.472408+00:00"
+      "updated_at": "2026-10-29T19:32:36.581493+00:00"
     },
-    "cristiano ronaldo": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-29T18:25:28.472408+00:00"
-    },
-    "al-riyadh vs al qadsiah": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-29T18:25:28.472408+00:00"
-    },
-    "قمر اصطناعي": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-29T18:25:28.472408+00:00"
-    },
-    "al-khaleej club vs al-hazem f.c. standings": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-29T18:25:28.472408+00:00"
-    },
-    "الرياض ضد القادسية": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-29T18:25:28.472408+00:00"
-    },
-    "al-nassr vs al kholood": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-29T18:25:28.472408+00:00"
-    },
-    "israeli elections netanyahu": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-29T18:25:28.472408+00:00"
-    },
-    "صندوق تنمية الموارد البشرية": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-29T18:25:28.472408+00:00"
-    },
-    "riyadh news": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-29T18:25:28.472408+00:00"
+    "sikandar raza": {
+      "volume": 20000.0,
+      "raw_volume": "20000+",
+      "updated_at": "2026-10-29T19:32:36.581493+00:00"
     }
   }
 }
