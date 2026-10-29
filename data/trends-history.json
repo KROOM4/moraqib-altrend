@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-29T07:43:45.708364+00:00",
+  "updated_at": "2026-10-29T08:34:08.220705+00:00",
   "trends": {
-    "sl vs eng": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-29T07:43:45.708364+00:00"
+    "england cricket team vs sri lanka national cricket team match scorecard": {
+      "volume": 10000.0,
+      "raw_volume": "10000+",
+      "updated_at": "2026-10-29T08:34:08.220705+00:00"
     },
-    "عبد الله الخيبري": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-29T07:43:45.708364+00:00"
-    },
-    "rashid khan": {
+    "بين": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-29T07:43:45.708364+00:00"
+      "updated_at": "2026-10-29T08:34:08.220705+00:00"
+    },
+    "عبد الله الخيبري": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-29T08:34:08.220705+00:00"
+    },
+    "game": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-29T08:34:08.220705+00:00"
     },
     "tagenarine chanderpaul": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-29T08:34:08.220705+00:00"
+    },
+    "rashid khan": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-29T07:43:45.708364+00:00"
+      "updated_at": "2026-10-29T08:34:08.220705+00:00"
     },
     "نادي أربيل": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-10-29T07:43:45.708364+00:00"
+      "updated_at": "2026-10-29T08:34:08.220705+00:00"
     },
     "james bond": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-29T07:43:45.708364+00:00"
+      "updated_at": "2026-10-29T08:34:08.220705+00:00"
     },
     "تمساح": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-29T07:43:45.708364+00:00"
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-29T08:34:08.220705+00:00"
     },
     "mavericks vs thunder": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-29T07:43:45.708364+00:00"
-    },
-    "مدرستي": {
-      "volume": 50000.0,
-      "raw_volume": "50000+",
-      "updated_at": "2026-10-29T07:43:45.708364+00:00"
-    },
-    "spain train crash": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-29T07:43:45.708364+00:00"
+      "updated_at": "2026-10-29T08:34:08.220705+00:00"
     }
   }
 }
