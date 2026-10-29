@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T21:23:22.180491+00:00",
+  "updated_at": "2026-10-29T22:22:13.748084+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,43 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعد ناطق",
+          "created_at": "Thu, 29 Oct 2026 15:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عبدالمحسن المعيوف ديوان المظالم",
+          "created_at": "Thu, 29 Oct 2026 15:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سبق",
+          "created_at": "Thu, 29 Oct 2026 14:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "benfica vs gil vicente",
+          "created_at": "Thu, 29 Oct 2026 13:50:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "فيورنتينا ضد أتالانتا",
           "created_at": "Thu, 29 Oct 2026 13:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
@@ -17,11 +53,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al-riyadh vs al-qadsiah fc standings",
+          "created_at": "Thu, 29 Oct 2026 13:20:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "إيمان الطوخي",
           "created_at": "Thu, 29 Oct 2026 13:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -29,17 +74,8 @@
           "text": "hb køge vs barcelona",
           "created_at": "Thu, 29 Oct 2026 13:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جدول الدوري السعودي",
-          "created_at": "Thu, 29 Oct 2026 13:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -47,7 +83,7 @@
           "text": "patrick stewart",
           "created_at": "Thu, 29 Oct 2026 13:00:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "2000+",
             "growth_percent": 100.0
           }
         },
@@ -56,44 +92,8 @@
           "text": "hb køge ضد نادي برشلونة للسيدات",
           "created_at": "Thu, 29 Oct 2026 13:00:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيب الدوري السعودي",
-          "created_at": "Thu, 29 Oct 2026 12:50:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدورى السعودى",
-          "created_at": "Thu, 29 Oct 2026 12:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "توأم",
-          "created_at": "Thu, 29 Oct 2026 12:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جواو فيليكس",
-          "created_at": "Thu, 29 Oct 2026 12:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         }
       ]
