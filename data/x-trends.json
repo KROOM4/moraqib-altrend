@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T09:32:59.975164+00:00",
+  "updated_at": "2026-10-29T10:29:15.676648+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "josh inglis",
-          "created_at": "Thu, 29 Oct 2026 02:10:00 -0700",
+          "text": "كووورة",
+          "created_at": "Thu, 29 Oct 2026 03:10:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -17,8 +17,71 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ben duckett",
+          "created_at": "Thu, 29 Oct 2026 03:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كرة القدم",
+          "created_at": "Thu, 29 Oct 2026 02:50:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "കൊച്ചി അന്താരാഷ്ട്ര വിമാനത്താവളം",
+          "created_at": "Thu, 29 Oct 2026 02:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "josh inglis",
+          "created_at": "Thu, 29 Oct 2026 02:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "তানজিন তিশা",
+          "created_at": "Thu, 29 Oct 2026 01:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "دولورس هويرتا",
           "created_at": "Thu, 29 Oct 2026 01:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كأس الخليج العربي 27",
+          "created_at": "Thu, 29 Oct 2026 01:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "china ai bubble burst",
+          "created_at": "Thu, 29 Oct 2026 01:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -30,69 +93,6 @@
           "created_at": "Thu, 29 Oct 2026 01:10:00 -0700",
           "metrics": {
             "search_volume": "20000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "eng vs sl",
-          "created_at": "Thu, 29 Oct 2026 01:10:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بين",
-          "created_at": "Thu, 29 Oct 2026 00:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عبد الله الخيبري",
-          "created_at": "Thu, 29 Oct 2026 00:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 900.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "game",
-          "created_at": "Thu, 29 Oct 2026 00:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "rashid khan",
-          "created_at": "Wed, 28 Oct 2026 23:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "tagenarine chanderpaul",
-          "created_at": "Wed, 28 Oct 2026 23:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي أربيل",
-          "created_at": "Wed, 28 Oct 2026 23:00:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
             "growth_percent": 0.0
           }
         }
