@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T02:30:48.292792+00:00",
+  "updated_at": "2026-10-29T03:26:46.516917+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,28 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سرطان القولون والمستقيم",
+          "created_at": "Wed, 28 Oct 2026 19:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "timberwolves vs warriors",
           "created_at": "Wed, 28 Oct 2026 19:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ليونيل ميسي",
+          "created_at": "Wed, 28 Oct 2026 19:10:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
@@ -21,7 +39,7 @@
           "created_at": "Wed, 28 Oct 2026 19:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +48,7 @@
           "created_at": "Wed, 28 Oct 2026 18:50:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,6 +57,24 @@
           "created_at": "Wed, 28 Oct 2026 18:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سيموني إنزاغي",
+          "created_at": "Wed, 28 Oct 2026 18:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "santos fc vs palmeiras standings",
+          "created_at": "Wed, 28 Oct 2026 18:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
@@ -58,42 +94,6 @@
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إثيوبيا",
-          "created_at": "Wed, 28 Oct 2026 16:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "inter miami vs cincinnati",
-          "created_at": "Wed, 28 Oct 2026 15:50:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إنتر ميامي ضد سينسيناتي",
-          "created_at": "Wed, 28 Oct 2026 15:50:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أستراليا",
-          "created_at": "Wed, 28 Oct 2026 15:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
           }
         }
       ]
