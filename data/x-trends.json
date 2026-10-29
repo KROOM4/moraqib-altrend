@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T23:20:01.154529+00:00",
+  "updated_at": "2026-10-29T00:17:00.614168+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إثيوبيا",
+          "created_at": "Wed, 28 Oct 2026 16:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "inter miami vs cincinnati",
           "created_at": "Wed, 28 Oct 2026 15:50:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -20,7 +29,25 @@
           "text": "إنتر ميامي ضد سينسيناتي",
           "created_at": "Wed, 28 Oct 2026 15:50:00 -0700",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أستراليا",
+          "created_at": "Wed, 28 Oct 2026 15:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدولار مقابل الجنيه",
+          "created_at": "Wed, 28 Oct 2026 15:30:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
@@ -30,7 +57,16 @@
           "created_at": "Wed, 28 Oct 2026 14:50:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جائزة الكرة الذهبية",
+          "created_at": "Wed, 28 Oct 2026 14:50:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
           }
         },
         {
@@ -39,7 +75,7 @@
           "created_at": "Wed, 28 Oct 2026 14:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +84,7 @@
           "created_at": "Wed, 28 Oct 2026 14:20:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,43 +93,7 @@
           "created_at": "Wed, 28 Oct 2026 14:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منتخب البرتغال لكرة القدم",
-          "created_at": "Wed, 28 Oct 2026 14:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مونزا ضد نابولي",
-          "created_at": "Wed, 28 Oct 2026 14:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عباس النوري",
-          "created_at": "Wed, 28 Oct 2026 14:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "carabao cup",
-          "created_at": "Wed, 28 Oct 2026 13:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         }
       ]
