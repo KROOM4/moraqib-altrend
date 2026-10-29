@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T16:35:39.217049+00:00",
+  "updated_at": "2026-10-29T17:31:50.176705+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,80 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al-nassr vs al kholood",
+          "created_at": "Thu, 29 Oct 2026 10:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "israeli elections netanyahu",
+          "created_at": "Thu, 29 Oct 2026 10:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "صندوق تنمية الموارد البشرية",
+          "created_at": "Thu, 29 Oct 2026 10:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "riyadh news",
+          "created_at": "Thu, 29 Oct 2026 10:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طاش ما طاش",
+          "created_at": "Thu, 29 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الأهرام ضد وادي دجلة",
+          "created_at": "Thu, 29 Oct 2026 09:50:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "شيماء سيف",
+          "created_at": "Thu, 29 Oct 2026 09:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "أرقام",
           "created_at": "Thu, 29 Oct 2026 09:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الفائدة",
+          "created_at": "Thu, 29 Oct 2026 09:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -20,80 +92,8 @@
           "text": "ترتيب الدوري المصري",
           "created_at": "Thu, 29 Oct 2026 09:00:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزارة العدل",
-          "created_at": "Thu, 29 Oct 2026 09:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "iran",
-          "created_at": "Thu, 29 Oct 2026 08:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عبدالمحسن المعيوف",
-          "created_at": "Thu, 29 Oct 2026 08:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "پاکستان",
-          "created_at": "Thu, 29 Oct 2026 08:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تهديد بالقتل",
-          "created_at": "Thu, 29 Oct 2026 07:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "afghanistan vs zimbabwe",
-          "created_at": "Thu, 29 Oct 2026 07:40:00 -0700",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al-khaleej vs al-hazem",
-          "created_at": "Thu, 29 Oct 2026 07:10:00 -0700",
-          "metrics": {
             "search_volume": "1000+",
             "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "همام الهمامي",
-          "created_at": "Thu, 29 Oct 2026 07:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
           }
         }
       ]
