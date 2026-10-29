@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T08:34:08.220705+00:00",
+  "updated_at": "2026-10-29T09:32:59.975164+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,37 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "england cricket team vs sri lanka national cricket team match scorecard",
-          "created_at": "Thu, 29 Oct 2026 00:40:00 -0700",
+          "text": "josh inglis",
+          "created_at": "Thu, 29 Oct 2026 02:10:00 -0700",
           "metrics": {
-            "search_volume": "10000+",
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دولورس هويرتا",
+          "created_at": "Thu, 29 Oct 2026 01:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "england vs sri lanka",
+          "created_at": "Thu, 29 Oct 2026 01:10:00 -0700",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "eng vs sl",
+          "created_at": "Thu, 29 Oct 2026 01:10:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
@@ -20,8 +47,8 @@
           "text": "بين",
           "created_at": "Thu, 29 Oct 2026 00:40:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -29,8 +56,8 @@
           "text": "عبد الله الخيبري",
           "created_at": "Thu, 29 Oct 2026 00:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": -90.0
+            "search_volume": "1000+",
+            "growth_percent": 900.0
           }
         },
         {
@@ -39,16 +66,7 @@
           "created_at": "Thu, 29 Oct 2026 00:10:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "tagenarine chanderpaul",
-          "created_at": "Wed, 28 Oct 2026 23:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,7 +75,16 @@
           "created_at": "Wed, 28 Oct 2026 23:40:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "tagenarine chanderpaul",
+          "created_at": "Wed, 28 Oct 2026 23:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 0.0
           }
         },
         {
@@ -66,33 +93,6 @@
           "created_at": "Wed, 28 Oct 2026 23:00:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "james bond",
-          "created_at": "Wed, 28 Oct 2026 22:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تمساح",
-          "created_at": "Wed, 28 Oct 2026 21:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mavericks vs thunder",
-          "created_at": "Wed, 28 Oct 2026 21:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         }
