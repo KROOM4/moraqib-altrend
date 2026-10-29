@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-29T15:36:08.333782+00:00",
+  "updated_at": "2026-10-29T16:35:39.217049+00:00",
   "trends": {
-    "پاکستان": {
+    "أرقام": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-29T15:36:08.333782+00:00"
+      "updated_at": "2026-10-29T16:35:39.217049+00:00"
+    },
+    "ترتيب الدوري المصري": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-29T16:35:39.217049+00:00"
+    },
+    "وزارة العدل": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-29T16:35:39.217049+00:00"
+    },
+    "iran": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-29T16:35:39.217049+00:00"
+    },
+    "عبدالمحسن المعيوف": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-29T16:35:39.217049+00:00"
+    },
+    "پاکستان": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-29T16:35:39.217049+00:00"
+    },
+    "تهديد بالقتل": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-29T16:35:39.217049+00:00"
     },
     "afghanistan vs zimbabwe": {
-      "volume": 10000.0,
-      "raw_volume": "10000+",
-      "updated_at": "2026-10-29T15:36:08.333782+00:00"
-    },
-    "sompal kami": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-29T15:36:08.333782+00:00"
+      "volume": 20000.0,
+      "raw_volume": "20000+",
+      "updated_at": "2026-10-29T16:35:39.217049+00:00"
     },
     "al-khaleej vs al-hazem": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-29T15:36:08.333782+00:00"
-    },
-    "afg vs zim": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-29T15:36:08.333782+00:00"
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-29T16:35:39.217049+00:00"
     },
     "همام الهمامي": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-10-29T15:36:08.333782+00:00"
-    },
-    "الخليج ضد الحزم": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-29T15:36:08.333782+00:00"
-    },
-    "وزارة التعليم": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-29T15:36:08.333782+00:00"
-    },
-    "modern sport vs al ahly": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-29T15:36:08.333782+00:00"
-    },
-    "oman national cricket team vs united arab emirates national cricket team standings": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-29T15:36:08.333782+00:00"
+      "updated_at": "2026-10-29T16:35:39.217049+00:00"
     }
   }
 }
