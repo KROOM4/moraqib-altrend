@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T12:22:29.769360+00:00",
+  "updated_at": "2026-10-29T13:44:00.086440+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قطار",
-          "created_at": "Thu, 29 Oct 2026 04:50:00 -0700",
+          "text": "oman national cricket team vs united arab emirates national cricket team standings",
+          "created_at": "Thu, 29 Oct 2026 06:20:00 -0700",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -17,83 +17,83 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ثعبان",
-          "created_at": "Thu, 29 Oct 2026 03:50:00 -0700",
+          "text": "modern sport vs al ahly",
+          "created_at": "Thu, 29 Oct 2026 06:20:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 400.0
+            "search_volume": "200+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "riyadh air",
-          "created_at": "Thu, 29 Oct 2026 03:30:00 -0700",
+          "text": "فيوتشر ضد الأهلي",
+          "created_at": "Thu, 29 Oct 2026 06:10:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كووورة",
-          "created_at": "Thu, 29 Oct 2026 03:10:00 -0700",
+          "text": "هاشم بن الحسين",
+          "created_at": "Thu, 29 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نفط",
+          "created_at": "Thu, 29 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الدولار اليوم مقابل الجنيه المصري",
+          "created_at": "Thu, 29 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هيئة الزكاة والضريبة والجمارك",
+          "created_at": "Thu, 29 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الشبيلي جراند مول",
+          "created_at": "Thu, 29 Oct 2026 06:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "النصر ضد الخلود",
+          "created_at": "Thu, 29 Oct 2026 06:00:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "roston chase",
-          "created_at": "Thu, 29 Oct 2026 03:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نظام التنفيذ الجديد",
-          "created_at": "Thu, 29 Oct 2026 02:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cooper connolly",
-          "created_at": "Thu, 29 Oct 2026 02:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ياسمين عز",
-          "created_at": "Thu, 29 Oct 2026 02:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "കൊച്ചി അന്താരാഷ്ട്ര വിമാനത്താവളം",
-          "created_at": "Thu, 29 Oct 2026 02:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "তানজিন তিশা",
-          "created_at": "Thu, 29 Oct 2026 01:50:00 -0700",
+          "text": "sonny baker",
+          "created_at": "Thu, 29 Oct 2026 05:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": null
           }
         }
       ]
