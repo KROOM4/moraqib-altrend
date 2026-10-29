@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T04:28:11.495915+00:00",
+  "updated_at": "2026-10-29T05:26:09.829213+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,19 +8,19 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منصة مدرستي",
+          "text": "mavericks vs thunder",
           "created_at": "Wed, 28 Oct 2026 21:10:00 -0700",
           "metrics": {
-            "search_volume": "50000+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mavericks vs thunder",
-          "created_at": "Wed, 28 Oct 2026 21:10:00 -0700",
+          "text": "مدرستي",
+          "created_at": "Wed, 28 Oct 2026 21:00:00 -0700",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "50000+",
             "growth_percent": null
           }
         },
@@ -30,7 +30,7 @@
           "created_at": "Wed, 28 Oct 2026 20:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,7 +38,16 @@
           "text": "clippers vs lakers",
           "created_at": "Wed, 28 Oct 2026 20:30:00 -0700",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "200+",
+            "growth_percent": -60.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ras tanura",
+          "created_at": "Wed, 28 Oct 2026 20:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -48,7 +57,7 @@
           "created_at": "Wed, 28 Oct 2026 19:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,25 +66,7 @@
           "created_at": "Wed, 28 Oct 2026 19:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nba schedule",
-          "created_at": "Wed, 28 Oct 2026 19:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nba",
-          "created_at": "Wed, 28 Oct 2026 19:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -83,17 +74,26 @@
           "text": "timberwolves vs warriors",
           "created_at": "Wed, 28 Oct 2026 19:20:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "1000+",
+            "growth_percent": 400.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ليونيل ميسي",
-          "created_at": "Wed, 28 Oct 2026 19:10:00 -0700",
+          "text": "pacers vs 76ers",
+          "created_at": "Wed, 28 Oct 2026 19:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "inter miami vs fc cincinnati standings",
+          "created_at": "Wed, 28 Oct 2026 18:50:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         }
       ]

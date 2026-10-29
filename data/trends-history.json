@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-29T04:28:11.495915+00:00",
+  "updated_at": "2026-10-29T05:26:09.829213+00:00",
   "trends": {
-    "منصة مدرستي": {
+    "mavericks vs thunder": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-29T05:26:09.829213+00:00"
+    },
+    "مدرستي": {
       "volume": 50000.0,
       "raw_volume": "50000+",
-      "updated_at": "2026-10-29T04:28:11.495915+00:00"
-    },
-    "mavericks vs thunder": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-29T04:28:11.495915+00:00"
+      "updated_at": "2026-10-29T05:26:09.829213+00:00"
     },
     "joshua bishop": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-29T04:28:11.495915+00:00"
+      "updated_at": "2026-10-29T05:26:09.829213+00:00"
     },
     "clippers vs lakers": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-29T04:28:11.495915+00:00"
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-29T05:26:09.829213+00:00"
+    },
+    "ras tanura": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-29T05:26:09.829213+00:00"
     },
     "سرطان القولون والمستقيم": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-29T04:28:11.495915+00:00"
+      "updated_at": "2026-10-29T05:26:09.829213+00:00"
     },
     "ইয়েমেন": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-29T04:28:11.495915+00:00"
-    },
-    "nba schedule": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-29T04:28:11.495915+00:00"
-    },
-    "nba": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-29T04:28:11.495915+00:00"
+      "updated_at": "2026-10-29T05:26:09.829213+00:00"
     },
     "timberwolves vs warriors": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-29T05:26:09.829213+00:00"
+    },
+    "pacers vs 76ers": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-29T04:28:11.495915+00:00"
+      "updated_at": "2026-10-29T05:26:09.829213+00:00"
     },
-    "ليونيل ميسي": {
+    "inter miami vs fc cincinnati standings": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-10-29T04:28:11.495915+00:00"
+      "updated_at": "2026-10-29T05:26:09.829213+00:00"
     }
   }
 }
