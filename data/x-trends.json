@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T04:27:41.811335+00:00",
+  "updated_at": "2026-10-30T05:25:32.461689+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -12,6 +12,15 @@
           "created_at": "Thu, 29 Oct 2026 21:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "roston chase",
+          "created_at": "Thu, 29 Oct 2026 21:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -21,7 +30,7 @@
           "created_at": "Thu, 29 Oct 2026 20:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -35,8 +44,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "hong kong sixes 2026",
-          "created_at": "Thu, 29 Oct 2026 19:30:00 -0700",
+          "text": "باتريك ستيوارت",
+          "created_at": "Thu, 29 Oct 2026 19:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -44,11 +53,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أمين منطقة الرياض",
-          "created_at": "Thu, 29 Oct 2026 19:20:00 -0700",
+          "text": "hong kong sixes 2026",
+          "created_at": "Thu, 29 Oct 2026 19:30:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -75,7 +84,7 @@
           "created_at": "Thu, 29 Oct 2026 17:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -84,15 +93,6 @@
           "created_at": "Thu, 29 Oct 2026 17:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "التحالف",
-          "created_at": "Thu, 29 Oct 2026 16:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": 0.0
           }
         }
