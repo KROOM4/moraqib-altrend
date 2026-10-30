@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T09:33:57.794790+00:00",
+  "updated_at": "2026-10-30T10:29:47.355580+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jaker ali",
-          "created_at": "Fri, 30 Oct 2026 02:00:00 -0700",
+          "text": "সার",
+          "created_at": "Fri, 30 Oct 2026 03:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "san miguel vs ginebra",
+          "created_at": "Fri, 30 Oct 2026 03:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منتخب السعودية لكرة القدم",
+          "created_at": "Fri, 30 Oct 2026 02:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "matthew fisher",
+          "created_at": "Fri, 30 Oct 2026 02:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,7 +44,43 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "jacob duffy",
+          "created_at": "Fri, 30 Oct 2026 02:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sanju samson",
+          "created_at": "Fri, 30 Oct 2026 02:30:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "jaker ali",
+          "created_at": "Fri, 30 Oct 2026 02:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "nitish kumar reddy",
+          "created_at": "Fri, 30 Oct 2026 02:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ind vs nz t20",
           "created_at": "Fri, 30 Oct 2026 02:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
@@ -30,70 +93,7 @@
           "created_at": "Fri, 30 Oct 2026 02:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "icc",
-          "created_at": "Fri, 30 Oct 2026 01:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al-khaleej vs al-hazem",
-          "created_at": "Fri, 30 Oct 2026 01:40:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدكتور زهير فايز",
-          "created_at": "Fri, 30 Oct 2026 01:30:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "alexandra eala",
-          "created_at": "Fri, 30 Oct 2026 01:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "finn allen",
-          "created_at": "Fri, 30 Oct 2026 01:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "prince yadav",
-          "created_at": "Fri, 30 Oct 2026 01:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مدير المدرسة",
-          "created_at": "Fri, 30 Oct 2026 00:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         }
       ]
