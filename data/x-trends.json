@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T23:16:56.036058+00:00",
+  "updated_at": "2026-10-30T23:54:35.637996+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,16 +8,7 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إلهام شاهين",
-          "created_at": "Fri, 30 Oct 2026 15:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعود عبد الحميد",
+          "text": "محمد الضيف",
           "created_at": "Fri, 30 Oct 2026 15:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
@@ -26,11 +17,38 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طالع نازل",
+          "created_at": "Fri, 30 Oct 2026 15:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إلهام شاهين",
+          "created_at": "Fri, 30 Oct 2026 15:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعود عبد الحميد",
+          "created_at": "Fri, 30 Oct 2026 15:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "اختراق الشاشات",
           "created_at": "Fri, 30 Oct 2026 15:20:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -66,7 +84,7 @@
           "created_at": "Fri, 30 Oct 2026 12:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -75,24 +93,6 @@
           "created_at": "Fri, 30 Oct 2026 12:40:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الاهلي اليوم",
-          "created_at": "Fri, 30 Oct 2026 12:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فياريال ضد إسبانيول",
-          "created_at": "Fri, 30 Oct 2026 12:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
             "growth_percent": 0.0
           }
         }
