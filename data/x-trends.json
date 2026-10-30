@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T08:35:08.174197+00:00",
+  "updated_at": "2026-10-30T09:33:57.794790+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "alexandra eala",
-          "created_at": "Fri, 30 Oct 2026 01:20:00 -0700",
+          "text": "jaker ali",
+          "created_at": "Fri, 30 Oct 2026 02:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,11 +17,56 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "prince yadav",
-          "created_at": "Fri, 30 Oct 2026 01:20:00 -0700",
+          "text": "nitish kumar reddy",
+          "created_at": "Fri, 30 Oct 2026 02:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "tim seifert",
+          "created_at": "Fri, 30 Oct 2026 02:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "icc",
+          "created_at": "Fri, 30 Oct 2026 01:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al-khaleej vs al-hazem",
+          "created_at": "Fri, 30 Oct 2026 01:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدكتور زهير فايز",
+          "created_at": "Fri, 30 Oct 2026 01:30:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "alexandra eala",
+          "created_at": "Fri, 30 Oct 2026 01:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -29,70 +74,25 @@
           "text": "finn allen",
           "created_at": "Fri, 30 Oct 2026 01:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mohammed bin rashid al maktoum",
-          "created_at": "Fri, 30 Oct 2026 00:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "airbus a380",
-          "created_at": "Fri, 30 Oct 2026 00:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ireland cricket team vs namibia national cricket team match scorecard",
-          "created_at": "Fri, 30 Oct 2026 00:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cricket",
-          "created_at": "Fri, 30 Oct 2026 00:30:00 -0700",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "apple macbook pro",
-          "created_at": "Fri, 30 Oct 2026 00:30:00 -0700",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cricbuzz",
-          "created_at": "Fri, 30 Oct 2026 00:10:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
             "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "india national cricket team",
-          "created_at": "Thu, 29 Oct 2026 23:50:00 -0700",
+          "text": "prince yadav",
+          "created_at": "Fri, 30 Oct 2026 01:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مدير المدرسة",
+          "created_at": "Fri, 30 Oct 2026 00:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         }
