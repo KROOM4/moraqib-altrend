@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:22:25.922893+00:00",
+  "updated_at": "2026-10-30T13:44:05.447818+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,44 +8,80 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دولار أمريكي",
+          "created_at": "Fri, 30 Oct 2026 06:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ryan rickelton",
+          "created_at": "Fri, 30 Oct 2026 06:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "البنك المركزي السعودي",
+          "created_at": "Fri, 30 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "شركة زهير فايز ومشاركوه",
+          "created_at": "Fri, 30 Oct 2026 06:10:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كم سعر الذهب اليوم",
+          "created_at": "Fri, 30 Oct 2026 05:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "فريدة سيف النصر",
+          "created_at": "Fri, 30 Oct 2026 05:30:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ദുബായ്",
+          "created_at": "Fri, 30 Oct 2026 05:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "الاهلي والشباب",
           "created_at": "Fri, 30 Oct 2026 05:00:00 -0700",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أبها ضد الاتحاد",
-          "created_at": "Fri, 30 Oct 2026 04:40:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "abdul samad",
-          "created_at": "Fri, 30 Oct 2026 04:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "സ്വര്ണം",
-          "created_at": "Fri, 30 Oct 2026 04:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سلاح نووي",
-          "created_at": "Fri, 30 Oct 2026 03:40:00 -0700",
+          "text": "نهر",
+          "created_at": "Fri, 30 Oct 2026 05:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -53,47 +89,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دبي",
-          "created_at": "Fri, 30 Oct 2026 03:30:00 -0700",
+          "text": "abha vs al-ittihad",
+          "created_at": "Fri, 30 Oct 2026 04:50:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "qatar",
-          "created_at": "Fri, 30 Oct 2026 03:30:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الكاهن سمير ضو",
-          "created_at": "Fri, 30 Oct 2026 03:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bangladesh vs scotland",
-          "created_at": "Fri, 30 Oct 2026 03:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "tilak varma",
-          "created_at": "Fri, 30 Oct 2026 03:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "5000+",
+            "growth_percent": null
           }
         }
       ]
