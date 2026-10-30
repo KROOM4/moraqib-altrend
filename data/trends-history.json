@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-30T10:29:47.355580+00:00",
+  "updated_at": "2026-10-30T11:19:59.525448+00:00",
   "trends": {
+    "abdul samad": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-30T11:19:59.525448+00:00"
+    },
+    "സ്വര്ണം": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-30T11:19:59.525448+00:00"
+    },
+    "bangladesh vs scotland": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-30T11:19:59.525448+00:00"
+    },
+    "qatar": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-30T11:19:59.525448+00:00"
+    },
+    "دبي": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-30T11:19:59.525448+00:00"
+    },
+    "الكاهن سمير ضو": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-30T11:19:59.525448+00:00"
+    },
+    "tilak varma": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-30T11:19:59.525448+00:00"
+    },
     "সার": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-30T10:29:47.355580+00:00"
+      "updated_at": "2026-10-30T11:19:59.525448+00:00"
+    },
+    "arshdeep singh": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-30T11:19:59.525448+00:00"
     },
     "san miguel vs ginebra": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-30T10:29:47.355580+00:00"
-    },
-    "منتخب السعودية لكرة القدم": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-30T10:29:47.355580+00:00"
-    },
-    "matthew fisher": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-30T10:29:47.355580+00:00"
-    },
-    "jacob duffy": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-30T10:29:47.355580+00:00"
-    },
-    "sanju samson": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-30T10:29:47.355580+00:00"
-    },
-    "jaker ali": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-30T10:29:47.355580+00:00"
-    },
-    "nitish kumar reddy": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-30T10:29:47.355580+00:00"
-    },
-    "ind vs nz t20": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-30T10:29:47.355580+00:00"
-    },
-    "tim seifert": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-30T10:29:47.355580+00:00"
+      "updated_at": "2026-10-30T11:19:59.525448+00:00"
     }
   }
 }
