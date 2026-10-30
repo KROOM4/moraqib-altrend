@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T11:19:59.525448+00:00",
+  "updated_at": "2026-10-30T12:22:25.922893+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الاهلي والشباب",
+          "created_at": "Fri, 30 Oct 2026 05:00:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أبها ضد الاتحاد",
+          "created_at": "Fri, 30 Oct 2026 04:40:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "abdul samad",
           "created_at": "Fri, 30 Oct 2026 04:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,24 +39,15 @@
           "created_at": "Fri, 30 Oct 2026 04:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bangladesh vs scotland",
-          "created_at": "Fri, 30 Oct 2026 03:30:00 -0700",
+          "text": "سلاح نووي",
+          "created_at": "Fri, 30 Oct 2026 03:40:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "qatar",
-          "created_at": "Fri, 30 Oct 2026 03:30:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -47,8 +56,17 @@
           "text": "دبي",
           "created_at": "Fri, 30 Oct 2026 03:30:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "qatar",
+          "created_at": "Fri, 30 Oct 2026 03:30:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,8 +74,17 @@
           "text": "الكاهن سمير ضو",
           "created_at": "Fri, 30 Oct 2026 03:30:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bangladesh vs scotland",
+          "created_at": "Fri, 30 Oct 2026 03:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
           }
         },
         {
@@ -66,34 +93,7 @@
           "created_at": "Fri, 30 Oct 2026 03:30:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "সার",
-          "created_at": "Fri, 30 Oct 2026 03:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "arshdeep singh",
-          "created_at": "Fri, 30 Oct 2026 03:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "san miguel vs ginebra",
-          "created_at": "Fri, 30 Oct 2026 03:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
           }
         }
       ]
