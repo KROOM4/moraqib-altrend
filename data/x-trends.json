@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:41:28.079754+00:00",
+  "updated_at": "2026-10-30T15:34:15.410619+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وكالة الأنباء السعودية",
-          "created_at": "Fri, 30 Oct 2026 07:30:00 -0700",
+          "text": "مرض فيروس إيبولا",
+          "created_at": "Fri, 30 Oct 2026 08:20:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -17,26 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدرعية ضد نيوم",
-          "created_at": "Fri, 30 Oct 2026 07:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اسعار الذهب اليوم",
-          "created_at": "Fri, 30 Oct 2026 07:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gold price",
-          "created_at": "Fri, 30 Oct 2026 07:20:00 -0700",
+          "text": "فيروس ايبولا",
+          "created_at": "Fri, 30 Oct 2026 08:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -44,56 +26,74 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الذهب اليوم",
-          "created_at": "Fri, 30 Oct 2026 07:00:00 -0700",
+          "text": "एअर इंडिया",
+          "created_at": "Fri, 30 Oct 2026 08:10:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ryan rickelton",
-          "created_at": "Fri, 30 Oct 2026 06:20:00 -0700",
+          "text": "اسعار الذهب في السعودية",
+          "created_at": "Fri, 30 Oct 2026 08:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الشحانية ضد الأهلي",
+          "created_at": "Fri, 30 Oct 2026 08:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منتخب البرتغال لكرة القدم",
+          "created_at": "Fri, 30 Oct 2026 07:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وكالة الأنباء السعودية",
+          "created_at": "Fri, 30 Oct 2026 07:30:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": 900.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدرعية ضد نيوم",
+          "created_at": "Fri, 30 Oct 2026 07:20:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اسعار الذهب اليوم",
+          "created_at": "Fri, 30 Oct 2026 07:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
             "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دولار أمريكي",
-          "created_at": "Fri, 30 Oct 2026 06:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "البنك المركزي السعودي",
-          "created_at": "Fri, 30 Oct 2026 06:10:00 -0700",
+          "text": "gold price",
+          "created_at": "Fri, 30 Oct 2026 07:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فريدة سيف النصر",
-          "created_at": "Fri, 30 Oct 2026 05:30:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ദുബായ്",
-          "created_at": "Fri, 30 Oct 2026 05:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": 100.0
           }
         }
       ]
