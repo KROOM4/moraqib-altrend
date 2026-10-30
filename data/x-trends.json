@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T00:18:15.852351+00:00",
+  "updated_at": "2026-10-30T01:43:31.911073+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -12,6 +12,24 @@
           "created_at": "Thu, 29 Oct 2026 16:30:00 -0700",
           "metrics": {
             "search_volume": "500+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "binance",
+          "created_at": "Thu, 29 Oct 2026 16:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "gemini 4 carbon",
+          "created_at": "Thu, 29 Oct 2026 15:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -56,8 +74,8 @@
           "text": "al-riyadh vs al-qadsiah fc standings",
           "created_at": "Thu, 29 Oct 2026 13:20:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": -75.0
+            "search_volume": "2000+",
+            "growth_percent": 300.0
           }
         },
         {
@@ -73,24 +91,6 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "ترتيب هدافي الدوري السعودي",
           "created_at": "Thu, 29 Oct 2026 13:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al-nassr vs al kholood standings",
-          "created_at": "Thu, 29 Oct 2026 13:10:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": -50.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "hb køge vs barcelona",
-          "created_at": "Thu, 29 Oct 2026 13:10:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": 0.0
