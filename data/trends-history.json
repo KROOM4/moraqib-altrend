@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-30T07:43:35.063788+00:00",
+  "updated_at": "2026-10-30T08:35:08.174197+00:00",
   "trends": {
+    "alexandra eala": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-30T08:35:08.174197+00:00"
+    },
+    "prince yadav": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-30T08:35:08.174197+00:00"
+    },
+    "finn allen": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-30T08:35:08.174197+00:00"
+    },
+    "mohammed bin rashid al maktoum": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-30T08:35:08.174197+00:00"
+    },
+    "airbus a380": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-30T08:35:08.174197+00:00"
+    },
+    "ireland cricket team vs namibia national cricket team match scorecard": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-30T08:35:08.174197+00:00"
+    },
+    "cricket": {
+      "volume": 20000.0,
+      "raw_volume": "20000+",
+      "updated_at": "2026-10-30T08:35:08.174197+00:00"
+    },
     "apple macbook pro": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-30T07:43:35.063788+00:00"
+      "updated_at": "2026-10-30T08:35:08.174197+00:00"
     },
     "cricbuzz": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-30T07:43:35.063788+00:00"
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-10-30T08:35:08.174197+00:00"
     },
-    "new zealand vs india": {
-      "volume": 20000.0,
-      "raw_volume": "20000+",
-      "updated_at": "2026-10-30T07:43:35.063788+00:00"
-    },
-    "new zealand national cricket team vs india national cricket team match scorecard": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-30T07:43:35.063788+00:00"
-    },
-    "الساعة الان في مصر": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-30T07:43:35.063788+00:00"
-    },
-    "oil refinery": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-10-30T07:43:35.063788+00:00"
-    },
-    "joshua bishop": {
+    "india national cricket team": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-30T07:43:35.063788+00:00"
-    },
-    "trail blazers vs grizzlies": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-30T07:43:35.063788+00:00"
-    },
-    "roston chase": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-30T07:43:35.063788+00:00"
-    },
-    "نجوى إبراهيم": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-30T07:43:35.063788+00:00"
+      "updated_at": "2026-10-30T08:35:08.174197+00:00"
     }
   }
 }

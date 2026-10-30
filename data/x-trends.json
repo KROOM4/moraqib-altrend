@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T07:43:35.063788+00:00",
+  "updated_at": "2026-10-30T08:35:08.174197+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "apple macbook pro",
-          "created_at": "Fri, 30 Oct 2026 00:30:00 -0700",
+          "text": "alexandra eala",
+          "created_at": "Fri, 30 Oct 2026 01:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,8 +17,44 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cricbuzz",
-          "created_at": "Fri, 30 Oct 2026 00:10:00 -0700",
+          "text": "prince yadav",
+          "created_at": "Fri, 30 Oct 2026 01:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "finn allen",
+          "created_at": "Fri, 30 Oct 2026 01:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "mohammed bin rashid al maktoum",
+          "created_at": "Fri, 30 Oct 2026 00:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "airbus a380",
+          "created_at": "Fri, 30 Oct 2026 00:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ireland cricket team vs namibia national cricket team match scorecard",
+          "created_at": "Fri, 30 Oct 2026 00:30:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -26,8 +62,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand vs india",
-          "created_at": "Thu, 29 Oct 2026 23:40:00 -0700",
+          "text": "cricket",
+          "created_at": "Fri, 30 Oct 2026 00:30:00 -0700",
           "metrics": {
             "search_volume": "20000+",
             "growth_percent": null
@@ -35,65 +71,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand national cricket team vs india national cricket team match scorecard",
-          "created_at": "Thu, 29 Oct 2026 23:40:00 -0700",
+          "text": "apple macbook pro",
+          "created_at": "Fri, 30 Oct 2026 00:30:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "cricbuzz",
+          "created_at": "Fri, 30 Oct 2026 00:10:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "india national cricket team",
+          "created_at": "Thu, 29 Oct 2026 23:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الساعة الان في مصر",
-          "created_at": "Thu, 29 Oct 2026 23:10:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "oil refinery",
-          "created_at": "Thu, 29 Oct 2026 22:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "joshua bishop",
-          "created_at": "Thu, 29 Oct 2026 21:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "trail blazers vs grizzlies",
-          "created_at": "Thu, 29 Oct 2026 21:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "roston chase",
-          "created_at": "Thu, 29 Oct 2026 21:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نجوى إبراهيم",
-          "created_at": "Thu, 29 Oct 2026 21:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
           }
         }
       ]
