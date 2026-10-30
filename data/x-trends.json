@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T22:19:21.924297+00:00",
+  "updated_at": "2026-10-30T23:16:56.036058+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,28 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدوري الفرنسي",
-          "created_at": "Fri, 30 Oct 2026 14:40:00 -0700",
+          "text": "إلهام شاهين",
+          "created_at": "Fri, 30 Oct 2026 15:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعود عبد الحميد",
+          "created_at": "Fri, 30 Oct 2026 15:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اختراق الشاشات",
+          "created_at": "Fri, 30 Oct 2026 15:20:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
@@ -21,7 +39,7 @@
           "created_at": "Fri, 30 Oct 2026 13:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -40,6 +58,15 @@
           "metrics": {
             "search_volume": "10000+",
             "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ليغ 1",
+          "created_at": "Fri, 30 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
           }
         },
         {
@@ -67,33 +94,6 @@
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "villarreal vs espanyol",
-          "created_at": "Fri, 30 Oct 2026 12:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ligue 1",
-          "created_at": "Fri, 30 Oct 2026 12:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مضيق هرمز",
-          "created_at": "Fri, 30 Oct 2026 12:10:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
           }
         }
       ]
