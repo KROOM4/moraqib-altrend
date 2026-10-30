@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T18:21:19.338619+00:00",
+  "updated_at": "2026-10-30T19:29:36.654487+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الاتحاد السكندري ضد طلائع الجيش",
-          "created_at": "Fri, 30 Oct 2026 11:10:00 -0700",
+          "text": "فياريال ضد إسبانيول",
+          "created_at": "Fri, 30 Oct 2026 12:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,8 +17,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدوري القطري",
-          "created_at": "Fri, 30 Oct 2026 11:00:00 -0700",
+          "text": "villarreal vs espanyol",
+          "created_at": "Fri, 30 Oct 2026 12:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ligue 1",
+          "created_at": "Fri, 30 Oct 2026 12:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -26,35 +35,53 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "le havre vs psg",
-          "created_at": "Fri, 30 Oct 2026 10:30:00 -0700",
+          "text": "مضيق هرمز",
+          "created_at": "Fri, 30 Oct 2026 12:10:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "لوهافر ضد بي اس جي",
-          "created_at": "Fri, 30 Oct 2026 10:30:00 -0700",
+          "text": "نيس ضد رين",
+          "created_at": "Fri, 30 Oct 2026 11:40:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al-shabab vs al-ahli",
-          "created_at": "Fri, 30 Oct 2026 10:20:00 -0700",
+          "text": "مباراة الاهلي",
+          "created_at": "Fri, 30 Oct 2026 11:30:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "توطين",
-          "created_at": "Fri, 30 Oct 2026 10:20:00 -0700",
+          "text": "القناة ضد الشرقية إنبي",
+          "created_at": "Fri, 30 Oct 2026 11:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "one piece 1197",
+          "created_at": "Fri, 30 Oct 2026 11:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "8",
+          "created_at": "Fri, 30 Oct 2026 11:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -62,38 +89,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "konyaspor - galatasaray",
-          "created_at": "Fri, 30 Oct 2026 10:10:00 -0700",
+          "text": "الاتحاد السكندري ضد طلائع الجيش",
+          "created_at": "Fri, 30 Oct 2026 11:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al sadd vs al-shamal",
-          "created_at": "Fri, 30 Oct 2026 10:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الريال السعودي اليوم في البنك الأهلي",
-          "created_at": "Fri, 30 Oct 2026 10:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الذهب في السعودية",
-          "created_at": "Fri, 30 Oct 2026 10:00:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
           }
         }
       ]
