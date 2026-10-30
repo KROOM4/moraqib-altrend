@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T05:25:32.461689+00:00",
+  "updated_at": "2026-10-30T06:23:06.980502+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,53 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الساعة الان في مصر",
+          "created_at": "Thu, 29 Oct 2026 23:10:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "oil refinery",
+          "created_at": "Thu, 29 Oct 2026 22:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "joshua bishop",
+          "created_at": "Thu, 29 Oct 2026 21:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "trail blazers vs grizzlies",
           "created_at": "Thu, 29 Oct 2026 21:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "roston chase",
           "created_at": "Thu, 29 Oct 2026 21:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نجوى إبراهيم",
+          "created_at": "Thu, 29 Oct 2026 21:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -47,50 +83,14 @@
           "text": "باتريك ستيوارت",
           "created_at": "Thu, 29 Oct 2026 19:50:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "hong kong sixes 2026",
-          "created_at": "Thu, 29 Oct 2026 19:30:00 -0700",
-          "metrics": {
             "search_volume": "200+",
             "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فيديو محور ٢٦ يوليو",
-          "created_at": "Thu, 29 Oct 2026 19:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "vasco vs flamengo",
-          "created_at": "Thu, 29 Oct 2026 17:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "لطيفة المجرن",
-          "created_at": "Thu, 29 Oct 2026 17:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ras tanura oil refinery",
-          "created_at": "Thu, 29 Oct 2026 17:10:00 -0700",
+          "text": "hong kong sixes 2026",
+          "created_at": "Thu, 29 Oct 2026 19:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
