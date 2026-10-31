@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-31T13:06:54.135145+00:00",
+  "updated_at": "2026-10-31T13:56:15.795430+00:00",
   "trends": {
-    "التعاون ضد الاتفاق": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-31T13:06:54.135145+00:00"
-    },
-    "fakhar zaman": {
+    "saff": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-31T13:06:54.135145+00:00"
+      "updated_at": "2026-10-31T13:56:15.795430+00:00"
+    },
+    "مانشستر يونايتد": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-31T13:56:15.795430+00:00"
+    },
+    "babar azam": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-10-31T13:56:15.795430+00:00"
+    },
+    "dewa united vs persija jakarta": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-10-31T13:56:15.795430+00:00"
+    },
+    "التعاون ضد الاتفاق": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-31T13:56:15.795430+00:00"
     },
     "levante vs atlético": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-31T13:06:54.135145+00:00"
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-31T13:56:15.795430+00:00"
     },
     "ليفانتي ضد أتلتيكو مدريد": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-31T13:06:54.135145+00:00"
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-10-31T13:56:15.795430+00:00"
     },
     "nidhi razdan": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-31T13:06:54.135145+00:00"
+      "updated_at": "2026-10-31T13:56:15.795430+00:00"
     },
     "chelsea vs man utd": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-31T13:06:54.135145+00:00"
+      "volume": 10000.0,
+      "raw_volume": "10000+",
+      "updated_at": "2026-10-31T13:56:15.795430+00:00"
     },
     "تشيلسي ضد مان يونايتد": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-10-31T13:06:54.135145+00:00"
-    },
-    "saudi arabia travel ban kenya 2026": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-31T13:06:54.135145+00:00"
-    },
-    "chennaiyin vs kerala blasters": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-31T13:06:54.135145+00:00"
-    },
-    "hong kong sixes schedule": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-31T13:06:54.135145+00:00"
+      "volume": 10000.0,
+      "raw_volume": "10000+",
+      "updated_at": "2026-10-31T13:56:15.795430+00:00"
     }
   }
 }
