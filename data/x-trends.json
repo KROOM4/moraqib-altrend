@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T22:50:33.682629+00:00",
+  "updated_at": "2026-10-31T23:48:27.965771+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fc barcelona vs deportivo alavés standings",
-          "created_at": "Sat, 31 Oct 2026 15:10:00 -0700",
+          "text": "সৌদি আরব",
+          "created_at": "Sat, 31 Oct 2026 16:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "aston villa vs fulham f.c. standings",
+          "created_at": "Sat, 31 Oct 2026 15:40:00 -0700",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -17,11 +26,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ac milan vs inter milan standings",
+          "text": "fc barcelona vs deportivo alavés standings",
           "created_at": "Sat, 31 Oct 2026 15:10:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -30,7 +39,7 @@
           "created_at": "Sat, 31 Oct 2026 15:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +48,7 @@
           "created_at": "Sat, 31 Oct 2026 15:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +57,7 @@
           "created_at": "Sat, 31 Oct 2026 14:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,16 +66,7 @@
           "created_at": "Sat, 31 Oct 2026 14:40:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رافينيا",
-          "created_at": "Sat, 31 Oct 2026 14:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -80,16 +80,16 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وصول",
-          "created_at": "Sat, 31 Oct 2026 14:10:00 -0700",
+          "text": "رافينيا",
+          "created_at": "Sat, 31 Oct 2026 14:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزارة التعليم",
+          "text": "وصول",
           "created_at": "Sat, 31 Oct 2026 14:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
