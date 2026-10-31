@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T08:27:57.509355+00:00",
+  "updated_at": "2026-10-31T09:23:35.112131+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "العربية نت",
-          "created_at": "Sat, 31 Oct 2026 01:10:00 -0700",
+          "text": "sa vs aus",
+          "created_at": "Sat, 31 Oct 2026 02:00:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ريال سعودي",
+          "created_at": "Sat, 31 Oct 2026 01:40:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "afg vs sco",
+          "created_at": "Sat, 31 Oct 2026 01:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,11 +35,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "pak vs sri lanka",
+          "created_at": "Sat, 31 Oct 2026 01:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "العربية نت",
+          "created_at": "Sat, 31 Oct 2026 01:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "sl vs pak",
           "created_at": "Sat, 31 Oct 2026 00:40:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
+            "search_volume": "10000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +66,7 @@
           "created_at": "Sat, 31 Oct 2026 00:30:00 -0700",
           "metrics": {
             "search_volume": "10000+",
-            "growth_percent": 900.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,15 +75,15 @@
           "created_at": "Sat, 31 Oct 2026 00:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sl vs oma",
-          "created_at": "Fri, 30 Oct 2026 23:30:00 -0700",
+          "text": "australia vs uae",
+          "created_at": "Sat, 31 Oct 2026 00:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "5000+",
             "growth_percent": null
           }
         },
@@ -57,42 +93,6 @@
           "created_at": "Fri, 30 Oct 2026 23:00:00 -0700",
           "metrics": {
             "search_volume": "10000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اليوم السابع",
-          "created_at": "Fri, 30 Oct 2026 23:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "hsc result",
-          "created_at": "Fri, 30 Oct 2026 22:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sri lanka national cricket team vs oman national cricket team match scorecard",
-          "created_at": "Fri, 30 Oct 2026 22:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sri lanka vs oman",
-          "created_at": "Fri, 30 Oct 2026 22:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
             "growth_percent": 0.0
           }
         }
