@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T14:51:04.262546+00:00",
+  "updated_at": "2026-10-31T15:50:47.212955+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bournemouth vs leeds",
-          "created_at": "Sat, 31 Oct 2026 07:40:00 -0700",
+          "text": "سماد أبوقير ضد غزل المحلة",
+          "created_at": "Sat, 31 Oct 2026 08:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "coventry vs sunderland",
+          "created_at": "Sat, 31 Oct 2026 08:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "levante ud vs atlético madrid standings",
+          "created_at": "Sat, 31 Oct 2026 08:10:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "brentford vs nottm forest",
+          "created_at": "Sat, 31 Oct 2026 08:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bournemouth vs leeds",
+          "created_at": "Sat, 31 Oct 2026 07:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -20,8 +56,8 @@
           "text": "man city vs brighton",
           "created_at": "Sat, 31 Oct 2026 07:30:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -29,8 +65,8 @@
           "text": "مان سيتي ضد برايتون",
           "created_at": "Sat, 31 Oct 2026 07:30:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -38,7 +74,16 @@
           "text": "التعاون",
           "created_at": "Sat, 31 Oct 2026 07:30:00 -0700",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "তানিয়া বৃষ্টি",
+          "created_at": "Sat, 31 Oct 2026 07:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -47,53 +92,8 @@
           "text": "epl",
           "created_at": "Sat, 31 Oct 2026 07:30:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "man united",
-          "created_at": "Sat, 31 Oct 2026 07:20:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ريتشارد ريوس",
-          "created_at": "Sat, 31 Oct 2026 06:50:00 -0700",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "man utd",
-          "created_at": "Sat, 31 Oct 2026 06:30:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saad baig",
-          "created_at": "Sat, 31 Oct 2026 06:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "isl",
-          "created_at": "Sat, 31 Oct 2026 06:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": -60.0
           }
         }
       ]
