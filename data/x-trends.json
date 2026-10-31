@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T19:51:08.007979+00:00",
+  "updated_at": "2026-10-31T20:51:44.357693+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,83 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "serie a",
+          "created_at": "Sat, 31 Oct 2026 13:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مدرسة",
+          "created_at": "Sat, 31 Oct 2026 13:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "روبن نيفيز",
+          "created_at": "Sat, 31 Oct 2026 13:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ac milan",
+          "created_at": "Sat, 31 Oct 2026 13:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bayern munich vs borussia dortmund standings",
+          "created_at": "Sat, 31 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "real betis vs málaga cf standings",
+          "created_at": "Sat, 31 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "brian fariñas",
+          "created_at": "Sat, 31 Oct 2026 12:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أمن عام",
+          "created_at": "Sat, 31 Oct 2026 12:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "aston villa vs fulham",
           "created_at": "Sat, 31 Oct 2026 12:20:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,79 +93,7 @@
           "created_at": "Sat, 31 Oct 2026 12:20:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إسكان",
-          "created_at": "Sat, 31 Oct 2026 12:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "برشلونة ضد ألافيس",
-          "created_at": "Sat, 31 Oct 2026 12:10:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "barcelona vs alavés",
-          "created_at": "Sat, 31 Oct 2026 12:10:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ميلان ضد الإنتر",
-          "created_at": "Sat, 31 Oct 2026 12:00:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "milan vs inter",
-          "created_at": "Sat, 31 Oct 2026 12:00:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بوندسليغا",
-          "created_at": "Sat, 31 Oct 2026 12:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "বিমান বাংলাদেশ এয়ারলাইন্স",
-          "created_at": "Sat, 31 Oct 2026 12:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gold",
-          "created_at": "Sat, 31 Oct 2026 12:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         }
       ]
