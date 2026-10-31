@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T16:52:45.976052+00:00",
+  "updated_at": "2026-10-31T17:47:40.318577+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "udinese vs roma",
-          "created_at": "Sat, 31 Oct 2026 09:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fenerbahçe - göztepe",
-          "created_at": "Sat, 31 Oct 2026 09:10:00 -0700",
+          "text": "صن داونز ضد ماريتزبرغ يونايتد",
+          "created_at": "Sat, 31 Oct 2026 10:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -26,8 +17,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الفيصلي",
-          "created_at": "Sat, 31 Oct 2026 09:10:00 -0700",
+          "text": "al-hilal vs al fateh",
+          "created_at": "Sat, 31 Oct 2026 10:20:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدحيل ضد الوكرة",
+          "created_at": "Sat, 31 Oct 2026 10:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -35,17 +35,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الفيحاء والفيصلي",
-          "created_at": "Sat, 31 Oct 2026 09:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "hull vs ipswich town",
-          "created_at": "Sat, 31 Oct 2026 09:00:00 -0700",
+          "text": "وقود",
+          "created_at": "Sat, 31 Oct 2026 10:20:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -53,8 +44,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رايو فاليكانو ضد سلتا فيغو",
-          "created_at": "Sat, 31 Oct 2026 08:40:00 -0700",
+          "text": "سالم الدوسري",
+          "created_at": "Sat, 31 Oct 2026 10:10:00 -0700",
           "metrics": {
             "search_volume": "5000+",
             "growth_percent": null
@@ -62,8 +53,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ياسين العياري",
-          "created_at": "Sat, 31 Oct 2026 08:30:00 -0700",
+          "text": "أودينيزي ضد روما",
+          "created_at": "Sat, 31 Oct 2026 10:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منتخب السعودية لكرة القدم",
+          "created_at": "Sat, 31 Oct 2026 10:10:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -71,29 +71,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سماد أبوقير ضد غزل المحلة",
-          "created_at": "Sat, 31 Oct 2026 08:20:00 -0700",
+          "text": "premier league games",
+          "created_at": "Sat, 31 Oct 2026 10:00:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "levante ud vs atlético madrid standings",
-          "created_at": "Sat, 31 Oct 2026 08:10:00 -0700",
+          "text": "سعر الدولار",
+          "created_at": "Sat, 31 Oct 2026 10:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "البايرن ضد دورتموند",
+          "created_at": "Sat, 31 Oct 2026 09:50:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "brentford vs nottm forest",
-          "created_at": "Sat, 31 Oct 2026 08:00:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         }
       ]
