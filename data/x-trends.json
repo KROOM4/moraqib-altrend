@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T02:29:50.008677+00:00",
+  "updated_at": "2026-10-31T03:27:14.443710+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "warriors vs lakers",
+          "created_at": "Fri, 30 Oct 2026 19:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bhuvneshwar kumar",
+          "created_at": "Fri, 30 Oct 2026 19:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "india vs uae",
           "created_at": "Fri, 30 Oct 2026 19:10:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "20000+",
+            "growth_percent": 900.0
           }
         },
         {
@@ -21,13 +39,13 @@
           "created_at": "Fri, 30 Oct 2026 19:10:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "scotland national cricket team vs sri lanka national cricket team match scorecard",
-          "created_at": "Fri, 30 Oct 2026 18:40:00 -0700",
+          "text": "sco vs sl",
+          "created_at": "Fri, 30 Oct 2026 18:30:00 -0700",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -39,7 +57,7 @@
           "created_at": "Fri, 30 Oct 2026 18:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,7 +65,16 @@
           "text": "oman vs afghanistan",
           "created_at": "Fri, 30 Oct 2026 17:30:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "5000+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طالع نازل",
+          "created_at": "Fri, 30 Oct 2026 15:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": 0.0
           }
         },
@@ -62,38 +89,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طالع نازل",
-          "created_at": "Fri, 30 Oct 2026 15:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "إلهام شاهين",
           "created_at": "Fri, 30 Oct 2026 15:40:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعود عبد الحميد",
-          "created_at": "Fri, 30 Oct 2026 15:40:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اختراق الشاشات",
-          "created_at": "Fri, 30 Oct 2026 15:20:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": -75.0
           }
         }
       ]
