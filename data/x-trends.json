@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T17:47:40.318577+00:00",
+  "updated_at": "2026-10-31T19:00:31.508931+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,26 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صن داونز ضد ماريتزبرغ يونايتد",
-          "created_at": "Sat, 31 Oct 2026 10:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al-hilal vs al fateh",
-          "created_at": "Sat, 31 Oct 2026 10:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدحيل ضد الوكرة",
-          "created_at": "Sat, 31 Oct 2026 10:20:00 -0700",
+          "text": "انتر ميلان",
+          "created_at": "Sat, 31 Oct 2026 11:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -35,8 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وقود",
-          "created_at": "Sat, 31 Oct 2026 10:20:00 -0700",
+          "text": "biratnagar kings vs sudurpaschim royals standings",
+          "created_at": "Sat, 31 Oct 2026 11:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -44,17 +26,53 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سالم الدوسري",
-          "created_at": "Sat, 31 Oct 2026 10:10:00 -0700",
+          "text": "الهلال",
+          "created_at": "Sat, 31 Oct 2026 11:30:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
+            "search_volume": "20000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أودينيزي ضد روما",
-          "created_at": "Sat, 31 Oct 2026 10:10:00 -0700",
+          "text": "محمد الحلو",
+          "created_at": "Sat, 31 Oct 2026 11:30:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bayern munich",
+          "created_at": "Sat, 31 Oct 2026 11:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "محافظة الكرك",
+          "created_at": "Sat, 31 Oct 2026 11:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bundesliga",
+          "created_at": "Sat, 31 Oct 2026 11:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "customs",
+          "created_at": "Sat, 31 Oct 2026 11:10:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -62,8 +80,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منتخب السعودية لكرة القدم",
-          "created_at": "Sat, 31 Oct 2026 10:10:00 -0700",
+          "text": "سيراميكا كليوباترا ضد زد",
+          "created_at": "Sat, 31 Oct 2026 11:00:00 -0700",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -71,28 +89,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "premier league games",
-          "created_at": "Sat, 31 Oct 2026 10:00:00 -0700",
+          "text": "jobe bellingham",
+          "created_at": "Sat, 31 Oct 2026 11:00:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الدولار",
-          "created_at": "Sat, 31 Oct 2026 10:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "البايرن ضد دورتموند",
-          "created_at": "Sat, 31 Oct 2026 09:50:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         }
