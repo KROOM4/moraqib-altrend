@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-31T07:37:21.916784+00:00",
+  "updated_at": "2026-10-31T08:27:57.509355+00:00",
   "trends": {
-    "sri lanka vs pakistan": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-10-31T07:37:21.916784+00:00"
+    "العربية نت": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-31T08:27:57.509355+00:00"
     },
-    "pak vs sl": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-31T07:37:21.916784+00:00"
+    "sl vs pak": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-10-31T08:27:57.509355+00:00"
+    },
+    "sri lanka vs pakistan": {
+      "volume": 10000.0,
+      "raw_volume": "10000+",
+      "updated_at": "2026-10-31T08:27:57.509355+00:00"
     },
     "نجم": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-10-31T07:37:21.916784+00:00"
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-31T08:27:57.509355+00:00"
+    },
+    "sl vs oma": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-31T08:27:57.509355+00:00"
     },
     "hong kong vs pakistan": {
       "volume": 10000.0,
       "raw_volume": "10000+",
-      "updated_at": "2026-10-31T07:37:21.916784+00:00"
+      "updated_at": "2026-10-31T08:27:57.509355+00:00"
     },
     "اليوم السابع": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-10-31T07:37:21.916784+00:00"
+      "updated_at": "2026-10-31T08:27:57.509355+00:00"
     },
     "hsc result": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-10-31T07:37:21.916784+00:00"
+      "updated_at": "2026-10-31T08:27:57.509355+00:00"
     },
-    "hk vs pak": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-31T07:37:21.916784+00:00"
+    "sri lanka national cricket team vs oman national cricket team match scorecard": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-10-31T08:27:57.509355+00:00"
     },
     "sri lanka vs oman": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-10-31T07:37:21.916784+00:00"
-    },
-    "weather warning": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-10-31T07:37:21.916784+00:00"
-    },
-    "اختراق شاشة اعلانات بالجيزة": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-10-31T07:37:21.916784+00:00"
+      "updated_at": "2026-10-31T08:27:57.509355+00:00"
     }
   }
 }
