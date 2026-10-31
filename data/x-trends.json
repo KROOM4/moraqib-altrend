@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T04:25:57.575922+00:00",
+  "updated_at": "2026-10-31T05:23:18.739168+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,74 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "weather warning",
+          "created_at": "Fri, 30 Oct 2026 22:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اختراق شاشة اعلانات بالجيزة",
+          "created_at": "Fri, 30 Oct 2026 22:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "eng vs ind",
+          "created_at": "Fri, 30 Oct 2026 21:50:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "england vs india",
+          "created_at": "Fri, 30 Oct 2026 21:30:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sports",
+          "created_at": "Fri, 30 Oct 2026 21:30:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bangladesh vs south africa",
+          "created_at": "Fri, 30 Oct 2026 21:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "jomel warrican",
+          "created_at": "Fri, 30 Oct 2026 21:20:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "nayeem hasan",
           "created_at": "Fri, 30 Oct 2026 21:00:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": -75.0
           }
         },
         {
@@ -21,76 +84,13 @@
           "created_at": "Fri, 30 Oct 2026 20:50:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "مسلسل جريمة في الزمالك",
           "created_at": "Fri, 30 Oct 2026 20:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "warriors vs lakers",
-          "created_at": "Fri, 30 Oct 2026 19:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bhuvneshwar kumar",
-          "created_at": "Fri, 30 Oct 2026 19:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "india vs uae",
-          "created_at": "Fri, 30 Oct 2026 19:10:00 -0700",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sheffield united vs wrexham a.f.c. standings",
-          "created_at": "Fri, 30 Oct 2026 19:10:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "scotland national cricket team vs sri lanka national cricket team match scorecard",
-          "created_at": "Fri, 30 Oct 2026 18:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sco vs sl",
-          "created_at": "Fri, 30 Oct 2026 18:30:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "76ers vs knicks",
-          "created_at": "Fri, 30 Oct 2026 18:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
