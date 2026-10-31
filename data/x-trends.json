@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T01:19:55.539994+00:00",
+  "updated_at": "2026-10-31T02:29:50.008677+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "oman vs afghanistan",
-          "created_at": "Fri, 30 Oct 2026 17:30:00 -0700",
+          "text": "india vs uae",
+          "created_at": "Fri, 30 Oct 2026 19:10:00 -0700",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -17,17 +17,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مسلسل طالع نازل",
-          "created_at": "Fri, 30 Oct 2026 17:20:00 -0700",
+          "text": "sheffield united vs wrexham a.f.c. standings",
+          "created_at": "Fri, 30 Oct 2026 19:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "villarreal cf vs espanyol standings",
-          "created_at": "Fri, 30 Oct 2026 15:50:00 -0700",
+          "text": "scotland national cricket team vs sri lanka national cricket team match scorecard",
+          "created_at": "Fri, 30 Oct 2026 18:40:00 -0700",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -35,10 +35,19 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إلهام شاهين",
-          "created_at": "Fri, 30 Oct 2026 15:40:00 -0700",
+          "text": "76ers vs knicks",
+          "created_at": "Fri, 30 Oct 2026 18:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "oman vs afghanistan",
+          "created_at": "Fri, 30 Oct 2026 17:30:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
             "growth_percent": 0.0
           }
         },
@@ -48,6 +57,24 @@
           "created_at": "Fri, 30 Oct 2026 15:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طالع نازل",
+          "created_at": "Fri, 30 Oct 2026 15:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إلهام شاهين",
+          "created_at": "Fri, 30 Oct 2026 15:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": 0.0
           }
         },
@@ -65,35 +92,8 @@
           "text": "اختراق الشاشات",
           "created_at": "Fri, 30 Oct 2026 15:20:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صبا مبارك",
-          "created_at": "Fri, 30 Oct 2026 13:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "losc vs lens",
-          "created_at": "Fri, 30 Oct 2026 13:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "le havre ac vs psg standings",
-          "created_at": "Fri, 30 Oct 2026 13:10:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": -75.0
           }
         }
       ]
