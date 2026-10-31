@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T11:16:19.605769+00:00",
+  "updated_at": "2026-10-31T11:55:00.491596+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,62 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "chelsea vs man utd",
+          "created_at": "Sat, 31 Oct 2026 04:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تشيلسي ضد مان يونايتد",
+          "created_at": "Sat, 31 Oct 2026 04:40:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "next",
+          "created_at": "Sat, 31 Oct 2026 04:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "chennaiyin vs kerala blasters",
           "created_at": "Sat, 31 Oct 2026 04:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 400.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "simon harmer",
           "created_at": "Sat, 31 Oct 2026 03:40:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": 900.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كسوف الشمس",
+          "created_at": "Sat, 31 Oct 2026 03:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sanjay gupta",
+          "created_at": "Sat, 31 Oct 2026 03:30:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -29,23 +74,14 @@
           "text": "ক্রিকেট",
           "created_at": "Sat, 31 Oct 2026 03:20:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "شمس البارودي",
           "created_at": "Sat, 31 Oct 2026 03:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sanjay gupta director",
-          "created_at": "Sat, 31 Oct 2026 03:00:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 100.0
@@ -58,42 +94,6 @@
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "यमन",
-          "created_at": "Sat, 31 Oct 2026 02:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "avishka fernando",
-          "created_at": "Sat, 31 Oct 2026 02:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "aus vs sa",
-          "created_at": "Sat, 31 Oct 2026 02:20:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kamindu mendis",
-          "created_at": "Sat, 31 Oct 2026 02:00:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
           }
         }
       ]
