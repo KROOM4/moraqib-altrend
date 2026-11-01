@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T09:25:48.941945+00:00",
+  "updated_at": "2026-11-01T10:22:47.013006+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "crypto exchange binance hacked",
-          "created_at": "Sun, 1 Nov 2026 01:00:00 -0800",
+          "text": "دولار",
+          "created_at": "Sun, 1 Nov 2026 01:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "americano",
+          "created_at": "Sun, 1 Nov 2026 01:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "starbucks",
+          "created_at": "Sun, 1 Nov 2026 01:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "crypto exchange binance hacked",
+          "created_at": "Sun, 1 Nov 2026 01:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,13 +48,13 @@
           "created_at": "Sun, 1 Nov 2026 01:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "varun chakaravarthy",
-          "created_at": "Sun, 1 Nov 2026 01:50:00 -0700",
+          "text": "blair tickner",
+          "created_at": "Sun, 1 Nov 2026 01:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -35,7 +62,7 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gulbadin naib",
+          "text": "هيوماين",
           "created_at": "Sun, 1 Nov 2026 01:00:00 -0700",
           "metrics": {
             "search_volume": "500+",
@@ -44,11 +71,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هيوماين",
+          "text": "gulbadin naib",
           "created_at": "Sun, 1 Nov 2026 01:00:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,7 +84,7 @@
           "created_at": "Sun, 1 Nov 2026 01:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -65,35 +92,8 @@
           "text": "ranking",
           "created_at": "Sun, 1 Nov 2026 00:50:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ireland cricket team vs namibia national cricket team match scorecard",
-          "created_at": "Sun, 1 Nov 2026 00:20:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "heidi klum",
-          "created_at": "Sun, 1 Nov 2026 00:10:00 -0700",
-          "metrics": {
             "search_volume": "200+",
             "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "australia vs afghanistan",
-          "created_at": "Sun, 1 Nov 2026 00:00:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 0.0
           }
         }
       ]
