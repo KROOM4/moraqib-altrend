@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-01T06:25:06.821330+00:00",
+  "updated_at": "2026-11-01T07:41:27.098943+00:00",
   "trends": {
-    "جورج وسوف": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-01T06:25:06.821330+00:00"
+    "australia national cricket team vs afghanistan national cricket team match scorecard": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-11-01T07:41:27.098943+00:00"
     },
-    "oman vs pakistan": {
+    "india vs new zealand": {
+      "volume": 20000.0,
+      "raw_volume": "20000+",
+      "updated_at": "2026-11-01T07:41:27.098943+00:00"
+    },
+    "pak vs oma": {
       "volume": 10000.0,
       "raw_volume": "10000+",
-      "updated_at": "2026-11-01T06:25:06.821330+00:00"
+      "updated_at": "2026-11-01T07:41:27.098943+00:00"
+    },
+    "king khalid international airport": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-11-01T07:41:27.098943+00:00"
+    },
+    "جورج وسوف": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-01T07:41:27.098943+00:00"
     },
     "england vs south africa": {
       "volume": 10000.0,
       "raw_volume": "10000+",
-      "updated_at": "2026-11-01T06:25:06.821330+00:00"
+      "updated_at": "2026-11-01T07:41:27.098943+00:00"
     },
     "منخفض جوي": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-01T06:25:06.821330+00:00"
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-01T07:41:27.098943+00:00"
     },
     "rockets vs thunder": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-01T06:25:06.821330+00:00"
-    },
-    "الابتدائية": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-01T06:25:06.821330+00:00"
+      "updated_at": "2026-11-01T07:41:27.098943+00:00"
     },
     "صحيفة": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-01T06:25:06.821330+00:00"
+      "updated_at": "2026-11-01T07:41:27.098943+00:00"
     },
-    "team": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-01T06:25:06.821330+00:00"
-    },
-    "الأحد": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-01T06:25:06.821330+00:00"
-    },
-    "عقوبة": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-01T06:25:06.821330+00:00"
+    "الابتدائية": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-01T07:41:27.098943+00:00"
     }
   }
 }
