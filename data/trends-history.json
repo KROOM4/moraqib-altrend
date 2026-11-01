@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-01T11:16:36.280722+00:00",
+  "updated_at": "2026-11-01T11:53:47.294785+00:00",
   "trends": {
-    "como vs venezia": {
+    "moeen ali": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-01T11:16:36.280722+00:00"
+      "updated_at": "2026-11-01T11:53:47.294785+00:00"
     },
-    "বাংলাদেশ": {
+    "como vs venezia": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-11-01T11:16:36.280722+00:00"
+      "updated_at": "2026-11-01T11:53:47.294785+00:00"
+    },
+    "বাংলাদেশ": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-01T11:53:47.294785+00:00"
+    },
+    "الاتحاد والعين": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-01T11:53:47.294785+00:00"
+    },
+    "finn allen": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-01T11:53:47.294785+00:00"
+    },
+    "دولار": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-01T11:53:47.294785+00:00"
+    },
+    "prince yadav": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-01T11:53:47.294785+00:00"
     },
     "americano": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-01T11:16:36.280722+00:00"
+      "updated_at": "2026-11-01T11:53:47.294785+00:00"
     },
     "starbucks": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-01T11:16:36.280722+00:00"
+      "updated_at": "2026-11-01T11:53:47.294785+00:00"
     },
     "crypto exchange binance hacked": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-01T11:16:36.280722+00:00"
-    },
-    "varun chakaravarthy": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-01T11:16:36.280722+00:00"
-    },
-    "persib bandung vs adhyaksa": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-01T11:16:36.280722+00:00"
-    },
-    "blair tickner": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-01T11:16:36.280722+00:00"
-    },
-    "هيوماين": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-01T11:16:36.280722+00:00"
-    },
-    "مناخ": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-01T11:16:36.280722+00:00"
+      "updated_at": "2026-11-01T11:53:47.294785+00:00"
     }
   }
 }
