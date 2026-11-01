@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-01T10:22:47.013006+00:00",
+  "updated_at": "2026-11-01T11:16:36.280722+00:00",
   "trends": {
-    "دولار": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-01T10:22:47.013006+00:00"
+    "como vs venezia": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-01T11:16:36.280722+00:00"
+    },
+    "বাংলাদেশ": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-01T11:16:36.280722+00:00"
     },
     "americano": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-01T10:22:47.013006+00:00"
+      "updated_at": "2026-11-01T11:16:36.280722+00:00"
     },
     "starbucks": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-01T10:22:47.013006+00:00"
+      "updated_at": "2026-11-01T11:16:36.280722+00:00"
     },
     "crypto exchange binance hacked": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-01T10:22:47.013006+00:00"
+      "updated_at": "2026-11-01T11:16:36.280722+00:00"
+    },
+    "varun chakaravarthy": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-01T11:16:36.280722+00:00"
     },
     "persib bandung vs adhyaksa": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-01T10:22:47.013006+00:00"
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-01T11:16:36.280722+00:00"
     },
     "blair tickner": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-01T10:22:47.013006+00:00"
+      "updated_at": "2026-11-01T11:16:36.280722+00:00"
     },
     "هيوماين": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-11-01T10:22:47.013006+00:00"
-    },
-    "gulbadin naib": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-01T10:22:47.013006+00:00"
+      "updated_at": "2026-11-01T11:16:36.280722+00:00"
     },
     "مناخ": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-01T10:22:47.013006+00:00"
-    },
-    "ranking": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-01T10:22:47.013006+00:00"
+      "updated_at": "2026-11-01T11:16:36.280722+00:00"
     }
   }
 }

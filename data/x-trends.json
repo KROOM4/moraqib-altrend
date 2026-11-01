@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T10:22:47.013006+00:00",
+  "updated_at": "2026-11-01T11:16:36.280722+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,19 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دولار",
-          "created_at": "Sun, 1 Nov 2026 01:40:00 -0800",
+          "text": "como vs venezia",
+          "created_at": "Sun, 1 Nov 2026 03:00:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "বাংলাদেশ",
+          "created_at": "Sun, 1 Nov 2026 02:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
@@ -21,7 +30,7 @@
           "created_at": "Sun, 1 Nov 2026 01:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +39,7 @@
           "created_at": "Sun, 1 Nov 2026 01:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +48,16 @@
           "created_at": "Sun, 1 Nov 2026 01:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "varun chakaravarthy",
+          "created_at": "Sun, 1 Nov 2026 01:50:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
           }
         },
         {
@@ -47,8 +65,8 @@
           "text": "persib bandung vs adhyaksa",
           "created_at": "Sun, 1 Nov 2026 01:50:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -57,21 +75,12 @@
           "created_at": "Sun, 1 Nov 2026 01:40:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "هيوماين",
-          "created_at": "Sun, 1 Nov 2026 01:00:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gulbadin naib",
           "created_at": "Sun, 1 Nov 2026 01:00:00 -0700",
           "metrics": {
             "search_volume": "500+",
@@ -85,15 +94,6 @@
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ranking",
-          "created_at": "Sun, 1 Nov 2026 00:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
           }
         }
       ]
