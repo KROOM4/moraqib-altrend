@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T07:41:27.098943+00:00",
+  "updated_at": "2026-11-01T08:29:16.998872+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,46 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "australia national cricket team vs afghanistan national cricket team match scorecard",
+          "text": "gulbadin naib",
+          "created_at": "Sun, 1 Nov 2026 01:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هيوماين",
+          "created_at": "Sun, 1 Nov 2026 01:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ireland cricket team vs namibia national cricket team match scorecard",
+          "created_at": "Sun, 1 Nov 2026 00:20:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "heidi klum",
           "created_at": "Sun, 1 Nov 2026 00:10:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "australia vs afghanistan",
+          "created_at": "Sun, 1 Nov 2026 00:00:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
             "growth_percent": null
           }
         },
@@ -21,7 +57,7 @@
           "created_at": "Sat, 31 Oct 2026 23:40:00 -0700",
           "metrics": {
             "search_volume": "20000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +66,7 @@
           "created_at": "Sat, 31 Oct 2026 23:20:00 -0700",
           "metrics": {
             "search_volume": "10000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +75,7 @@
           "created_at": "Sat, 31 Oct 2026 23:20:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,8 +83,8 @@
           "text": "جورج وسوف",
           "created_at": "Sat, 31 Oct 2026 23:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -57,42 +93,6 @@
           "created_at": "Sat, 31 Oct 2026 22:10:00 -0700",
           "metrics": {
             "search_volume": "10000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منخفض جوي",
-          "created_at": "Sat, 31 Oct 2026 22:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "rockets vs thunder",
-          "created_at": "Sat, 31 Oct 2026 22:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صحيفة",
-          "created_at": "Sat, 31 Oct 2026 21:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الابتدائية",
-          "created_at": "Sat, 31 Oct 2026 21:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
