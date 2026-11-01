@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T04:32:35.259604+00:00",
+  "updated_at": "2026-11-01T05:28:31.351176+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,70 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "england vs south africa",
+          "created_at": "Sat, 31 Oct 2026 22:10:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الابتدائية",
+          "created_at": "Sat, 31 Oct 2026 21:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الأحد",
+          "created_at": "Sat, 31 Oct 2026 21:40:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "team",
+          "created_at": "Sat, 31 Oct 2026 21:40:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عقوبة",
+          "created_at": "Sat, 31 Oct 2026 21:30:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "te",
+          "created_at": "Sat, 31 Oct 2026 21:20:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "تسجيل",
+          "created_at": "Sat, 31 Oct 2026 21:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "خرف",
           "created_at": "Sat, 31 Oct 2026 21:00:00 -0700",
           "metrics": {
             "search_volume": "100+",
@@ -20,8 +83,8 @@
           "text": "منصه",
           "created_at": "Sat, 31 Oct 2026 20:40:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
+            "search_volume": "10000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,69 +93,6 @@
           "created_at": "Sat, 31 Oct 2026 20:40:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "زفاف",
-          "created_at": "Sat, 31 Oct 2026 20:10:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدوام الشتوي",
-          "created_at": "Sat, 31 Oct 2026 19:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "hong kong vs sri lanka",
-          "created_at": "Sat, 31 Oct 2026 19:20:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sl vs hk",
-          "created_at": "Sat, 31 Oct 2026 19:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 300.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حبيب الصايغ",
-          "created_at": "Sat, 31 Oct 2026 19:10:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "krunal pandya",
-          "created_at": "Sat, 31 Oct 2026 18:50:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bhuvneshwar kumar",
-          "created_at": "Sat, 31 Oct 2026 18:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
