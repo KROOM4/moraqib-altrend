@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T23:48:27.965771+00:00",
+  "updated_at": "2026-11-01T01:27:10.295166+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,62 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bangladesh vs india",
+          "created_at": "Sat, 31 Oct 2026 18:10:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ban vs ind",
+          "created_at": "Sat, 31 Oct 2026 17:50:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "hornets vs 76ers",
+          "created_at": "Sat, 31 Oct 2026 17:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الديوان الملكي",
+          "created_at": "Sat, 31 Oct 2026 16:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sports",
+          "created_at": "Sat, 31 Oct 2026 16:50:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "সৌদি আরব",
           "created_at": "Sat, 31 Oct 2026 16:10:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سلاح",
+          "created_at": "Sat, 31 Oct 2026 15:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -21,7 +75,7 @@
           "created_at": "Sat, 31 Oct 2026 15:40:00 -0700",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,70 +84,16 @@
           "created_at": "Sat, 31 Oct 2026 15:10:00 -0700",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مايكروسوفت",
-          "created_at": "Sat, 31 Oct 2026 15:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "microsoft",
-          "created_at": "Sat, 31 Oct 2026 15:00:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كاكا",
-          "created_at": "Sat, 31 Oct 2026 14:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هدف",
-          "created_at": "Sat, 31 Oct 2026 14:40:00 -0700",
+          "text": "ac milan vs inter milan standings",
+          "created_at": "Sat, 31 Oct 2026 15:10:00 -0700",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "teams",
-          "created_at": "Sat, 31 Oct 2026 14:40:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رافينيا",
-          "created_at": "Sat, 31 Oct 2026 14:40:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وصول",
-          "created_at": "Sat, 31 Oct 2026 14:10:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         }
       ]
