@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T13:57:59.105504+00:00",
+  "updated_at": "2026-11-01T14:52:16.879678+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,73 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "zimbabwe vs afghanistan",
+          "created_at": "Sun, 1 Nov 2026 06:40:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "racing santander vs real madrid",
+          "created_at": "Sun, 1 Nov 2026 06:30:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "رسينغ ضد الريال",
+          "created_at": "Sun, 1 Nov 2026 06:20:00 -0800",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الدولار في مصر",
+          "created_at": "Sun, 1 Nov 2026 06:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "afg vs zim",
+          "created_at": "Sun, 1 Nov 2026 06:00:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "como 1907 vs venezia fc standings",
+          "created_at": "Sun, 1 Nov 2026 05:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "تهريب",
           "created_at": "Sun, 1 Nov 2026 05:50:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "200+",
+            "growth_percent": -90.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "برنامج خادم الحرمين الشريفين للابتعاث",
+          "created_at": "Sun, 1 Nov 2026 05:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
@@ -21,7 +84,7 @@
           "created_at": "Sun, 1 Nov 2026 05:30:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,71 +92,8 @@
           "text": "janakpur bolts vs pokhara avengers",
           "created_at": "Sun, 1 Nov 2026 05:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سار",
-          "created_at": "Sun, 1 Nov 2026 05:20:00 -0800",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "arsenal vs aston villa",
-          "created_at": "Sun, 1 Nov 2026 05:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "qatar",
-          "created_at": "Sun, 1 Nov 2026 04:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طرابزون سبور ضد غازي عنتاب",
-          "created_at": "Sun, 1 Nov 2026 04:40:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "trabzonspor vs gaziantep",
-          "created_at": "Sun, 1 Nov 2026 04:40:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
             "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "getafe vs sevilla",
-          "created_at": "Sun, 1 Nov 2026 04:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ire vs nam",
-          "created_at": "Sun, 1 Nov 2026 04:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
           }
         }
       ]

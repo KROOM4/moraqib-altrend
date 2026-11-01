@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-01T13:57:59.105504+00:00",
+  "updated_at": "2026-11-01T14:52:16.879678+00:00",
   "trends": {
+    "zimbabwe vs afghanistan": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-11-01T14:52:16.879678+00:00"
+    },
+    "racing santander vs real madrid": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-11-01T14:52:16.879678+00:00"
+    },
+    "رسينغ ضد الريال": {
+      "volume": 10000.0,
+      "raw_volume": "10000+",
+      "updated_at": "2026-11-01T14:52:16.879678+00:00"
+    },
+    "سعر الدولار في مصر": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-01T14:52:16.879678+00:00"
+    },
+    "afg vs zim": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-11-01T14:52:16.879678+00:00"
+    },
+    "como 1907 vs venezia fc standings": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-01T14:52:16.879678+00:00"
+    },
     "تهريب": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-11-01T13:57:59.105504+00:00"
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-01T14:52:16.879678+00:00"
+    },
+    "برنامج خادم الحرمين الشريفين للابتعاث": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-01T14:52:16.879678+00:00"
     },
     "صندوق تنمية الموارد البشرية": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-11-01T13:57:59.105504+00:00"
+      "updated_at": "2026-11-01T14:52:16.879678+00:00"
     },
     "janakpur bolts vs pokhara avengers": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-01T13:57:59.105504+00:00"
-    },
-    "سار": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-01T13:57:59.105504+00:00"
-    },
-    "arsenal vs aston villa": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-01T13:57:59.105504+00:00"
-    },
-    "qatar": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-01T13:57:59.105504+00:00"
-    },
-    "طرابزون سبور ضد غازي عنتاب": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-11-01T13:57:59.105504+00:00"
-    },
-    "trabzonspor vs gaziantep": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-01T13:57:59.105504+00:00"
-    },
-    "getafe vs sevilla": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-01T13:57:59.105504+00:00"
-    },
-    "ire vs nam": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-01T13:57:59.105504+00:00"
+      "updated_at": "2026-11-01T14:52:16.879678+00:00"
     }
   }
 }
