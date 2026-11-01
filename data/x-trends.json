@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T16:52:07.976595+00:00",
+  "updated_at": "2026-11-01T17:48:46.319711+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,26 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "liverpool vs arsenal",
-          "created_at": "Sun, 1 Nov 2026 07:40:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ليفربول ضد آرسنال",
-          "created_at": "Sun, 1 Nov 2026 07:40:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "boeing 787 dreamliner",
-          "created_at": "Sun, 1 Nov 2026 07:40:00 -0800",
+          "text": "كأس آسيا 2027",
+          "created_at": "Sun, 1 Nov 2026 09:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -35,17 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ايجار",
-          "created_at": "Sun, 1 Nov 2026 07:30:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "لاتسيو ضد كالياري",
-          "created_at": "Sun, 1 Nov 2026 07:30:00 -0800",
+          "text": "paris fc vs monaco",
+          "created_at": "Sun, 1 Nov 2026 09:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -53,47 +26,74 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منتخب مصر لكرة القدم",
-          "created_at": "Sun, 1 Nov 2026 07:20:00 -0800",
+          "text": "كيليان مبابي",
+          "created_at": "Sun, 1 Nov 2026 09:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kylian mbappé",
+          "created_at": "Sun, 1 Nov 2026 09:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lazio vs cagliari",
-          "created_at": "Sun, 1 Nov 2026 07:20:00 -0800",
+          "text": "elche vs valencia",
+          "created_at": "Sun, 1 Nov 2026 09:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "باريس ضد موناكو",
+          "created_at": "Sun, 1 Nov 2026 09:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "racing santander vs madrid",
-          "created_at": "Sun, 1 Nov 2026 07:10:00 -0800",
+          "text": "قاسم باشا ضد بشكتاش",
+          "created_at": "Sun, 1 Nov 2026 09:10:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الدولار اليوم مقابل الجنيه المصري",
-          "created_at": "Sun, 1 Nov 2026 07:00:00 -0800",
+          "text": "ol vs angers",
+          "created_at": "Sun, 1 Nov 2026 09:00:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "aramco humain ai stake deal",
-          "created_at": "Sun, 1 Nov 2026 06:50:00 -0800",
+          "text": "liverpool",
+          "created_at": "Sun, 1 Nov 2026 08:40:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مركز حدود جابر",
+          "created_at": "Sun, 1 Nov 2026 08:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
           }
         }
       ]
