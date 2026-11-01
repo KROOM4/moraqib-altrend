@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T11:53:47.294785+00:00",
+  "updated_at": "2026-11-01T13:09:02.174270+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,92 +8,92 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "arsenal vs aston villa",
+          "created_at": "Sun, 1 Nov 2026 05:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "qatar",
+          "created_at": "Sun, 1 Nov 2026 04:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طرابزون سبور ضد غازي عنتاب",
+          "created_at": "Sun, 1 Nov 2026 04:40:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "trabzonspor vs gaziantep",
+          "created_at": "Sun, 1 Nov 2026 04:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "getafe vs sevilla",
+          "created_at": "Sun, 1 Nov 2026 04:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ire vs nam",
+          "created_at": "Sun, 1 Nov 2026 04:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طائر",
+          "created_at": "Sun, 1 Nov 2026 04:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "موعد اذان العصر",
+          "created_at": "Sun, 1 Nov 2026 04:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ماما نجوى ابراهيم",
+          "created_at": "Sun, 1 Nov 2026 03:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "moeen ali",
           "created_at": "Sun, 1 Nov 2026 03:40:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "como vs venezia",
-          "created_at": "Sun, 1 Nov 2026 03:00:00 -0800",
-          "metrics": {
             "search_volume": "500+",
             "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "বাংলাদেশ",
-          "created_at": "Sun, 1 Nov 2026 02:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": -60.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الاتحاد والعين",
-          "created_at": "Sun, 1 Nov 2026 02:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "finn allen",
-          "created_at": "Sun, 1 Nov 2026 02:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دولار",
-          "created_at": "Sun, 1 Nov 2026 01:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "prince yadav",
-          "created_at": "Sun, 1 Nov 2026 01:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "americano",
-          "created_at": "Sun, 1 Nov 2026 01:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "starbucks",
-          "created_at": "Sun, 1 Nov 2026 01:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "crypto exchange binance hacked",
-          "created_at": "Sun, 1 Nov 2026 01:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": -50.0
           }
         }
       ]
