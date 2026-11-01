@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T08:29:16.998872+00:00",
+  "updated_at": "2026-11-01T09:25:48.941945+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gulbadin naib",
-          "created_at": "Sun, 1 Nov 2026 01:00:00 -0700",
+          "text": "crypto exchange binance hacked",
+          "created_at": "Sun, 1 Nov 2026 01:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "persib bandung vs adhyaksa",
+          "created_at": "Sun, 1 Nov 2026 01:50:00 -0700",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,8 +26,44 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "varun chakaravarthy",
+          "created_at": "Sun, 1 Nov 2026 01:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "gulbadin naib",
+          "created_at": "Sun, 1 Nov 2026 01:00:00 -0700",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "هيوماين",
           "created_at": "Sun, 1 Nov 2026 01:00:00 -0700",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مناخ",
+          "created_at": "Sun, 1 Nov 2026 01:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ranking",
+          "created_at": "Sun, 1 Nov 2026 00:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -30,7 +75,7 @@
           "created_at": "Sun, 1 Nov 2026 00:20:00 -0700",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,59 +83,14 @@
           "text": "heidi klum",
           "created_at": "Sun, 1 Nov 2026 00:10:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "australia vs afghanistan",
           "created_at": "Sun, 1 Nov 2026 00:00:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "india vs new zealand",
-          "created_at": "Sat, 31 Oct 2026 23:40:00 -0700",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pak vs oma",
-          "created_at": "Sat, 31 Oct 2026 23:20:00 -0700",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "king khalid international airport",
-          "created_at": "Sat, 31 Oct 2026 23:20:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جورج وسوف",
-          "created_at": "Sat, 31 Oct 2026 23:10:00 -0700",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "england vs south africa",
-          "created_at": "Sat, 31 Oct 2026 22:10:00 -0700",
           "metrics": {
             "search_volume": "10000+",
             "growth_percent": 0.0
