@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T01:27:10.295166+00:00",
+  "updated_at": "2026-11-01T02:30:15.000915+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "hong kong vs sri lanka",
+          "created_at": "Sat, 31 Oct 2026 19:20:00 -0700",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حبيب الصايغ",
+          "created_at": "Sat, 31 Oct 2026 19:10:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "krunal pandya",
+          "created_at": "Sat, 31 Oct 2026 18:50:00 -0700",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bhuvneshwar kumar",
+          "created_at": "Sat, 31 Oct 2026 18:30:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "bangladesh vs india",
           "created_at": "Sat, 31 Oct 2026 18:10:00 -0700",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "10000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -20,7 +56,16 @@
           "text": "ban vs ind",
           "created_at": "Sat, 31 Oct 2026 17:50:00 -0700",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "2000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "صبا مبارك",
+          "created_at": "Sat, 31 Oct 2026 17:50:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -29,8 +74,8 @@
           "text": "hornets vs 76ers",
           "created_at": "Sat, 31 Oct 2026 17:00:00 -0700",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,16 +84,7 @@
           "created_at": "Sat, 31 Oct 2026 16:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sports",
-          "created_at": "Sat, 31 Oct 2026 16:50:00 -0700",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,44 +92,8 @@
           "text": "সৌদি আরব",
           "created_at": "Sat, 31 Oct 2026 16:10:00 -0700",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سلاح",
-          "created_at": "Sat, 31 Oct 2026 15:50:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "aston villa vs fulham f.c. standings",
-          "created_at": "Sat, 31 Oct 2026 15:40:00 -0700",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fc barcelona vs deportivo alavés standings",
-          "created_at": "Sat, 31 Oct 2026 15:10:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ac milan vs inter milan standings",
-          "created_at": "Sat, 31 Oct 2026 15:10:00 -0700",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         }
       ]
