@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T03:30:07.475982+00:00",
+  "updated_at": "2026-11-01T04:32:35.259604+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تسجيل",
+          "created_at": "Sat, 31 Oct 2026 21:00:00 -0700",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منصه",
+          "created_at": "Sat, 31 Oct 2026 20:40:00 -0700",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sa",
+          "created_at": "Sat, 31 Oct 2026 20:40:00 -0700",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "زفاف",
           "created_at": "Sat, 31 Oct 2026 20:10:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +48,7 @@
           "created_at": "Sat, 31 Oct 2026 19:50:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +56,8 @@
           "text": "hong kong vs sri lanka",
           "created_at": "Sat, 31 Oct 2026 19:20:00 -0700",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 400.0
+            "search_volume": "10000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,8 +65,8 @@
           "text": "sl vs hk",
           "created_at": "Sat, 31 Oct 2026 19:20:00 -0700",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 300.0
           }
         },
         {
@@ -57,40 +84,13 @@
           "created_at": "Sat, 31 Oct 2026 18:50:00 -0700",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": -95.0
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "bhuvneshwar kumar",
           "created_at": "Sat, 31 Oct 2026 18:30:00 -0700",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bangladesh vs india",
-          "created_at": "Sat, 31 Oct 2026 18:10:00 -0700",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ban vs ind",
-          "created_at": "Sat, 31 Oct 2026 17:50:00 -0700",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صبا مبارك",
-          "created_at": "Sat, 31 Oct 2026 17:50:00 -0700",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
