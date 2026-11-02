@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T05:43:10.191356+00:00",
+  "updated_at": "2026-11-02T06:47:56.090777+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "oman vs netherlands",
+          "created_at": "Sun, 1 Nov 2026 21:40:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الاثنين",
+          "created_at": "Sun, 1 Nov 2026 20:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kimi antonelli",
+          "created_at": "Sun, 1 Nov 2026 20:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "وزارة التعليم",
           "created_at": "Sun, 1 Nov 2026 20:30:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +48,7 @@
           "created_at": "Sun, 1 Nov 2026 20:10:00 -0800",
           "metrics": {
             "search_volume": "10000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +57,7 @@
           "created_at": "Sun, 1 Nov 2026 20:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +65,8 @@
           "text": "نادي شباب الأهلي",
           "created_at": "Sun, 1 Nov 2026 20:00:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +75,7 @@
           "created_at": "Sun, 1 Nov 2026 20:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,7 +84,7 @@
           "created_at": "Sun, 1 Nov 2026 19:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -67,33 +94,6 @@
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عام دراسي",
-          "created_at": "Sun, 1 Nov 2026 19:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lakers vs raptors",
-          "created_at": "Sun, 1 Nov 2026 19:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "warriors vs clippers",
-          "created_at": "Sun, 1 Nov 2026 19:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
