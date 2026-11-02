@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T02:33:13.007479+00:00",
+  "updated_at": "2026-11-02T03:35:56.068325+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ذهب",
-          "created_at": "Sun, 1 Nov 2026 18:20:00 -0800",
+          "text": "haley stevens",
+          "created_at": "Sun, 1 Nov 2026 19:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,10 +17,46 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mls",
-          "created_at": "Sun, 1 Nov 2026 18:10:00 -0800",
+          "text": "عام دراسي",
+          "created_at": "Sun, 1 Nov 2026 19:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "lakers vs raptors",
+          "created_at": "Sun, 1 Nov 2026 19:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "warriors vs clippers",
+          "created_at": "Sun, 1 Nov 2026 19:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ذهب",
+          "created_at": "Sun, 1 Nov 2026 18:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "آيفون ديو",
+          "created_at": "Sun, 1 Nov 2026 17:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -29,8 +65,8 @@
           "text": "jersey airport",
           "created_at": "Sun, 1 Nov 2026 17:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,16 +75,7 @@
           "created_at": "Sun, 1 Nov 2026 16:40:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "inter miami",
-          "created_at": "Sun, 1 Nov 2026 16:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,8 +83,8 @@
           "text": "طقس",
           "created_at": "Sun, 1 Nov 2026 16:30:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -65,35 +92,8 @@
           "text": "عبد المجيد عبد الله",
           "created_at": "Sun, 1 Nov 2026 16:20:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new england vs inter miami",
-          "created_at": "Sun, 1 Nov 2026 15:40:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نيو إنجلاند ضد إنتر ميامي",
-          "created_at": "Sun, 1 Nov 2026 15:40:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "learjet 60",
-          "created_at": "Sun, 1 Nov 2026 14:40:00 -0800",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": 100.0
           }
         }
       ]
