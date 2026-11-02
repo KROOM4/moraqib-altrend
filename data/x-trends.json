@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T16:17:53.502125+00:00",
+  "updated_at": "2026-11-02T17:39:05.544365+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,74 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كأس خادم الحرمين الشريفين",
+          "created_at": "Mon, 2 Nov 2026 09:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kimi",
+          "created_at": "Mon, 2 Nov 2026 09:30:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sassuolo vs fiorentina",
+          "created_at": "Mon, 2 Nov 2026 09:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الزمالك",
+          "created_at": "Mon, 2 Nov 2026 08:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مباراة الاهلي",
+          "created_at": "Mon, 2 Nov 2026 08:30:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نادر أبو الليف",
+          "created_at": "Mon, 2 Nov 2026 08:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "chitwan rhinos cricket vs sudurpaschim royals standings",
+          "created_at": "Mon, 2 Nov 2026 08:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "al wasl vs al-quwa al-jawiya",
           "created_at": "Mon, 2 Nov 2026 07:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -20,8 +83,8 @@
           "text": "al sadd vs al-ahli",
           "created_at": "Mon, 2 Nov 2026 07:30:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -29,71 +92,8 @@
           "text": "قاعدة العند الجوية",
           "created_at": "Mon, 2 Nov 2026 07:30:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "السد ضد الأهلي",
-          "created_at": "Mon, 2 Nov 2026 07:10:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "القوات الخاصة للأمن البيئي",
-          "created_at": "Mon, 2 Nov 2026 06:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كاس اسيا",
-          "created_at": "Mon, 2 Nov 2026 06:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الفحص الدوري",
-          "created_at": "Mon, 2 Nov 2026 06:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المغرب",
-          "created_at": "Mon, 2 Nov 2026 06:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "tadawul all-share index",
-          "created_at": "Mon, 2 Nov 2026 05:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الاتحاد ضد العين",
-          "created_at": "Mon, 2 Nov 2026 05:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": 300.0
           }
         }
       ]
