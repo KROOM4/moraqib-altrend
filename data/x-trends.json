@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T06:47:56.090777+00:00",
+  "updated_at": "2026-11-02T08:32:56.553474+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,19 +8,82 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "oman vs netherlands",
-          "created_at": "Sun, 1 Nov 2026 21:40:00 -0800",
+          "text": "test",
+          "created_at": "Mon, 2 Nov 2026 00:20:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الاثنين",
-          "created_at": "Sun, 1 Nov 2026 20:50:00 -0800",
+          "text": "تحطم طائرة",
+          "created_at": "Sun, 1 Nov 2026 23:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ഒമാന്",
+          "created_at": "Sun, 1 Nov 2026 23:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الدولار اليوم مقابل الجنيه المصري",
+          "created_at": "Sun, 1 Nov 2026 23:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "رامز جلال",
+          "created_at": "Sun, 1 Nov 2026 23:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al-nassr fc",
+          "created_at": "Sun, 1 Nov 2026 22:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وليد الفراج",
+          "created_at": "Sun, 1 Nov 2026 22:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "oman vs netherlands",
+          "created_at": "Sun, 1 Nov 2026 21:40:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "teams",
+          "created_at": "Sun, 1 Nov 2026 20:50:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
@@ -29,71 +92,8 @@
           "text": "kimi antonelli",
           "created_at": "Sun, 1 Nov 2026 20:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزارة التعليم",
-          "created_at": "Sun, 1 Nov 2026 20:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منصه",
-          "created_at": "Sun, 1 Nov 2026 20:10:00 -0800",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "te",
-          "created_at": "Sun, 1 Nov 2026 20:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي شباب الأهلي",
-          "created_at": "Sun, 1 Nov 2026 20:00:00 -0800",
-          "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المرحلة",
-          "created_at": "Sun, 1 Nov 2026 20:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "edge",
-          "created_at": "Sun, 1 Nov 2026 19:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الابتدائية",
-          "created_at": "Sun, 1 Nov 2026 19:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": 900.0
           }
         }
       ]
