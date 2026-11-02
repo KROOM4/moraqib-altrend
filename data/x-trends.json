@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T03:35:56.068325+00:00",
+  "updated_at": "2026-11-02T04:42:15.790951+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,46 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "haley stevens",
-          "created_at": "Sun, 1 Nov 2026 19:20:00 -0800",
+          "text": "منصه",
+          "created_at": "Sun, 1 Nov 2026 20:10:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نادي شباب الأهلي",
+          "created_at": "Sun, 1 Nov 2026 20:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "المرحلة",
+          "created_at": "Sun, 1 Nov 2026 20:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "edge",
+          "created_at": "Sun, 1 Nov 2026 19:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الابتدائية",
+          "created_at": "Sun, 1 Nov 2026 19:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -21,7 +57,16 @@
           "created_at": "Sun, 1 Nov 2026 19:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "warriors vs clippers",
+          "created_at": "Sun, 1 Nov 2026 19:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,16 +75,7 @@
           "created_at": "Sun, 1 Nov 2026 19:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "warriors vs clippers",
-          "created_at": "Sun, 1 Nov 2026 19:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +84,7 @@
           "created_at": "Sun, 1 Nov 2026 18:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,43 +93,7 @@
           "created_at": "Sun, 1 Nov 2026 17:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jersey airport",
-          "created_at": "Sun, 1 Nov 2026 17:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عاصفة رعدية",
-          "created_at": "Sun, 1 Nov 2026 16:40:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طقس",
-          "created_at": "Sun, 1 Nov 2026 16:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عبد المجيد عبد الله",
-          "created_at": "Sun, 1 Nov 2026 16:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
           }
         }
       ]
