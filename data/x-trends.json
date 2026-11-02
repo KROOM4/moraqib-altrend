@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T23:48:41.040772+00:00",
+  "updated_at": "2026-11-02T01:26:58.425200+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new england vs inter miami",
-          "created_at": "Sun, 1 Nov 2026 15:40:00 -0800",
+          "text": "عاصفة رعدية",
+          "created_at": "Sun, 1 Nov 2026 16:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طقس",
+          "created_at": "Sun, 1 Nov 2026 16:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "new england vs inter miami",
+          "created_at": "Sun, 1 Nov 2026 15:40:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": 900.0
           }
         },
         {
@@ -20,8 +38,8 @@
           "text": "نيو إنجلاند ضد إنتر ميامي",
           "created_at": "Sun, 1 Nov 2026 15:40:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -29,8 +47,8 @@
           "text": "learjet 60",
           "created_at": "Sun, 1 Nov 2026 14:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,7 +57,7 @@
           "created_at": "Sun, 1 Nov 2026 14:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,8 +65,8 @@
           "text": "atlanta united vs toronto",
           "created_at": "Sun, 1 Nov 2026 14:20:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -57,7 +75,7 @@
           "created_at": "Sun, 1 Nov 2026 13:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -76,24 +94,6 @@
           "metrics": {
             "search_volume": "500+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "f1",
-          "created_at": "Sun, 1 Nov 2026 12:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كسوف",
-          "created_at": "Sun, 1 Nov 2026 12:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
           }
         }
       ]
