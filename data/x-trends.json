@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T15:10:18.351055+00:00",
+  "updated_at": "2026-11-02T16:17:53.502125+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,43 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الفحص الدوري",
+          "text": "al wasl vs al-quwa al-jawiya",
+          "created_at": "Mon, 2 Nov 2026 07:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al sadd vs al-ahli",
+          "created_at": "Mon, 2 Nov 2026 07:30:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "قاعدة العند الجوية",
+          "created_at": "Mon, 2 Nov 2026 07:30:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "السد ضد الأهلي",
+          "created_at": "Mon, 2 Nov 2026 07:10:00 -0800",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "القوات الخاصة للأمن البيئي",
           "created_at": "Mon, 2 Nov 2026 06:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
@@ -17,11 +53,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كاس اسيا",
+          "created_at": "Mon, 2 Nov 2026 06:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الفحص الدوري",
+          "created_at": "Mon, 2 Nov 2026 06:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "المغرب",
           "created_at": "Mon, 2 Nov 2026 06:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +84,7 @@
           "created_at": "Mon, 2 Nov 2026 05:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,60 +93,6 @@
           "created_at": "Mon, 2 Nov 2026 05:30:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pakhtakor vs al-nassr",
-          "created_at": "Mon, 2 Nov 2026 05:00:00 -0800",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "باختاكور ضد النصر",
-          "created_at": "Mon, 2 Nov 2026 04:50:00 -0800",
-          "metrics": {
-            "search_volume": "50000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تحطم طائرة فلوريدا",
-          "created_at": "Mon, 2 Nov 2026 04:30:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مطار حمد الدولي",
-          "created_at": "Mon, 2 Nov 2026 04:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أصالة",
-          "created_at": "Mon, 2 Nov 2026 04:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تاكر كارلسون",
-          "created_at": "Mon, 2 Nov 2026 04:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
