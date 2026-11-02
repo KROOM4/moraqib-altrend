@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T19:39:38.823649+00:00",
+  "updated_at": "2026-11-02T20:28:52.940824+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,73 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "newcastle vs everton",
-          "created_at": "Mon, 2 Nov 2026 11:20:00 -0800",
+          "text": "atalanta vs parma",
+          "created_at": "Mon, 2 Nov 2026 12:20:00 -0800",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ساما",
+          "created_at": "Mon, 2 Nov 2026 12:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "nepal premier league cricket",
+          "created_at": "Mon, 2 Nov 2026 12:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "benfica vs alverca",
+          "created_at": "Mon, 2 Nov 2026 12:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "البنك المركزي السعودي",
+          "created_at": "Mon, 2 Nov 2026 12:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الاهلي المصري",
+          "created_at": "Mon, 2 Nov 2026 12:00:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سياحة",
+          "created_at": "Mon, 2 Nov 2026 11:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مناخ",
+          "created_at": "Mon, 2 Nov 2026 11:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -20,79 +83,16 @@
           "text": "نيوكاسل يونايتد ضد إيفرتون",
           "created_at": "Mon, 2 Nov 2026 11:20:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كاكا",
-          "created_at": "Mon, 2 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "smuggling",
-          "created_at": "Mon, 2 Nov 2026 10:40:00 -0800",
+          "text": "newcastle vs everton",
+          "created_at": "Mon, 2 Nov 2026 11:20:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "يلا كورة مباريات اليوم",
-          "created_at": "Mon, 2 Nov 2026 10:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ساسولو ضد فيورنتينا",
-          "created_at": "Mon, 2 Nov 2026 10:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "لايف",
-          "created_at": "Mon, 2 Nov 2026 10:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بي بي سي عربي",
-          "created_at": "Mon, 2 Nov 2026 10:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قطاع خاص",
-          "created_at": "Mon, 2 Nov 2026 10:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كورة مباريات اليوم مباشر",
-          "created_at": "Mon, 2 Nov 2026 10:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 100.0
           }
         }
