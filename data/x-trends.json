@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T16:34:55.925497+00:00",
+  "updated_at": "2026-11-03T17:35:59.751395+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,16 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "توزيع أرباح أرامكو الربع الثالث",
+          "text": "galatasaray vs vfb stuttgart",
+          "created_at": "Tue, 3 Nov 2026 09:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "saudi aramco q3 2026 earnings",
           "created_at": "Tue, 3 Nov 2026 08:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
@@ -17,8 +26,26 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "توزيع أرباح أرامكو الربع الثالث",
+          "created_at": "Tue, 3 Nov 2026 08:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "iphone",
           "created_at": "Tue, 3 Nov 2026 08:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "মৌসুমী",
+          "created_at": "Tue, 3 Nov 2026 08:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -30,6 +57,15 @@
           "created_at": "Tue, 3 Nov 2026 07:20:00 -0800",
           "metrics": {
             "search_volume": "2000+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "انتخابات امريكا",
+          "created_at": "Tue, 3 Nov 2026 07:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -39,16 +75,7 @@
           "created_at": "Tue, 3 Nov 2026 07:10:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 300.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عجز في الميزانية",
-          "created_at": "Tue, 3 Nov 2026 07:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,40 +84,13 @@
           "created_at": "Tue, 3 Nov 2026 06:50:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "مرتضى منصور والهام شاهين",
           "created_at": "Tue, 3 Nov 2026 06:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bomb threat",
-          "created_at": "Tue, 3 Nov 2026 06:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كريم فهمي",
-          "created_at": "Tue, 3 Nov 2026 05:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ന്യൂസ്",
-          "created_at": "Tue, 3 Nov 2026 05:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
