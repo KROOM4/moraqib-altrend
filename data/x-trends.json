@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T22:24:28.342811+00:00",
+  "updated_at": "2026-11-03T23:24:53.949163+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "uefa champions league",
+          "created_at": "Tue, 3 Nov 2026 14:30:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "fc barcelona vs aston villa standings",
           "created_at": "Tue, 3 Nov 2026 14:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -20,17 +29,8 @@
           "text": "atlético madrid vs bayern munich standings",
           "created_at": "Tue, 3 Nov 2026 14:10:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lamine yamal",
-          "created_at": "Tue, 3 Nov 2026 14:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,16 +39,16 @@
           "created_at": "Tue, 3 Nov 2026 14:00:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مباريات دوري أبطال أوروبا",
-          "created_at": "Tue, 3 Nov 2026 14:00:00 -0800",
+          "text": "أمن غذائي",
+          "created_at": "Tue, 3 Nov 2026 13:50:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -56,13 +56,13 @@
           "text": "كهرباء",
           "created_at": "Tue, 3 Nov 2026 13:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أمن غذائي",
+          "text": "نونو إسبيريتو سانتو",
           "created_at": "Tue, 3 Nov 2026 13:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
@@ -74,8 +74,8 @@
           "text": "رانيا العبد الله",
           "created_at": "Tue, 3 Nov 2026 13:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -89,11 +89,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ucl",
+          "text": "zion suzuki",
           "created_at": "Tue, 3 Nov 2026 12:50:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         }
       ]
