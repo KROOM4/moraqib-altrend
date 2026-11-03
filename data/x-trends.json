@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T12:00:16.837556+00:00",
+  "updated_at": "2026-11-03T13:24:51.081679+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,65 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jesús de miguel",
-          "created_at": "Tue, 3 Nov 2026 03:20:00 -0800",
+          "text": "الكوبرا",
+          "created_at": "Tue, 3 Nov 2026 05:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "زين",
+          "created_at": "Tue, 3 Nov 2026 05:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حفل زفاف عبير الصغير",
+          "created_at": "Tue, 3 Nov 2026 04:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وزارة العمل والتنمية الاجتماعية",
+          "created_at": "Tue, 3 Nov 2026 04:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ginebra vs san miguel",
+          "created_at": "Tue, 3 Nov 2026 04:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "us election",
+          "created_at": "Tue, 3 Nov 2026 04:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "jesús de miguel",
+          "created_at": "Tue, 3 Nov 2026 03:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,7 +75,7 @@
           "created_at": "Tue, 3 Nov 2026 03:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +84,7 @@
           "created_at": "Tue, 3 Nov 2026 03:00:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 900.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,60 +93,6 @@
           "created_at": "Tue, 3 Nov 2026 02:40:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي الدحيل الرياضي",
-          "created_at": "Tue, 3 Nov 2026 02:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "biratnagar kings vs janakpur bolts",
-          "created_at": "Tue, 3 Nov 2026 02:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jesus de miguel",
-          "created_at": "Tue, 3 Nov 2026 02:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "helen sharp",
-          "created_at": "Tue, 3 Nov 2026 01:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "afc asian cup",
-          "created_at": "Tue, 3 Nov 2026 01:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد رمضان",
-          "created_at": "Tue, 3 Nov 2026 01:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
