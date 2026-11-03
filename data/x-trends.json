@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T05:37:08.485292+00:00",
+  "updated_at": "2026-11-03T06:40:05.385879+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,37 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كارل بوشبي",
+          "created_at": "Mon, 2 Nov 2026 22:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هطول",
+          "created_at": "Mon, 2 Nov 2026 21:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "الثلاثاء",
           "created_at": "Mon, 2 Nov 2026 20:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منصه",
+          "created_at": "Mon, 2 Nov 2026 20:30:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
@@ -20,8 +47,8 @@
           "text": "منصة",
           "created_at": "Mon, 2 Nov 2026 20:20:00 -0800",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 900.0
+            "search_volume": "1000+",
+            "growth_percent": -80.0
           }
         },
         {
@@ -29,8 +56,8 @@
           "text": "lakers vs heat",
           "created_at": "Mon, 2 Nov 2026 20:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -38,8 +65,8 @@
           "text": "warriors vs suns",
           "created_at": "Mon, 2 Nov 2026 19:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -48,52 +75,25 @@
           "created_at": "Mon, 2 Nov 2026 19:40:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ابو الليف",
-          "created_at": "Mon, 2 Nov 2026 19:10:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عريس",
-          "created_at": "Mon, 2 Nov 2026 18:50:00 -0800",
+          "text": "iran news",
+          "created_at": "Mon, 2 Nov 2026 19:30:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "العربية الخليج",
-          "created_at": "Mon, 2 Nov 2026 18:40:00 -0800",
+          "text": "زواج",
+          "created_at": "Mon, 2 Nov 2026 19:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "76ers vs bulls",
-          "created_at": "Mon, 2 Nov 2026 18:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ذهب",
-          "created_at": "Mon, 2 Nov 2026 18:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         }
       ]
