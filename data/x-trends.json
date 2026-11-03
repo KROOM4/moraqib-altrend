@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T18:28:53.159656+00:00",
+  "updated_at": "2026-11-03T19:35:58.461397+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,35 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الهلال",
-          "created_at": "Tue, 3 Nov 2026 10:20:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "houthis attack saudi arabia",
-          "created_at": "Tue, 3 Nov 2026 10:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "météo demain",
-          "created_at": "Tue, 3 Nov 2026 10:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترامب",
-          "created_at": "Tue, 3 Nov 2026 10:00:00 -0800",
+          "text": "feyenoord vs inter",
+          "created_at": "Tue, 3 Nov 2026 11:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -44,17 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الطقس غدًا",
-          "created_at": "Tue, 3 Nov 2026 09:50:00 -0800",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cuaca besok",
-          "created_at": "Tue, 3 Nov 2026 09:50:00 -0800",
+          "text": "فيينورد ضد الإنتر",
+          "created_at": "Tue, 3 Nov 2026 11:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -62,17 +26,26 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "galatasaray - stuttgart",
-          "created_at": "Tue, 3 Nov 2026 09:40:00 -0800",
+          "text": "برشلونة ضد أستون فيلا",
+          "created_at": "Tue, 3 Nov 2026 11:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "5000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "غلطة سراي ضد شتوتغارت",
-          "created_at": "Tue, 3 Nov 2026 09:00:00 -0800",
+          "text": "barcelona vs aston villa",
+          "created_at": "Tue, 3 Nov 2026 11:10:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "man utd vs roma",
+          "created_at": "Tue, 3 Nov 2026 11:10:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -80,20 +53,47 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "galatasaray vs vfb stuttgart",
-          "created_at": "Tue, 3 Nov 2026 09:00:00 -0800",
+          "text": "أتلتيكو مدريد ضد البايرن",
+          "created_at": "Tue, 3 Nov 2026 11:10:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saudi aramco q3 2026 earnings",
-          "created_at": "Tue, 3 Nov 2026 08:20:00 -0800",
+          "text": "atlético vs bayern",
+          "created_at": "Tue, 3 Nov 2026 11:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "villarreal vs psg",
+          "created_at": "Tue, 3 Nov 2026 11:10:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "فياريال ضد بي اس جي",
+          "created_at": "Tue, 3 Nov 2026 11:10:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مان يونايتد ضد روما",
+          "created_at": "Tue, 3 Nov 2026 11:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
           }
         }
       ]
