@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T17:35:59.751395+00:00",
+  "updated_at": "2026-11-03T18:28:53.159656+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,83 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الهلال",
+          "created_at": "Tue, 3 Nov 2026 10:20:00 -0800",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "houthis attack saudi arabia",
+          "created_at": "Tue, 3 Nov 2026 10:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "météo demain",
+          "created_at": "Tue, 3 Nov 2026 10:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ترامب",
+          "created_at": "Tue, 3 Nov 2026 10:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الطقس غدًا",
+          "created_at": "Tue, 3 Nov 2026 09:50:00 -0800",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "cuaca besok",
+          "created_at": "Tue, 3 Nov 2026 09:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "galatasaray - stuttgart",
+          "created_at": "Tue, 3 Nov 2026 09:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "غلطة سراي ضد شتوتغارت",
+          "created_at": "Tue, 3 Nov 2026 09:00:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "galatasaray vs vfb stuttgart",
           "created_at": "Tue, 3 Nov 2026 09:00:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,78 +93,6 @@
           "created_at": "Tue, 3 Nov 2026 08:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "توزيع أرباح أرامكو الربع الثالث",
-          "created_at": "Tue, 3 Nov 2026 08:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "iphone",
-          "created_at": "Tue, 3 Nov 2026 08:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "মৌসুমী",
-          "created_at": "Tue, 3 Nov 2026 08:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كلاودينيو",
-          "created_at": "Tue, 3 Nov 2026 07:20:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "انتخابات امريكا",
-          "created_at": "Tue, 3 Nov 2026 07:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "استقلال ضد الشمال",
-          "created_at": "Tue, 3 Nov 2026 07:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الهلال وشباب الأهلي",
-          "created_at": "Tue, 3 Nov 2026 06:50:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مرتضى منصور والهام شاهين",
-          "created_at": "Tue, 3 Nov 2026 06:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         }
