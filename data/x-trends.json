@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T00:19:14.872133+00:00",
+  "updated_at": "2026-11-03T01:46:07.302972+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -12,7 +12,7 @@
           "created_at": "Mon, 2 Nov 2026 15:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +30,7 @@
           "created_at": "Mon, 2 Nov 2026 14:30:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +38,8 @@
           "text": "bragantino vs santos",
           "created_at": "Mon, 2 Nov 2026 14:20:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +48,7 @@
           "created_at": "Mon, 2 Nov 2026 13:50:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -62,20 +62,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أتالانتا ضد بارما",
-          "created_at": "Mon, 2 Nov 2026 13:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "لجين عمران",
           "created_at": "Mon, 2 Nov 2026 13:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "zelda",
+          "created_at": "Mon, 2 Nov 2026 13:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -89,10 +89,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جبل الفأس ايران",
-          "created_at": "Mon, 2 Nov 2026 12:40:00 -0800",
+          "text": "أتالانتا ضد بارما",
+          "created_at": "Mon, 2 Nov 2026 13:30:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
