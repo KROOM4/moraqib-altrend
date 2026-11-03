@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T04:34:19.074026+00:00",
+  "updated_at": "2026-11-03T05:37:08.485292+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الثلاثاء",
+          "created_at": "Mon, 2 Nov 2026 20:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "منصة",
           "created_at": "Mon, 2 Nov 2026 20:20:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 900.0
           }
         },
         {
@@ -20,8 +29,8 @@
           "text": "lakers vs heat",
           "created_at": "Mon, 2 Nov 2026 20:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +39,7 @@
           "created_at": "Mon, 2 Nov 2026 19:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +47,8 @@
           "text": "وزارة التعليم",
           "created_at": "Mon, 2 Nov 2026 19:40:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +57,7 @@
           "created_at": "Mon, 2 Nov 2026 19:10:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,8 +65,8 @@
           "text": "عريس",
           "created_at": "Mon, 2 Nov 2026 18:50:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -66,7 +75,7 @@
           "created_at": "Mon, 2 Nov 2026 18:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -75,22 +84,13 @@
           "created_at": "Mon, 2 Nov 2026 18:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "ذهب",
           "created_at": "Mon, 2 Nov 2026 18:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "court",
-          "created_at": "Mon, 2 Nov 2026 18:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
