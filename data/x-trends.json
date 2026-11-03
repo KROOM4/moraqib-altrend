@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T03:33:10.923115+00:00",
+  "updated_at": "2026-11-03T04:34:19.074026+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عريس",
-          "created_at": "Mon, 2 Nov 2026 18:50:00 -0800",
+          "text": "منصة",
+          "created_at": "Mon, 2 Nov 2026 20:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "lakers vs heat",
+          "created_at": "Mon, 2 Nov 2026 20:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,11 +26,38 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "76ers vs bulls",
-          "created_at": "Mon, 2 Nov 2026 18:40:00 -0800",
+          "text": "warriors vs suns",
+          "created_at": "Mon, 2 Nov 2026 19:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وزارة التعليم",
+          "created_at": "Mon, 2 Nov 2026 19:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ابو الليف",
+          "created_at": "Mon, 2 Nov 2026 19:10:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عريس",
+          "created_at": "Mon, 2 Nov 2026 18:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +65,17 @@
           "text": "العربية الخليج",
           "created_at": "Mon, 2 Nov 2026 18:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "76ers vs bulls",
+          "created_at": "Mon, 2 Nov 2026 18:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,7 +84,7 @@
           "created_at": "Mon, 2 Nov 2026 18:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,51 +93,6 @@
           "created_at": "Mon, 2 Nov 2026 18:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صحيفة عكاظ",
-          "created_at": "Mon, 2 Nov 2026 18:00:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "العراق",
-          "created_at": "Mon, 2 Nov 2026 18:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "خادم الحرمين الشريفين",
-          "created_at": "Mon, 2 Nov 2026 15:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "adam robinson",
-          "created_at": "Mon, 2 Nov 2026 15:20:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": -50.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ماجد عبد الله",
-          "created_at": "Mon, 2 Nov 2026 14:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
