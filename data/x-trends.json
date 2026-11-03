@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T21:26:03.088450+00:00",
+  "updated_at": "2026-11-03T22:24:28.342811+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,71 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bayern munich",
-          "created_at": "Tue, 3 Nov 2026 13:10:00 -0800",
+          "text": "fc barcelona vs aston villa standings",
+          "created_at": "Tue, 3 Nov 2026 14:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "atlético madrid vs bayern munich standings",
+          "created_at": "Tue, 3 Nov 2026 14:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "lamine yamal",
+          "created_at": "Tue, 3 Nov 2026 14:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ترتيب دوري ابطال اوروبا",
+          "created_at": "Tue, 3 Nov 2026 14:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مباريات دوري أبطال أوروبا",
+          "created_at": "Tue, 3 Nov 2026 14:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كهرباء",
+          "created_at": "Tue, 3 Nov 2026 13:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أمن غذائي",
+          "created_at": "Tue, 3 Nov 2026 13:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "رانيا العبد الله",
+          "created_at": "Tue, 3 Nov 2026 13:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -21,7 +84,7 @@
           "created_at": "Tue, 3 Nov 2026 12:50:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,71 +92,8 @@
           "text": "ucl",
           "created_at": "Tue, 3 Nov 2026 12:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "zion suzuki",
-          "created_at": "Tue, 3 Nov 2026 12:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "midterm elections results",
-          "created_at": "Tue, 3 Nov 2026 12:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نيوم والدحيل",
-          "created_at": "Tue, 3 Nov 2026 12:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "barcelone – aston villa",
-          "created_at": "Tue, 3 Nov 2026 12:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "republican party",
-          "created_at": "Tue, 3 Nov 2026 12:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "preston vs sheffield united",
-          "created_at": "Tue, 3 Nov 2026 11:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "democratic party",
-          "created_at": "Tue, 3 Nov 2026 11:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         }
       ]
