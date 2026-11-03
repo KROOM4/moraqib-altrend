@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T11:11:08.427593+00:00",
+  "updated_at": "2026-11-03T12:00:16.837556+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اقتصاد",
-          "created_at": "Tue, 3 Nov 2026 03:00:00 -0800",
+          "text": "jesús de miguel",
+          "created_at": "Tue, 3 Nov 2026 03:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,10 +17,37 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "alexandra eala",
+          "created_at": "Tue, 3 Nov 2026 03:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اقتصاد",
+          "created_at": "Tue, 3 Nov 2026 03:00:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 900.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "مصر",
           "created_at": "Tue, 3 Nov 2026 02:40:00 -0800",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "1000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نادي الدحيل الرياضي",
+          "created_at": "Tue, 3 Nov 2026 02:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -30,7 +57,7 @@
           "created_at": "Tue, 3 Nov 2026 02:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +65,8 @@
           "text": "jesus de miguel",
           "created_at": "Tue, 3 Nov 2026 02:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -48,7 +75,16 @@
           "created_at": "Tue, 3 Nov 2026 01:50:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": -75.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "afc asian cup",
+          "created_at": "Tue, 3 Nov 2026 01:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -58,42 +94,6 @@
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طليقة حسام حسن",
-          "created_at": "Tue, 3 Nov 2026 01:10:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "npl live",
-          "created_at": "Tue, 3 Nov 2026 01:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "trit raj das",
-          "created_at": "Tue, 3 Nov 2026 01:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "iran war",
-          "created_at": "Tue, 3 Nov 2026 00:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
           }
         }
       ]
