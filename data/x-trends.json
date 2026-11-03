@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T14:37:15.206500+00:00",
+  "updated_at": "2026-11-03T15:28:41.003813+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "استقلال ضد الشمال",
+          "created_at": "Tue, 3 Nov 2026 07:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عجز في الميزانية",
+          "created_at": "Tue, 3 Nov 2026 07:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الهلال وشباب الأهلي",
+          "created_at": "Tue, 3 Nov 2026 06:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "مرتضى منصور والهام شاهين",
           "created_at": "Tue, 3 Nov 2026 06:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +48,7 @@
           "created_at": "Tue, 3 Nov 2026 06:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +56,8 @@
           "text": "كريم فهمي",
           "created_at": "Tue, 3 Nov 2026 05:20:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,8 +65,8 @@
           "text": "ന്യൂസ്",
           "created_at": "Tue, 3 Nov 2026 05:20:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -47,8 +74,8 @@
           "text": "نادي السد",
           "created_at": "Tue, 3 Nov 2026 05:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -67,33 +94,6 @@
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حفل زفاف عبير الصغير",
-          "created_at": "Tue, 3 Nov 2026 04:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزارة العمل والتنمية الاجتماعية",
-          "created_at": "Tue, 3 Nov 2026 04:10:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ginebra vs san miguel",
-          "created_at": "Tue, 3 Nov 2026 04:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
