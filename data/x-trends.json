@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T07:56:06.450234+00:00",
+  "updated_at": "2026-11-03T09:07:47.401017+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,65 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "trit raj das",
+          "created_at": "Tue, 3 Nov 2026 01:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "iran war",
+          "created_at": "Tue, 3 Nov 2026 00:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "صحة",
+          "created_at": "Tue, 3 Nov 2026 00:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "gulf cooperation council",
+          "created_at": "Tue, 3 Nov 2026 00:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "صحه",
+          "created_at": "Tue, 3 Nov 2026 00:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كأس آسيا",
+          "created_at": "Mon, 2 Nov 2026 23:50:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "جزيرة قشم الايرانية",
           "created_at": "Mon, 2 Nov 2026 23:40:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -20,8 +74,8 @@
           "text": "رابطة الدوري السعودي للمحترفين",
           "created_at": "Mon, 2 Nov 2026 22:20:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -37,60 +91,6 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "هطول",
           "created_at": "Mon, 2 Nov 2026 21:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الثلاثاء",
-          "created_at": "Mon, 2 Nov 2026 20:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منصه",
-          "created_at": "Mon, 2 Nov 2026 20:30:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lakers vs heat",
-          "created_at": "Mon, 2 Nov 2026 20:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "warriors vs suns",
-          "created_at": "Mon, 2 Nov 2026 19:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزارة التعليم",
-          "created_at": "Mon, 2 Nov 2026 19:40:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "iran news",
-          "created_at": "Mon, 2 Nov 2026 19:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
