@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T15:28:41.003813+00:00",
+  "updated_at": "2026-11-03T16:34:55.925497+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "توزيع أرباح أرامكو الربع الثالث",
+          "created_at": "Tue, 3 Nov 2026 08:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "iphone",
+          "created_at": "Tue, 3 Nov 2026 08:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كلاودينيو",
+          "created_at": "Tue, 3 Nov 2026 07:20:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "استقلال ضد الشمال",
           "created_at": "Tue, 3 Nov 2026 07:10:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 300.0
           }
         },
         {
@@ -20,8 +47,8 @@
           "text": "عجز في الميزانية",
           "created_at": "Tue, 3 Nov 2026 07:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -29,8 +56,8 @@
           "text": "الهلال وشباب الأهلي",
           "created_at": "Tue, 3 Nov 2026 06:50:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,8 +65,8 @@
           "text": "مرتضى منصور والهام شاهين",
           "created_at": "Tue, 3 Nov 2026 06:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -47,8 +74,8 @@
           "text": "bomb threat",
           "created_at": "Tue, 3 Nov 2026 06:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -57,7 +84,7 @@
           "created_at": "Tue, 3 Nov 2026 05:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -66,33 +93,6 @@
           "created_at": "Tue, 3 Nov 2026 05:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي السد",
-          "created_at": "Tue, 3 Nov 2026 05:10:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "زين",
-          "created_at": "Tue, 3 Nov 2026 05:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الكوبرا",
-          "created_at": "Tue, 3 Nov 2026 05:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
