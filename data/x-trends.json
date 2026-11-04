@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T15:41:29.255940+00:00",
+  "updated_at": "2026-11-04T16:09:47.658757+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,10 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مصر والامارات كاس الخليج",
-          "created_at": "Wed, 4 Nov 2026 07:20:00 -0800",
+          "text": "absher",
+          "created_at": "Wed, 4 Nov 2026 07:40:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
@@ -20,7 +20,16 @@
           "text": "غزل المحلة ضد الاتحاد السكندري",
           "created_at": "Wed, 4 Nov 2026 07:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منتخب مصر تحت 17 سنة لكرة القدم",
+          "created_at": "Wed, 4 Nov 2026 06:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
@@ -28,6 +37,15 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "one piece 1198 spoilers",
           "created_at": "Wed, 4 Nov 2026 06:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "saff championship",
+          "created_at": "Wed, 4 Nov 2026 05:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -48,7 +66,16 @@
           "created_at": "Wed, 4 Nov 2026 05:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سامي الجابر",
+          "created_at": "Wed, 4 Nov 2026 04:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 0.0
           }
         },
         {
@@ -62,37 +89,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سامي الجابر",
-          "created_at": "Wed, 4 Nov 2026 04:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "أولي واتكينز",
           "created_at": "Wed, 4 Nov 2026 03:50:00 -0800",
           "metrics": {
             "search_volume": "50000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منى زكي",
-          "created_at": "Wed, 4 Nov 2026 03:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منصة روضتي الافتراضيه",
-          "created_at": "Wed, 4 Nov 2026 03:20:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
             "growth_percent": 0.0
           }
         }
