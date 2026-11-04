@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T09:13:02.965036+00:00",
+  "updated_at": "2026-11-04T11:38:50.827294+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سكر الدم",
-          "created_at": "Wed, 4 Nov 2026 00:50:00 -0800",
+          "text": "منصة روضتي الافتراضيه",
+          "created_at": "Wed, 4 Nov 2026 03:20:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "klasemen melbourne victory vs persib bandung",
+          "created_at": "Wed, 4 Nov 2026 02:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وفاة اللاعب خيسوس دي ميغيل",
+          "created_at": "Wed, 4 Nov 2026 02:30:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مالية",
+          "created_at": "Wed, 4 Nov 2026 02:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,10 +44,46 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "melbourne victory vs persib bandung",
-          "created_at": "Tue, 3 Nov 2026 23:40:00 -0800",
+          "text": "بلاي ستيشن",
+          "created_at": "Wed, 4 Nov 2026 02:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "axar patel",
+          "created_at": "Wed, 4 Nov 2026 01:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إنذار مبكر",
+          "created_at": "Wed, 4 Nov 2026 01:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "المديرية العامة للجوازات",
+          "created_at": "Wed, 4 Nov 2026 01:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سكر الدم",
+          "created_at": "Wed, 4 Nov 2026 00:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": 0.0
           }
         },
@@ -29,70 +92,7 @@
           "text": "وكالة الأنباء السعودية",
           "created_at": "Tue, 3 Nov 2026 23:20:00 -0800",
           "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الجزيرة مباشر",
-          "created_at": "Tue, 3 Nov 2026 23:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "മമ്മൂട്ടി",
-          "created_at": "Tue, 3 Nov 2026 22:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هيئة التأمين",
-          "created_at": "Tue, 3 Nov 2026 22:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "shubman gill",
-          "created_at": "Tue, 3 Nov 2026 22:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gina hinojosa",
-          "created_at": "Tue, 3 Nov 2026 22:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "पाकिस्तान",
-          "created_at": "Tue, 3 Nov 2026 21:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مجلس الذهب العالمي",
-          "created_at": "Tue, 3 Nov 2026 21:40:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "20000+",
             "growth_percent": 100.0
           }
         }
