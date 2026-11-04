@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T02:32:05.560191+00:00",
+  "updated_at": "2026-11-04T03:30:39.487856+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,73 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "النادي الأهلي السعودي لكرة القدم",
+          "created_at": "Tue, 3 Nov 2026 19:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دفاع مدني",
+          "created_at": "Tue, 3 Nov 2026 19:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "henry nicholls",
+          "created_at": "Tue, 3 Nov 2026 19:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "tim seifert",
+          "created_at": "Tue, 3 Nov 2026 19:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ترامب من اي حزب",
+          "created_at": "Tue, 3 Nov 2026 18:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جزيرة قشم الايرانية",
+          "created_at": "Tue, 3 Nov 2026 18:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "new zealand vs india",
           "created_at": "Tue, 3 Nov 2026 18:00:00 -0800",
           "metrics": {
-            "search_volume": "10000+",
+            "search_volume": "20000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "خالد الزعاق",
+          "created_at": "Tue, 3 Nov 2026 18:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -20,8 +83,8 @@
           "text": "saudi arabia",
           "created_at": "Tue, 3 Nov 2026 17:50:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -29,71 +92,8 @@
           "text": "auqib nabi",
           "created_at": "Tue, 3 Nov 2026 17:40:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "2026 us election results",
-          "created_at": "Tue, 3 Nov 2026 17:20:00 -0800",
-          "metrics": {
             "search_volume": "2000+",
             "growth_percent": 300.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تعليم",
-          "created_at": "Tue, 3 Nov 2026 17:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "manchester united f.c. vs as roma standings",
-          "created_at": "Tue, 3 Nov 2026 14:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fc barcelona vs aston villa standings",
-          "created_at": "Tue, 3 Nov 2026 14:10:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "atlético madrid vs bayern munich standings",
-          "created_at": "Tue, 3 Nov 2026 14:10:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيب دوري ابطال اوروبا",
-          "created_at": "Tue, 3 Nov 2026 14:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": -50.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كهرباء",
-          "created_at": "Tue, 3 Nov 2026 13:50:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
           }
         }
       ]

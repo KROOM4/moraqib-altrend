@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-04T02:32:05.560191+00:00",
+  "updated_at": "2026-11-04T03:30:39.487856+00:00",
   "trends": {
+    "النادي الأهلي السعودي لكرة القدم": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-04T03:30:39.487856+00:00"
+    },
+    "دفاع مدني": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-04T03:30:39.487856+00:00"
+    },
+    "henry nicholls": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-04T03:30:39.487856+00:00"
+    },
+    "tim seifert": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-04T03:30:39.487856+00:00"
+    },
+    "ترامب من اي حزب": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-04T03:30:39.487856+00:00"
+    },
+    "جزيرة قشم الايرانية": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-04T03:30:39.487856+00:00"
+    },
     "new zealand vs india": {
-      "volume": 10000.0,
-      "raw_volume": "10000+",
-      "updated_at": "2026-11-04T02:32:05.560191+00:00"
+      "volume": 20000.0,
+      "raw_volume": "20000+",
+      "updated_at": "2026-11-04T03:30:39.487856+00:00"
+    },
+    "خالد الزعاق": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-04T03:30:39.487856+00:00"
     },
     "saudi arabia": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-04T02:32:05.560191+00:00"
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-11-04T03:30:39.487856+00:00"
     },
     "auqib nabi": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-04T02:32:05.560191+00:00"
-    },
-    "2026 us election results": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-11-04T02:32:05.560191+00:00"
-    },
-    "تعليم": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-04T02:32:05.560191+00:00"
-    },
-    "manchester united f.c. vs as roma standings": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-11-04T02:32:05.560191+00:00"
-    },
-    "fc barcelona vs aston villa standings": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-04T02:32:05.560191+00:00"
-    },
-    "atlético madrid vs bayern munich standings": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-04T02:32:05.560191+00:00"
-    },
-    "ترتيب دوري ابطال اوروبا": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-04T02:32:05.560191+00:00"
-    },
-    "كهرباء": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-04T02:32:05.560191+00:00"
+      "updated_at": "2026-11-04T03:30:39.487856+00:00"
     }
   }
 }
