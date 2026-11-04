@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T08:02:10.872456+00:00",
+  "updated_at": "2026-11-04T09:13:02.965036+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سكر الدم",
+          "created_at": "Wed, 4 Nov 2026 00:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "melbourne victory vs persib bandung",
           "created_at": "Tue, 3 Nov 2026 23:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -20,8 +29,8 @@
           "text": "وكالة الأنباء السعودية",
           "created_at": "Tue, 3 Nov 2026 23:20:00 -0800",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
+            "search_volume": "10000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +39,7 @@
           "created_at": "Tue, 3 Nov 2026 23:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +47,8 @@
           "text": "മമ്മൂട്ടി",
           "created_at": "Tue, 3 Nov 2026 22:50:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +57,7 @@
           "created_at": "Tue, 3 Nov 2026 22:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,7 +66,7 @@
           "created_at": "Tue, 3 Nov 2026 22:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -66,7 +75,7 @@
           "created_at": "Tue, 3 Nov 2026 22:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -75,7 +84,7 @@
           "created_at": "Tue, 3 Nov 2026 21:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -83,17 +92,8 @@
           "text": "مجلس الذهب العالمي",
           "created_at": "Tue, 3 Nov 2026 21:40:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jacob duffy",
-          "created_at": "Tue, 3 Nov 2026 21:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         }
       ]
