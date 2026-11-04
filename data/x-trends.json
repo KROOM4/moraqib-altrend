@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T12:34:01.841681+00:00",
+  "updated_at": "2026-11-04T13:53:44.703685+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -11,6 +11,15 @@
           "text": "خادم الحرمين الشريفين",
           "created_at": "Wed, 4 Nov 2026 04:10:00 -0800",
           "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سامي الجابر",
+          "created_at": "Wed, 4 Nov 2026 04:10:00 -0800",
+          "metrics": {
             "search_volume": "200+",
             "growth_percent": null
           }
@@ -20,8 +29,8 @@
           "text": "أولي واتكينز",
           "created_at": "Wed, 4 Nov 2026 03:50:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "100000+",
+            "growth_percent": 19900.0
           }
         },
         {
@@ -30,7 +39,7 @@
           "created_at": "Wed, 4 Nov 2026 03:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,17 +47,8 @@
           "text": "منصة روضتي الافتراضيه",
           "created_at": "Wed, 4 Nov 2026 03:20:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "klasemen melbourne victory vs persib bandung",
-          "created_at": "Wed, 4 Nov 2026 02:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
