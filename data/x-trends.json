@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T22:01:40.983288+00:00",
+  "updated_at": "2026-11-04T23:00:16.131348+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كومو",
-          "created_at": "Wed, 4 Nov 2026 13:40:00 -0800",
+          "text": "rb leipzig vs man city standings",
+          "created_at": "Wed, 4 Nov 2026 14:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "slavia praha vs arsenal f.c. standings",
+          "created_at": "Wed, 4 Nov 2026 14:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "anastasios douvikas",
+          "created_at": "Wed, 4 Nov 2026 14:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كومو 1907",
+          "created_at": "Wed, 4 Nov 2026 14:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كومو",
+          "created_at": "Wed, 4 Nov 2026 13:40:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -21,16 +57,16 @@
           "created_at": "Wed, 4 Nov 2026 13:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "man city",
-          "created_at": "Wed, 4 Nov 2026 13:40:00 -0800",
+          "text": "الأمن العام السعودي",
+          "created_at": "Wed, 4 Nov 2026 13:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,16 +75,7 @@
           "created_at": "Wed, 4 Nov 2026 13:30:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الأمن العام السعودي",
-          "created_at": "Wed, 4 Nov 2026 13:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,7 +84,7 @@
           "created_at": "Wed, 4 Nov 2026 13:00:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -65,35 +92,8 @@
           "text": "احمد فلوكس",
           "created_at": "Wed, 4 Nov 2026 12:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nabeela syed illinois",
-          "created_at": "Wed, 4 Nov 2026 12:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "porto vs napoli",
-          "created_at": "Wed, 4 Nov 2026 12:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cardiff city vs west ham",
-          "created_at": "Wed, 4 Nov 2026 12:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         }
       ]
