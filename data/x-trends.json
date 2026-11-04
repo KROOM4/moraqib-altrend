@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T20:13:21.201844+00:00",
+  "updated_at": "2026-11-04T21:09:18.714292+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,83 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "قبول",
+          "created_at": "Wed, 4 Nov 2026 13:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "احمد فلوكس",
+          "created_at": "Wed, 4 Nov 2026 12:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "nabeela syed illinois",
+          "created_at": "Wed, 4 Nov 2026 12:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "porto vs napoli",
+          "created_at": "Wed, 4 Nov 2026 12:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "cardiff city vs west ham",
+          "created_at": "Wed, 4 Nov 2026 12:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kylian mbappé",
+          "created_at": "Wed, 4 Nov 2026 12:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مباريات دوري أبطال أوروبا",
+          "created_at": "Wed, 4 Nov 2026 12:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مصرف",
+          "created_at": "Wed, 4 Nov 2026 11:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "كيليان مبابي",
           "created_at": "Wed, 4 Nov 2026 11:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,79 +93,7 @@
           "created_at": "Wed, 4 Nov 2026 11:40:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "aboubakary koïta",
-          "created_at": "Wed, 4 Nov 2026 11:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إحصاءات أيك أثينا – ريال مدريد",
-          "created_at": "Wed, 4 Nov 2026 11:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "dortmund vs betis",
-          "created_at": "Wed, 4 Nov 2026 11:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lens vs como",
-          "created_at": "Wed, 4 Nov 2026 11:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حاملة طائرات",
-          "created_at": "Wed, 4 Nov 2026 11:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "slavia praha vs arsenal",
-          "created_at": "Wed, 4 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "rb leipzig vs man city",
-          "created_at": "Wed, 4 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ار بي ليبزيج ضد مان سيتي",
-          "created_at": "Wed, 4 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         }
       ]
