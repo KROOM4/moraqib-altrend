@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T04:37:54.598000+00:00",
+  "updated_at": "2026-11-04T05:40:58.393400+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,44 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "daryl mitchell",
-          "created_at": "Tue, 3 Nov 2026 20:10:00 -0800",
+          "text": "uae vs oman",
+          "created_at": "Tue, 3 Nov 2026 21:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "google classroom",
+          "created_at": "Tue, 3 Nov 2026 21:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "gold",
+          "created_at": "Tue, 3 Nov 2026 21:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kyle jamieson",
+          "created_at": "Tue, 3 Nov 2026 21:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "james talarico",
+          "created_at": "Tue, 3 Nov 2026 20:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -20,7 +56,16 @@
           "text": "وزارة التعليم",
           "created_at": "Tue, 3 Nov 2026 20:00:00 -0800",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "1000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "fox news",
+          "created_at": "Tue, 3 Nov 2026 19:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -30,7 +75,7 @@
           "created_at": "Tue, 3 Nov 2026 19:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -49,51 +94,6 @@
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دفاع مدني",
-          "created_at": "Tue, 3 Nov 2026 19:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "tim seifert",
-          "created_at": "Tue, 3 Nov 2026 19:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترامب من اي حزب",
-          "created_at": "Tue, 3 Nov 2026 18:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "സ്വര്ണം",
-          "created_at": "Tue, 3 Nov 2026 18:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عبدالرحمن السيد",
-          "created_at": "Tue, 3 Nov 2026 18:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
           }
         }
       ]
