@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T23:24:53.949163+00:00",
+  "updated_at": "2026-11-04T00:22:22.998112+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ترتيبات دوري أبطال أوروبا",
+          "created_at": "Tue, 3 Nov 2026 14:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "uefa champions league",
           "created_at": "Tue, 3 Nov 2026 14:30:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +30,7 @@
           "created_at": "Tue, 3 Nov 2026 14:10:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 400.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +39,7 @@
           "created_at": "Tue, 3 Nov 2026 14:10:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +47,8 @@
           "text": "ترتيب دوري ابطال اوروبا",
           "created_at": "Tue, 3 Nov 2026 14:00:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +57,7 @@
           "created_at": "Tue, 3 Nov 2026 13:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,12 +66,21 @@
           "created_at": "Tue, 3 Nov 2026 13:50:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "نونو إسبيريتو سانتو",
+          "created_at": "Tue, 3 Nov 2026 13:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "champions league games",
           "created_at": "Tue, 3 Nov 2026 13:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
@@ -74,26 +92,8 @@
           "text": "رانيا العبد الله",
           "created_at": "Tue, 3 Nov 2026 13:30:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "psg",
-          "created_at": "Tue, 3 Nov 2026 12:50:00 -0800",
-          "metrics": {
             "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "zion suzuki",
-          "created_at": "Tue, 3 Nov 2026 12:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 150.0
           }
         }
       ]
