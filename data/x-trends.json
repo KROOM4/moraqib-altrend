@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T17:12:23.083510+00:00",
+  "updated_at": "2026-11-04T18:04:54.191646+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "التعاون ضد الفيصلي",
+          "created_at": "Wed, 4 Nov 2026 09:20:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "fenerbahçe - liverpool",
+          "created_at": "Wed, 4 Nov 2026 09:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جورجوس دونيس",
+          "created_at": "Wed, 4 Nov 2026 09:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الاتفاق",
+          "created_at": "Wed, 4 Nov 2026 09:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "أيك ضد الريال",
           "created_at": "Wed, 4 Nov 2026 09:00:00 -0800",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
+            "search_volume": "20000+",
+            "growth_percent": 300.0
           }
         },
         {
@@ -20,8 +56,8 @@
           "text": "aek vs real madrid",
           "created_at": "Wed, 4 Nov 2026 09:00:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "10000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -30,7 +66,7 @@
           "created_at": "Wed, 4 Nov 2026 09:00:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +75,7 @@
           "created_at": "Wed, 4 Nov 2026 09:00:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,52 +84,16 @@
           "created_at": "Wed, 4 Nov 2026 09:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "rennes vs olympiacos",
-          "created_at": "Wed, 4 Nov 2026 08:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "absher",
-          "created_at": "Wed, 4 Nov 2026 07:40:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "غزل المحلة ضد الاتحاد السكندري",
-          "created_at": "Wed, 4 Nov 2026 07:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منتخب مصر تحت 17 سنة لكرة القدم",
-          "created_at": "Wed, 4 Nov 2026 06:50:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 300.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "one piece 1198 spoilers",
-          "created_at": "Wed, 4 Nov 2026 06:00:00 -0800",
+          "text": "afc asian cup postponed",
+          "created_at": "Wed, 4 Nov 2026 08:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         }
       ]
