@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T03:30:39.487856+00:00",
+  "updated_at": "2026-11-04T04:37:54.598000+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,25 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "النادي الأهلي السعودي لكرة القدم",
+          "text": "daryl mitchell",
+          "created_at": "Tue, 3 Nov 2026 20:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وزارة التعليم",
+          "created_at": "Tue, 3 Nov 2026 20:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "arshdeep singh",
           "created_at": "Tue, 3 Nov 2026 19:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
@@ -17,11 +35,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دفاع مدني",
-          "created_at": "Tue, 3 Nov 2026 19:00:00 -0800",
+          "text": "النادي الأهلي السعودي لكرة القدم",
+          "created_at": "Tue, 3 Nov 2026 19:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +48,16 @@
           "created_at": "Tue, 3 Nov 2026 19:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دفاع مدني",
+          "created_at": "Tue, 3 Nov 2026 19:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -39,12 +66,21 @@
           "created_at": "Tue, 3 Nov 2026 19:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "ترامب من اي حزب",
+          "created_at": "Tue, 3 Nov 2026 18:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "സ്വര്ണം",
           "created_at": "Tue, 3 Nov 2026 18:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
@@ -53,47 +89,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جزيرة قشم الايرانية",
+          "text": "عبدالرحمن السيد",
           "created_at": "Tue, 3 Nov 2026 18:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand vs india",
-          "created_at": "Tue, 3 Nov 2026 18:00:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "خالد الزعاق",
-          "created_at": "Tue, 3 Nov 2026 18:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saudi arabia",
-          "created_at": "Tue, 3 Nov 2026 17:50:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "auqib nabi",
-          "created_at": "Tue, 3 Nov 2026 17:40:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 300.0
           }
         }
       ]
