@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T05:40:58.393400+00:00",
+  "updated_at": "2026-11-04T06:45:21.318483+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,52 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "पाकिस्तान",
+          "created_at": "Tue, 3 Nov 2026 21:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مجلس الذهب العالمي",
+          "created_at": "Tue, 3 Nov 2026 21:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "jacob duffy",
+          "created_at": "Tue, 3 Nov 2026 21:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "زكريا أبوخلال",
+          "created_at": "Tue, 3 Nov 2026 21:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "uae vs oman",
+          "created_at": "Tue, 3 Nov 2026 21:10:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": 300.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "blair tickner",
           "created_at": "Tue, 3 Nov 2026 21:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
@@ -21,7 +66,7 @@
           "created_at": "Tue, 3 Nov 2026 21:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,13 +75,13 @@
           "created_at": "Tue, 3 Nov 2026 21:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kyle jamieson",
-          "created_at": "Tue, 3 Nov 2026 21:00:00 -0800",
+          "text": "american election",
+          "created_at": "Tue, 3 Nov 2026 20:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -48,51 +93,6 @@
           "created_at": "Tue, 3 Nov 2026 20:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزارة التعليم",
-          "created_at": "Tue, 3 Nov 2026 20:00:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fox news",
-          "created_at": "Tue, 3 Nov 2026 19:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "arshdeep singh",
-          "created_at": "Tue, 3 Nov 2026 19:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "النادي الأهلي السعودي لكرة القدم",
-          "created_at": "Tue, 3 Nov 2026 19:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "henry nicholls",
-          "created_at": "Tue, 3 Nov 2026 19:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         }
