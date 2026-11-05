@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T02:38:39.170578+00:00",
+  "updated_at": "2026-11-05T03:37:18.762571+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,44 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موعد صلاة الفجر",
-          "created_at": "Wed, 4 Nov 2026 18:00:00 -0800",
+          "text": "west indies vs bangladesh",
+          "created_at": "Wed, 4 Nov 2026 19:10:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدوري السعودي للمحترفين",
+          "created_at": "Wed, 4 Nov 2026 19:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ماتياس يايسله",
+          "created_at": "Wed, 4 Nov 2026 18:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بيومي فؤاد",
+          "created_at": "Wed, 4 Nov 2026 17:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "السودان",
+          "created_at": "Wed, 4 Nov 2026 17:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -20,8 +56,8 @@
           "text": "pistons vs 76ers",
           "created_at": "Wed, 4 Nov 2026 17:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +66,16 @@
           "created_at": "Wed, 4 Nov 2026 17:00:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "فوز الفهد",
+          "created_at": "Wed, 4 Nov 2026 17:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -39,7 +84,7 @@
           "created_at": "Wed, 4 Nov 2026 16:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -49,51 +94,6 @@
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ليل خرمس",
-          "created_at": "Wed, 4 Nov 2026 14:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الملك عبدالعزيز",
-          "created_at": "Wed, 4 Nov 2026 14:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "slavia praha vs arsenal f.c. standings",
-          "created_at": "Wed, 4 Nov 2026 14:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "como",
-          "created_at": "Wed, 4 Nov 2026 14:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نهاية العالم",
-          "created_at": "Wed, 4 Nov 2026 13:40:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
           }
         }
       ]
