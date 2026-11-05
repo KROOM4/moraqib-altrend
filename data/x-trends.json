@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T21:27:04.324922+00:00",
+  "updated_at": "2026-11-05T22:29:28.183048+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "القوات المسلحة المصرية",
+          "created_at": "Thu, 5 Nov 2026 13:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "celtic - beşiktaş",
+          "created_at": "Thu, 5 Nov 2026 13:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "سندرلاند ضد دينامو زغرب",
           "created_at": "Thu, 5 Nov 2026 12:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -20,17 +38,26 @@
           "text": "sunderland vs dinamo zagreb",
           "created_at": "Thu, 5 Nov 2026 12:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "europa conference league",
+          "created_at": "Thu, 5 Nov 2026 12:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mohamed salah",
+          "text": "europa league",
           "created_at": "Thu, 5 Nov 2026 12:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
@@ -44,7 +71,7 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "flight",
+          "text": "benfica vs lech poznań",
           "created_at": "Thu, 5 Nov 2026 11:50:00 -0800",
           "metrics": {
             "search_volume": "500+",
@@ -53,10 +80,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "benfica vs lech poznań",
+          "text": "flight",
           "created_at": "Thu, 5 Nov 2026 11:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "500+",
             "growth_percent": 0.0
           }
         },
@@ -67,33 +94,6 @@
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دوري أوروبا",
-          "created_at": "Thu, 5 Nov 2026 11:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "getafe vs brighton",
-          "created_at": "Thu, 5 Nov 2026 11:30:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "iran",
-          "created_at": "Thu, 5 Nov 2026 11:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
