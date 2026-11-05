@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T05:43:23.701702+00:00",
+  "updated_at": "2026-11-05T06:45:54.149564+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "spurs vs mavericks",
-          "created_at": "Wed, 4 Nov 2026 21:30:00 -0800",
+          "text": "zimbabwe vs afghanistan",
+          "created_at": "Wed, 4 Nov 2026 22:10:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "لقاء سويدان",
+          "created_at": "Wed, 4 Nov 2026 21:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "clippers vs heat",
+          "created_at": "Wed, 4 Nov 2026 21:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,11 +35,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "spurs vs mavericks",
+          "created_at": "Wed, 4 Nov 2026 21:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "സ്വര്ണം",
           "created_at": "Wed, 4 Nov 2026 21:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +57,7 @@
           "created_at": "Wed, 4 Nov 2026 21:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,7 +65,16 @@
           "text": "الرمان",
           "created_at": "Wed, 4 Nov 2026 20:50:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "التنمر",
+          "created_at": "Wed, 4 Nov 2026 20:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -47,53 +83,17 @@
           "text": "kings vs lakers",
           "created_at": "Wed, 4 Nov 2026 20:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ramayana movie",
-          "created_at": "Wed, 4 Nov 2026 19:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "west indies vs bangladesh",
-          "created_at": "Wed, 4 Nov 2026 19:10:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
+            "search_volume": "200+",
             "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدوري السعودي للمحترفين",
-          "created_at": "Wed, 4 Nov 2026 19:10:00 -0800",
+          "text": "acc u-19 asia cup",
+          "created_at": "Wed, 4 Nov 2026 19:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ماتياس يايسله",
-          "created_at": "Wed, 4 Nov 2026 18:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بيومي فؤاد",
-          "created_at": "Wed, 4 Nov 2026 17:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         }
       ]
