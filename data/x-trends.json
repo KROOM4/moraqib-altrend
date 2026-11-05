@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T18:30:14.040933+00:00",
+  "updated_at": "2026-11-05T19:37:51.632699+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,73 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "getafe vs brighton",
+          "created_at": "Thu, 5 Nov 2026 11:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "iran",
+          "created_at": "Thu, 5 Nov 2026 11:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "az vs juventus",
+          "created_at": "Thu, 5 Nov 2026 11:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بيرلا حرب ملكة جمال لبنان",
+          "created_at": "Thu, 5 Nov 2026 11:10:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "সোনা",
+          "created_at": "Thu, 5 Nov 2026 11:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "météo demain",
+          "created_at": "Thu, 5 Nov 2026 11:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "حارس مرمى",
           "created_at": "Thu, 5 Nov 2026 10:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حفلة فضل شاكر جدة",
+          "created_at": "Thu, 5 Nov 2026 10:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -20,8 +83,8 @@
           "text": "real sociedad vs ol",
           "created_at": "Thu, 5 Nov 2026 09:30:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -29,71 +92,8 @@
           "text": "كريستال بالاس ضد هوفنهايم",
           "created_at": "Thu, 5 Nov 2026 09:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حسام حسن",
-          "created_at": "Thu, 5 Nov 2026 09:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bhutan national football team vs bangladesh national football team standings",
-          "created_at": "Thu, 5 Nov 2026 09:10:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sparta praha vs bournemouth",
-          "created_at": "Thu, 5 Nov 2026 09:10:00 -0800",
-          "metrics": {
             "search_volume": "500+",
             "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "grand theft auto vi",
-          "created_at": "Thu, 5 Nov 2026 09:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "خبر",
-          "created_at": "Thu, 5 Nov 2026 09:00:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "milan vs ferencváros",
-          "created_at": "Thu, 5 Nov 2026 09:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "russell brand",
-          "created_at": "Thu, 5 Nov 2026 08:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
           }
         }
       ]
