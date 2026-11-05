@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T11:40:20.511960+00:00",
+  "updated_at": "2026-11-05T12:42:47.298121+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,28 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ronaldo",
-          "created_at": "Thu, 5 Nov 2026 03:00:00 -0800",
+          "text": "رونالدو",
+          "created_at": "Thu, 5 Nov 2026 03:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "alexandra eala",
+          "created_at": "Thu, 5 Nov 2026 03:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "cristiano ronaldo",
+          "created_at": "Thu, 5 Nov 2026 03:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
@@ -21,7 +39,7 @@
           "created_at": "Thu, 5 Nov 2026 03:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +48,7 @@
           "created_at": "Thu, 5 Nov 2026 03:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +57,7 @@
           "created_at": "Thu, 5 Nov 2026 02:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,8 +74,8 @@
           "text": "لاعب اسباني",
           "created_at": "Thu, 5 Nov 2026 02:00:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -71,28 +89,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "justin greaves",
-          "created_at": "Thu, 5 Nov 2026 01:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "وزارة التربية والتعليم",
           "created_at": "Thu, 5 Nov 2026 01:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pakistan vs india",
-          "created_at": "Thu, 5 Nov 2026 01:00:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
             "growth_percent": 0.0
           }
         }
