@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T04:42:09.914839+00:00",
+  "updated_at": "2026-11-05T05:43:23.701702+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,65 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "spurs vs mavericks",
+          "created_at": "Wed, 4 Nov 2026 21:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "സ്വര്ണം",
+          "created_at": "Wed, 4 Nov 2026 21:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "google classroom",
+          "created_at": "Wed, 4 Nov 2026 21:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الرمان",
+          "created_at": "Wed, 4 Nov 2026 20:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kings vs lakers",
+          "created_at": "Wed, 4 Nov 2026 20:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ramayana movie",
+          "created_at": "Wed, 4 Nov 2026 19:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "west indies vs bangladesh",
           "created_at": "Wed, 4 Nov 2026 19:10:00 -0800",
           "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 400.0
+            "search_volume": "20000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,7 +75,7 @@
           "created_at": "Wed, 4 Nov 2026 19:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,60 +93,6 @@
           "created_at": "Wed, 4 Nov 2026 17:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "السودان",
-          "created_at": "Wed, 4 Nov 2026 17:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pistons vs 76ers",
-          "created_at": "Wed, 4 Nov 2026 17:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دفاع مدني",
-          "created_at": "Wed, 4 Nov 2026 17:00:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فوز الفهد",
-          "created_at": "Wed, 4 Nov 2026 17:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تويوتا كورولا",
-          "created_at": "Wed, 4 Nov 2026 16:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بيرلا حرب",
-          "created_at": "Wed, 4 Nov 2026 15:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
