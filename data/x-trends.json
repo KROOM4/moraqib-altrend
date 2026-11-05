@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T06:45:54.149564+00:00",
+  "updated_at": "2026-11-05T08:02:25.976131+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -12,7 +12,7 @@
           "created_at": "Wed, 4 Nov 2026 22:10:00 -0800",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -20,8 +20,8 @@
           "text": "لقاء سويدان",
           "created_at": "Wed, 4 Nov 2026 21:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -29,8 +29,8 @@
           "text": "clippers vs heat",
           "created_at": "Wed, 4 Nov 2026 21:50:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +48,7 @@
           "created_at": "Wed, 4 Nov 2026 21:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -65,8 +65,8 @@
           "text": "الرمان",
           "created_at": "Wed, 4 Nov 2026 20:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -75,7 +75,7 @@
           "created_at": "Wed, 4 Nov 2026 20:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -84,15 +84,15 @@
           "created_at": "Wed, 4 Nov 2026 20:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "acc u-19 asia cup",
-          "created_at": "Wed, 4 Nov 2026 19:50:00 -0800",
+          "text": "فنان",
+          "created_at": "Wed, 4 Nov 2026 20:00:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "500+",
             "growth_percent": null
           }
         }
