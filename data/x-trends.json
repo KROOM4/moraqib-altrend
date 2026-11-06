@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T11:36:33.426589+00:00",
+  "updated_at": "2026-11-06T12:40:19.276819+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mushfiqur rahim",
+          "text": "مطار",
+          "created_at": "Fri, 6 Nov 2026 04:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منصور ال شريم",
           "created_at": "Fri, 6 Nov 2026 03:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "رائد قرملي",
+          "created_at": "Fri, 6 Nov 2026 02:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الإدارة العامة للتعليم بمنطقة عسير",
+          "created_at": "Fri, 6 Nov 2026 02:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -21,7 +48,7 @@
           "created_at": "Fri, 6 Nov 2026 02:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +57,7 @@
           "created_at": "Fri, 6 Nov 2026 02:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +66,7 @@
           "created_at": "Fri, 6 Nov 2026 02:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,40 +84,13 @@
           "created_at": "Fri, 6 Nov 2026 01:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "david miller",
           "created_at": "Fri, 6 Nov 2026 00:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منتخب السعودية لكرة القدم",
-          "created_at": "Fri, 6 Nov 2026 00:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "etihad airways",
-          "created_at": "Thu, 5 Nov 2026 23:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد بركات",
-          "created_at": "Thu, 5 Nov 2026 23:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": 0.0
