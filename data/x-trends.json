@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T17:59:00.178402+00:00",
+  "updated_at": "2026-11-06T19:12:53.863102+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,7 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "honor 700",
+          "text": "طائرة مقاتلة",
           "created_at": "Fri, 6 Nov 2026 09:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
@@ -17,11 +17,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "honor 700",
+          "created_at": "Fri, 6 Nov 2026 09:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "weather tomorrow",
           "created_at": "Fri, 6 Nov 2026 09:40:00 -0800",
           "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
+            "search_volume": "20000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -29,26 +38,8 @@
           "text": "cuaca besok",
           "created_at": "Fri, 6 Nov 2026 09:40:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "yarınki hava durumu",
-          "created_at": "Fri, 6 Nov 2026 09:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "погода завтра",
-          "created_at": "Fri, 6 Nov 2026 09:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -56,8 +47,26 @@
           "text": "météo demain",
           "created_at": "Fri, 6 Nov 2026 09:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "yarınki hava durumu",
+          "created_at": "Fri, 6 Nov 2026 09:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "погода завтра",
+          "created_at": "Fri, 6 Nov 2026 09:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -66,7 +75,7 @@
           "created_at": "Fri, 6 Nov 2026 09:30:00 -0800",
           "metrics": {
             "search_volume": "20000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -75,7 +84,7 @@
           "created_at": "Fri, 6 Nov 2026 09:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -83,17 +92,8 @@
           "text": "الزمالك ضد مصر للتأمين",
           "created_at": "Fri, 6 Nov 2026 09:10:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الهيئة العامة للنقل",
-          "created_at": "Fri, 6 Nov 2026 09:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": -90.0
+            "search_volume": "10000+",
+            "growth_percent": 400.0
           }
         }
       ]
