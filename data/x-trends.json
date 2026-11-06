@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T13:55:31.042334+00:00",
+  "updated_at": "2026-11-06T15:02:01.755452+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دعاء يوم الجمعة",
+          "created_at": "Fri, 6 Nov 2026 06:10:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "المغرب",
+          "created_at": "Fri, 6 Nov 2026 06:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طيران",
+          "created_at": "Fri, 6 Nov 2026 06:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "صندوق الاستثمارات العامة",
+          "created_at": "Fri, 6 Nov 2026 05:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "تيك",
           "created_at": "Fri, 6 Nov 2026 05:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +57,7 @@
           "created_at": "Fri, 6 Nov 2026 05:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,6 +66,15 @@
           "created_at": "Fri, 6 Nov 2026 05:00:00 -0800",
           "metrics": {
             "search_volume": "500+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عبلة كامل",
+          "created_at": "Fri, 6 Nov 2026 05:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -39,7 +84,7 @@
           "created_at": "Fri, 6 Nov 2026 04:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,52 +93,7 @@
           "created_at": "Fri, 6 Nov 2026 03:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رائد قرملي",
-          "created_at": "Fri, 6 Nov 2026 02:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الإدارة العامة للتعليم بمنطقة عسير",
-          "created_at": "Fri, 6 Nov 2026 02:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "san miguel vs ginebra",
-          "created_at": "Fri, 6 Nov 2026 02:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ai stocks",
-          "created_at": "Fri, 6 Nov 2026 02:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lakshya raichandani",
-          "created_at": "Fri, 6 Nov 2026 02:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
