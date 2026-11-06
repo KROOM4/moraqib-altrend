@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T16:03:45.058814+00:00",
+  "updated_at": "2026-11-06T17:08:41.393308+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد صلاح طرابزون سبور",
-          "created_at": "Fri, 6 Nov 2026 07:40:00 -0800",
+          "text": "الهيئة العامة للنقل",
+          "created_at": "Fri, 6 Nov 2026 09:00:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ramayana movie ranbir kapoor",
+          "created_at": "Fri, 6 Nov 2026 08:50:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -17,11 +26,38 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الذهب اليوم عيار 21",
-          "created_at": "Fri, 6 Nov 2026 07:30:00 -0800",
+          "text": "h&m",
+          "created_at": "Fri, 6 Nov 2026 08:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وظيفة",
+          "created_at": "Fri, 6 Nov 2026 08:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "محمد صلاح طرابزون سبور",
+          "created_at": "Fri, 6 Nov 2026 07:40:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الذهب اليوم عيار 21",
+          "created_at": "Fri, 6 Nov 2026 07:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +66,7 @@
           "created_at": "Fri, 6 Nov 2026 07:20:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +74,8 @@
           "text": "airport",
           "created_at": "Fri, 6 Nov 2026 06:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -55,42 +91,6 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "المغرب",
           "created_at": "Fri, 6 Nov 2026 06:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طيران",
-          "created_at": "Fri, 6 Nov 2026 06:00:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كأس مصر",
-          "created_at": "Fri, 6 Nov 2026 06:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صندوق الاستثمارات العامة",
-          "created_at": "Fri, 6 Nov 2026 05:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تيك",
-          "created_at": "Fri, 6 Nov 2026 05:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
