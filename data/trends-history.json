@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-05T23:27:39.251918+00:00",
+  "updated_at": "2026-11-06T00:24:59.745832+00:00",
   "trends": {
+    "palmeiras vs remo": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-06T00:24:59.745832+00:00"
+    },
+    "civil defense saudi arabia weather alert": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-06T00:24:59.745832+00:00"
+    },
     "দৈনিক কালের কণ্ঠ": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-05T23:27:39.251918+00:00"
+      "updated_at": "2026-11-06T00:24:59.745832+00:00"
+    },
+    "مرتضى منصور": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-06T00:24:59.745832+00:00"
     },
     "القوات المسلحة المصرية": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-05T23:27:39.251918+00:00"
+      "updated_at": "2026-11-06T00:24:59.745832+00:00"
     },
     "celtic - beşiktaş": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-05T23:27:39.251918+00:00"
+      "updated_at": "2026-11-06T00:24:59.745832+00:00"
     },
     "سندرلاند ضد دينامو زغرب": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-05T23:27:39.251918+00:00"
+      "updated_at": "2026-11-06T00:24:59.745832+00:00"
     },
     "sunderland vs dinamo zagreb": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-05T23:27:39.251918+00:00"
-    },
-    "europa conference league": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-05T23:27:39.251918+00:00"
+      "updated_at": "2026-11-06T00:24:59.745832+00:00"
     },
     "سعر الريال مقابل الجنيه اليوم": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-05T23:27:39.251918+00:00"
+      "updated_at": "2026-11-06T00:24:59.745832+00:00"
     },
     "europa league": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-05T23:27:39.251918+00:00"
-    },
-    "flight": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-05T23:27:39.251918+00:00"
-    },
-    "benfica vs lech poznań": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-05T23:27:39.251918+00:00"
+      "updated_at": "2026-11-06T00:24:59.745832+00:00"
     }
   }
 }
