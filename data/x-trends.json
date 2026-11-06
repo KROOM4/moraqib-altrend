@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T21:55:12.594434+00:00",
+  "updated_at": "2026-11-06T22:57:07.026116+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -12,6 +12,15 @@
           "created_at": "Fri, 6 Nov 2026 13:40:00 -0800",
           "metrics": {
             "search_volume": "5000+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طالع نازل",
+          "created_at": "Fri, 6 Nov 2026 13:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -20,16 +29,25 @@
           "text": "مسلسل طالع نازل",
           "created_at": "Fri, 6 Nov 2026 13:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "100+",
+            "growth_percent": -50.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بلاي ستيشن",
+          "created_at": "Fri, 6 Nov 2026 13:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "scene movie review",
-          "created_at": "Fri, 6 Nov 2026 13:10:00 -0800",
+          "text": "venezia vs udinese",
+          "created_at": "Fri, 6 Nov 2026 12:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -38,17 +56,8 @@
           "text": "تياغو موتا",
           "created_at": "Fri, 6 Nov 2026 12:40:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "oxford city vs leicester city",
-          "created_at": "Fri, 6 Nov 2026 12:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -62,10 +71,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "خلي بالك من نفسك",
-          "created_at": "Fri, 6 Nov 2026 11:40:00 -0800",
+          "text": "oxford city vs leicester city",
+          "created_at": "Fri, 6 Nov 2026 12:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
             "growth_percent": 0.0
           }
         },
@@ -75,7 +84,7 @@
           "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -83,17 +92,8 @@
           "text": "everton vs coventry",
           "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sevilla vs alavés",
-          "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         }
       ]
