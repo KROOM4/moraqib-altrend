@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T07:57:03.959767+00:00",
+  "updated_at": "2026-11-06T09:13:19.204722+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد بركات",
-          "created_at": "Thu, 5 Nov 2026 23:10:00 -0800",
+          "text": "موعد اذان الظهر",
+          "created_at": "Fri, 6 Nov 2026 00:30:00 -0800",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "david miller",
+          "created_at": "Fri, 6 Nov 2026 00:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,10 +26,37 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ziaur rahman",
+          "text": "منتخب السعودية لكرة القدم",
+          "created_at": "Fri, 6 Nov 2026 00:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "محمد بركات",
           "created_at": "Thu, 5 Nov 2026 23:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ziaur rahman",
+          "created_at": "Thu, 5 Nov 2026 23:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": -50.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "south korea",
+          "created_at": "Thu, 5 Nov 2026 23:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -29,8 +65,8 @@
           "text": "zimbabwe vs afghanistan",
           "created_at": "Thu, 5 Nov 2026 22:30:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -39,7 +75,7 @@
           "created_at": "Thu, 5 Nov 2026 22:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +84,7 @@
           "created_at": "Thu, 5 Nov 2026 21:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -58,42 +94,6 @@
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "hasan mahmud",
-          "created_at": "Thu, 5 Nov 2026 21:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قطر",
-          "created_at": "Thu, 5 Nov 2026 21:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سيارة",
-          "created_at": "Thu, 5 Nov 2026 20:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ميريح ديميرال",
-          "created_at": "Thu, 5 Nov 2026 20:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
           }
         }
       ]
