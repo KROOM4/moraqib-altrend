@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T03:06:07.618196+00:00",
+  "updated_at": "2026-11-06T04:11:02.020164+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "warriors vs heat",
+          "created_at": "Thu, 5 Nov 2026 19:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سياحة",
+          "created_at": "Thu, 5 Nov 2026 19:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "يوروفايتر تايفون",
           "created_at": "Thu, 5 Nov 2026 18:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جسر الملك فهد",
+          "created_at": "Thu, 5 Nov 2026 18:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -21,6 +48,15 @@
           "created_at": "Thu, 5 Nov 2026 18:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "البرلمان التركي",
+          "created_at": "Thu, 5 Nov 2026 18:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -30,7 +66,7 @@
           "created_at": "Thu, 5 Nov 2026 17:40:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +74,8 @@
           "text": "مطر",
           "created_at": "Thu, 5 Nov 2026 17:20:00 -0800",
           "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 9900.0
+            "search_volume": "1000+",
+            "growth_percent": -95.0
           }
         },
         {
@@ -48,7 +84,7 @@
           "created_at": "Thu, 5 Nov 2026 15:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,44 +92,8 @@
           "text": "civil defense saudi arabia weather alert",
           "created_at": "Thu, 5 Nov 2026 15:40:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "দৈনিক কালের কণ্ঠ",
-          "created_at": "Thu, 5 Nov 2026 14:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مرتضى منصور",
-          "created_at": "Thu, 5 Nov 2026 14:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أوروبا",
-          "created_at": "Thu, 5 Nov 2026 14:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "احلى نصيب مسلسل",
-          "created_at": "Thu, 5 Nov 2026 14:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         }
       ]
