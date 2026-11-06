@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T20:59:50.025851+00:00",
+  "updated_at": "2026-11-06T21:55:12.594434+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تياغو موتا",
-          "created_at": "Fri, 6 Nov 2026 12:40:00 -0800",
+          "text": "منخفض جوي",
+          "created_at": "Fri, 6 Nov 2026 13:40:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مسلسل طالع نازل",
+          "created_at": "Fri, 6 Nov 2026 13:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,11 +26,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "scene movie review",
+          "created_at": "Fri, 6 Nov 2026 13:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تياغو موتا",
+          "created_at": "Fri, 6 Nov 2026 12:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "oxford city vs leicester city",
           "created_at": "Fri, 6 Nov 2026 12:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +57,7 @@
           "created_at": "Fri, 6 Nov 2026 12:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,16 +74,7 @@
           "text": "إشبيلية ضد ألافيس",
           "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sevilla vs alavés",
-          "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "2000+",
             "growth_percent": 100.0
           }
         },
@@ -66,34 +84,16 @@
           "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إيفرتون ضد كوفنتري سيتي",
-          "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "campus drivers",
+          "text": "sevilla vs alavés",
           "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "video viral video",
-          "created_at": "Fri, 6 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "1000+",
+            "growth_percent": 0.0
           }
         }
       ]
