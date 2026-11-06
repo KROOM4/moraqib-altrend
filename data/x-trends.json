@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T20:03:11.928267+00:00",
+  "updated_at": "2026-11-06T20:59:50.025851+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "خلي بالك من نفسك",
-          "created_at": "Fri, 6 Nov 2026 11:40:00 -0800",
+          "text": "تياغو موتا",
+          "created_at": "Fri, 6 Nov 2026 12:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "oxford city vs leicester city",
+          "created_at": "Fri, 6 Nov 2026 12:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,20 +26,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إشبيلية ضد ألافيس",
-          "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
+          "text": "honor 700 pro",
+          "created_at": "Fri, 6 Nov 2026 12:40:00 -0800",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "everton vs coventry",
+          "text": "خلي بالك من نفسك",
+          "created_at": "Fri, 6 Nov 2026 11:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إشبيلية ضد ألافيس",
           "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,8 +56,17 @@
           "text": "sevilla vs alavés",
           "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "everton vs coventry",
+          "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,6 +75,15 @@
           "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
           "metrics": {
             "search_volume": "500+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "campus drivers",
+          "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -56,44 +92,8 @@
           "text": "video viral video",
           "created_at": "Fri, 6 Nov 2026 11:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طائرة مقاتلة",
-          "created_at": "Fri, 6 Nov 2026 09:50:00 -0800",
-          "metrics": {
             "search_volume": "200+",
             "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "honor 700",
-          "created_at": "Fri, 6 Nov 2026 09:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "weather tomorrow",
-          "created_at": "Fri, 6 Nov 2026 09:40:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "météo demain",
-          "created_at": "Fri, 6 Nov 2026 09:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
           }
         }
       ]
