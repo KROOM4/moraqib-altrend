@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T15:02:01.755452+00:00",
+  "updated_at": "2026-11-06T16:03:45.058814+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "محمد صلاح طرابزون سبور",
+          "created_at": "Fri, 6 Nov 2026 07:40:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الذهب اليوم عيار 21",
+          "created_at": "Fri, 6 Nov 2026 07:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "قياس",
+          "created_at": "Fri, 6 Nov 2026 07:20:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "airport",
+          "created_at": "Fri, 6 Nov 2026 06:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "دعاء يوم الجمعة",
           "created_at": "Fri, 6 Nov 2026 06:10:00 -0800",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +57,7 @@
           "created_at": "Fri, 6 Nov 2026 06:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,7 +65,16 @@
           "text": "طيران",
           "created_at": "Fri, 6 Nov 2026 06:00:00 -0800",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "1000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كأس مصر",
+          "created_at": "Fri, 6 Nov 2026 06:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -38,59 +83,14 @@
           "text": "صندوق الاستثمارات العامة",
           "created_at": "Fri, 6 Nov 2026 05:50:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "تيك",
           "created_at": "Fri, 6 Nov 2026 05:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sikandar raza",
-          "created_at": "Fri, 6 Nov 2026 05:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "alexandra eala",
-          "created_at": "Fri, 6 Nov 2026 05:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عبلة كامل",
-          "created_at": "Fri, 6 Nov 2026 05:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "forex factory",
-          "created_at": "Fri, 6 Nov 2026 04:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منصور ال شريم",
-          "created_at": "Fri, 6 Nov 2026 03:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
