@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T19:12:53.863102+00:00",
+  "updated_at": "2026-11-06T20:03:11.928267+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,65 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طائرة مقاتلة",
-          "created_at": "Fri, 6 Nov 2026 09:50:00 -0800",
+          "text": "خلي بالك من نفسك",
+          "created_at": "Fri, 6 Nov 2026 11:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إشبيلية ضد ألافيس",
+          "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "everton vs coventry",
+          "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sevilla vs alavés",
+          "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إيفرتون ضد كوفنتري سيتي",
+          "created_at": "Fri, 6 Nov 2026 11:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "video viral video",
+          "created_at": "Fri, 6 Nov 2026 11:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طائرة مقاتلة",
+          "created_at": "Fri, 6 Nov 2026 09:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,16 +84,7 @@
           "created_at": "Fri, 6 Nov 2026 09:40:00 -0800",
           "metrics": {
             "search_volume": "20000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cuaca besok",
-          "created_at": "Fri, 6 Nov 2026 09:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,52 +93,7 @@
           "created_at": "Fri, 6 Nov 2026 09:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "yarınki hava durumu",
-          "created_at": "Fri, 6 Nov 2026 09:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "погода завтра",
-          "created_at": "Fri, 6 Nov 2026 09:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الطقس غدًا",
-          "created_at": "Fri, 6 Nov 2026 09:30:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "youtube youtube",
-          "created_at": "Fri, 6 Nov 2026 09:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الزمالك ضد مصر للتأمين",
-          "created_at": "Fri, 6 Nov 2026 09:10:00 -0800",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 400.0
           }
         }
       ]
