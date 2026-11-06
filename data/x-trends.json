@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T12:40:19.276819+00:00",
+  "updated_at": "2026-11-06T13:55:31.042334+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,37 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مطار",
-          "created_at": "Fri, 6 Nov 2026 04:20:00 -0800",
+          "text": "تيك",
+          "created_at": "Fri, 6 Nov 2026 05:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sikandar raza",
+          "created_at": "Fri, 6 Nov 2026 05:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "alexandra eala",
+          "created_at": "Fri, 6 Nov 2026 05:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "forex factory",
+          "created_at": "Fri, 6 Nov 2026 04:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -20,8 +47,8 @@
           "text": "منصور ال شريم",
           "created_at": "Fri, 6 Nov 2026 03:20:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -29,8 +56,8 @@
           "text": "رائد قرملي",
           "created_at": "Fri, 6 Nov 2026 02:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,7 +66,7 @@
           "created_at": "Fri, 6 Nov 2026 02:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -65,35 +92,8 @@
           "text": "lakshya raichandani",
           "created_at": "Fri, 6 Nov 2026 02:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي فرايبورغ",
-          "created_at": "Fri, 6 Nov 2026 02:00:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مكة مباشر",
-          "created_at": "Fri, 6 Nov 2026 01:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "david miller",
-          "created_at": "Fri, 6 Nov 2026 00:20:00 -0800",
-          "metrics": {
             "search_volume": "500+",
-            "growth_percent": 0.0
+            "growth_percent": 150.0
           }
         }
       ]
