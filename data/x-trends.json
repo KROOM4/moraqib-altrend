@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T05:30:41.833287+00:00",
+  "updated_at": "2026-11-07T06:30:07.499875+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,46 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هجرة",
+          "created_at": "Fri, 6 Nov 2026 22:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "cricket",
+          "created_at": "Fri, 6 Nov 2026 22:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "shadman islam",
           "created_at": "Fri, 6 Nov 2026 21:10:00 -0800",
           "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الريال السعودي مقابل الجنيه",
+          "created_at": "Fri, 6 Nov 2026 20:50:00 -0800",
+          "metrics": {
             "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "gurnoor brar",
+          "created_at": "Fri, 6 Nov 2026 20:30:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
@@ -21,7 +57,7 @@
           "created_at": "Fri, 6 Nov 2026 20:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,15 +66,6 @@
           "created_at": "Fri, 6 Nov 2026 20:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": -90.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "alex eala",
-          "created_at": "Fri, 6 Nov 2026 20:10:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
             "growth_percent": 0.0
           }
         },
@@ -47,8 +74,17 @@
           "text": "lakers vs trail blazers",
           "created_at": "Fri, 6 Nov 2026 20:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "मौसम",
+          "created_at": "Fri, 6 Nov 2026 20:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -57,43 +93,7 @@
           "created_at": "Fri, 6 Nov 2026 19:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "hava durumu",
-          "created_at": "Fri, 6 Nov 2026 19:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موسم",
-          "created_at": "Fri, 6 Nov 2026 19:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "العريف جواد السلايطه",
-          "created_at": "Fri, 6 Nov 2026 19:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "weather",
-          "created_at": "Fri, 6 Nov 2026 19:30:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         }
       ]
