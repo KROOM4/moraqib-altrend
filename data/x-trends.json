@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T14:27:25.919641+00:00",
+  "updated_at": "2026-11-07T15:20:58.636224+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,92 +8,92 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "المصري ضد مصر المقاصة",
+          "created_at": "Sat, 7 Nov 2026 07:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "charlton vs sheffield united",
+          "created_at": "Sat, 7 Nov 2026 07:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "روضتي الافتراضية",
+          "created_at": "Sat, 7 Nov 2026 07:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "leeds united f.c. vs tottenham standings",
+          "created_at": "Sat, 7 Nov 2026 06:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "rb leipzig vs augsburg",
+          "created_at": "Sat, 7 Nov 2026 06:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مجلس الوزراء",
+          "created_at": "Sat, 7 Nov 2026 06:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "fulham vs newcastle",
+          "created_at": "Sat, 7 Nov 2026 06:30:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "dortmund vs sv elversberg",
+          "created_at": "Sat, 7 Nov 2026 06:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اصالة نصري",
+          "created_at": "Sat, 7 Nov 2026 06:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "arsenal vs hull",
           "created_at": "Sat, 7 Nov 2026 06:10:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "آرسنال ضد هال سيتي",
-          "created_at": "Sat, 7 Nov 2026 06:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الشمال ضد السيلية",
-          "created_at": "Sat, 7 Nov 2026 06:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mainz vs bayern",
-          "created_at": "Sat, 7 Nov 2026 05:50:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قيس عبد الفتاح",
-          "created_at": "Sat, 7 Nov 2026 05:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "wrexham vs wolves",
-          "created_at": "Sat, 7 Nov 2026 05:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "امطار",
-          "created_at": "Sat, 7 Nov 2026 05:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "claire liu",
-          "created_at": "Sat, 7 Nov 2026 05:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saff",
-          "created_at": "Sat, 7 Nov 2026 05:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "persija jakarta vs persebaya",
-          "created_at": "Sat, 7 Nov 2026 04:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "2000+",
+            "growth_percent": 300.0
           }
         }
       ]

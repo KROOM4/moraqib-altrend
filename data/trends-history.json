@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-07T14:27:25.919641+00:00",
+  "updated_at": "2026-11-07T15:20:58.636224+00:00",
   "trends": {
+    "المصري ضد مصر المقاصة": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-07T15:20:58.636224+00:00"
+    },
+    "charlton vs sheffield united": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-07T15:20:58.636224+00:00"
+    },
+    "روضتي الافتراضية": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-07T15:20:58.636224+00:00"
+    },
+    "leeds united f.c. vs tottenham standings": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-07T15:20:58.636224+00:00"
+    },
+    "rb leipzig vs augsburg": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-07T15:20:58.636224+00:00"
+    },
+    "مجلس الوزراء": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-07T15:20:58.636224+00:00"
+    },
+    "fulham vs newcastle": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-07T15:20:58.636224+00:00"
+    },
+    "dortmund vs sv elversberg": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-07T15:20:58.636224+00:00"
+    },
+    "اصالة نصري": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-07T15:20:58.636224+00:00"
+    },
     "arsenal vs hull": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-07T14:27:25.919641+00:00"
-    },
-    "آرسنال ضد هال سيتي": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-07T14:27:25.919641+00:00"
-    },
-    "الشمال ضد السيلية": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-07T14:27:25.919641+00:00"
-    },
-    "mainz vs bayern": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-07T14:27:25.919641+00:00"
-    },
-    "قيس عبد الفتاح": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-07T14:27:25.919641+00:00"
-    },
-    "wrexham vs wolves": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-07T14:27:25.919641+00:00"
-    },
-    "امطار": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-07T14:27:25.919641+00:00"
-    },
-    "claire liu": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-07T14:27:25.919641+00:00"
-    },
-    "saff": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-07T14:27:25.919641+00:00"
-    },
-    "persija jakarta vs persebaya": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-07T14:27:25.919641+00:00"
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-11-07T15:20:58.636224+00:00"
     }
   }
 }
