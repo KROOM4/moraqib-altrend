@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T06:30:07.499875+00:00",
+  "updated_at": "2026-11-07T07:43:41.194386+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هجرة",
-          "created_at": "Fri, 6 Nov 2026 22:20:00 -0800",
+          "text": "رانيا فريد شوقي",
+          "created_at": "Fri, 6 Nov 2026 23:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,8 +17,71 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cricket",
+          "text": "ألكسندر ميتروفيتش",
+          "created_at": "Fri, 6 Nov 2026 23:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سوزي وايلز",
+          "created_at": "Fri, 6 Nov 2026 23:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "mohammed shami",
+          "created_at": "Fri, 6 Nov 2026 23:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "zimbabwe vs afghanistan",
+          "created_at": "Fri, 6 Nov 2026 22:40:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هجرة",
+          "created_at": "Fri, 6 Nov 2026 22:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "arshdeep singh",
           "created_at": "Fri, 6 Nov 2026 22:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "usman khawaja",
+          "created_at": "Fri, 6 Nov 2026 21:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أحمد العوضي",
+          "created_at": "Fri, 6 Nov 2026 21:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -28,69 +91,6 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "shadman islam",
           "created_at": "Fri, 6 Nov 2026 21:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الريال السعودي مقابل الجنيه",
-          "created_at": "Fri, 6 Nov 2026 20:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gurnoor brar",
-          "created_at": "Fri, 6 Nov 2026 20:30:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "anshul kamboj",
-          "created_at": "Fri, 6 Nov 2026 20:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mushfiqur rahim",
-          "created_at": "Fri, 6 Nov 2026 20:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lakers vs trail blazers",
-          "created_at": "Fri, 6 Nov 2026 20:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "मौसम",
-          "created_at": "Fri, 6 Nov 2026 20:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "погода",
-          "created_at": "Fri, 6 Nov 2026 19:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
