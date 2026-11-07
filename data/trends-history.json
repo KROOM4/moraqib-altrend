@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-07T15:20:58.636224+00:00",
+  "updated_at": "2026-11-07T16:21:19.761079+00:00",
   "trends": {
-    "المصري ضد مصر المقاصة": {
+    "galatasaray vs amed sk": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-07T15:20:58.636224+00:00"
+      "updated_at": "2026-11-07T16:21:19.761079+00:00"
     },
-    "charlton vs sheffield united": {
+    "galatasaray - amed": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-07T15:20:58.636224+00:00"
+      "updated_at": "2026-11-07T16:21:19.761079+00:00"
+    },
+    "موعد اذان العشاء": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-11-07T16:21:19.761079+00:00"
+    },
+    "نيوكاسل": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-07T16:21:19.761079+00:00"
+    },
+    "espanyol vs deportivo": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-07T16:21:19.761079+00:00"
+    },
+    "t10 league": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-07T16:21:19.761079+00:00"
+    },
+    "الشارقة ضد شباب الأهلي": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-11-07T16:21:19.761079+00:00"
+    },
+    "طقس حفر الباطن": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-07T16:21:19.761079+00:00"
+    },
+    "المصري ضد مصر المقاصة": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-11-07T16:21:19.761079+00:00"
     },
     "روضتي الافتراضية": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-07T15:20:58.636224+00:00"
-    },
-    "leeds united f.c. vs tottenham standings": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-07T15:20:58.636224+00:00"
-    },
-    "rb leipzig vs augsburg": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-07T15:20:58.636224+00:00"
-    },
-    "مجلس الوزراء": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-07T15:20:58.636224+00:00"
-    },
-    "fulham vs newcastle": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-07T15:20:58.636224+00:00"
-    },
-    "dortmund vs sv elversberg": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-07T15:20:58.636224+00:00"
-    },
-    "اصالة نصري": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-07T15:20:58.636224+00:00"
-    },
-    "arsenal vs hull": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-11-07T15:20:58.636224+00:00"
+      "updated_at": "2026-11-07T16:21:19.761079+00:00"
     }
   }
 }
