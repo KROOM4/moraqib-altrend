@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T09:28:30.934354+00:00",
+  "updated_at": "2026-11-07T10:24:55.623509+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منتخب السعودية لكرة القدم",
+          "created_at": "Sat, 7 Nov 2026 01:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إليسا",
+          "created_at": "Sat, 7 Nov 2026 01:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ماك",
+          "created_at": "Sat, 7 Nov 2026 01:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إدوارد سبيرتسيان",
+          "created_at": "Sat, 7 Nov 2026 01:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "سالم الدوسري",
           "created_at": "Sat, 7 Nov 2026 01:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -21,7 +57,7 @@
           "created_at": "Sat, 7 Nov 2026 01:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,7 +65,25 @@
           "text": "alexandra eala",
           "created_at": "Sat, 7 Nov 2026 01:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ഓഹരി വിപണി",
+          "created_at": "Sat, 7 Nov 2026 00:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "axar patel",
+          "created_at": "Sat, 7 Nov 2026 00:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -39,61 +93,7 @@
           "created_at": "Sat, 7 Nov 2026 00:20:00 -0800",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "rohit sharma",
-          "created_at": "Sat, 7 Nov 2026 00:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جزيرة قشم الايرانية",
-          "created_at": "Sat, 7 Nov 2026 00:10:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "taijul islam",
-          "created_at": "Sat, 7 Nov 2026 00:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عمر السومة",
-          "created_at": "Fri, 6 Nov 2026 23:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رانيا فريد شوقي",
-          "created_at": "Fri, 6 Nov 2026 23:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ice offering",
-          "created_at": "Fri, 6 Nov 2026 23:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
           }
         }
       ]
