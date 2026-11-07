@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T22:19:09.167896+00:00",
+  "updated_at": "2026-11-07T23:17:01.789323+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,28 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "valencia cf vs real madrid standings",
-          "created_at": "Sat, 7 Nov 2026 14:10:00 -0800",
+          "text": "psg vs estac troyes standings",
+          "created_at": "Sat, 7 Nov 2026 14:20:00 -0800",
           "metrics": {
             "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "wind warning",
+          "created_at": "Sat, 7 Nov 2026 14:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كلية الملك فهد الأمنية",
+          "created_at": "Sat, 7 Nov 2026 14:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -20,8 +38,8 @@
           "text": "نادي القادسية السعودي",
           "created_at": "Sat, 7 Nov 2026 13:30:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -30,7 +48,7 @@
           "created_at": "Sat, 7 Nov 2026 12:50:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +57,7 @@
           "created_at": "Sat, 7 Nov 2026 12:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +66,7 @@
           "created_at": "Sat, 7 Nov 2026 12:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,8 +74,8 @@
           "text": "inter miami vs charlotte",
           "created_at": "Sat, 7 Nov 2026 12:20:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -66,7 +84,7 @@
           "created_at": "Sat, 7 Nov 2026 12:20:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 300.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -75,25 +93,7 @@
           "created_at": "Sat, 7 Nov 2026 12:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "روما ضد ساسولو",
-          "created_at": "Sat, 7 Nov 2026 11:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عاجل",
-          "created_at": "Sat, 7 Nov 2026 11:40:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
           }
         }
       ]
