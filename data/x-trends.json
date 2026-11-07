@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T17:20:12.285291+00:00",
+  "updated_at": "2026-11-07T18:17:43.173598+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الأهلي ضد السكة الحديد",
-          "created_at": "Sat, 7 Nov 2026 09:10:00 -0800",
+          "text": "jair cunha",
+          "created_at": "Sat, 7 Nov 2026 10:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "السيتي",
+          "created_at": "Sat, 7 Nov 2026 10:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الأهرام ضد الداخلية",
+          "created_at": "Sat, 7 Nov 2026 09:50:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -17,8 +35,26 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fsv mainz vs bayern munich standings",
-          "created_at": "Sat, 7 Nov 2026 08:50:00 -0800",
+          "text": "cuaca besok",
+          "created_at": "Sat, 7 Nov 2026 09:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "погода завтра",
+          "created_at": "Sat, 7 Nov 2026 09:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "météo demain",
+          "created_at": "Sat, 7 Nov 2026 09:50:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -26,74 +62,38 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nottm forest vs man city",
-          "created_at": "Sat, 7 Nov 2026 08:40:00 -0800",
+          "text": "فضاء",
+          "created_at": "Sat, 7 Nov 2026 09:50:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الغرافة ضد الدحيل",
-          "created_at": "Sat, 7 Nov 2026 08:20:00 -0800",
+          "text": "الطقس غدًا",
+          "created_at": "Sat, 7 Nov 2026 09:40:00 -0800",
+          "metrics": {
+            "search_volume": "100000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "weather tomorrow",
+          "created_at": "Sat, 7 Nov 2026 09:40:00 -0800",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "fulham f.c. vs newcastle united f.c. standings",
+          "created_at": "Sat, 7 Nov 2026 09:40:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ea sports",
-          "created_at": "Sat, 7 Nov 2026 08:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "galatasaray vs amed sk",
-          "created_at": "Sat, 7 Nov 2026 08:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "galatasaray - amed",
-          "created_at": "Sat, 7 Nov 2026 08:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تعليق",
-          "created_at": "Sat, 7 Nov 2026 08:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موعد اذان العشاء",
-          "created_at": "Sat, 7 Nov 2026 08:00:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نيوكاسل",
-          "created_at": "Sat, 7 Nov 2026 07:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
