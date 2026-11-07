@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T12:23:01.509474+00:00",
+  "updated_at": "2026-11-07T13:36:22.514767+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,65 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "saff",
+          "created_at": "Sat, 7 Nov 2026 05:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طويق",
+          "created_at": "Sat, 7 Nov 2026 04:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "persija jakarta vs persebaya",
+          "created_at": "Sat, 7 Nov 2026 04:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "david warner",
+          "created_at": "Sat, 7 Nov 2026 04:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "málaga vs racing santander",
+          "created_at": "Sat, 7 Nov 2026 04:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "محمد كنو",
+          "created_at": "Sat, 7 Nov 2026 04:30:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "ليدز ضد توتنهام",
           "created_at": "Sat, 7 Nov 2026 03:50:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -20,8 +74,8 @@
           "text": "leeds vs spurs",
           "created_at": "Sat, 7 Nov 2026 03:40:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -35,64 +89,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منتخب السعودية لكرة القدم",
-          "created_at": "Sat, 7 Nov 2026 01:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إليسا",
-          "created_at": "Sat, 7 Nov 2026 01:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "أمير منطقة جازان",
           "created_at": "Sat, 7 Nov 2026 01:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ماك",
-          "created_at": "Sat, 7 Nov 2026 01:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إدوارد سبيرتسيان",
-          "created_at": "Sat, 7 Nov 2026 01:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "rahmat shah",
-          "created_at": "Sat, 7 Nov 2026 01:10:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سالم الدوسري",
-          "created_at": "Sat, 7 Nov 2026 01:10:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
             "growth_percent": 0.0
           }
         }
