@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T23:17:01.789323+00:00",
+  "updated_at": "2026-11-07T23:54:14.453234+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,10 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "psg vs estac troyes standings",
-          "created_at": "Sat, 7 Nov 2026 14:20:00 -0800",
+          "text": "jazan",
+          "created_at": "Sat, 7 Nov 2026 15:30:00 -0800",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -21,7 +21,7 @@
           "created_at": "Sat, 7 Nov 2026 14:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +30,7 @@
           "created_at": "Sat, 7 Nov 2026 14:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +39,7 @@
           "created_at": "Sat, 7 Nov 2026 13:30:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -75,7 +75,7 @@
           "created_at": "Sat, 7 Nov 2026 12:20:00 -0800",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
