@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T18:17:43.173598+00:00",
+  "updated_at": "2026-11-07T19:26:45.766646+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jair cunha",
-          "created_at": "Sat, 7 Nov 2026 10:10:00 -0800",
+          "text": "فالنسيا ضد الريال",
+          "created_at": "Sat, 7 Nov 2026 11:10:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "valencia vs real madrid",
+          "created_at": "Sat, 7 Nov 2026 11:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ترتيب الدوري الانجليزي",
+          "created_at": "Sat, 7 Nov 2026 11:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "استئناف",
+          "created_at": "Sat, 7 Nov 2026 10:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,10 +44,19 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "السيتي",
-          "created_at": "Sat, 7 Nov 2026 10:10:00 -0800",
+          "text": "علي ماهر",
+          "created_at": "Sat, 7 Nov 2026 10:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مانشستر سيتي",
+          "created_at": "Sat, 7 Nov 2026 10:20:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
@@ -29,8 +65,17 @@
           "text": "الأهرام ضد الداخلية",
           "created_at": "Sat, 7 Nov 2026 09:50:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 300.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "погода завтра",
+          "created_at": "Sat, 7 Nov 2026 09:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,25 +84,7 @@
           "created_at": "Sat, 7 Nov 2026 09:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "погода завтра",
-          "created_at": "Sat, 7 Nov 2026 09:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "météo demain",
-          "created_at": "Sat, 7 Nov 2026 09:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -66,34 +93,7 @@
           "created_at": "Sat, 7 Nov 2026 09:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الطقس غدًا",
-          "created_at": "Sat, 7 Nov 2026 09:40:00 -0800",
-          "metrics": {
-            "search_volume": "100000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "weather tomorrow",
-          "created_at": "Sat, 7 Nov 2026 09:40:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fulham f.c. vs newcastle united f.c. standings",
-          "created_at": "Sat, 7 Nov 2026 09:40:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         }
       ]
