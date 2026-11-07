@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T16:21:19.761079+00:00",
+  "updated_at": "2026-11-07T17:20:12.285291+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,56 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الأهلي ضد السكة الحديد",
+          "created_at": "Sat, 7 Nov 2026 09:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "fsv mainz vs bayern munich standings",
+          "created_at": "Sat, 7 Nov 2026 08:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "nottm forest vs man city",
+          "created_at": "Sat, 7 Nov 2026 08:40:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الغرافة ضد الدحيل",
+          "created_at": "Sat, 7 Nov 2026 08:20:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ea sports",
+          "created_at": "Sat, 7 Nov 2026 08:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "galatasaray vs amed sk",
           "created_at": "Sat, 7 Nov 2026 08:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -20,7 +65,16 @@
           "text": "galatasaray - amed",
           "created_at": "Sat, 7 Nov 2026 08:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تعليق",
+          "created_at": "Sat, 7 Nov 2026 08:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -30,7 +84,7 @@
           "created_at": "Sat, 7 Nov 2026 08:00:00 -0800",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,62 +92,8 @@
           "text": "نيوكاسل",
           "created_at": "Sat, 7 Nov 2026 07:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "espanyol vs deportivo",
-          "created_at": "Sat, 7 Nov 2026 07:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "t10 league",
-          "created_at": "Sat, 7 Nov 2026 07:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الشارقة ضد شباب الأهلي",
-          "created_at": "Sat, 7 Nov 2026 07:20:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طقس حفر الباطن",
-          "created_at": "Sat, 7 Nov 2026 07:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المصري ضد مصر المقاصة",
-          "created_at": "Sat, 7 Nov 2026 07:00:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "روضتي الافتراضية",
-          "created_at": "Sat, 7 Nov 2026 07:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         }
       ]
