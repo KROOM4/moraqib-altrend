@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T02:29:25.901416+00:00",
+  "updated_at": "2026-11-07T03:29:56.480734+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand vs india",
-          "created_at": "Fri, 6 Nov 2026 18:20:00 -0800",
+          "text": "مدرب",
+          "created_at": "Fri, 6 Nov 2026 19:20:00 -0800",
           "metrics": {
-            "search_volume": "5000+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cavaliers vs 76ers",
-          "created_at": "Fri, 6 Nov 2026 18:00:00 -0800",
+          "text": "الطقس",
+          "created_at": "Fri, 6 Nov 2026 19:10:00 -0800",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "weather today",
+          "created_at": "Fri, 6 Nov 2026 19:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -26,8 +35,53 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الهام شاهين ومرتضى منصور",
-          "created_at": "Fri, 6 Nov 2026 16:50:00 -0800",
+          "text": "مشروع",
+          "created_at": "Fri, 6 Nov 2026 18:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الراجحي",
+          "created_at": "Fri, 6 Nov 2026 18:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ياسر القحطاني",
+          "created_at": "Fri, 6 Nov 2026 18:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "new zealand vs india",
+          "created_at": "Fri, 6 Nov 2026 18:20:00 -0800",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": 300.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "cavaliers vs 76ers",
+          "created_at": "Fri, 6 Nov 2026 18:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إلهام شاهين",
+          "created_at": "Fri, 6 Nov 2026 16:40:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -38,62 +92,8 @@
           "text": "رادار",
           "created_at": "Fri, 6 Nov 2026 16:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ذهب",
-          "created_at": "Fri, 6 Nov 2026 15:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sevilla fc vs deportivo alavés standings",
-          "created_at": "Fri, 6 Nov 2026 15:00:00 -0800",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جزيرة قشم",
-          "created_at": "Fri, 6 Nov 2026 14:30:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الجواهرجي",
-          "created_at": "Fri, 6 Nov 2026 14:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جبل فاس ايران",
-          "created_at": "Fri, 6 Nov 2026 14:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عبدول السيد الانتخابات",
-          "created_at": "Fri, 6 Nov 2026 13:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": 100.0
           }
         }
       ]
