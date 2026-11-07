@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T20:17:17.412390+00:00",
+  "updated_at": "2026-11-07T21:18:58.585524+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,26 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "روما ضد ساسولو",
-          "created_at": "Sat, 7 Nov 2026 11:50:00 -0800",
+          "text": "real madrid",
+          "created_at": "Sat, 7 Nov 2026 12:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عاجل",
-          "created_at": "Sat, 7 Nov 2026 11:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cbse marks bifurcation 2027",
-          "created_at": "Sat, 7 Nov 2026 11:30:00 -0800",
+          "text": "ايزنكوت",
+          "created_at": "Sat, 7 Nov 2026 12:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -35,11 +26,65 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "psg vs troyes",
-          "created_at": "Sat, 7 Nov 2026 11:20:00 -0800",
+          "text": "illegal entry",
+          "created_at": "Sat, 7 Nov 2026 12:30:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "inter miami vs charlotte",
+          "created_at": "Sat, 7 Nov 2026 12:20:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إنتر ميامي ضد شارلوت",
+          "created_at": "Sat, 7 Nov 2026 12:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أنغام",
+          "created_at": "Sat, 7 Nov 2026 12:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "روما ضد ساسولو",
+          "created_at": "Sat, 7 Nov 2026 11:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عاجل",
+          "created_at": "Sat, 7 Nov 2026 11:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "cbse marks bifurcation 2027",
+          "created_at": "Sat, 7 Nov 2026 11:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,52 +93,7 @@
           "created_at": "Sat, 7 Nov 2026 11:20:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "roma vs sassuolo",
-          "created_at": "Sat, 7 Nov 2026 11:20:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pl",
-          "created_at": "Sat, 7 Nov 2026 11:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فالنسيا ضد الريال",
-          "created_at": "Sat, 7 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 900.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "valencia vs real madrid",
-          "created_at": "Sat, 7 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 1900.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيب الدوري الانجليزي",
-          "created_at": "Sat, 7 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         }
       ]
