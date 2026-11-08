@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T03:34:36.311543+00:00",
+  "updated_at": "2026-11-08T04:36:42.597146+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,82 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "التقويم الهجري",
+          "created_at": "Sat, 7 Nov 2026 20:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حرارة",
+          "created_at": "Sat, 7 Nov 2026 19:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "weather",
+          "created_at": "Sat, 7 Nov 2026 19:40:00 -0800",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "météo",
+          "created_at": "Sat, 7 Nov 2026 19:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الشروق",
+          "created_at": "Sat, 7 Nov 2026 19:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الطقس",
+          "created_at": "Sat, 7 Nov 2026 19:30:00 -0800",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "আবহাওয়া",
+          "created_at": "Sat, 7 Nov 2026 19:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "وزير",
           "created_at": "Sat, 7 Nov 2026 19:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "मौसम",
+          "created_at": "Sat, 7 Nov 2026 19:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -19,78 +91,6 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "برد",
           "created_at": "Sat, 7 Nov 2026 19:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدوري السعودي للمحترفين",
-          "created_at": "Sat, 7 Nov 2026 19:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اذكار الصباح",
-          "created_at": "Sat, 7 Nov 2026 18:50:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "warriors vs magic",
-          "created_at": "Sat, 7 Nov 2026 18:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدوام الشتوي",
-          "created_at": "Sat, 7 Nov 2026 18:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جورجي جيسوس",
-          "created_at": "Sat, 7 Nov 2026 18:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موعد اذان المغرب",
-          "created_at": "Sat, 7 Nov 2026 17:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رياض محرز",
-          "created_at": "Sat, 7 Nov 2026 16:30:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مناقصة",
-          "created_at": "Sat, 7 Nov 2026 15:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
