@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T17:18:44.131190+00:00",
+  "updated_at": "2026-11-08T18:18:17.528042+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,73 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "brighton & hove albion f.c. vs brentford f.c. standings",
-          "created_at": "Sun, 8 Nov 2026 09:00:00 -0800",
+          "text": "kanal d",
+          "created_at": "Sun, 8 Nov 2026 10:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "f1",
+          "created_at": "Sun, 8 Nov 2026 10:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الطقس غدًا",
+          "created_at": "Sun, 8 Nov 2026 09:40:00 -0800",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "weather tomorrow",
+          "created_at": "Sun, 8 Nov 2026 09:40:00 -0800",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sri lanka national football team vs bhutan national football team standings",
+          "created_at": "Sun, 8 Nov 2026 09:20:00 -0800",
           "metrics": {
             "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "villarreal vs getafe",
+          "created_at": "Sun, 8 Nov 2026 09:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دوري يلو",
+          "created_at": "Sun, 8 Nov 2026 09:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدوري القطري",
+          "created_at": "Sun, 8 Nov 2026 09:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -21,79 +84,16 @@
           "created_at": "Sun, 8 Nov 2026 09:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اصالة نصري",
-          "created_at": "Sun, 8 Nov 2026 09:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "احمد هارون السودان",
-          "created_at": "Sun, 8 Nov 2026 08:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "السد ضد الريان",
-          "created_at": "Sun, 8 Nov 2026 08:20:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الإنتر ضد كومو",
-          "created_at": "Sun, 8 Nov 2026 08:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "inter vs como",
-          "created_at": "Sun, 8 Nov 2026 08:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 900.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "बीबीसी",
-          "created_at": "Sun, 8 Nov 2026 08:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cbse marks bifurcation 2027 cbse board",
-          "created_at": "Sun, 8 Nov 2026 08:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "man utd vs aston villa",
-          "created_at": "Sun, 8 Nov 2026 07:40:00 -0800",
+          "text": "brighton & hove albion f.c. vs brentford f.c. standings",
+          "created_at": "Sun, 8 Nov 2026 09:00:00 -0800",
           "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 400.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         }
       ]

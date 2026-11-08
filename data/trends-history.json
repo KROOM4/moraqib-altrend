@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-08T17:18:44.131190+00:00",
+  "updated_at": "2026-11-08T18:18:17.528042+00:00",
   "trends": {
-    "brighton & hove albion f.c. vs brentford f.c. standings": {
+    "kanal d": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-08T18:18:17.528042+00:00"
+    },
+    "f1": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-08T18:18:17.528042+00:00"
+    },
+    "الطقس غدًا": {
+      "volume": 20000.0,
+      "raw_volume": "20000+",
+      "updated_at": "2026-11-08T18:18:17.528042+00:00"
+    },
+    "weather tomorrow": {
+      "volume": 20000.0,
+      "raw_volume": "20000+",
+      "updated_at": "2026-11-08T18:18:17.528042+00:00"
+    },
+    "sri lanka national football team vs bhutan national football team standings": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-11-08T17:18:44.131190+00:00"
+      "updated_at": "2026-11-08T18:18:17.528042+00:00"
+    },
+    "villarreal vs getafe": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-08T18:18:17.528042+00:00"
+    },
+    "دوري يلو": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-08T18:18:17.528042+00:00"
+    },
+    "الدوري القطري": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-08T18:18:17.528042+00:00"
     },
     "الاتحاد الخليجي لكرة القدم": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-08T17:18:44.131190+00:00"
+      "updated_at": "2026-11-08T18:18:17.528042+00:00"
     },
-    "اصالة نصري": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-08T17:18:44.131190+00:00"
-    },
-    "احمد هارون السودان": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-08T17:18:44.131190+00:00"
-    },
-    "السد ضد الريان": {
+    "brighton & hove albion f.c. vs brentford f.c. standings": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-11-08T17:18:44.131190+00:00"
-    },
-    "الإنتر ضد كومو": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-08T17:18:44.131190+00:00"
-    },
-    "inter vs como": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-11-08T17:18:44.131190+00:00"
-    },
-    "बीबीसी": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-08T17:18:44.131190+00:00"
-    },
-    "cbse marks bifurcation 2027 cbse board": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-08T17:18:44.131190+00:00"
-    },
-    "man utd vs aston villa": {
-      "volume": 10000.0,
-      "raw_volume": "10000+",
-      "updated_at": "2026-11-08T17:18:44.131190+00:00"
+      "updated_at": "2026-11-08T18:18:17.528042+00:00"
     }
   }
 }
