@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T09:28:58.899431+00:00",
+  "updated_at": "2026-11-08T10:25:16.496198+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,10 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "americano",
-          "created_at": "Sun, 8 Nov 2026 01:20:00 -0800",
+          "text": "الدوري الأمريكي لكرة القدم",
+          "created_at": "Sun, 8 Nov 2026 02:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -19,6 +19,24 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "usman khan",
           "created_at": "Sun, 8 Nov 2026 01:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "americano",
+          "created_at": "Sun, 8 Nov 2026 01:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ഇറാന്",
+          "created_at": "Sun, 8 Nov 2026 01:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -30,7 +48,7 @@
           "created_at": "Sun, 8 Nov 2026 00:50:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,6 +57,15 @@
           "created_at": "Sun, 8 Nov 2026 00:30:00 -0800",
           "metrics": {
             "search_volume": "1000+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "jaguar land rover",
+          "created_at": "Sun, 8 Nov 2026 00:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -48,16 +75,7 @@
           "created_at": "Sun, 8 Nov 2026 00:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كافيين",
-          "created_at": "Sun, 8 Nov 2026 00:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -74,26 +92,8 @@
           "text": "خلع",
           "created_at": "Sat, 7 Nov 2026 23:50:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كافد",
-          "created_at": "Sat, 7 Nov 2026 23:20:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 900.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ramayana movie ranbir kapoor",
-          "created_at": "Sat, 7 Nov 2026 23:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         }
       ]
