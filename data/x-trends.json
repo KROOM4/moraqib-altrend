@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T20:18:26.839393+00:00",
+  "updated_at": "2026-11-08T21:19:32.349100+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lens vs marseille",
-          "created_at": "Sun, 8 Nov 2026 12:10:00 -0800",
+          "text": "bulls vs 76ers",
+          "created_at": "Sun, 8 Nov 2026 13:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "estrela amadora vs benfica",
+          "created_at": "Sun, 8 Nov 2026 13:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,8 +26,62 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "laliga",
+          "created_at": "Sun, 8 Nov 2026 13:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "atlético madrid vs fc barcelona lineups",
+          "created_at": "Sun, 8 Nov 2026 12:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "brian fariñas",
+          "created_at": "Sun, 8 Nov 2026 12:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "giuliano simeone",
+          "created_at": "Sun, 8 Nov 2026 12:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "barca",
           "created_at": "Sun, 8 Nov 2026 12:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "lens vs marseille",
+          "created_at": "Sun, 8 Nov 2026 12:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "رومان رينز",
+          "created_at": "Sun, 8 Nov 2026 11:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -29,71 +92,8 @@
           "text": "حادث قطار العياط",
           "created_at": "Sun, 8 Nov 2026 11:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "max",
-          "created_at": "Sun, 8 Nov 2026 11:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أتلتيكو مدريد ضد برشلونة",
-          "created_at": "Sun, 8 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 900.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "atlético vs barcelona",
-          "created_at": "Sun, 8 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fiorentina vs juventus",
-          "created_at": "Sun, 8 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فيورنتينا ضد يوفنتوس",
-          "created_at": "Sun, 8 Nov 2026 11:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "serie a",
-          "created_at": "Sun, 8 Nov 2026 11:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طلائع الجيش ضد بترول أسيوط",
-          "created_at": "Sun, 8 Nov 2026 10:40:00 -0800",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": 100.0
           }
         }
       ]

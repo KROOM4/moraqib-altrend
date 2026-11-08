@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-08T20:18:26.839393+00:00",
+  "updated_at": "2026-11-08T21:19:32.349100+00:00",
   "trends": {
-    "lens vs marseille": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-08T20:18:26.839393+00:00"
-    },
-    "barca": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-08T20:18:26.839393+00:00"
-    },
-    "حادث قطار العياط": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-08T20:18:26.839393+00:00"
-    },
-    "max": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-08T20:18:26.839393+00:00"
-    },
-    "أتلتيكو مدريد ضد برشلونة": {
-      "volume": 20000.0,
-      "raw_volume": "20000+",
-      "updated_at": "2026-11-08T20:18:26.839393+00:00"
-    },
-    "atlético vs barcelona": {
-      "volume": 10000.0,
-      "raw_volume": "10000+",
-      "updated_at": "2026-11-08T20:18:26.839393+00:00"
-    },
-    "fiorentina vs juventus": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-08T20:18:26.839393+00:00"
-    },
-    "فيورنتينا ضد يوفنتوس": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-08T20:18:26.839393+00:00"
-    },
-    "serie a": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-08T20:18:26.839393+00:00"
-    },
-    "طلائع الجيش ضد بترول أسيوط": {
+    "bulls vs 76ers": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-08T20:18:26.839393+00:00"
+      "updated_at": "2026-11-08T21:19:32.349100+00:00"
+    },
+    "estrela amadora vs benfica": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-08T21:19:32.349100+00:00"
+    },
+    "laliga": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-08T21:19:32.349100+00:00"
+    },
+    "atlético madrid vs fc barcelona lineups": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-08T21:19:32.349100+00:00"
+    },
+    "brian fariñas": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-08T21:19:32.349100+00:00"
+    },
+    "giuliano simeone": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-08T21:19:32.349100+00:00"
+    },
+    "barca": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-08T21:19:32.349100+00:00"
+    },
+    "lens vs marseille": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-08T21:19:32.349100+00:00"
+    },
+    "رومان رينز": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-08T21:19:32.349100+00:00"
+    },
+    "حادث قطار العياط": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-08T21:19:32.349100+00:00"
     }
   }
 }
