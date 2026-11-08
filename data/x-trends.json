@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T07:44:54.586622+00:00",
+  "updated_at": "2026-11-08T08:33:28.131272+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ramayana movie ranbir kapoor",
-          "created_at": "Sat, 7 Nov 2026 23:10:00 -0800",
+          "text": "كأس آسيا",
+          "created_at": "Sun, 8 Nov 2026 00:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kevin wickham",
+          "created_at": "Sun, 8 Nov 2026 00:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "خلع",
+          "created_at": "Sat, 7 Nov 2026 23:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كافد",
+          "created_at": "Sat, 7 Nov 2026 23:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ramayana movie ranbir kapoor",
+          "created_at": "Sat, 7 Nov 2026 23:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,6 +57,15 @@
           "created_at": "Sat, 7 Nov 2026 23:00:00 -0800",
           "metrics": {
             "search_volume": "2000+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "india national under-19 cricket team vs pakistan national under-19 cricket team match scorecard",
+          "created_at": "Sat, 7 Nov 2026 22:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -30,7 +75,7 @@
           "created_at": "Sat, 7 Nov 2026 22:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,58 +84,13 @@
           "created_at": "Sat, 7 Nov 2026 22:50:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "arjun rajput",
-          "created_at": "Sat, 7 Nov 2026 22:30:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صاروخ كروز",
-          "created_at": "Sat, 7 Nov 2026 22:10:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بيان",
-          "created_at": "Sat, 7 Nov 2026 22:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "honor 700 pro",
-          "created_at": "Sat, 7 Nov 2026 21:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "riyadh news",
-          "created_at": "Sat, 7 Nov 2026 21:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "openai",
-          "created_at": "Sat, 7 Nov 2026 21:30:00 -0800",
+          "text": "ناهيتان نانديز",
+          "created_at": "Sat, 7 Nov 2026 22:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
