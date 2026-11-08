@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T15:19:08.477694+00:00",
+  "updated_at": "2026-11-08T16:20:37.574693+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,92 +8,92 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "inter vs como",
+          "created_at": "Sun, 8 Nov 2026 08:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "cbse marks bifurcation 2027 cbse board",
+          "created_at": "Sun, 8 Nov 2026 08:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "man utd vs aston villa",
+          "created_at": "Sun, 8 Nov 2026 07:40:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مان يونايتد ضد أستون فيلا",
+          "created_at": "Sun, 8 Nov 2026 07:40:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "real sociedad vs rayo",
+          "created_at": "Sun, 8 Nov 2026 07:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "العملة",
+          "created_at": "Sun, 8 Nov 2026 07:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الوحدة ضد العين",
+          "created_at": "Sun, 8 Nov 2026 07:20:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "barcelona vs madrid cff",
+          "created_at": "Sun, 8 Nov 2026 07:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "t10 league",
+          "created_at": "Sun, 8 Nov 2026 07:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "ريال سوسيداد ضد رايو فاليكانو",
           "created_at": "Sun, 8 Nov 2026 07:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "alanyaspor vs trabzonspor",
-          "created_at": "Sun, 8 Nov 2026 06:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ألانيا سبور ضد طرابزون سبور",
-          "created_at": "Sun, 8 Nov 2026 06:40:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيب",
-          "created_at": "Sun, 8 Nov 2026 06:40:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "برشلونه واتلتيكو مدريد",
-          "created_at": "Sun, 8 Nov 2026 06:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "يلو",
-          "created_at": "Sun, 8 Nov 2026 06:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعودی آرامکو",
-          "created_at": "Sun, 8 Nov 2026 06:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ipswich town vs bournemouth",
-          "created_at": "Sun, 8 Nov 2026 06:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "برايتون ضد برينتفورد",
-          "created_at": "Sun, 8 Nov 2026 05:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جنوى ضد ميلان",
-          "created_at": "Sun, 8 Nov 2026 05:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
