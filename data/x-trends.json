@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T02:33:14.310409+00:00",
+  "updated_at": "2026-11-08T03:34:36.311543+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,64 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رئيس اسرائيل",
-          "created_at": "Sat, 7 Nov 2026 18:10:00 -0800",
+          "text": "وزير",
+          "created_at": "Sat, 7 Nov 2026 19:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "برد",
+          "created_at": "Sat, 7 Nov 2026 19:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدوري السعودي للمحترفين",
+          "created_at": "Sat, 7 Nov 2026 19:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اذكار الصباح",
+          "created_at": "Sat, 7 Nov 2026 18:50:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "warriors vs magic",
+          "created_at": "Sat, 7 Nov 2026 18:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدوام الشتوي",
+          "created_at": "Sat, 7 Nov 2026 18:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جورجي جيسوس",
+          "created_at": "Sat, 7 Nov 2026 18:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -21,7 +75,7 @@
           "created_at": "Sat, 7 Nov 2026 17:40:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,60 +93,6 @@
           "created_at": "Sat, 7 Nov 2026 15:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محافظة بدر",
-          "created_at": "Sat, 7 Nov 2026 15:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jazan",
-          "created_at": "Sat, 7 Nov 2026 15:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "wind warning",
-          "created_at": "Sat, 7 Nov 2026 14:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كلية الملك فهد الأمنية",
-          "created_at": "Sat, 7 Nov 2026 14:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي القادسية السعودي",
-          "created_at": "Sat, 7 Nov 2026 13:30:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "real madrid",
-          "created_at": "Sat, 7 Nov 2026 12:50:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
             "growth_percent": 0.0
           }
         }
