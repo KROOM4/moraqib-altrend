@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T13:35:23.908280+00:00",
+  "updated_at": "2026-11-08T14:25:34.630655+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سندرلاند ضد تشيلسي",
-          "created_at": "Sun, 8 Nov 2026 05:20:00 -0800",
+          "text": "ipswich town vs bournemouth",
+          "created_at": "Sun, 8 Nov 2026 06:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,8 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كريستال بالاس ضد ليفربول",
-          "created_at": "Sun, 8 Nov 2026 05:10:00 -0800",
+          "text": "حسام حسن وابراهيم حسن",
+          "created_at": "Sun, 8 Nov 2026 06:10:00 -0800",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -26,11 +26,65 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "برايتون ضد برينتفورد",
+          "created_at": "Sun, 8 Nov 2026 05:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جنوى ضد ميلان",
+          "created_at": "Sun, 8 Nov 2026 05:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "genoa vs milan",
+          "created_at": "Sun, 8 Nov 2026 05:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "brighton vs brentford",
+          "created_at": "Sun, 8 Nov 2026 05:30:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سندرلاند ضد تشيلسي",
+          "created_at": "Sun, 8 Nov 2026 05:20:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كريستال بالاس ضد ليفربول",
+          "created_at": "Sun, 8 Nov 2026 05:10:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "palace vs liverpool",
           "created_at": "Sun, 8 Nov 2026 05:10:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,62 +92,8 @@
           "text": "sunderland vs chelsea",
           "created_at": "Sun, 8 Nov 2026 05:10:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دانا وايت",
-          "created_at": "Sun, 8 Nov 2026 05:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مسار",
-          "created_at": "Sun, 8 Nov 2026 05:00:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الجزيرة ضد الوصل",
-          "created_at": "Sun, 8 Nov 2026 04:50:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "çorum - fenerbahçe",
-          "created_at": "Sun, 8 Nov 2026 04:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اقتصاد مصر",
-          "created_at": "Sun, 8 Nov 2026 04:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدفاع المدني السعودي",
-          "created_at": "Sun, 8 Nov 2026 04:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         }
       ]
