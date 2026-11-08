@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-08T08:33:28.131272+00:00",
+  "updated_at": "2026-11-08T09:28:58.899431+00:00",
   "trends": {
+    "americano": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-08T09:28:58.899431+00:00"
+    },
+    "usman khan": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-08T09:28:58.899431+00:00"
+    },
+    "ريال سعودي": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-08T09:28:58.899431+00:00"
+    },
+    "alexandra eala": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-11-08T09:28:58.899431+00:00"
+    },
     "كأس آسيا": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-08T08:33:28.131272+00:00"
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-08T09:28:58.899431+00:00"
+    },
+    "كافيين": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-08T09:28:58.899431+00:00"
     },
     "kevin wickham": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-08T08:33:28.131272+00:00"
+      "updated_at": "2026-11-08T09:28:58.899431+00:00"
     },
     "خلع": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-08T08:33:28.131272+00:00"
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-08T09:28:58.899431+00:00"
     },
     "كافد": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-08T08:33:28.131272+00:00"
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-11-08T09:28:58.899431+00:00"
     },
     "ramayana movie ranbir kapoor": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-08T08:33:28.131272+00:00"
-    },
-    "zimbabwe vs afghanistan": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-11-08T08:33:28.131272+00:00"
-    },
-    "india national under-19 cricket team vs pakistan national under-19 cricket team match scorecard": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-08T08:33:28.131272+00:00"
-    },
-    "حافز": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-08T08:33:28.131272+00:00"
-    },
-    "alex eala": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-08T08:33:28.131272+00:00"
-    },
-    "ناهيتان نانديز": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-08T08:33:28.131272+00:00"
+      "updated_at": "2026-11-08T09:28:58.899431+00:00"
     }
   }
 }

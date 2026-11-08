@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T08:33:28.131272+00:00",
+  "updated_at": "2026-11-08T09:28:58.899431+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,55 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "americano",
+          "created_at": "Sun, 8 Nov 2026 01:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "usman khan",
+          "created_at": "Sun, 8 Nov 2026 01:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ريال سعودي",
+          "created_at": "Sun, 8 Nov 2026 00:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "alexandra eala",
+          "created_at": "Sun, 8 Nov 2026 00:30:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "كأس آسيا",
           "created_at": "Sun, 8 Nov 2026 00:20:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كافيين",
+          "created_at": "Sun, 8 Nov 2026 00:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
@@ -21,7 +66,7 @@
           "created_at": "Sun, 8 Nov 2026 00:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +74,8 @@
           "text": "خلع",
           "created_at": "Sat, 7 Nov 2026 23:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -38,8 +83,8 @@
           "text": "كافد",
           "created_at": "Sat, 7 Nov 2026 23:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 900.0
           }
         },
         {
@@ -48,52 +93,7 @@
           "created_at": "Sat, 7 Nov 2026 23:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "zimbabwe vs afghanistan",
-          "created_at": "Sat, 7 Nov 2026 23:00:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "india national under-19 cricket team vs pakistan national under-19 cricket team match scorecard",
-          "created_at": "Sat, 7 Nov 2026 22:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حافز",
-          "created_at": "Sat, 7 Nov 2026 22:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "alex eala",
-          "created_at": "Sat, 7 Nov 2026 22:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ناهيتان نانديز",
-          "created_at": "Sat, 7 Nov 2026 22:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
           }
         }
       ]
