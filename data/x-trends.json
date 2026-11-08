@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T06:32:09.175810+00:00",
+  "updated_at": "2026-11-08T07:44:54.586622+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,73 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ramayana movie ranbir kapoor",
+          "created_at": "Sat, 7 Nov 2026 23:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "zimbabwe vs afghanistan",
+          "created_at": "Sat, 7 Nov 2026 23:00:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حافز",
+          "created_at": "Sat, 7 Nov 2026 22:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "alex eala",
+          "created_at": "Sat, 7 Nov 2026 22:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "arjun rajput",
+          "created_at": "Sat, 7 Nov 2026 22:30:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "صاروخ كروز",
           "created_at": "Sat, 7 Nov 2026 22:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بيان",
+          "created_at": "Sat, 7 Nov 2026 22:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "honor 700 pro",
+          "created_at": "Sat, 7 Nov 2026 21:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -20,80 +83,17 @@
           "text": "riyadh news",
           "created_at": "Sat, 7 Nov 2026 21:30:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اخبار السعودية",
-          "created_at": "Sat, 7 Nov 2026 21:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al jazeera news",
-          "created_at": "Sat, 7 Nov 2026 21:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الجزيرة",
-          "created_at": "Sat, 7 Nov 2026 21:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ind u19 vs pak u19",
-          "created_at": "Sat, 7 Nov 2026 21:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حادث مطل وادي لبن",
-          "created_at": "Sat, 7 Nov 2026 21:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "trail blazers vs spurs",
-          "created_at": "Sat, 7 Nov 2026 21:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فارس",
-          "created_at": "Sat, 7 Nov 2026 20:40:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
+            "search_volume": "500+",
             "growth_percent": 150.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ചൈന",
-          "created_at": "Sat, 7 Nov 2026 20:10:00 -0800",
+          "text": "openai",
+          "created_at": "Sat, 7 Nov 2026 21:30:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         }
       ]
