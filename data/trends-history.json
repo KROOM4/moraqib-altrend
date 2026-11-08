@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-08T22:19:49.248903+00:00",
+  "updated_at": "2026-11-08T23:18:46.135442+00:00",
   "trends": {
+    "مؤتمر الحج والعمرة": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-08T23:18:46.135442+00:00"
+    },
+    "campus drivers": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-08T23:18:46.135442+00:00"
+    },
+    "مباريات الدوري الإسباني": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-08T23:18:46.135442+00:00"
+    },
+    "barcelona vs atletico madrid": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-08T23:18:46.135442+00:00"
+    },
     "atlético madrid vs fc barcelona standings": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-11-08T22:19:49.248903+00:00"
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-11-08T23:18:46.135442+00:00"
     },
     "لامين يامال": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-08T22:19:49.248903+00:00"
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-08T23:18:46.135442+00:00"
     },
     "زلزال اليابان": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-08T22:19:49.248903+00:00"
+      "updated_at": "2026-11-08T23:18:46.135442+00:00"
     },
     "كورة مباريات اليوم مباشر": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-08T22:19:49.248903+00:00"
+      "updated_at": "2026-11-08T23:18:46.135442+00:00"
     },
     "نواف بوشل": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-08T22:19:49.248903+00:00"
-    },
-    "estrela amadora vs benfica": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-08T22:19:49.248903+00:00"
+      "updated_at": "2026-11-08T23:18:46.135442+00:00"
     },
     "bulls vs 76ers": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-08T22:19:49.248903+00:00"
-    },
-    "lee kang-in": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-08T22:19:49.248903+00:00"
-    },
-    "brian fariñas": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-08T22:19:49.248903+00:00"
-    },
-    "barcelona vs atlético madrid": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-08T22:19:49.248903+00:00"
+      "updated_at": "2026-11-08T23:18:46.135442+00:00"
     }
   }
 }

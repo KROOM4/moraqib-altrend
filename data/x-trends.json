@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T22:19:49.248903+00:00",
+  "updated_at": "2026-11-08T23:18:46.135442+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مؤتمر الحج والعمرة",
+          "created_at": "Sun, 8 Nov 2026 14:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "campus drivers",
+          "created_at": "Sun, 8 Nov 2026 14:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مباريات الدوري الإسباني",
+          "created_at": "Sun, 8 Nov 2026 14:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "barcelona vs atletico madrid",
+          "created_at": "Sun, 8 Nov 2026 13:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "atlético madrid vs fc barcelona standings",
           "created_at": "Sun, 8 Nov 2026 13:30:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -20,8 +56,8 @@
           "text": "لامين يامال",
           "created_at": "Sun, 8 Nov 2026 13:30:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -30,7 +66,7 @@
           "created_at": "Sun, 8 Nov 2026 13:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +75,7 @@
           "created_at": "Sun, 8 Nov 2026 13:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,16 +84,7 @@
           "created_at": "Sun, 8 Nov 2026 13:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "estrela amadora vs benfica",
-          "created_at": "Sun, 8 Nov 2026 13:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -67,33 +94,6 @@
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lee kang-in",
-          "created_at": "Sun, 8 Nov 2026 12:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "brian fariñas",
-          "created_at": "Sun, 8 Nov 2026 12:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "barcelona vs atlético madrid",
-          "created_at": "Sun, 8 Nov 2026 12:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
           }
         }
       ]
