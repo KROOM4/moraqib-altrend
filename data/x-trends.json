@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T19:26:09.478828+00:00",
+  "updated_at": "2026-11-08T20:18:26.839393+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "lens vs marseille",
+          "created_at": "Sun, 8 Nov 2026 12:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "barca",
+          "created_at": "Sun, 8 Nov 2026 12:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حادث قطار العياط",
+          "created_at": "Sun, 8 Nov 2026 11:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "max",
+          "created_at": "Sun, 8 Nov 2026 11:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "أتلتيكو مدريد ضد برشلونة",
           "created_at": "Sun, 8 Nov 2026 11:10:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "20000+",
+            "growth_percent": 900.0
           }
         },
         {
@@ -20,8 +56,8 @@
           "text": "atlético vs barcelona",
           "created_at": "Sun, 8 Nov 2026 11:10:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "10000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -29,8 +65,8 @@
           "text": "fiorentina vs juventus",
           "created_at": "Sun, 8 Nov 2026 11:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -38,8 +74,8 @@
           "text": "فيورنتينا ضد يوفنتوس",
           "created_at": "Sun, 8 Nov 2026 11:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -48,7 +84,7 @@
           "created_at": "Sun, 8 Nov 2026 11:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,42 +93,6 @@
           "created_at": "Sun, 8 Nov 2026 10:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kanal d",
-          "created_at": "Sun, 8 Nov 2026 10:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "f1",
-          "created_at": "Sun, 8 Nov 2026 10:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الطقس غدًا",
-          "created_at": "Sun, 8 Nov 2026 09:40:00 -0800",
-          "metrics": {
-            "search_volume": "50000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "weather tomorrow",
-          "created_at": "Sun, 8 Nov 2026 09:40:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
             "growth_percent": 0.0
           }
         }
