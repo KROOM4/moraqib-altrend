@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T23:54:14.453234+00:00",
+  "updated_at": "2026-11-08T01:26:17.596797+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jazan",
-          "created_at": "Sat, 7 Nov 2026 15:30:00 -0800",
+          "text": "رياض محرز",
+          "created_at": "Sat, 7 Nov 2026 16:30:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "محافظة بدر",
+          "created_at": "Sat, 7 Nov 2026 15:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مناقصة",
+          "created_at": "Sat, 7 Nov 2026 15:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "jazan",
+          "created_at": "Sat, 7 Nov 2026 15:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -26,11 +53,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "لا ليغا",
+          "created_at": "Sat, 7 Nov 2026 14:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "كلية الملك فهد الأمنية",
           "created_at": "Sat, 7 Nov 2026 14:00:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,8 +74,8 @@
           "text": "نادي القادسية السعودي",
           "created_at": "Sat, 7 Nov 2026 13:30:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -55,42 +91,6 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "ايزنكوت",
           "created_at": "Sat, 7 Nov 2026 12:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "illegal entry",
-          "created_at": "Sat, 7 Nov 2026 12:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "inter miami vs charlotte",
-          "created_at": "Sat, 7 Nov 2026 12:20:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إنتر ميامي ضد شارلوت",
-          "created_at": "Sat, 7 Nov 2026 12:20:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أنغام",
-          "created_at": "Sat, 7 Nov 2026 12:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
