@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T11:20:13.767526+00:00",
+  "updated_at": "2026-11-08T12:22:01.361488+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نابولي ضد لاتسيو",
-          "created_at": "Sun, 8 Nov 2026 03:10:00 -0800",
+          "text": "سعر الريال السعودي اليوم",
+          "created_at": "Sun, 8 Nov 2026 04:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "malut united vs persib bandung",
+          "created_at": "Sun, 8 Nov 2026 03:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,11 +26,38 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "napoli vs lazio",
-          "created_at": "Sun, 8 Nov 2026 03:00:00 -0800",
+          "text": "heerenveen vs feyenoord",
+          "created_at": "Sun, 8 Nov 2026 03:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "cricket",
+          "created_at": "Sun, 8 Nov 2026 03:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نابولي ضد لاتسيو",
+          "created_at": "Sun, 8 Nov 2026 03:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "napoli vs lazio",
+          "created_at": "Sun, 8 Nov 2026 03:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -30,7 +66,7 @@
           "created_at": "Sun, 8 Nov 2026 02:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +74,8 @@
           "text": "نقابة أطباء مصر",
           "created_at": "Sun, 8 Nov 2026 02:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -48,16 +84,7 @@
           "created_at": "Sun, 8 Nov 2026 02:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدوري الأمريكي لكرة القدم",
-          "created_at": "Sun, 8 Nov 2026 02:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -66,33 +93,6 @@
           "created_at": "Sun, 8 Nov 2026 01:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "usman khan",
-          "created_at": "Sun, 8 Nov 2026 01:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "americano",
-          "created_at": "Sun, 8 Nov 2026 01:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ഇറാന്",
-          "created_at": "Sun, 8 Nov 2026 01:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         }
