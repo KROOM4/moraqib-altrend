@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T13:59:12.024917+00:00",
+  "updated_at": "2026-11-09T15:12:32.750135+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,55 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سلاح نووي",
+          "created_at": "Mon, 9 Nov 2026 06:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "المغرب",
+          "created_at": "Mon, 9 Nov 2026 06:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وادي دجلة ضد كهرباء الإسماعيلية",
+          "created_at": "Mon, 9 Nov 2026 06:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kaviya maran",
+          "created_at": "Mon, 9 Nov 2026 06:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "جامعة جازان",
           "created_at": "Mon, 9 Nov 2026 05:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "خرف",
+          "created_at": "Mon, 9 Nov 2026 04:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -20,8 +65,8 @@
           "text": "jamal musiala",
           "created_at": "Mon, 9 Nov 2026 04:20:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +75,7 @@
           "created_at": "Mon, 9 Nov 2026 04:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,51 +93,6 @@
           "created_at": "Mon, 9 Nov 2026 03:10:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kingdom tower",
-          "created_at": "Mon, 9 Nov 2026 02:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نواف العقيدي",
-          "created_at": "Mon, 9 Nov 2026 02:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "زلزال يضرب اليابان",
-          "created_at": "Mon, 9 Nov 2026 02:30:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طريق",
-          "created_at": "Mon, 9 Nov 2026 02:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "craig ervine",
-          "created_at": "Mon, 9 Nov 2026 01:20:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
             "growth_percent": 0.0
           }
         }
