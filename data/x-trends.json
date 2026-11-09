@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T19:42:25.619785+00:00",
+  "updated_at": "2026-11-09T20:37:28.420850+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kavya maran",
+          "created_at": "Mon, 9 Nov 2026 11:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عطلة رسمية",
+          "created_at": "Mon, 9 Nov 2026 11:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "اعتقال احمد هارون",
           "created_at": "Mon, 9 Nov 2026 10:50:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,7 +39,7 @@
           "created_at": "Mon, 9 Nov 2026 10:50:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +47,8 @@
           "text": "الارصاد",
           "created_at": "Mon, 9 Nov 2026 10:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,7 +57,16 @@
           "created_at": "Mon, 9 Nov 2026 10:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "راسل براند",
+          "created_at": "Mon, 9 Nov 2026 10:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
           }
         },
         {
@@ -53,20 +80,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "راسل براند",
-          "created_at": "Mon, 9 Nov 2026 10:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "رابطة الدوري السعودي للمحترفين",
           "created_at": "Mon, 9 Nov 2026 10:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -76,24 +94,6 @@
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "আগামীকালের আবহাওয়া",
-          "created_at": "Mon, 9 Nov 2026 10:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cuaca besok",
-          "created_at": "Mon, 9 Nov 2026 09:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
