@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T16:20:56.016341+00:00",
+  "updated_at": "2026-11-09T17:41:20.613852+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,55 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gta 6",
-          "created_at": "Mon, 9 Nov 2026 08:00:00 -0800",
+          "text": "weather tomorrow",
+          "created_at": "Mon, 9 Nov 2026 09:30:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الطقس غدًا",
+          "created_at": "Mon, 9 Nov 2026 09:30:00 -0800",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "خط أنابيب",
+          "created_at": "Mon, 9 Nov 2026 09:10:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ليلى علوي",
+          "created_at": "Mon, 9 Nov 2026 08:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وزارة التعليم",
+          "created_at": "Mon, 9 Nov 2026 08:30:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سيرجيو ريكاردو",
+          "created_at": "Mon, 9 Nov 2026 08:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -20,17 +65,17 @@
           "text": "കേരള",
           "created_at": "Mon, 9 Nov 2026 08:00:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزارة التجارة",
-          "created_at": "Mon, 9 Nov 2026 07:40:00 -0800",
+          "text": "gta 6",
+          "created_at": "Mon, 9 Nov 2026 08:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,61 +84,16 @@
           "created_at": "Mon, 9 Nov 2026 07:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "russell brand",
-          "created_at": "Mon, 9 Nov 2026 07:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "tarbela dam",
-          "created_at": "Mon, 9 Nov 2026 07:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طبيب",
-          "created_at": "Mon, 9 Nov 2026 06:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سلاح نووي",
-          "created_at": "Mon, 9 Nov 2026 06:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المغرب",
-          "created_at": "Mon, 9 Nov 2026 06:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وادي دجلة ضد كهرباء الإسماعيلية",
-          "created_at": "Mon, 9 Nov 2026 06:00:00 -0800",
+          "text": "وزارة التجارة",
+          "created_at": "Mon, 9 Nov 2026 07:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         }
       ]
