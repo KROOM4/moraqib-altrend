@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T22:29:10.181205+00:00",
+  "updated_at": "2026-11-09T23:24:24.562826+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فحص طبي",
-          "created_at": "Mon, 9 Nov 2026 14:00:00 -0800",
+          "text": "james gunn",
+          "created_at": "Mon, 9 Nov 2026 14:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "east–west crude oil pipeline",
+          "created_at": "Mon, 9 Nov 2026 14:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "فحص طبي",
+          "created_at": "Mon, 9 Nov 2026 14:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,7 +39,7 @@
           "created_at": "Mon, 9 Nov 2026 13:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +48,16 @@
           "created_at": "Mon, 9 Nov 2026 13:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "صبا مبارك",
+          "created_at": "Mon, 9 Nov 2026 13:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,25 +66,7 @@
           "created_at": "Mon, 9 Nov 2026 13:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صبا مبارك",
-          "created_at": "Mon, 9 Nov 2026 13:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حسام عيد وجيانا عيد",
-          "created_at": "Mon, 9 Nov 2026 12:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -66,16 +75,16 @@
           "created_at": "Mon, 9 Nov 2026 12:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gta 6 release date",
+          "text": "حسام عيد وجيانا عيد",
           "created_at": "Mon, 9 Nov 2026 12:50:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 0.0
           }
         },
         {
@@ -83,17 +92,8 @@
           "text": "بنك مركزي",
           "created_at": "Mon, 9 Nov 2026 12:40:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد أبو تريكة",
-          "created_at": "Mon, 9 Nov 2026 11:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         }
       ]
