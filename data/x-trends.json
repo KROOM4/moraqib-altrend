@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T06:50:01.083876+00:00",
+  "updated_at": "2026-11-09T08:38:42.089619+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هبة مجدي",
-          "created_at": "Sun, 8 Nov 2026 22:20:00 -0800",
+          "text": "طفل",
+          "created_at": "Mon, 9 Nov 2026 00:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "mushfiqur rahim",
+          "created_at": "Mon, 9 Nov 2026 00:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,8 +26,53 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مبنى",
+          "created_at": "Sun, 8 Nov 2026 23:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سلمان بن عبد العزيز آل سعود",
+          "created_at": "Sun, 8 Nov 2026 22:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حافز",
+          "created_at": "Sun, 8 Nov 2026 22:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هبة مجدي",
+          "created_at": "Sun, 8 Nov 2026 22:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "مديري",
           "created_at": "Sun, 8 Nov 2026 22:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ভিসা",
+          "created_at": "Sun, 8 Nov 2026 21:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -29,8 +83,8 @@
           "text": "محمد الدلو",
           "created_at": "Sun, 8 Nov 2026 21:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,62 +92,8 @@
           "text": "jomel warrican",
           "created_at": "Sun, 8 Nov 2026 21:40:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جواو فيليكس",
-          "created_at": "Sun, 8 Nov 2026 20:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 400.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "برج فلكي",
-          "created_at": "Sun, 8 Nov 2026 20:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pakistan vs sri lanka",
-          "created_at": "Sun, 8 Nov 2026 20:20:00 -0800",
-          "metrics": {
-            "search_volume": "50000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "car",
-          "created_at": "Sun, 8 Nov 2026 20:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كرة القدم",
-          "created_at": "Sun, 8 Nov 2026 19:50:00 -0800",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الطقس",
-          "created_at": "Sun, 8 Nov 2026 19:30:00 -0800",
-          "metrics": {
-            "search_volume": "50000+",
-            "growth_percent": 150.0
+            "growth_percent": -60.0
           }
         }
       ]
