@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T10:38:36.351927+00:00",
+  "updated_at": "2026-11-09T11:38:40.107759+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,44 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اعتماد",
+          "created_at": "Mon, 9 Nov 2026 03:10:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كومو 1907",
+          "created_at": "Mon, 9 Nov 2026 02:50:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "زلزال يضرب اليابان",
           "created_at": "Mon, 9 Nov 2026 02:30:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طريق",
+          "created_at": "Mon, 9 Nov 2026 02:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "craig ervine",
+          "created_at": "Mon, 9 Nov 2026 01:20:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -20,8 +56,8 @@
           "text": "طفل",
           "created_at": "Mon, 9 Nov 2026 00:10:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,7 +75,7 @@
           "created_at": "Sun, 8 Nov 2026 23:00:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,50 +83,14 @@
           "text": "سلمان بن عبد العزيز آل سعود",
           "created_at": "Sun, 8 Nov 2026 22:50:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "حافز",
           "created_at": "Sun, 8 Nov 2026 22:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هبة مجدي",
-          "created_at": "Sun, 8 Nov 2026 22:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مديري",
-          "created_at": "Sun, 8 Nov 2026 22:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ভিসা",
-          "created_at": "Sun, 8 Nov 2026 21:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد الدلو",
-          "created_at": "Sun, 8 Nov 2026 21:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
