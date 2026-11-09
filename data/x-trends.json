@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T08:38:42.089619+00:00",
+  "updated_at": "2026-11-09T09:42:49.549919+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -11,8 +11,8 @@
           "text": "طفل",
           "created_at": "Mon, 9 Nov 2026 00:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -20,8 +20,8 @@
           "text": "mushfiqur rahim",
           "created_at": "Mon, 9 Nov 2026 00:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -30,7 +30,7 @@
           "created_at": "Sun, 8 Nov 2026 23:00:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +38,8 @@
           "text": "سلمان بن عبد العزيز آل سعود",
           "created_at": "Sun, 8 Nov 2026 22:50:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +48,7 @@
           "created_at": "Sun, 8 Nov 2026 22:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,7 +57,7 @@
           "created_at": "Sun, 8 Nov 2026 22:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -74,8 +74,8 @@
           "text": "ভিসা",
           "created_at": "Sun, 8 Nov 2026 21:40:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -84,7 +84,7 @@
           "created_at": "Sun, 8 Nov 2026 21:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -93,7 +93,7 @@
           "created_at": "Sun, 8 Nov 2026 21:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": -60.0
+            "growth_percent": 0.0
           }
         }
       ]
