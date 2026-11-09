@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T21:35:14.230274+00:00",
+  "updated_at": "2026-11-09T22:29:10.181205+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,43 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حساب مواطن",
+          "text": "فحص طبي",
+          "created_at": "Mon, 9 Nov 2026 14:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حساب",
+          "created_at": "Mon, 9 Nov 2026 13:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الريال السعودي اليوم",
+          "created_at": "Mon, 9 Nov 2026 13:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "honor 700 pro",
+          "created_at": "Mon, 9 Nov 2026 13:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "صبا مبارك",
           "created_at": "Mon, 9 Nov 2026 13:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
@@ -20,6 +56,24 @@
           "text": "حسام عيد وجيانا عيد",
           "created_at": "Mon, 9 Nov 2026 12:50:00 -0800",
           "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حائل",
+          "created_at": "Mon, 9 Nov 2026 12:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "gta 6 release date",
+          "created_at": "Mon, 9 Nov 2026 12:50:00 -0800",
+          "metrics": {
             "search_volume": "100+",
             "growth_percent": null
           }
@@ -29,68 +83,14 @@
           "text": "بنك مركزي",
           "created_at": "Mon, 9 Nov 2026 12:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 400.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "محمد أبو تريكة",
           "created_at": "Mon, 9 Nov 2026 11:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kavya maran",
-          "created_at": "Mon, 9 Nov 2026 11:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عطلة رسمية",
-          "created_at": "Mon, 9 Nov 2026 11:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اعتقال احمد هارون",
-          "created_at": "Mon, 9 Nov 2026 10:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الصحة القابضة",
-          "created_at": "Mon, 9 Nov 2026 10:50:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الارصاد",
-          "created_at": "Mon, 9 Nov 2026 10:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وضعیت هوای فردا",
-          "created_at": "Mon, 9 Nov 2026 10:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
