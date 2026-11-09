@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T09:42:49.549919+00:00",
+  "updated_at": "2026-11-09T10:38:36.351927+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "زلزال يضرب اليابان",
+          "created_at": "Mon, 9 Nov 2026 02:30:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "طفل",
           "created_at": "Mon, 9 Nov 2026 00:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +30,7 @@
           "created_at": "Mon, 9 Nov 2026 00:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +38,8 @@
           "text": "مبنى",
           "created_at": "Sun, 8 Nov 2026 23:00:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,7 +48,7 @@
           "created_at": "Sun, 8 Nov 2026 22:50:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,8 +65,8 @@
           "text": "هبة مجدي",
           "created_at": "Sun, 8 Nov 2026 22:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -75,21 +84,12 @@
           "created_at": "Sun, 8 Nov 2026 21:40:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد الدلو",
-          "created_at": "Sun, 8 Nov 2026 21:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jomel warrican",
+          "text": "محمد الدلو",
           "created_at": "Sun, 8 Nov 2026 21:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
