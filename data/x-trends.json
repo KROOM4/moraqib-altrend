@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T04:16:58.302701+00:00",
+  "updated_at": "2026-11-09T05:28:40.201632+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pak vs sl",
-          "created_at": "Sun, 8 Nov 2026 20:00:00 -0800",
+          "text": "جواو فيليكس",
+          "created_at": "Sun, 8 Nov 2026 20:30:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كرة القدم",
-          "created_at": "Sun, 8 Nov 2026 19:50:00 -0800",
+          "text": "pakistan vs sri lanka",
+          "created_at": "Sun, 8 Nov 2026 20:20:00 -0800",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طقس",
+          "created_at": "Sun, 8 Nov 2026 19:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -29,8 +38,8 @@
           "text": "الطقس",
           "created_at": "Sun, 8 Nov 2026 19:30:00 -0800",
           "metrics": {
-            "search_volume": "50000+",
-            "growth_percent": null
+            "search_volume": "20000+",
+            "growth_percent": -60.0
           }
         },
         {
@@ -39,6 +48,15 @@
           "created_at": "Sun, 8 Nov 2026 19:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "मौसम",
+          "created_at": "Sun, 8 Nov 2026 19:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -47,7 +65,25 @@
           "text": "weather",
           "created_at": "Sun, 8 Nov 2026 19:10:00 -0800",
           "metrics": {
-            "search_volume": "10000+",
+            "search_volume": "20000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "আবহাওয়া",
+          "created_at": "Sun, 8 Nov 2026 18:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "درجة الحرارة",
+          "created_at": "Sun, 8 Nov 2026 18:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -56,44 +92,8 @@
           "text": "سعود عبد الحميد",
           "created_at": "Sun, 8 Nov 2026 18:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "today weather",
-          "created_at": "Sun, 8 Nov 2026 18:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "weather today",
-          "created_at": "Sun, 8 Nov 2026 18:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pistons vs lakers",
-          "created_at": "Sun, 8 Nov 2026 17:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saudi arabia mortgage financing q3 2026",
-          "created_at": "Sun, 8 Nov 2026 16:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         }
       ]
