@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T15:12:32.750135+00:00",
+  "updated_at": "2026-11-09T16:20:56.016341+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,74 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سلاح نووي",
-          "created_at": "Mon, 9 Nov 2026 06:30:00 -0800",
+          "text": "gta 6",
+          "created_at": "Mon, 9 Nov 2026 08:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "കേരള",
+          "created_at": "Mon, 9 Nov 2026 08:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وزارة التجارة",
+          "created_at": "Mon, 9 Nov 2026 07:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "കാലാവസ്ഥ",
+          "created_at": "Mon, 9 Nov 2026 07:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "russell brand",
+          "created_at": "Mon, 9 Nov 2026 07:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "tarbela dam",
+          "created_at": "Mon, 9 Nov 2026 07:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طبيب",
+          "created_at": "Mon, 9 Nov 2026 06:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سلاح نووي",
+          "created_at": "Mon, 9 Nov 2026 06:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,7 +84,7 @@
           "created_at": "Mon, 9 Nov 2026 06:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,71 +92,8 @@
           "text": "وادي دجلة ضد كهرباء الإسماعيلية",
           "created_at": "Mon, 9 Nov 2026 06:00:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kaviya maran",
-          "created_at": "Mon, 9 Nov 2026 06:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جامعة جازان",
-          "created_at": "Mon, 9 Nov 2026 05:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "خرف",
-          "created_at": "Mon, 9 Nov 2026 04:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jamal musiala",
-          "created_at": "Mon, 9 Nov 2026 04:20:00 -0800",
-          "metrics": {
             "search_volume": "200+",
             "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "afghanistan national under-19 cricket team vs sri lanka national under-19 cricket team standings",
-          "created_at": "Mon, 9 Nov 2026 04:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منصة اعتماد",
-          "created_at": "Mon, 9 Nov 2026 03:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اعتماد",
-          "created_at": "Mon, 9 Nov 2026 03:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
           }
         }
       ]
