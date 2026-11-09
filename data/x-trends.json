@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T01:53:36.782955+00:00",
+  "updated_at": "2026-11-09T03:04:24.284033+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعود عبد الحميد",
+          "created_at": "Sun, 8 Nov 2026 18:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "weather today",
+          "created_at": "Sun, 8 Nov 2026 18:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "pistons vs lakers",
           "created_at": "Sun, 8 Nov 2026 17:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "saudi arabia mortgage financing q3 2026",
+          "created_at": "Sun, 8 Nov 2026 16:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -20,8 +47,17 @@
           "text": "العثيم",
           "created_at": "Sun, 8 Nov 2026 15:50:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "economy",
+          "created_at": "Sun, 8 Nov 2026 15:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
           }
         },
         {
@@ -29,17 +65,17 @@
           "text": "nvidia ceo jensen huang",
           "created_at": "Sun, 8 Nov 2026 15:00:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مؤتمر الحج والعمرة",
-          "created_at": "Sun, 8 Nov 2026 14:50:00 -0800",
+          "text": "الطقس الان",
+          "created_at": "Sun, 8 Nov 2026 15:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
@@ -47,8 +83,8 @@
           "text": "فراس البريكان",
           "created_at": "Sun, 8 Nov 2026 14:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -57,42 +93,6 @@
           "created_at": "Sun, 8 Nov 2026 14:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "vasco vs palmeiras",
-          "created_at": "Sun, 8 Nov 2026 14:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "campus drivers",
-          "created_at": "Sun, 8 Nov 2026 14:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "barcelona vs atletico madrid",
-          "created_at": "Sun, 8 Nov 2026 13:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "atlético madrid vs fc barcelona standings",
-          "created_at": "Sun, 8 Nov 2026 13:30:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
             "growth_percent": 0.0
           }
         }
