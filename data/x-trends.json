@@ -1,11 +1,29 @@
 {
-  "updated_at": "2026-11-10T00:19:51.479075+00:00",
+  "updated_at": "2026-11-10T01:47:29.047681+00:00",
   "source": "Google Trends",
   "results": [
     {
       "hashtag": "مواضيع رائجة في السعودية",
       "post_count": 10,
       "posts": [
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اخبار السعودية",
+          "created_at": "Mon, 9 Nov 2026 17:30:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "saudi",
+          "created_at": "Mon, 9 Nov 2026 16:30:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "james gunn",
@@ -20,8 +38,8 @@
           "text": "east–west crude oil pipeline",
           "created_at": "Mon, 9 Nov 2026 14:30:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -29,8 +47,8 @@
           "text": "فحص طبي",
           "created_at": "Mon, 9 Nov 2026 14:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -38,8 +56,8 @@
           "text": "حساب",
           "created_at": "Mon, 9 Nov 2026 13:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -47,8 +65,8 @@
           "text": "سعر الريال السعودي اليوم",
           "created_at": "Mon, 9 Nov 2026 13:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -62,38 +80,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حساب مواطن",
+          "created_at": "Mon, 9 Nov 2026 13:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "honor 700 pro",
           "created_at": "Mon, 9 Nov 2026 13:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حائل",
-          "created_at": "Mon, 9 Nov 2026 12:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حسام عيد وجيانا عيد",
-          "created_at": "Mon, 9 Nov 2026 12:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بنك مركزي",
-          "created_at": "Mon, 9 Nov 2026 12:40:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
           }
         }
       ]
