@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T17:59:03.944318+00:00",
+  "updated_at": "2026-11-10T19:15:26.962214+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cuaca besok",
-          "created_at": "Tue, 10 Nov 2026 09:40:00 -0800",
+          "text": "احمد العلواني",
+          "created_at": "Tue, 10 Nov 2026 10:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "موسوعة غينيس للأرقام القياسية",
+          "created_at": "Tue, 10 Nov 2026 10:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جنسن هوانغ",
+          "created_at": "Tue, 10 Nov 2026 10:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,8 +35,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "कल का मौसम",
-          "created_at": "Tue, 10 Nov 2026 09:40:00 -0800",
+          "text": "مازوت",
+          "created_at": "Tue, 10 Nov 2026 09:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -26,11 +44,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "cuaca besok",
+          "created_at": "Tue, 10 Nov 2026 09:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "कल का मौसम",
+          "created_at": "Tue, 10 Nov 2026 09:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "আগামীকালের আবহাওয়া",
           "created_at": "Tue, 10 Nov 2026 09:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,7 +75,7 @@
           "created_at": "Tue, 10 Nov 2026 09:40:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,8 +83,8 @@
           "text": "weather tomorrow",
           "created_at": "Tue, 10 Nov 2026 09:30:00 -0800",
           "metrics": {
-            "search_volume": "50000+",
-            "growth_percent": null
+            "search_volume": "100000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -57,42 +93,6 @@
           "created_at": "Tue, 10 Nov 2026 09:30:00 -0800",
           "metrics": {
             "search_volume": "50000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "real madrid vs paris fc",
-          "created_at": "Tue, 10 Nov 2026 09:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ناقلة نفط",
-          "created_at": "Tue, 10 Nov 2026 09:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دواء",
-          "created_at": "Tue, 10 Nov 2026 08:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bigg boss",
-          "created_at": "Tue, 10 Nov 2026 07:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         }
