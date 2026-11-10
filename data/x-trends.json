@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T12:38:23.910079+00:00",
+  "updated_at": "2026-11-10T13:53:57.962497+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,16 +8,34 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موعد اذان العصر",
-          "created_at": "Tue, 10 Nov 2026 04:00:00 -0800",
+          "text": "india national under-19 cricket team vs united arab emirates national under-19 cricket team standings",
+          "created_at": "Tue, 10 Nov 2026 04:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "5000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "موعد اذان العصر",
+          "created_at": "Tue, 10 Nov 2026 04:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "ginebra vs san miguel",
+          "created_at": "Tue, 10 Nov 2026 03:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bbc news tamil",
           "created_at": "Tue, 10 Nov 2026 03:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
@@ -29,8 +47,8 @@
           "text": "شركة",
           "created_at": "Tue, 10 Nov 2026 03:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -38,8 +56,26 @@
           "text": "rain",
           "created_at": "Tue, 10 Nov 2026 02:00:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مالية",
+          "created_at": "Tue, 10 Nov 2026 01:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kusal mendis",
+          "created_at": "Tue, 10 Nov 2026 01:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
           }
         },
         {
@@ -57,42 +93,6 @@
           "created_at": "Tue, 10 Nov 2026 00:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حلا الترك",
-          "created_at": "Mon, 9 Nov 2026 23:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "റിയാദ്",
-          "created_at": "Mon, 9 Nov 2026 23:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ind u19 vs uae u19",
-          "created_at": "Mon, 9 Nov 2026 23:00:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "मोहम्मद बिन सलमान",
-          "created_at": "Mon, 9 Nov 2026 23:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         }
