@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T21:57:11.067875+00:00",
+  "updated_at": "2026-11-10T22:56:56.219392+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -12,6 +12,15 @@
           "created_at": "Tue, 10 Nov 2026 13:40:00 -0800",
           "metrics": {
             "search_volume": "500+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "james bond",
+          "created_at": "Tue, 10 Nov 2026 13:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -26,20 +35,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ازمير تركيا",
-          "created_at": "Tue, 10 Nov 2026 12:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "تحذير",
           "created_at": "Tue, 10 Nov 2026 12:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "copa del rey",
+          "created_at": "Tue, 10 Nov 2026 12:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -48,7 +57,7 @@
           "created_at": "Tue, 10 Nov 2026 11:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,8 +65,8 @@
           "text": "احتجاج",
           "created_at": "Tue, 10 Nov 2026 11:30:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "search_volume": "2000+",
+            "growth_percent": 300.0
           }
         },
         {
@@ -71,28 +80,19 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ازمير",
+          "created_at": "Tue, 10 Nov 2026 10:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "احمد العلواني",
           "created_at": "Tue, 10 Nov 2026 10:40:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موسوعة غينيس للأرقام القياسية",
-          "created_at": "Tue, 10 Nov 2026 10:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "البحر الأحمر",
-          "created_at": "Tue, 10 Nov 2026 10:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
