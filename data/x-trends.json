@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T03:03:30.609315+00:00",
+  "updated_at": "2026-11-10T04:08:06.136362+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "weather",
-          "created_at": "Mon, 9 Nov 2026 18:40:00 -0800",
+          "text": "new zealand national cricket team vs india national cricket team match scorecard",
+          "created_at": "Mon, 9 Nov 2026 19:50:00 -0800",
           "metrics": {
             "search_volume": "5000+",
             "growth_percent": null
@@ -17,35 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عاصفة رعدية",
-          "created_at": "Mon, 9 Nov 2026 18:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "houthis",
-          "created_at": "Mon, 9 Nov 2026 18:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand vs india",
-          "created_at": "Mon, 9 Nov 2026 18:20:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تحذير من هطول أمطار",
-          "created_at": "Mon, 9 Nov 2026 18:10:00 -0800",
+          "text": "warriors vs pelicans",
+          "created_at": "Mon, 9 Nov 2026 19:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -53,17 +26,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موسم",
-          "created_at": "Mon, 9 Nov 2026 18:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "hawks vs lakers",
-          "created_at": "Mon, 9 Nov 2026 18:00:00 -0800",
+          "text": "погода",
+          "created_at": "Mon, 9 Nov 2026 19:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -71,8 +35,44 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طريق السيل",
-          "created_at": "Mon, 9 Nov 2026 17:50:00 -0800",
+          "text": "تعليم عن بعد",
+          "created_at": "Mon, 9 Nov 2026 19:20:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "météo",
+          "created_at": "Mon, 9 Nov 2026 19:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الطقس",
+          "created_at": "Mon, 9 Nov 2026 19:10:00 -0800",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "hava durumu",
+          "created_at": "Mon, 9 Nov 2026 19:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جائزة أفضل لاعب في آسيا",
+          "created_at": "Mon, 9 Nov 2026 19:00:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -80,19 +80,19 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "weather today",
-          "created_at": "Mon, 9 Nov 2026 17:50:00 -0800",
+          "text": "আবহাওয়া",
+          "created_at": "Mon, 9 Nov 2026 18:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صاروخ كروز",
-          "created_at": "Mon, 9 Nov 2026 17:50:00 -0800",
+          "text": "أذكار الصباح",
+          "created_at": "Mon, 9 Nov 2026 18:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         }
