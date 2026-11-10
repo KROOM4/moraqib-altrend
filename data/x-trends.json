@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T05:10:14.229317+00:00",
+  "updated_at": "2026-11-10T06:08:41.147175+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand national cricket team vs india national cricket team match scorecard",
-          "created_at": "Mon, 9 Nov 2026 19:50:00 -0800",
+          "text": "pak u19 vs nep u19",
+          "created_at": "Mon, 9 Nov 2026 21:40:00 -0800",
           "metrics": {
-            "search_volume": "100000+",
-            "growth_percent": 1900.0
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "pakistan vs sri lanka",
+          "created_at": "Mon, 9 Nov 2026 21:20:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جامعة القصيم",
+          "created_at": "Mon, 9 Nov 2026 21:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "government debt",
+          "created_at": "Mon, 9 Nov 2026 20:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         },
         {
@@ -20,8 +47,8 @@
           "text": "warriors vs pelicans",
           "created_at": "Mon, 9 Nov 2026 19:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -29,8 +56,8 @@
           "text": "فقدان الوزن",
           "created_at": "Mon, 9 Nov 2026 19:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,7 +66,16 @@
           "created_at": "Mon, 9 Nov 2026 19:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تعليم عن بعد",
+          "created_at": "Mon, 9 Nov 2026 19:20:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": -60.0
           }
         },
         {
@@ -48,15 +84,6 @@
           "created_at": "Mon, 9 Nov 2026 19:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تعليم عن بعد",
-          "created_at": "Mon, 9 Nov 2026 19:20:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
             "growth_percent": 0.0
           }
         },
@@ -66,34 +93,7 @@
           "created_at": "Mon, 9 Nov 2026 19:10:00 -0800",
           "metrics": {
             "search_volume": "50000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "hava durumu",
-          "created_at": "Mon, 9 Nov 2026 19:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جائزة أفضل لاعب في آسيا",
-          "created_at": "Mon, 9 Nov 2026 19:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "আবহাওয়া",
-          "created_at": "Mon, 9 Nov 2026 18:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
           }
         }
       ]
