@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T08:40:01.980025+00:00",
+  "updated_at": "2026-11-10T09:38:27.160561+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "anvay dravid",
-          "created_at": "Tue, 10 Nov 2026 00:20:00 -0800",
+          "text": "kusal mendis",
+          "created_at": "Tue, 10 Nov 2026 01:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "anvay dravid",
+          "created_at": "Tue, 10 Nov 2026 00:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,7 +30,7 @@
           "created_at": "Tue, 10 Nov 2026 00:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +39,7 @@
           "created_at": "Mon, 9 Nov 2026 23:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +47,8 @@
           "text": "ind u19 vs uae u19",
           "created_at": "Mon, 9 Nov 2026 23:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -48,7 +57,7 @@
           "created_at": "Mon, 9 Nov 2026 23:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,7 +66,7 @@
           "created_at": "Mon, 9 Nov 2026 21:40:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -66,7 +75,7 @@
           "created_at": "Mon, 9 Nov 2026 21:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -75,7 +84,7 @@
           "created_at": "Mon, 9 Nov 2026 21:20:00 -0800",
           "metrics": {
             "search_volume": "20000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -85,15 +94,6 @@
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جامعة حائل",
-          "created_at": "Mon, 9 Nov 2026 21:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
           }
         }
       ]
