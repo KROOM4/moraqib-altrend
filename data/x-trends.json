@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T16:06:24.624718+00:00",
+  "updated_at": "2026-11-10T17:09:30.185418+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bigg boss",
-          "created_at": "Tue, 10 Nov 2026 07:50:00 -0800",
+          "text": "ناقلة نفط",
+          "created_at": "Tue, 10 Nov 2026 09:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دواء",
+          "created_at": "Tue, 10 Nov 2026 08:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bigg boss",
+          "created_at": "Tue, 10 Nov 2026 07:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,15 +39,15 @@
           "created_at": "Tue, 10 Nov 2026 07:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزارة",
+          "text": "சவூதி அரேபியா",
           "created_at": "Tue, 10 Nov 2026 07:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -38,8 +56,8 @@
           "text": "إيران",
           "created_at": "Tue, 10 Nov 2026 07:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -47,7 +65,16 @@
           "text": "t10 league",
           "created_at": "Tue, 10 Nov 2026 07:00:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "صلاة المغرب",
+          "created_at": "Tue, 10 Nov 2026 06:20:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
             "growth_percent": null
           }
         },
@@ -65,35 +92,8 @@
           "text": "العثيم",
           "created_at": "Tue, 10 Nov 2026 06:00:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الرادار",
-          "created_at": "Tue, 10 Nov 2026 06:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "india national under-19 cricket team vs united arab emirates national under-19 cricket team standings",
-          "created_at": "Tue, 10 Nov 2026 04:50:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bbc news tamil",
-          "created_at": "Tue, 10 Nov 2026 03:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         }
       ]
