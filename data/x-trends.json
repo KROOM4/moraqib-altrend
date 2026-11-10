@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T06:08:41.147175+00:00",
+  "updated_at": "2026-11-10T07:29:44.429392+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,46 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "റിയാദ്",
+          "created_at": "Mon, 9 Nov 2026 23:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "मोहम्मद बिन सलमान",
+          "created_at": "Mon, 9 Nov 2026 23:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ind u19 vs uae u19",
+          "created_at": "Mon, 9 Nov 2026 23:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "pak u19 vs nep u19",
           "created_at": "Mon, 9 Nov 2026 21:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بيتك في مصر",
+          "created_at": "Mon, 9 Nov 2026 21:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -20,8 +56,8 @@
           "text": "pakistan vs sri lanka",
           "created_at": "Mon, 9 Nov 2026 21:20:00 -0800",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
+            "search_volume": "10000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -29,8 +65,8 @@
           "text": "جامعة القصيم",
           "created_at": "Mon, 9 Nov 2026 21:00:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,7 +75,7 @@
           "created_at": "Mon, 9 Nov 2026 20:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +84,7 @@
           "created_at": "Mon, 9 Nov 2026 19:50:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,42 +93,6 @@
           "created_at": "Mon, 9 Nov 2026 19:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "погода",
-          "created_at": "Mon, 9 Nov 2026 19:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تعليم عن بعد",
-          "created_at": "Mon, 9 Nov 2026 19:20:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": -60.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "météo",
-          "created_at": "Mon, 9 Nov 2026 19:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الطقس",
-          "created_at": "Mon, 9 Nov 2026 19:10:00 -0800",
-          "metrics": {
-            "search_volume": "50000+",
             "growth_percent": 0.0
           }
         }
