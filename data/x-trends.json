@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:06:43.218335+00:00",
+  "updated_at": "2026-11-10T16:06:24.624718+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,46 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موعد اذان المغرب",
-          "created_at": "Tue, 10 Nov 2026 06:30:00 -0800",
+          "text": "bigg boss",
+          "created_at": "Tue, 10 Nov 2026 07:50:00 -0800",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sudurpaschim royals vs janakpur bolts standings",
+          "created_at": "Tue, 10 Nov 2026 07:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وزارة",
+          "created_at": "Tue, 10 Nov 2026 07:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إيران",
+          "created_at": "Tue, 10 Nov 2026 07:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "t10 league",
+          "created_at": "Tue, 10 Nov 2026 07:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -21,7 +57,7 @@
           "created_at": "Tue, 10 Nov 2026 06:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +65,8 @@
           "text": "العثيم",
           "created_at": "Tue, 10 Nov 2026 06:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -39,7 +75,7 @@
           "created_at": "Tue, 10 Nov 2026 06:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -53,47 +89,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موعد اذان العصر",
-          "created_at": "Tue, 10 Nov 2026 04:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "bbc news tamil",
           "created_at": "Tue, 10 Nov 2026 03:40:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ginebra vs san miguel",
-          "created_at": "Tue, 10 Nov 2026 03:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "شركة",
-          "created_at": "Tue, 10 Nov 2026 03:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "rain",
-          "created_at": "Tue, 10 Nov 2026 02:00:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
           }
         }
       ]
