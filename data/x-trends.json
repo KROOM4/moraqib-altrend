@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T13:53:57.962497+00:00",
+  "updated_at": "2026-11-10T15:06:43.218335+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "موعد اذان المغرب",
+          "created_at": "Tue, 10 Nov 2026 06:30:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "المغرب",
+          "created_at": "Tue, 10 Nov 2026 06:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "العثيم",
+          "created_at": "Tue, 10 Nov 2026 06:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الرادار",
+          "created_at": "Tue, 10 Nov 2026 06:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "india national under-19 cricket team vs united arab emirates national under-19 cricket team standings",
           "created_at": "Tue, 10 Nov 2026 04:50:00 -0800",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -26,7 +62,7 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ginebra vs san miguel",
+          "text": "bbc news tamil",
           "created_at": "Tue, 10 Nov 2026 03:40:00 -0800",
           "metrics": {
             "search_volume": "500+",
@@ -35,11 +71,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bbc news tamil",
+          "text": "ginebra vs san miguel",
           "created_at": "Tue, 10 Nov 2026 03:40:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +84,7 @@
           "created_at": "Tue, 10 Nov 2026 03:20:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,44 +92,8 @@
           "text": "rain",
           "created_at": "Tue, 10 Nov 2026 02:00:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "2000+",
             "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مالية",
-          "created_at": "Tue, 10 Nov 2026 01:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kusal mendis",
-          "created_at": "Tue, 10 Nov 2026 01:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fraud",
-          "created_at": "Tue, 10 Nov 2026 01:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هيئة التأمين",
-          "created_at": "Tue, 10 Nov 2026 00:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
           }
         }
       ]
