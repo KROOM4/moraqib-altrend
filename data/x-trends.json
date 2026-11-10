@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T09:38:27.160561+00:00",
+  "updated_at": "2026-11-10T10:39:42.821216+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "rain",
+          "created_at": "Tue, 10 Nov 2026 02:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "kusal mendis",
           "created_at": "Tue, 10 Nov 2026 01:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "fraud",
+          "created_at": "Tue, 10 Nov 2026 01:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -21,7 +39,7 @@
           "created_at": "Tue, 10 Nov 2026 00:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -35,11 +53,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حلا الترك",
+          "created_at": "Mon, 9 Nov 2026 23:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "റിയാദ്",
           "created_at": "Mon, 9 Nov 2026 23:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -48,7 +75,7 @@
           "created_at": "Mon, 9 Nov 2026 23:00:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -65,35 +92,8 @@
           "text": "pak u19 vs nep u19",
           "created_at": "Mon, 9 Nov 2026 21:40:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بيتك في مصر",
-          "created_at": "Mon, 9 Nov 2026 21:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pakistan vs sri lanka",
-          "created_at": "Mon, 9 Nov 2026 21:20:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جامعة القصيم",
-          "created_at": "Mon, 9 Nov 2026 21:00:00 -0800",
-          "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 0.0
+            "growth_percent": 100.0
           }
         }
       ]
