@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T10:15:59.495321+00:00",
+  "updated_at": "2026-11-11T11:16:34.217071+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "saudi aramco tower riyadh",
+          "created_at": "Wed, 11 Nov 2026 02:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "india vs maldives",
           "created_at": "Wed, 11 Nov 2026 01:20:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,7 +30,7 @@
           "created_at": "Wed, 11 Nov 2026 01:10:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,6 +39,15 @@
           "created_at": "Wed, 11 Nov 2026 01:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مدارس",
+          "created_at": "Wed, 11 Nov 2026 00:30:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
@@ -38,8 +56,8 @@
           "text": "جورجوس دونيس",
           "created_at": "Wed, 11 Nov 2026 00:00:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +66,7 @@
           "created_at": "Tue, 10 Nov 2026 23:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -75,24 +93,6 @@
           "created_at": "Tue, 10 Nov 2026 22:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "trail blazers vs thunder",
-          "created_at": "Tue, 10 Nov 2026 22:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جامعة القصيم",
-          "created_at": "Tue, 10 Nov 2026 21:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": 0.0
           }
         }
