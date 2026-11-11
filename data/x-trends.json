@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T08:00:30.330277+00:00",
+  "updated_at": "2026-11-11T09:12:27.197909+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جورجوس دونيس",
+          "created_at": "Wed, 11 Nov 2026 00:00:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "طايس الجميلي",
           "created_at": "Tue, 10 Nov 2026 23:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -20,8 +29,17 @@
           "text": "مديري",
           "created_at": "Tue, 10 Nov 2026 22:20:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "search_volume": "200+",
+            "growth_percent": -60.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kamindu mendis",
+          "created_at": "Tue, 10 Nov 2026 22:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
           }
         },
         {
@@ -39,7 +57,16 @@
           "created_at": "Tue, 10 Nov 2026 22:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kusal mendis",
+          "created_at": "Tue, 10 Nov 2026 21:50:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
           }
         },
         {
@@ -48,16 +75,7 @@
           "created_at": "Tue, 10 Nov 2026 21:20:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": -50.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "dhananjaya de silva",
-          "created_at": "Tue, 10 Nov 2026 21:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -75,24 +93,6 @@
           "created_at": "Tue, 10 Nov 2026 21:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "google classroom",
-          "created_at": "Tue, 10 Nov 2026 20:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "microsoft",
-          "created_at": "Tue, 10 Nov 2026 20:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         }
