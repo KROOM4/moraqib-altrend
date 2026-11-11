@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T12:14:41.686231+00:00",
+  "updated_at": "2026-11-11T13:34:15.344559+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bangladesh vs sri lanka",
+          "created_at": "Wed, 11 Nov 2026 05:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "videos",
+          "created_at": "Wed, 11 Nov 2026 05:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هاني رمزي",
+          "created_at": "Wed, 11 Nov 2026 03:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "هند بومشمر",
           "created_at": "Wed, 11 Nov 2026 03:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -20,17 +47,8 @@
           "text": "حقل",
           "created_at": "Wed, 11 Nov 2026 03:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تمكين",
-          "created_at": "Wed, 11 Nov 2026 03:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,17 +56,17 @@
           "text": "netaji subhash chandra bose international airport",
           "created_at": "Wed, 11 Nov 2026 02:20:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saudi aramco tower riyadh",
+          "text": "اليوم العالمي للعزاب",
           "created_at": "Wed, 11 Nov 2026 02:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
@@ -66,7 +84,7 @@
           "created_at": "Wed, 11 Nov 2026 01:10:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -75,24 +93,6 @@
           "created_at": "Wed, 11 Nov 2026 01:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مدارس",
-          "created_at": "Wed, 11 Nov 2026 00:30:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جورجوس دونيس",
-          "created_at": "Wed, 11 Nov 2026 00:00:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
             "growth_percent": 0.0
           }
         }
