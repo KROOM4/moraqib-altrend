@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T09:12:27.197909+00:00",
+  "updated_at": "2026-11-11T10:15:59.495321+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جورجوس دونيس",
-          "created_at": "Wed, 11 Nov 2026 00:00:00 -0800",
+          "text": "india vs maldives",
+          "created_at": "Wed, 11 Nov 2026 01:20:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -17,11 +17,38 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طايس الجميلي",
-          "created_at": "Tue, 10 Nov 2026 23:50:00 -0800",
+          "text": "الشيخ طايس الجميلي",
+          "created_at": "Wed, 11 Nov 2026 01:10:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ഇന്ഡിഗോ എയര്ലൈന്സ്",
+          "created_at": "Wed, 11 Nov 2026 01:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جورجوس دونيس",
+          "created_at": "Wed, 11 Nov 2026 00:00:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الكويت",
+          "created_at": "Tue, 10 Nov 2026 23:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
           }
         },
         {
@@ -30,7 +57,7 @@
           "created_at": "Tue, 10 Nov 2026 22:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": -60.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +66,7 @@
           "created_at": "Tue, 10 Nov 2026 22:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -62,37 +89,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kusal mendis",
-          "created_at": "Tue, 10 Nov 2026 21:50:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "جامعة القصيم",
           "created_at": "Tue, 10 Nov 2026 21:20:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جامعة حائل",
-          "created_at": "Tue, 10 Nov 2026 21:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "classroom",
-          "created_at": "Tue, 10 Nov 2026 21:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
