@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T16:36:43.331324+00:00",
+  "updated_at": "2026-11-11T17:41:39.131562+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,44 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قنبلة",
-          "created_at": "Wed, 11 Nov 2026 08:10:00 -0800",
+          "text": "قناة العربية",
+          "created_at": "Wed, 11 Nov 2026 09:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تعليق الدراسة القصيم",
+          "created_at": "Wed, 11 Nov 2026 09:30:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ابراهيم النجاري",
+          "created_at": "Wed, 11 Nov 2026 09:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كسوف الشمس",
+          "created_at": "Wed, 11 Nov 2026 08:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إيطاليا",
+          "created_at": "Wed, 11 Nov 2026 08:40:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -20,8 +56,8 @@
           "text": "فينيسيوس جونيور",
           "created_at": "Wed, 11 Nov 2026 07:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -29,8 +65,26 @@
           "text": "portugal",
           "created_at": "Wed, 11 Nov 2026 07:30:00 -0800",
           "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "marvel rivals season 11 patch notes",
+          "created_at": "Wed, 11 Nov 2026 06:50:00 -0800",
+          "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منتخب مصر",
+          "created_at": "Wed, 11 Nov 2026 06:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,60 +93,6 @@
           "created_at": "Wed, 11 Nov 2026 06:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منتخب مصر",
-          "created_at": "Wed, 11 Nov 2026 06:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mauricio pochettino",
-          "created_at": "Wed, 11 Nov 2026 06:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bangladesh vs sri lanka",
-          "created_at": "Wed, 11 Nov 2026 05:20:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "videos",
-          "created_at": "Wed, 11 Nov 2026 05:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saff championship",
-          "created_at": "Wed, 11 Nov 2026 04:50:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ربيع ياسين",
-          "created_at": "Wed, 11 Nov 2026 04:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
