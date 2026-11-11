@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T11:16:34.217071+00:00",
+  "updated_at": "2026-11-11T12:14:41.686231+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هند بومشمر",
+          "created_at": "Wed, 11 Nov 2026 03:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حقل",
+          "created_at": "Wed, 11 Nov 2026 03:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تمكين",
+          "created_at": "Wed, 11 Nov 2026 03:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "netaji subhash chandra bose international airport",
+          "created_at": "Wed, 11 Nov 2026 02:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "saudi aramco tower riyadh",
           "created_at": "Wed, 11 Nov 2026 02:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +57,7 @@
           "created_at": "Wed, 11 Nov 2026 01:20:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +65,8 @@
           "text": "الشيخ طايس الجميلي",
           "created_at": "Wed, 11 Nov 2026 01:10:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +84,7 @@
           "created_at": "Wed, 11 Nov 2026 00:30:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,42 +93,6 @@
           "created_at": "Wed, 11 Nov 2026 00:00:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الكويت",
-          "created_at": "Tue, 10 Nov 2026 23:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مديري",
-          "created_at": "Tue, 10 Nov 2026 22:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kamindu mendis",
-          "created_at": "Tue, 10 Nov 2026 22:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "max",
-          "created_at": "Tue, 10 Nov 2026 22:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
