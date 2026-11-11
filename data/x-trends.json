@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T13:34:15.344559+00:00",
+  "updated_at": "2026-11-11T14:37:45.300562+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -11,8 +11,8 @@
           "text": "bangladesh vs sri lanka",
           "created_at": "Wed, 11 Nov 2026 05:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "10000+",
+            "growth_percent": 4900.0
           }
         },
         {
@@ -21,6 +21,24 @@
           "created_at": "Wed, 11 Nov 2026 05:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ربيع ياسين",
+          "created_at": "Wed, 11 Nov 2026 04:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دين عام",
+          "created_at": "Wed, 11 Nov 2026 04:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -29,8 +47,8 @@
           "text": "هاني رمزي",
           "created_at": "Wed, 11 Nov 2026 03:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,8 +56,8 @@
           "text": "هند بومشمر",
           "created_at": "Wed, 11 Nov 2026 03:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -48,7 +66,7 @@
           "created_at": "Wed, 11 Nov 2026 03:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,7 +75,7 @@
           "created_at": "Wed, 11 Nov 2026 02:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -66,7 +84,7 @@
           "created_at": "Wed, 11 Nov 2026 02:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -74,26 +92,8 @@
           "text": "india vs maldives",
           "created_at": "Wed, 11 Nov 2026 01:20:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الشيخ طايس الجميلي",
-          "created_at": "Wed, 11 Nov 2026 01:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ഇന്ഡിഗോ എയര്ലൈന്സ്",
-          "created_at": "Wed, 11 Nov 2026 01:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         }
       ]
