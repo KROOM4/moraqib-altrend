@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:30:04.951772+00:00",
+  "updated_at": "2026-11-11T16:36:43.331324+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,46 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "قنبلة",
+          "created_at": "Wed, 11 Nov 2026 08:10:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "فينيسيوس جونيور",
+          "created_at": "Wed, 11 Nov 2026 07:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "portugal",
+          "created_at": "Wed, 11 Nov 2026 07:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "المغرب",
           "created_at": "Wed, 11 Nov 2026 06:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منتخب مصر",
+          "created_at": "Wed, 11 Nov 2026 06:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -21,7 +57,7 @@
           "created_at": "Wed, 11 Nov 2026 06:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +66,7 @@
           "created_at": "Wed, 11 Nov 2026 05:20:00 -0800",
           "metrics": {
             "search_volume": "20000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +84,7 @@
           "created_at": "Wed, 11 Nov 2026 04:50:00 -0800",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,42 +93,6 @@
           "created_at": "Wed, 11 Nov 2026 04:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دين عام",
-          "created_at": "Wed, 11 Nov 2026 04:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هاني رمزي",
-          "created_at": "Wed, 11 Nov 2026 03:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هند بومشمر",
-          "created_at": "Wed, 11 Nov 2026 03:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حقل",
-          "created_at": "Wed, 11 Nov 2026 03:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": 0.0
           }
         }
