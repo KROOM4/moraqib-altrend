@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T04:40:58.835778+00:00",
+  "updated_at": "2026-11-11T05:41:24.324275+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جامعة القصيم",
+          "created_at": "Tue, 10 Nov 2026 21:20:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "dhananjaya de silva",
+          "created_at": "Tue, 10 Nov 2026 21:10:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "google classroom",
+          "created_at": "Tue, 10 Nov 2026 20:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "microsoft",
+          "created_at": "Tue, 10 Nov 2026 20:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "الفنانة عواطف حلمي",
           "created_at": "Tue, 10 Nov 2026 20:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,13 +57,22 @@
           "created_at": "Tue, 10 Nov 2026 20:20:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "محيي إسماعيل",
           "created_at": "Tue, 10 Nov 2026 20:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "يورغن كلوب",
+          "created_at": "Tue, 10 Nov 2026 19:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -39,7 +84,7 @@
           "created_at": "Tue, 10 Nov 2026 19:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,53 +92,8 @@
           "text": "إجازة",
           "created_at": "Tue, 10 Nov 2026 19:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الطقس",
-          "created_at": "Tue, 10 Nov 2026 19:20:00 -0800",
-          "metrics": {
-            "search_volume": "50000+",
-            "growth_percent": -50.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand national cricket team",
-          "created_at": "Tue, 10 Nov 2026 19:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "weather",
-          "created_at": "Tue, 10 Nov 2026 19:10:00 -0800",
-          "metrics": {
-            "search_volume": "50000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ماتياس يايسله",
-          "created_at": "Tue, 10 Nov 2026 19:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "شيخ",
-          "created_at": "Tue, 10 Nov 2026 18:50:00 -0800",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
+            "growth_percent": 100.0
           }
         }
       ]
