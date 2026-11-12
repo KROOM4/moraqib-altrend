@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T10:44:58.388772+00:00",
+  "updated_at": "2026-11-12T11:42:20.380952+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عبد الملك الحوثي",
-          "created_at": "Thu, 12 Nov 2026 02:20:00 -0800",
+          "text": "thunderstorm",
+          "created_at": "Thu, 12 Nov 2026 03:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,11 +17,38 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "pinu rahman",
+          "created_at": "Thu, 12 Nov 2026 02:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "يورانيوم مخصب",
+          "created_at": "Thu, 12 Nov 2026 02:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عبد الملك الحوثي",
+          "created_at": "Thu, 12 Nov 2026 02:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "فساد",
           "created_at": "Thu, 12 Nov 2026 02:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -30,7 +57,7 @@
           "created_at": "Thu, 12 Nov 2026 02:00:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,6 +66,15 @@
           "created_at": "Thu, 12 Nov 2026 01:50:00 -0800",
           "metrics": {
             "search_volume": "500+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "banw vs pakw",
+          "created_at": "Thu, 12 Nov 2026 01:40:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
@@ -47,53 +83,17 @@
           "text": "القوات المسلحة اليمنية",
           "created_at": "Thu, 12 Nov 2026 01:30:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "السعودية",
-          "created_at": "Thu, 12 Nov 2026 01:10:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bangladesh women's national cricket team vs pakistan women's national cricket team match scorecard",
-          "created_at": "Thu, 12 Nov 2026 01:10:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بيب غوارديولا",
-          "created_at": "Thu, 12 Nov 2026 01:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bangladesh vs pakistan",
-          "created_at": "Thu, 12 Nov 2026 01:00:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فراس البريكان",
-          "created_at": "Thu, 12 Nov 2026 01:00:00 -0800",
-          "metrics": {
             "search_volume": "500+",
             "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "صاروخ",
+          "created_at": "Thu, 12 Nov 2026 01:20:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
           }
         }
       ]
