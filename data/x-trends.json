@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T17:37:46.389596+00:00",
+  "updated_at": "2026-11-12T18:34:32.664718+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بنك الخرطوم",
-          "created_at": "Thu, 12 Nov 2026 09:30:00 -0800",
+          "text": "السنغال ضد السودان",
+          "created_at": "Thu, 12 Nov 2026 10:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تركيا",
+          "created_at": "Thu, 12 Nov 2026 10:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,83 +26,74 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي برشلونة للسيدات ضد نادي أرسنال للسيدات",
-          "created_at": "Thu, 12 Nov 2026 09:00:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "türkiye - belçika",
-          "created_at": "Thu, 12 Nov 2026 09:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دوري الامم الاوروبية",
-          "created_at": "Thu, 12 Nov 2026 09:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الدولار اليوم",
-          "created_at": "Thu, 12 Nov 2026 08:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "türkiye vs belgium",
-          "created_at": "Thu, 12 Nov 2026 08:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 300.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تركيا ضد بلجيكا",
-          "created_at": "Thu, 12 Nov 2026 08:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 300.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قهوة",
-          "created_at": "Thu, 12 Nov 2026 08:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "dr congo vs sierra leone",
-          "created_at": "Thu, 12 Nov 2026 08:10:00 -0800",
+          "text": "الذهب اليوم",
+          "created_at": "Thu, 12 Nov 2026 10:00:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أنصار الله الحوثيون",
-          "created_at": "Thu, 12 Nov 2026 07:50:00 -0800",
+          "text": "погода завтра",
+          "created_at": "Thu, 12 Nov 2026 10:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "कल का मौसम",
+          "created_at": "Thu, 12 Nov 2026 10:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "weather tomorrow",
+          "created_at": "Thu, 12 Nov 2026 09:50:00 -0800",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الذهب اليوم",
+          "created_at": "Thu, 12 Nov 2026 09:50:00 -0800",
           "metrics": {
             "search_volume": "5000+",
-            "growth_percent": 0.0
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "météo demain",
+          "created_at": "Thu, 12 Nov 2026 09:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الطقس غدًا",
+          "created_at": "Thu, 12 Nov 2026 09:40:00 -0800",
+          "metrics": {
+            "search_volume": "50000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "cuaca besok",
+          "created_at": "Thu, 12 Nov 2026 09:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
           }
         }
       ]
