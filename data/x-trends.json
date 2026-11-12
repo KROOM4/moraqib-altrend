@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T00:37:15.745983+00:00",
+  "updated_at": "2026-11-12T01:59:50.627651+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,28 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قرية سبوحة",
-          "created_at": "Wed, 11 Nov 2026 15:50:00 -0800",
+          "text": "kolkata airport",
+          "created_at": "Wed, 11 Nov 2026 17:30:00 -0800",
           "metrics": {
             "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "قرية سبوحه",
+          "created_at": "Wed, 11 Nov 2026 15:50:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تقاعد",
+          "created_at": "Wed, 11 Nov 2026 14:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -20,8 +38,8 @@
           "text": "الحرس الوطني",
           "created_at": "Wed, 11 Nov 2026 13:40:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -47,8 +65,8 @@
           "text": "دنقلا العجوز",
           "created_at": "Wed, 11 Nov 2026 12:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -57,7 +75,7 @@
           "created_at": "Wed, 11 Nov 2026 12:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -76,24 +94,6 @@
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fraud",
-          "created_at": "Wed, 11 Nov 2026 11:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "veterans day 2026",
-          "created_at": "Wed, 11 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
           }
         }
       ]
