@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T04:13:01.519084+00:00",
+  "updated_at": "2026-11-12T05:19:47.667389+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,47 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "pakistan vs sri lanka",
+          "created_at": "Wed, 11 Nov 2026 21:10:00 -0800",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "acc u-19 asia cup",
+          "created_at": "Wed, 11 Nov 2026 21:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "under 19 asia cup",
+          "created_at": "Wed, 11 Nov 2026 21:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كأس السوبر السعودي 2026",
+          "created_at": "Wed, 11 Nov 2026 20:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "weather",
           "created_at": "Wed, 11 Nov 2026 19:50:00 -0800",
           "metrics": {
             "search_volume": "20000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,16 +57,7 @@
           "created_at": "Wed, 11 Nov 2026 19:50:00 -0800",
           "metrics": {
             "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كأس السوبر السعودي",
-          "created_at": "Wed, 11 Nov 2026 19:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +66,7 @@
           "created_at": "Wed, 11 Nov 2026 19:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,8 +74,8 @@
           "text": "إنفيديا",
           "created_at": "Wed, 11 Nov 2026 19:30:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": -80.0
           }
         },
         {
@@ -56,8 +83,8 @@
           "text": "تهريب",
           "created_at": "Wed, 11 Nov 2026 19:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -65,35 +92,8 @@
           "text": "rockets vs warriors",
           "created_at": "Wed, 11 Nov 2026 19:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "trail blazers vs thunder",
-          "created_at": "Wed, 11 Nov 2026 19:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نفط",
-          "created_at": "Wed, 11 Nov 2026 19:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bucks vs lakers",
-          "created_at": "Wed, 11 Nov 2026 18:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         }
       ]
