@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T11:42:20.380952+00:00",
+  "updated_at": "2026-11-12T12:43:25.054301+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,25 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ألكسندر دارتشييف",
+          "created_at": "Thu, 12 Nov 2026 04:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "thunderstorm",
+          "created_at": "Thu, 12 Nov 2026 03:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "gta6",
           "created_at": "Thu, 12 Nov 2026 03:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
@@ -17,8 +35,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pinu rahman",
-          "created_at": "Thu, 12 Nov 2026 02:50:00 -0800",
+          "text": "إبراهيم حسن",
+          "created_at": "Thu, 12 Nov 2026 03:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -29,7 +47,25 @@
           "text": "يورانيوم مخصب",
           "created_at": "Thu, 12 Nov 2026 02:50:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "pinu rahman",
+          "created_at": "Thu, 12 Nov 2026 02:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "saudi air defenses intercept drones",
+          "created_at": "Thu, 12 Nov 2026 02:20:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
@@ -39,7 +75,7 @@
           "created_at": "Thu, 12 Nov 2026 02:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,52 +83,16 @@
           "text": "فساد",
           "created_at": "Thu, 12 Nov 2026 02:10:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "stephen curry",
+          "text": "new zealand national cricket team",
           "created_at": "Thu, 12 Nov 2026 02:00:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كهرباء",
-          "created_at": "Thu, 12 Nov 2026 01:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "banw vs pakw",
-          "created_at": "Thu, 12 Nov 2026 01:40:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "القوات المسلحة اليمنية",
-          "created_at": "Thu, 12 Nov 2026 01:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صاروخ",
-          "created_at": "Thu, 12 Nov 2026 01:20:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         }
