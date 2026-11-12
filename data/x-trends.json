@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T18:34:32.664718+00:00",
+  "updated_at": "2026-11-12T19:39:31.860954+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,62 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "السنغال ضد السودان",
-          "created_at": "Thu, 12 Nov 2026 10:20:00 -0800",
+          "text": "côte d'ivoire vs gambia",
+          "created_at": "Thu, 12 Nov 2026 11:30:00 -0800",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تركيا",
-          "created_at": "Thu, 12 Nov 2026 10:20:00 -0800",
+          "text": "england vs croatia",
+          "created_at": "Thu, 12 Nov 2026 11:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الذهب اليوم",
-          "created_at": "Thu, 12 Nov 2026 10:00:00 -0800",
+          "text": "إنجلترا ضد كرواتيا",
+          "created_at": "Thu, 12 Nov 2026 11:10:00 -0800",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "погода завтра",
-          "created_at": "Thu, 12 Nov 2026 10:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "कल का मौसम",
-          "created_at": "Thu, 12 Nov 2026 10:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "weather tomorrow",
-          "created_at": "Thu, 12 Nov 2026 09:50:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الذهب اليوم",
-          "created_at": "Thu, 12 Nov 2026 09:50:00 -0800",
+          "text": "czechia vs spain",
+          "created_at": "Thu, 12 Nov 2026 11:00:00 -0800",
           "metrics": {
             "search_volume": "5000+",
             "growth_percent": null
@@ -71,8 +44,35 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "météo demain",
-          "created_at": "Thu, 12 Nov 2026 09:50:00 -0800",
+          "text": "التشيك ضد إسبانيا",
+          "created_at": "Thu, 12 Nov 2026 11:00:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "italy vs france",
+          "created_at": "Thu, 12 Nov 2026 11:00:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إيطاليا ضد فرنسا",
+          "created_at": "Thu, 12 Nov 2026 11:00:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إجازة",
+          "created_at": "Thu, 12 Nov 2026 11:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -80,17 +80,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الطقس غدًا",
-          "created_at": "Thu, 12 Nov 2026 09:40:00 -0800",
+          "text": "senegal vs sudan",
+          "created_at": "Thu, 12 Nov 2026 10:50:00 -0800",
           "metrics": {
-            "search_volume": "50000+",
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cuaca besok",
-          "created_at": "Thu, 12 Nov 2026 09:40:00 -0800",
+          "text": "حادث الفجيره اليوم",
+          "created_at": "Thu, 12 Nov 2026 10:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
