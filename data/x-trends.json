@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T22:28:36.683659+00:00",
+  "updated_at": "2026-11-12T23:24:55.453505+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kick",
-          "created_at": "Thu, 12 Nov 2026 13:50:00 -0800",
+          "text": "england national football team vs croatia national football team standings",
+          "created_at": "Thu, 12 Nov 2026 14:00:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -17,11 +17,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منتخب السعودية لكرة القدم",
-          "created_at": "Thu, 12 Nov 2026 13:40:00 -0800",
+          "text": "kick",
+          "created_at": "Thu, 12 Nov 2026 13:50:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +29,8 @@
           "text": "pio esposito",
           "created_at": "Thu, 12 Nov 2026 13:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,7 +39,7 @@
           "created_at": "Thu, 12 Nov 2026 13:10:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +48,7 @@
           "created_at": "Thu, 12 Nov 2026 13:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,13 +57,22 @@
           "created_at": "Thu, 12 Nov 2026 13:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "جبران راكابومينغ راكا",
           "created_at": "Thu, 12 Nov 2026 13:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "golden joystick awards 2026",
+          "created_at": "Thu, 12 Nov 2026 12:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -74,8 +83,8 @@
           "text": "راشد الماجد",
           "created_at": "Thu, 12 Nov 2026 12:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "1000+",
+            "growth_percent": 400.0
           }
         },
         {
@@ -84,15 +93,6 @@
           "created_at": "Thu, 12 Nov 2026 11:50:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "michael carrick",
-          "created_at": "Thu, 12 Nov 2026 11:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
