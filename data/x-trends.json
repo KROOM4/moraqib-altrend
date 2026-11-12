@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T01:59:50.627651+00:00",
+  "updated_at": "2026-11-12T03:06:45.143298+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,82 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kolkata airport",
-          "created_at": "Wed, 11 Nov 2026 17:30:00 -0800",
+          "text": "أسواق عبد الله العثيم",
+          "created_at": "Wed, 11 Nov 2026 18:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bucks vs lakers",
+          "created_at": "Wed, 11 Nov 2026 18:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جواو فيليكس",
+          "created_at": "Wed, 11 Nov 2026 18:40:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الريال السعودي",
+          "created_at": "Wed, 11 Nov 2026 18:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "weather today",
+          "created_at": "Wed, 11 Nov 2026 18:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الطقس اليوم",
+          "created_at": "Wed, 11 Nov 2026 18:20:00 -0800",
+          "metrics": {
+            "search_volume": "50000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "يوسف النصيري",
+          "created_at": "Wed, 11 Nov 2026 18:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "احمد العلواني العراقي",
+          "created_at": "Wed, 11 Nov 2026 17:20:00 -0800",
           "metrics": {
             "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "merab dvalishvili",
+          "created_at": "Wed, 11 Nov 2026 16:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -21,78 +93,6 @@
           "created_at": "Wed, 11 Nov 2026 15:50:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تقاعد",
-          "created_at": "Wed, 11 Nov 2026 14:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الحرس الوطني",
-          "created_at": "Wed, 11 Nov 2026 13:40:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الريال السعودي اليوم في مصر",
-          "created_at": "Wed, 11 Nov 2026 13:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "usman nurmagomedov",
-          "created_at": "Wed, 11 Nov 2026 13:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دنقلا العجوز",
-          "created_at": "Wed, 11 Nov 2026 12:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الطائف",
-          "created_at": "Wed, 11 Nov 2026 12:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أرقام",
-          "created_at": "Wed, 11 Nov 2026 12:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عثمان نورمحمدوف",
-          "created_at": "Wed, 11 Nov 2026 11:50:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
             "growth_percent": 0.0
           }
         }
