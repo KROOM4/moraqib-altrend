@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T21:29:51.052017+00:00",
+  "updated_at": "2026-11-12T22:28:36.683659+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عاصفة رعدية",
-          "created_at": "Thu, 12 Nov 2026 13:10:00 -0800",
+          "text": "kick",
+          "created_at": "Thu, 12 Nov 2026 13:50:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -17,17 +17,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fc barcelona femení vs arsenal w.f.c. standings",
-          "created_at": "Thu, 12 Nov 2026 13:00:00 -0800",
+          "text": "منتخب السعودية لكرة القدم",
+          "created_at": "Thu, 12 Nov 2026 13:40:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "france",
-          "created_at": "Thu, 12 Nov 2026 13:00:00 -0800",
+          "text": "pio esposito",
+          "created_at": "Thu, 12 Nov 2026 13:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -35,7 +35,34 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عاصفة رعدية",
+          "created_at": "Thu, 12 Nov 2026 13:10:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "الكويت",
+          "created_at": "Thu, 12 Nov 2026 13:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "france",
+          "created_at": "Thu, 12 Nov 2026 13:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جبران راكابومينغ راكا",
           "created_at": "Thu, 12 Nov 2026 13:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
@@ -48,7 +75,7 @@
           "created_at": "Thu, 12 Nov 2026 12:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,7 +84,7 @@
           "created_at": "Thu, 12 Nov 2026 11:50:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -66,33 +93,6 @@
           "created_at": "Thu, 12 Nov 2026 11:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "côte d'ivoire vs gambia",
-          "created_at": "Thu, 12 Nov 2026 11:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "england vs croatia",
-          "created_at": "Thu, 12 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إنجلترا ضد كرواتيا",
-          "created_at": "Thu, 12 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
             "growth_percent": 0.0
           }
         }
