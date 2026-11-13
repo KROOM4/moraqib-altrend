@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T16:05:36.557378+00:00",
+  "updated_at": "2026-11-13T17:12:35.691264+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تونس ضد ليبيا",
-          "created_at": "Fri, 13 Nov 2026 07:50:00 -0800",
+          "text": "جنوب أفريقيا ضد كينيا",
+          "created_at": "Fri, 13 Nov 2026 08:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,20 +17,56 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المنتخب",
-          "created_at": "Fri, 13 Nov 2026 07:50:00 -0800",
+          "text": "nigeria vs tanzania",
+          "created_at": "Fri, 13 Nov 2026 08:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عطل مايكروسوفت",
-          "created_at": "Fri, 13 Nov 2026 06:50:00 -0800",
+          "text": "tunisia vs libya",
+          "created_at": "Fri, 13 Nov 2026 08:10:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "فضاء",
+          "created_at": "Fri, 13 Nov 2026 08:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "south africa vs kenya",
+          "created_at": "Fri, 13 Nov 2026 08:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "saudi arabia vs south korea",
+          "created_at": "Fri, 13 Nov 2026 08:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تونس ضد ليبيا",
+          "created_at": "Fri, 13 Nov 2026 07:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -38,8 +74,8 @@
           "text": "ইসলামী ব্যাংক বাংলাদেশ লিমিটেড",
           "created_at": "Fri, 13 Nov 2026 06:50:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +84,7 @@
           "created_at": "Fri, 13 Nov 2026 06:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,44 +92,8 @@
           "text": "موعد مباراة منتخب مصر",
           "created_at": "Fri, 13 Nov 2026 05:30:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "next",
-          "created_at": "Fri, 13 Nov 2026 04:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "السعوديه",
-          "created_at": "Fri, 13 Nov 2026 03:00:00 -0800",
-          "metrics": {
             "search_volume": "500+",
             "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "সেনাপ্রধান",
-          "created_at": "Fri, 13 Nov 2026 02:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "न्यूजीलैंड बनाम भारत",
-          "created_at": "Fri, 13 Nov 2026 01:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
           }
         }
       ]
