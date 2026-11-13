@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:57:57.815825+00:00",
+  "updated_at": "2026-11-13T23:52:53.850354+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "argentina",
+          "created_at": "Fri, 13 Nov 2026 15:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "فلايت رادار",
+          "created_at": "Fri, 13 Nov 2026 14:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "الأرجنتين ضد أوروغواي",
           "created_at": "Fri, 13 Nov 2026 14:20:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -20,14 +38,23 @@
           "text": "عقوبة",
           "created_at": "Fri, 13 Nov 2026 14:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "أمير الكويت",
           "created_at": "Fri, 13 Nov 2026 13:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "brazil vs japan",
+          "created_at": "Fri, 13 Nov 2026 13:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -38,8 +65,8 @@
           "text": "argentina vs uruguay",
           "created_at": "Fri, 13 Nov 2026 12:20:00 -0800",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 2400.0
+            "search_volume": "10000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -66,33 +93,6 @@
           "created_at": "Fri, 13 Nov 2026 12:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سلوفينيا ضد سويسرا",
-          "created_at": "Fri, 13 Nov 2026 12:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "മലയാള മനോരമ",
-          "created_at": "Fri, 13 Nov 2026 12:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "xbox playback games",
-          "created_at": "Fri, 13 Nov 2026 12:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": 0.0
           }
         }
