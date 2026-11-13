@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-13T06:44:57.663333+00:00",
+  "updated_at": "2026-11-13T08:01:43.136738+00:00",
   "trends": {
-    "cricbuzz": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-13T06:44:57.663333+00:00"
+    "zim vs afg": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-11-13T08:01:43.136738+00:00"
     },
-    "naman dhir": {
+    "axar patel": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-13T06:44:57.663333+00:00"
+      "updated_at": "2026-11-13T08:01:43.136738+00:00"
+    },
+    "cricket": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-13T08:01:43.136738+00:00"
+    },
+    "غادي أيزنكوت": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-13T08:01:43.136738+00:00"
+    },
+    "icc": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-13T08:01:43.136738+00:00"
+    },
+    "naman dhir": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-11-13T08:01:43.136738+00:00"
+    },
+    "cricbuzz": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-11-13T08:01:43.136738+00:00"
     },
     "nz vs ind": {
       "volume": 20000.0,
       "raw_volume": "20000+",
-      "updated_at": "2026-11-13T06:44:57.663333+00:00"
+      "updated_at": "2026-11-13T08:01:43.136738+00:00"
     },
-    "zimbabwe vs afghanistan": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-13T06:44:57.663333+00:00"
-    },
-    "matt henry": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-13T06:44:57.663333+00:00"
-    },
-    "babar azam": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-13T06:44:57.663333+00:00"
-    },
-    "pakistan vs sri lanka": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-11-13T06:44:57.663333+00:00"
-    },
-    "دونالد ترمب": {
+    "مروان الغفوري": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-13T06:44:57.663333+00:00"
+      "updated_at": "2026-11-13T08:01:43.136738+00:00"
     },
-    "tim seifert": {
+    "download": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-13T06:44:57.663333+00:00"
-    },
-    "hava durumu": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-13T06:44:57.663333+00:00"
+      "updated_at": "2026-11-13T08:01:43.136738+00:00"
     }
   }
 }
