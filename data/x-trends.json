@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T13:57:03.399003+00:00",
+  "updated_at": "2026-11-13T15:05:37.882995+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,56 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "السعوديه",
-          "created_at": "Fri, 13 Nov 2026 03:00:00 -0800",
+          "text": "عطل مايكروسوفت",
+          "created_at": "Fri, 13 Nov 2026 06:50:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ইসলামী ব্যাংক বাংলাদেশ লিমিটেড",
+          "created_at": "Fri, 13 Nov 2026 06:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "বাংলাদেশ সেনাবাহিনী",
+          "created_at": "Fri, 13 Nov 2026 06:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "موعد مباراة منتخب مصر",
+          "created_at": "Fri, 13 Nov 2026 05:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "next",
+          "created_at": "Fri, 13 Nov 2026 04:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "السعوديه",
+          "created_at": "Fri, 13 Nov 2026 03:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -39,7 +84,7 @@
           "created_at": "Fri, 13 Nov 2026 01:00:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -49,51 +94,6 @@
           "metrics": {
             "search_volume": "500+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pakistan women's national cricket team vs thailand women's national cricket team match scorecard",
-          "created_at": "Fri, 13 Nov 2026 01:00:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزير الدفاع الأمريكي",
-          "created_at": "Fri, 13 Nov 2026 01:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد بن سلمان",
-          "created_at": "Fri, 13 Nov 2026 00:20:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الحرس الثوري الإيراني",
-          "created_at": "Fri, 13 Nov 2026 00:10:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ملك المملكة العربية السعودية",
-          "created_at": "Fri, 13 Nov 2026 00:00:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
           }
         }
       ]
