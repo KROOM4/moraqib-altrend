@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T09:15:03.857603+00:00",
+  "updated_at": "2026-11-13T10:19:45.491978+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "সেনাপ্রধান",
+          "created_at": "Fri, 13 Nov 2026 02:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مباراة السعودية وكوريا الجنوبية",
+          "created_at": "Fri, 13 Nov 2026 01:50:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "न्यूजीलैंड बनाम भारत",
+          "created_at": "Fri, 13 Nov 2026 01:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "طقس",
           "created_at": "Fri, 13 Nov 2026 01:00:00 -0800",
           "metrics": {
             "search_volume": "50000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -20,7 +47,16 @@
           "text": "womens emerging nations trophy",
           "created_at": "Fri, 13 Nov 2026 01:00:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "500+",
+            "growth_percent": -50.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وزير الدفاع الأمريكي",
+          "created_at": "Fri, 13 Nov 2026 01:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -29,7 +65,16 @@
           "text": "محمد بن سلمان",
           "created_at": "Fri, 13 Nov 2026 00:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "grand theft auto vi",
+          "created_at": "Fri, 13 Nov 2026 00:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -38,61 +83,16 @@
           "text": "الحرس الثوري الإيراني",
           "created_at": "Fri, 13 Nov 2026 00:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 400.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "samsung galaxy",
+          "text": "ملك المملكة العربية السعودية",
           "created_at": "Fri, 13 Nov 2026 00:00:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "شركة طيران",
-          "created_at": "Thu, 12 Nov 2026 23:40:00 -0800",
-          "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "zim vs afg",
-          "created_at": "Thu, 12 Nov 2026 23:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": -75.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "axar patel",
-          "created_at": "Thu, 12 Nov 2026 23:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "icc",
-          "created_at": "Thu, 12 Nov 2026 22:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kuldeep yadav",
-          "created_at": "Thu, 12 Nov 2026 22:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": null
           }
         }
