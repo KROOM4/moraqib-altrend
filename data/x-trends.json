@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T18:03:52.740890+00:00",
+  "updated_at": "2026-11-13T19:14:49.540383+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sharad kapoor",
-          "created_at": "Fri, 13 Nov 2026 09:00:00 -0800",
+          "text": "serbia vs germany",
+          "created_at": "Fri, 13 Nov 2026 11:00:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "netherlands vs greece",
+          "created_at": "Fri, 13 Nov 2026 11:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هولندا ضد اليونان",
+          "created_at": "Fri, 13 Nov 2026 11:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "فنان",
+          "created_at": "Fri, 13 Nov 2026 10:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,83 +44,56 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جنوب أفريقيا ضد كينيا",
-          "created_at": "Fri, 13 Nov 2026 08:10:00 -0800",
+          "text": "yallakora",
+          "created_at": "Fri, 13 Nov 2026 10:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "আগামীকালের আবহাওয়া",
+          "created_at": "Fri, 13 Nov 2026 10:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مصر ضد مالاوي",
+          "created_at": "Fri, 13 Nov 2026 10:10:00 -0800",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "egypt vs malawi",
+          "created_at": "Fri, 13 Nov 2026 10:10:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "flight",
+          "created_at": "Fri, 13 Nov 2026 10:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nigeria vs tanzania",
-          "created_at": "Fri, 13 Nov 2026 08:10:00 -0800",
+          "text": "bahrain iran",
+          "created_at": "Fri, 13 Nov 2026 10:10:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "tunisia vs libya",
-          "created_at": "Fri, 13 Nov 2026 08:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فضاء",
-          "created_at": "Fri, 13 Nov 2026 08:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "south africa vs kenya",
-          "created_at": "Fri, 13 Nov 2026 08:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saudi arabia vs south korea",
-          "created_at": "Fri, 13 Nov 2026 08:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تونس ضد ليبيا",
-          "created_at": "Fri, 13 Nov 2026 07:50:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ইসলামী ব্যাংক বাংলাদেশ লিমিটেড",
-          "created_at": "Fri, 13 Nov 2026 06:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "বাংলাদেশ সেনাবাহিনী",
-          "created_at": "Fri, 13 Nov 2026 06:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
+            "search_volume": "100+",
+            "growth_percent": null
           }
         }
       ]
