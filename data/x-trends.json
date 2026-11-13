@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T15:05:37.882995+00:00",
+  "updated_at": "2026-11-13T16:05:36.557378+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "تونس ضد ليبيا",
+          "created_at": "Fri, 13 Nov 2026 07:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "المنتخب",
+          "created_at": "Fri, 13 Nov 2026 07:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "عطل مايكروسوفت",
           "created_at": "Fri, 13 Nov 2026 06:50:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,7 +39,7 @@
           "created_at": "Fri, 13 Nov 2026 06:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -29,8 +47,8 @@
           "text": "বাংলাদেশ সেনাবাহিনী",
           "created_at": "Fri, 13 Nov 2026 06:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,8 +56,8 @@
           "text": "موعد مباراة منتخب مصر",
           "created_at": "Fri, 13 Nov 2026 05:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +66,7 @@
           "created_at": "Fri, 13 Nov 2026 04:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,8 +74,8 @@
           "text": "السعوديه",
           "created_at": "Fri, 13 Nov 2026 03:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -75,24 +93,6 @@
           "created_at": "Fri, 13 Nov 2026 01:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "zimbabwe vs bangladesh",
-          "created_at": "Fri, 13 Nov 2026 01:00:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "womens emerging nations trophy",
-          "created_at": "Fri, 13 Nov 2026 01:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": 0.0
           }
         }
