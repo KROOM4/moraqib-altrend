@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T19:14:49.540383+00:00",
+  "updated_at": "2026-11-13T20:10:39.848452+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "serbia vs germany",
-          "created_at": "Fri, 13 Nov 2026 11:00:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "netherlands vs greece",
-          "created_at": "Fri, 13 Nov 2026 11:00:00 -0800",
+          "text": "scotland vs north macedonia",
+          "created_at": "Fri, 13 Nov 2026 12:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -26,17 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هولندا ضد اليونان",
-          "created_at": "Fri, 13 Nov 2026 11:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فنان",
-          "created_at": "Fri, 13 Nov 2026 10:50:00 -0800",
+          "text": "احمد حلمي",
+          "created_at": "Fri, 13 Nov 2026 11:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -44,35 +26,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "yallakora",
-          "created_at": "Fri, 13 Nov 2026 10:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "আগামীকালের আবহাওয়া",
-          "created_at": "Fri, 13 Nov 2026 10:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مصر ضد مالاوي",
-          "created_at": "Fri, 13 Nov 2026 10:10:00 -0800",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "egypt vs malawi",
-          "created_at": "Fri, 13 Nov 2026 10:10:00 -0800",
+          "text": "morocco vs niger",
+          "created_at": "Fri, 13 Nov 2026 11:30:00 -0800",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -80,19 +35,64 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "flight",
-          "created_at": "Fri, 13 Nov 2026 10:10:00 -0800",
+          "text": "المغرب ضد النيجر",
+          "created_at": "Fri, 13 Nov 2026 11:10:00 -0800",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bahrain iran",
-          "created_at": "Fri, 13 Nov 2026 10:10:00 -0800",
+          "text": "slovenia vs switzerland",
+          "created_at": "Fri, 13 Nov 2026 11:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "serbia vs germany",
+          "created_at": "Fri, 13 Nov 2026 11:00:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "netherlands vs greece",
+          "created_at": "Fri, 13 Nov 2026 11:00:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هولندا ضد اليونان",
+          "created_at": "Fri, 13 Nov 2026 11:00:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 400.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "فنان",
+          "created_at": "Fri, 13 Nov 2026 10:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ترتيبات منتخب تونس لكرة القدم – منتخب ليبيا لكرة القدم",
+          "created_at": "Fri, 13 Nov 2026 10:30:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
             "growth_percent": null
           }
         }
