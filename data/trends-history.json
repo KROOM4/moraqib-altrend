@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-13T03:03:20.250286+00:00",
+  "updated_at": "2026-11-13T04:12:47.642555+00:00",
   "trends": {
+    "عقوبة الإعدام": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-13T04:12:47.642555+00:00"
+    },
+    "england vs australia": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-11-13T04:12:47.642555+00:00"
+    },
     "new zealand vs india": {
       "volume": 10000.0,
       "raw_volume": "10000+",
-      "updated_at": "2026-11-13T03:03:20.250286+00:00"
+      "updated_at": "2026-11-13T04:12:47.642555+00:00"
     },
     "east–west crude oil pipeline": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-13T03:03:20.250286+00:00"
+      "updated_at": "2026-11-13T04:12:47.642555+00:00"
     },
-    "76ers vs raptors": {
+    "ببجي": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-13T03:03:20.250286+00:00"
+      "updated_at": "2026-11-13T04:12:47.642555+00:00"
     },
-    "نفط": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-13T03:03:20.250286+00:00"
-    },
-    "curaçao vs panama": {
+    "76ers vs raptors": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-13T03:03:20.250286+00:00"
+      "updated_at": "2026-11-13T04:12:47.642555+00:00"
+    },
+    "new zealand national cricket team vs india national cricket team match scorecard": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-11-13T04:12:47.642555+00:00"
+    },
+    "نفط": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-11-13T04:12:47.642555+00:00"
     },
     "بنيامين نتنياهو": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-13T03:03:20.250286+00:00"
+      "updated_at": "2026-11-13T04:12:47.642555+00:00"
     },
-    "خط أنابيب": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-11-13T03:03:20.250286+00:00"
-    },
-    "england national football team vs croatia national football team standings": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-11-13T03:03:20.250286+00:00"
-    },
-    "سعر جرام الذهب عيار 21 سعر الذهب اليوم": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-11-13T03:03:20.250286+00:00"
-    },
-    "kick": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-13T03:03:20.250286+00:00"
+    "curaçao vs panama": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-13T04:12:47.642555+00:00"
     }
   }
 }
