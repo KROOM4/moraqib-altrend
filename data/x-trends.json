@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T01:52:44.104347+00:00",
+  "updated_at": "2026-11-13T03:03:20.250286+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,38 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نفط",
-          "created_at": "Thu, 12 Nov 2026 17:40:00 -0800",
+          "text": "new zealand vs india",
+          "created_at": "Thu, 12 Nov 2026 18:40:00 -0800",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "east–west crude oil pipeline",
+          "created_at": "Thu, 12 Nov 2026 18:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "76ers vs raptors",
+          "created_at": "Thu, 12 Nov 2026 18:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نفط",
+          "created_at": "Thu, 12 Nov 2026 17:40:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": 900.0
           }
         },
         {
@@ -20,16 +47,16 @@
           "text": "curaçao vs panama",
           "created_at": "Thu, 12 Nov 2026 17:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موعد صلاة الفجر",
+          "text": "بنيامين نتنياهو",
           "created_at": "Thu, 12 Nov 2026 17:30:00 -0800",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -38,8 +65,8 @@
           "text": "خط أنابيب",
           "created_at": "Thu, 12 Nov 2026 15:50:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -48,7 +75,16 @@
           "created_at": "Thu, 12 Nov 2026 14:00:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر جرام الذهب عيار 21 سعر الذهب اليوم",
+          "created_at": "Thu, 12 Nov 2026 14:00:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
           }
         },
         {
@@ -58,42 +94,6 @@
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منتخب البرتغال",
-          "created_at": "Thu, 12 Nov 2026 13:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pio esposito",
-          "created_at": "Thu, 12 Nov 2026 13:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عاصفة رعدية",
-          "created_at": "Thu, 12 Nov 2026 13:10:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الكويت",
-          "created_at": "Thu, 12 Nov 2026 13:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
