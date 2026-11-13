@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T21:07:05.712651+00:00",
+  "updated_at": "2026-11-13T22:00:01.337898+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,7 +8,52 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "എയര് ഇന്ത്യ",
+          "created_at": "Fri, 13 Nov 2026 12:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "البرنامج النووي الإيراني",
+          "created_at": "Fri, 13 Nov 2026 12:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "maroc – niger",
+          "created_at": "Fri, 13 Nov 2026 12:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "المغرب",
+          "created_at": "Fri, 13 Nov 2026 12:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سلوفينيا ضد سويسرا",
+          "created_at": "Fri, 13 Nov 2026 12:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "argentina vs uruguay",
           "created_at": "Fri, 13 Nov 2026 12:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
@@ -17,38 +62,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "البرنامج النووي الإيراني",
-          "created_at": "Fri, 13 Nov 2026 12:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "എയര് ഇന്ത്യ",
-          "created_at": "Fri, 13 Nov 2026 12:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المغرب",
-          "created_at": "Fri, 13 Nov 2026 12:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "മലയാള മനോരമ",
           "created_at": "Fri, 13 Nov 2026 12:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -62,38 +80,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "احمد حلمي",
+          "text": "xbox playback games",
+          "created_at": "Fri, 13 Nov 2026 12:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "avril lavigne",
           "created_at": "Fri, 13 Nov 2026 11:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "morocco vs niger",
-          "created_at": "Fri, 13 Nov 2026 11:30:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المغرب ضد النيجر",
-          "created_at": "Fri, 13 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "slovenia vs switzerland",
-          "created_at": "Fri, 13 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": null
           }
         }
       ]
