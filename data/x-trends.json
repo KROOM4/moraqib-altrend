@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T12:42:21.280503+00:00",
+  "updated_at": "2026-11-13T13:57:03.399003+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,20 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "السعوديه",
+          "created_at": "Fri, 13 Nov 2026 03:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "সেনাপ্রধান",
           "created_at": "Fri, 13 Nov 2026 02:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مباراة السعودية وكوريا الجنوبية",
-          "created_at": "Fri, 13 Nov 2026 01:50:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
           }
         },
         {
@@ -35,11 +35,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "zimbabwe vs bangladesh",
+          "created_at": "Fri, 13 Nov 2026 01:00:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "womens emerging nations trophy",
           "created_at": "Fri, 13 Nov 2026 01:00:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "pakistan women's national cricket team vs thailand women's national cricket team match scorecard",
+          "created_at": "Fri, 13 Nov 2026 01:00:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
           }
         },
         {
@@ -48,7 +66,7 @@
           "created_at": "Fri, 13 Nov 2026 01:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,8 +74,8 @@
           "text": "محمد بن سلمان",
           "created_at": "Fri, 13 Nov 2026 00:20:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -66,7 +84,7 @@
           "created_at": "Fri, 13 Nov 2026 00:10:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -74,25 +92,7 @@
           "text": "ملك المملكة العربية السعودية",
           "created_at": "Fri, 13 Nov 2026 00:00:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "samsung galaxy",
-          "created_at": "Fri, 13 Nov 2026 00:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مايكروسوفت",
-          "created_at": "Thu, 12 Nov 2026 23:50:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "2000+",
             "growth_percent": 100.0
           }
         }
