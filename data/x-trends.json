@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T17:12:35.691264+00:00",
+  "updated_at": "2026-11-13T18:03:52.740890+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,20 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sharad kapoor",
+          "created_at": "Fri, 13 Nov 2026 09:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "جنوب أفريقيا ضد كينيا",
           "created_at": "Fri, 13 Nov 2026 08:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -21,7 +30,7 @@
           "created_at": "Fri, 13 Nov 2026 08:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +39,7 @@
           "created_at": "Fri, 13 Nov 2026 08:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -39,7 +48,7 @@
           "created_at": "Fri, 13 Nov 2026 08:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -48,7 +57,7 @@
           "created_at": "Fri, 13 Nov 2026 08:00:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,7 +66,7 @@
           "created_at": "Fri, 13 Nov 2026 08:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -65,8 +74,8 @@
           "text": "تونس ضد ليبيا",
           "created_at": "Fri, 13 Nov 2026 07:50:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
+            "search_volume": "1000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -75,7 +84,7 @@
           "created_at": "Fri, 13 Nov 2026 06:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -85,15 +94,6 @@
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موعد مباراة منتخب مصر",
-          "created_at": "Fri, 13 Nov 2026 05:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
           }
         }
       ]
