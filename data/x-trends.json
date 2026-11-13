@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T08:01:43.136738+00:00",
+  "updated_at": "2026-11-13T09:15:03.857603+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,65 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طقس",
+          "created_at": "Fri, 13 Nov 2026 01:00:00 -0800",
+          "metrics": {
+            "search_volume": "50000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "womens emerging nations trophy",
+          "created_at": "Fri, 13 Nov 2026 01:00:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "محمد بن سلمان",
+          "created_at": "Fri, 13 Nov 2026 00:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الحرس الثوري الإيراني",
+          "created_at": "Fri, 13 Nov 2026 00:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "samsung galaxy",
+          "created_at": "Fri, 13 Nov 2026 00:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "شركة طيران",
+          "created_at": "Thu, 12 Nov 2026 23:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "zim vs afg",
           "created_at": "Thu, 12 Nov 2026 23:30:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": -75.0
           }
         },
         {
@@ -21,25 +75,7 @@
           "created_at": "Thu, 12 Nov 2026 23:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cricket",
-          "created_at": "Thu, 12 Nov 2026 23:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "غادي أيزنكوت",
-          "created_at": "Thu, 12 Nov 2026 22:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -47,52 +83,16 @@
           "text": "icc",
           "created_at": "Thu, 12 Nov 2026 22:50:00 -0800",
           "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kuldeep yadav",
+          "created_at": "Thu, 12 Nov 2026 22:50:00 -0800",
+          "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "naman dhir",
-          "created_at": "Thu, 12 Nov 2026 22:30:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 1900.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cricbuzz",
-          "created_at": "Thu, 12 Nov 2026 22:30:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nz vs ind",
-          "created_at": "Thu, 12 Nov 2026 22:20:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مروان الغفوري",
-          "created_at": "Thu, 12 Nov 2026 21:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "download",
-          "created_at": "Thu, 12 Nov 2026 21:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": null
           }
         }
