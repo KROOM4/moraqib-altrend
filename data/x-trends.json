@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T15:22:33.255421+00:00",
+  "updated_at": "2026-11-14T16:22:35.019167+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,55 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bangladesh national football team vs pakistan national football team stats",
-          "created_at": "Sat, 14 Nov 2026 07:00:00 -0800",
+          "text": "norway vs wales",
+          "created_at": "Sat, 14 Nov 2026 08:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "النرويج ضد ويلز",
+          "created_at": "Sat, 14 Nov 2026 08:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "where to watch bangladesh national football team vs pakistan national football team",
+          "created_at": "Sat, 14 Nov 2026 07:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الوصل ضد النصر",
+          "created_at": "Sat, 14 Nov 2026 07:20:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حتا ضد العين",
+          "created_at": "Sat, 14 Nov 2026 07:20:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "صيد",
+          "created_at": "Sat, 14 Nov 2026 07:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -20,8 +65,8 @@
           "text": "বাংলাদেশ বনাম পাকিস্তান",
           "created_at": "Sat, 14 Nov 2026 06:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -29,8 +74,8 @@
           "text": "أحمد الفيشاوي",
           "created_at": "Sat, 14 Nov 2026 06:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,8 +83,8 @@
           "text": "chelsea vs man city",
           "created_at": "Sat, 14 Nov 2026 06:20:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,51 +93,6 @@
           "created_at": "Sat, 14 Nov 2026 06:10:00 -0800",
           "metrics": {
             "search_volume": "20000+",
-            "growth_percent": 300.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "iran attacks",
-          "created_at": "Sat, 14 Nov 2026 06:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "man utd vs crystal palace",
-          "created_at": "Sat, 14 Nov 2026 05:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "yemen",
-          "created_at": "Sat, 14 Nov 2026 05:40:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مأرب",
-          "created_at": "Sat, 14 Nov 2026 05:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "cricinfo",
-          "created_at": "Sat, 14 Nov 2026 05:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": 0.0
           }
         }
