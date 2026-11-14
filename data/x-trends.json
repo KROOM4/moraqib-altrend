@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:37:25.693284+00:00",
+  "updated_at": "2026-11-14T14:27:48.849846+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "charith asalanka",
-          "created_at": "Sat, 14 Nov 2026 05:00:00 -0800",
+          "text": "chelsea vs man city",
+          "created_at": "Sat, 14 Nov 2026 06:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,11 +17,65 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جامعة الدفاع الوطني",
-          "created_at": "Sat, 14 Nov 2026 04:50:00 -0800",
+          "text": "bangladesh vs pakistan",
+          "created_at": "Sat, 14 Nov 2026 06:10:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "man utd vs crystal palace",
+          "created_at": "Sat, 14 Nov 2026 05:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "yemen",
+          "created_at": "Sat, 14 Nov 2026 05:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مأرب",
+          "created_at": "Sat, 14 Nov 2026 05:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "cricinfo",
+          "created_at": "Sat, 14 Nov 2026 05:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "charith asalanka",
+          "created_at": "Sat, 14 Nov 2026 05:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جامعة الدفاع الوطني",
+          "created_at": "Sat, 14 Nov 2026 04:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -30,67 +84,13 @@
           "created_at": "Sat, 14 Nov 2026 04:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "أنس حبيب",
           "created_at": "Sat, 14 Nov 2026 03:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "البرلمان العربي",
-          "created_at": "Sat, 14 Nov 2026 03:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سفينة",
-          "created_at": "Sat, 14 Nov 2026 03:10:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "vinícius júnior",
-          "created_at": "Sat, 14 Nov 2026 03:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "brazil vs",
-          "created_at": "Sat, 14 Nov 2026 03:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مهرجان القاهرة السينمائي الدولي",
-          "created_at": "Sat, 14 Nov 2026 02:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إنفيديا",
-          "created_at": "Sat, 14 Nov 2026 02:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": 0.0
