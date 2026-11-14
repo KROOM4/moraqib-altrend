@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T11:20:33.097206+00:00",
+  "updated_at": "2026-11-14T12:22:27.686452+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,20 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "vinícius júnior",
-          "created_at": "Sat, 14 Nov 2026 03:10:00 -0800",
+          "text": "أنس حبيب",
+          "created_at": "Sat, 14 Nov 2026 03:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سفينة",
+          "text": "البرلمان العربي",
+          "created_at": "Sat, 14 Nov 2026 03:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "vinícius júnior",
           "created_at": "Sat, 14 Nov 2026 03:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -29,17 +38,17 @@
           "text": "arjun rajput",
           "created_at": "Sat, 14 Nov 2026 03:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "brazil match",
-          "created_at": "Sat, 14 Nov 2026 02:50:00 -0800",
+          "text": "سفينة",
+          "created_at": "Sat, 14 Nov 2026 03:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -48,7 +57,7 @@
           "created_at": "Sat, 14 Nov 2026 02:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,8 +65,8 @@
           "text": "إنفيديا",
           "created_at": "Sat, 14 Nov 2026 02:20:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -66,7 +75,7 @@
           "created_at": "Sat, 14 Nov 2026 02:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -74,8 +83,8 @@
           "text": "أسواق عبد الله العثيم",
           "created_at": "Sat, 14 Nov 2026 01:50:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -84,16 +93,7 @@
           "created_at": "Sat, 14 Nov 2026 01:30:00 -0800",
           "metrics": {
             "search_volume": "20000+",
-            "growth_percent": 300.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اليابان ضد البرازيل",
-          "created_at": "Sat, 14 Nov 2026 01:30:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 150.0
+            "growth_percent": 0.0
           }
         }
       ]
