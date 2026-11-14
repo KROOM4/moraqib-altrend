@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T09:28:36.103147+00:00",
+  "updated_at": "2026-11-14T10:24:48.668467+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "india vs bhutan",
-          "created_at": "Sat, 14 Nov 2026 00:50:00 -0800",
+          "text": "أسواق عبد الله العثيم",
+          "created_at": "Sat, 14 Nov 2026 01:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "لغم بحري",
+          "created_at": "Sat, 14 Nov 2026 01:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "japan vs brazil",
+          "created_at": "Sat, 14 Nov 2026 01:30:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اليابان ضد البرازيل",
+          "created_at": "Sat, 14 Nov 2026 01:30:00 -0800",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -17,7 +44,34 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "iran attacks bahrain",
+          "created_at": "Sat, 14 Nov 2026 01:30:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "india vs bhutan",
+          "created_at": "Sat, 14 Nov 2026 00:50:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "lakshya raichandani",
+          "created_at": "Sat, 14 Nov 2026 00:50:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ఎయిర్ ఇండియా",
           "created_at": "Sat, 14 Nov 2026 00:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
@@ -29,68 +83,14 @@
           "text": "rizwanullah",
           "created_at": "Sat, 14 Nov 2026 00:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نيو أورلينز",
-          "created_at": "Sat, 14 Nov 2026 00:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "india",
-          "created_at": "Fri, 13 Nov 2026 23:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "live score",
-          "created_at": "Fri, 13 Nov 2026 23:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bouma film",
-          "created_at": "Fri, 13 Nov 2026 23:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حركة الطيران",
-          "created_at": "Fri, 13 Nov 2026 22:30:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طاقة متجددة",
-          "created_at": "Fri, 13 Nov 2026 22:30:00 -0800",
-          "metrics": {
             "search_volume": "200+",
             "growth_percent": 100.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "clippers vs thunder",
-          "created_at": "Fri, 13 Nov 2026 22:30:00 -0800",
+          "text": "نيو أورلينز",
+          "created_at": "Sat, 14 Nov 2026 00:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
