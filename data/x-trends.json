@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T03:31:22.329332+00:00",
+  "updated_at": "2026-11-14T04:35:01.849111+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,56 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "under 19 asia cup",
+          "created_at": "Fri, 13 Nov 2026 20:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "hava durumu",
+          "created_at": "Fri, 13 Nov 2026 20:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "क्रिकेट",
+          "created_at": "Fri, 13 Nov 2026 19:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "brazil national football team",
+          "created_at": "Fri, 13 Nov 2026 19:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "العراق",
+          "created_at": "Fri, 13 Nov 2026 19:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "حادث الفجيرة",
           "created_at": "Fri, 13 Nov 2026 19:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,6 +66,24 @@
           "created_at": "Fri, 13 Nov 2026 19:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "एअर इंडिया",
+          "created_at": "Fri, 13 Nov 2026 19:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "همام الهمامي",
+          "created_at": "Fri, 13 Nov 2026 19:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -30,70 +93,7 @@
           "created_at": "Fri, 13 Nov 2026 18:20:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "আর্জেন্টিনা বনাম উরুগুয়ে",
-          "created_at": "Fri, 13 Nov 2026 18:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "شتاء",
-          "created_at": "Fri, 13 Nov 2026 18:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منتخب الارجنتين",
-          "created_at": "Fri, 13 Nov 2026 17:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اليَمَن",
-          "created_at": "Fri, 13 Nov 2026 16:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فضل شاكر",
-          "created_at": "Fri, 13 Nov 2026 16:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "colombia vs chile",
-          "created_at": "Fri, 13 Nov 2026 16:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مي عز الدين",
-          "created_at": "Fri, 13 Nov 2026 15:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
           }
         }
       ]
