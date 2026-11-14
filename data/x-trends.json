@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T04:35:01.849111+00:00",
+  "updated_at": "2026-11-14T05:33:40.109181+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "under 19 asia cup",
-          "created_at": "Fri, 13 Nov 2026 20:10:00 -0800",
+          "text": "pakistan u-19 vs india u-19",
+          "created_at": "Fri, 13 Nov 2026 21:20:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مطار الملك خالد الدولي",
+          "created_at": "Fri, 13 Nov 2026 20:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -20,26 +29,8 @@
           "text": "hava durumu",
           "created_at": "Fri, 13 Nov 2026 20:00:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "क्रिकेट",
-          "created_at": "Fri, 13 Nov 2026 19:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "brazil national football team",
-          "created_at": "Fri, 13 Nov 2026 19:40:00 -0800",
-          "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +39,7 @@
           "created_at": "Fri, 13 Nov 2026 19:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -65,17 +56,8 @@
           "text": "spurs vs warriors",
           "created_at": "Fri, 13 Nov 2026 19:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "एअर इंडिया",
-          "created_at": "Fri, 13 Nov 2026 19:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -83,8 +65,17 @@
           "text": "همام الهمامي",
           "created_at": "Fri, 13 Nov 2026 19:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "एअर इंडिया",
+          "created_at": "Fri, 13 Nov 2026 19:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -94,6 +85,15 @@
           "metrics": {
             "search_volume": "500+",
             "growth_percent": 0.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "আর্জেন্টিনা বনাম উরুগুয়ে",
+          "created_at": "Fri, 13 Nov 2026 18:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
           }
         }
       ]
