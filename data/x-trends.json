@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T16:22:35.019167+00:00",
+  "updated_at": "2026-11-14T17:21:24.384676+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "norway vs wales",
-          "created_at": "Sat, 14 Nov 2026 08:10:00 -0800",
+          "text": "البرتغال ضد الدنمارك",
+          "created_at": "Sat, 14 Nov 2026 08:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "england vs japan",
+          "created_at": "Sat, 14 Nov 2026 08:40:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -17,8 +26,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "النرويج ضد ويلز",
-          "created_at": "Sat, 14 Nov 2026 08:10:00 -0800",
+          "text": "uganda vs botswana",
+          "created_at": "Sat, 14 Nov 2026 08:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -26,10 +35,28 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "where to watch bangladesh national football team vs pakistan national football team",
-          "created_at": "Sat, 14 Nov 2026 07:50:00 -0800",
+          "text": "norway vs wales",
+          "created_at": "Sat, 14 Nov 2026 08:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "5000+",
+            "growth_percent": 900.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "النرويج ضد ويلز",
+          "created_at": "Sat, 14 Nov 2026 08:10:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": 900.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بنگلہ دیش",
+          "created_at": "Sat, 14 Nov 2026 07:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -38,8 +65,8 @@
           "text": "الوصل ضد النصر",
           "created_at": "Sat, 14 Nov 2026 07:20:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "search_volume": "5000+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -48,7 +75,7 @@
           "created_at": "Sat, 14 Nov 2026 07:20:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -57,7 +84,7 @@
           "created_at": "Sat, 14 Nov 2026 07:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -65,35 +92,8 @@
           "text": "বাংলাদেশ বনাম পাকিস্তান",
           "created_at": "Sat, 14 Nov 2026 06:50:00 -0800",
           "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أحمد الفيشاوي",
-          "created_at": "Sat, 14 Nov 2026 06:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
             "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "chelsea vs man city",
-          "created_at": "Sat, 14 Nov 2026 06:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bangladesh vs pakistan",
-          "created_at": "Sat, 14 Nov 2026 06:10:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": 0.0
           }
         }
       ]
