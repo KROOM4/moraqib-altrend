@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T07:45:34.075679+00:00",
+  "updated_at": "2026-11-14T08:34:00.409624+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,11 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الدولار مقابل الريال",
-          "created_at": "Fri, 13 Nov 2026 23:10:00 -0800",
+          "text": "طاقة متجددة",
+          "created_at": "Fri, 13 Nov 2026 22:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -21,16 +21,7 @@
           "created_at": "Fri, 13 Nov 2026 22:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طاقة متجددة",
-          "created_at": "Fri, 13 Nov 2026 22:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,16 +29,34 @@
           "text": "مجلس القيادة الرئاسي",
           "created_at": "Fri, 13 Nov 2026 22:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": -60.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "abdul qadir",
-          "created_at": "Fri, 13 Nov 2026 21:50:00 -0800",
+          "text": "usman khan",
+          "created_at": "Fri, 13 Nov 2026 21:40:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "pakistan u-19 vs india u-19",
+          "created_at": "Fri, 13 Nov 2026 21:20:00 -0800",
           "metrics": {
             "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "भारतीय क्रिकेट टीम",
+          "created_at": "Fri, 13 Nov 2026 21:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -82,15 +91,6 @@
           "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "क्रिकेट",
           "created_at": "Fri, 13 Nov 2026 19:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "العراق",
-          "created_at": "Fri, 13 Nov 2026 19:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": 0.0
