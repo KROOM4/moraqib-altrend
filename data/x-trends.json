@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T01:23:56.557402+00:00",
+  "updated_at": "2026-11-14T02:31:01.569559+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,29 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اليَمَن",
-          "created_at": "Fri, 13 Nov 2026 16:50:00 -0800",
+          "text": "guatemala vs canada",
+          "created_at": "Fri, 13 Nov 2026 18:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منتخب الارجنتين",
+          "created_at": "Fri, 13 Nov 2026 17:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اليَمَن",
+          "created_at": "Fri, 13 Nov 2026 16:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,7 +39,7 @@
           "created_at": "Fri, 13 Nov 2026 16:30:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -30,7 +48,7 @@
           "created_at": "Fri, 13 Nov 2026 16:00:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
@@ -38,8 +56,8 @@
           "text": "الأرجنتين ضد أوروغواي",
           "created_at": "Fri, 13 Nov 2026 14:20:00 -0800",
           "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
+            "search_volume": "10000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -48,7 +66,7 @@
           "created_at": "Fri, 13 Nov 2026 14:00:00 -0800",
           "metrics": {
             "search_volume": "1000+",
-            "growth_percent": 100.0
+            "growth_percent": 0.0
           }
         },
         {
@@ -56,8 +74,17 @@
           "text": "أمير الكويت",
           "created_at": "Fri, 13 Nov 2026 13:30:00 -0800",
           "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "البرتغال منتخب",
+          "created_at": "Fri, 13 Nov 2026 13:20:00 -0800",
+          "metrics": {
             "search_volume": "100+",
-            "growth_percent": 0.0
+            "growth_percent": null
           }
         },
         {
@@ -65,35 +92,8 @@
           "text": "brazil vs japan",
           "created_at": "Fri, 13 Nov 2026 13:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "argentina vs uruguay",
-          "created_at": "Fri, 13 Nov 2026 12:20:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
+            "search_volume": "200+",
             "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "എയര് ഇന്ത്യ",
-          "created_at": "Fri, 13 Nov 2026 12:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "maroc – niger",
-          "created_at": "Fri, 13 Nov 2026 12:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
           }
         }
       ]
