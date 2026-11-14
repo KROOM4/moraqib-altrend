@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T02:31:01.569559+00:00",
+  "updated_at": "2026-11-14T03:31:22.329332+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,10 +8,46 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حادث الفجيرة",
+          "created_at": "Fri, 13 Nov 2026 19:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "spurs vs warriors",
+          "created_at": "Fri, 13 Nov 2026 19:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
           "text": "guatemala vs canada",
           "created_at": "Fri, 13 Nov 2026 18:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "500+",
+            "growth_percent": 150.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "আর্জেন্টিনা বনাম উরুগুয়ে",
+          "created_at": "Fri, 13 Nov 2026 18:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "شتاء",
+          "created_at": "Fri, 13 Nov 2026 18:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
@@ -20,8 +56,8 @@
           "text": "منتخب الارجنتين",
           "created_at": "Fri, 13 Nov 2026 17:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -29,8 +65,8 @@
           "text": "اليَمَن",
           "created_at": "Fri, 13 Nov 2026 16:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -53,47 +89,11 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الأرجنتين ضد أوروغواي",
-          "created_at": "Fri, 13 Nov 2026 14:20:00 -0800",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عقوبة",
-          "created_at": "Fri, 13 Nov 2026 14:00:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أمير الكويت",
-          "created_at": "Fri, 13 Nov 2026 13:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "البرتغال منتخب",
-          "created_at": "Fri, 13 Nov 2026 13:20:00 -0800",
+          "text": "مي عز الدين",
+          "created_at": "Fri, 13 Nov 2026 15:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "brazil vs japan",
-          "created_at": "Fri, 13 Nov 2026 13:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
           }
         }
       ]
