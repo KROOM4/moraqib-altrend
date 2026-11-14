@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T19:27:50.789427+00:00",
+  "updated_at": "2026-11-14T23:25:18.490005+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "austria vs ireland",
-          "created_at": "Sat, 14 Nov 2026 11:10:00 -0800",
+          "text": "air india",
+          "created_at": "Sat, 14 Nov 2026 14:30:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ufc",
+          "created_at": "Sat, 14 Nov 2026 14:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,26 +26,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إرهاب",
-          "created_at": "Sat, 14 Nov 2026 11:10:00 -0800",
+          "text": "عاصفة رعدية",
+          "created_at": "Sat, 14 Nov 2026 13:40:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "algeria vs togo",
-          "created_at": "Sat, 14 Nov 2026 11:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "portugal national football team",
-          "created_at": "Sat, 14 Nov 2026 11:00:00 -0800",
+          "text": "portugal fc",
+          "created_at": "Sat, 14 Nov 2026 13:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -44,8 +44,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الجزائر ضد توغو",
-          "created_at": "Sat, 14 Nov 2026 10:50:00 -0800",
+          "text": "haiti vs usa",
+          "created_at": "Sat, 14 Nov 2026 13:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "شيخوخة",
+          "created_at": "Sat, 14 Nov 2026 12:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -53,26 +62,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "portugal vs denmark",
-          "created_at": "Sat, 14 Nov 2026 10:40:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "georgia vs hungary",
-          "created_at": "Sat, 14 Nov 2026 10:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ستيف هارفي",
-          "created_at": "Sat, 14 Nov 2026 10:10:00 -0800",
+          "text": "romania vs poland",
+          "created_at": "Sat, 14 Nov 2026 12:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -80,20 +71,29 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ساديو ماني",
-          "created_at": "Sat, 14 Nov 2026 09:40:00 -0800",
+          "text": "شهيرة",
+          "created_at": "Sat, 14 Nov 2026 12:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": 100.0
+            "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كأس رابطة المحترفين الإماراتية",
-          "created_at": "Sat, 14 Nov 2026 09:00:00 -0800",
+          "text": "carlos forbs",
+          "created_at": "Sat, 14 Nov 2026 12:00:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "راشد الماجد",
+          "created_at": "Sat, 14 Nov 2026 12:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
           }
         }
       ]
