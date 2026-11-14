@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T18:18:59.768933+00:00",
+  "updated_at": "2026-11-14T19:27:50.789427+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,11 +8,83 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ساديو ماني",
-          "created_at": "Sat, 14 Nov 2026 09:40:00 -0800",
+          "text": "austria vs ireland",
+          "created_at": "Sat, 14 Nov 2026 11:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إرهاب",
+          "created_at": "Sat, 14 Nov 2026 11:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "algeria vs togo",
+          "created_at": "Sat, 14 Nov 2026 11:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "portugal national football team",
+          "created_at": "Sat, 14 Nov 2026 11:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الجزائر ضد توغو",
+          "created_at": "Sat, 14 Nov 2026 10:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "portugal vs denmark",
+          "created_at": "Sat, 14 Nov 2026 10:40:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "georgia vs hungary",
+          "created_at": "Sat, 14 Nov 2026 10:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ستيف هارفي",
+          "created_at": "Sat, 14 Nov 2026 10:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ساديو ماني",
+          "created_at": "Sat, 14 Nov 2026 09:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -21,78 +93,6 @@
           "created_at": "Sat, 14 Nov 2026 09:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "البرتغال ضد الدنمارك",
-          "created_at": "Sat, 14 Nov 2026 08:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "england vs japan",
-          "created_at": "Sat, 14 Nov 2026 08:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "uganda vs botswana",
-          "created_at": "Sat, 14 Nov 2026 08:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "norway vs wales",
-          "created_at": "Sat, 14 Nov 2026 08:10:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "النرويج ضد ويلز",
-          "created_at": "Sat, 14 Nov 2026 08:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بنگلہ دیش",
-          "created_at": "Sat, 14 Nov 2026 07:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الوصل ضد النصر",
-          "created_at": "Sat, 14 Nov 2026 07:20:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حتا ضد العين",
-          "created_at": "Sat, 14 Nov 2026 07:20:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
             "growth_percent": 0.0
           }
         }
