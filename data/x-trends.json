@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T23:25:18.490005+00:00",
+  "updated_at": "2026-11-15T03:08:18.183418+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "air india",
-          "created_at": "Sat, 14 Nov 2026 14:30:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ufc",
-          "created_at": "Sat, 14 Nov 2026 14:20:00 -0800",
+          "text": "aus vs eng",
+          "created_at": "Sat, 14 Nov 2026 19:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -26,17 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عاصفة رعدية",
-          "created_at": "Sat, 14 Nov 2026 13:40:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "portugal fc",
-          "created_at": "Sat, 14 Nov 2026 13:30:00 -0800",
+          "text": "yash thakur",
+          "created_at": "Sat, 14 Nov 2026 18:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -44,8 +26,44 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "haiti vs usa",
-          "created_at": "Sat, 14 Nov 2026 13:20:00 -0800",
+          "text": "india vs new zealand",
+          "created_at": "Sat, 14 Nov 2026 18:00:00 -0800",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "البحرين",
+          "created_at": "Sat, 14 Nov 2026 17:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اخبار السعودية",
+          "created_at": "Sat, 14 Nov 2026 17:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "riyadh",
+          "created_at": "Sat, 14 Nov 2026 17:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ماركو روبيو",
+          "created_at": "Sat, 14 Nov 2026 17:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -53,46 +71,28 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "شيخوخة",
-          "created_at": "Sat, 14 Nov 2026 12:50:00 -0800",
+          "text": "jamaica vs mexico",
+          "created_at": "Sat, 14 Nov 2026 16:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "romania vs poland",
-          "created_at": "Sat, 14 Nov 2026 12:30:00 -0800",
+          "text": "قانون الجنسية الكويتية",
+          "created_at": "Sat, 14 Nov 2026 15:30:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "شهيرة",
-          "created_at": "Sat, 14 Nov 2026 12:10:00 -0800",
+          "text": "الديوان الملكي",
+          "created_at": "Sat, 14 Nov 2026 15:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "carlos forbs",
-          "created_at": "Sat, 14 Nov 2026 12:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "راشد الماجد",
-          "created_at": "Sat, 14 Nov 2026 12:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         }
