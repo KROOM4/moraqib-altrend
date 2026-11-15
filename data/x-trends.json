@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T03:08:18.183418+00:00",
+  "updated_at": "2026-11-15T11:07:03.976029+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "aus vs eng",
-          "created_at": "Sat, 14 Nov 2026 19:00:00 -0800",
+          "text": "عبد الله الحمدان",
+          "created_at": "Sun, 15 Nov 2026 02:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,26 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "yash thakur",
-          "created_at": "Sat, 14 Nov 2026 18:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "india vs new zealand",
-          "created_at": "Sat, 14 Nov 2026 18:00:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "البحرين",
-          "created_at": "Sat, 14 Nov 2026 17:50:00 -0800",
+          "text": "جيزان",
+          "created_at": "Sun, 15 Nov 2026 02:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -44,26 +26,26 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اخبار السعودية",
-          "created_at": "Sat, 14 Nov 2026 17:20:00 -0800",
+          "text": "أبشر",
+          "created_at": "Sun, 15 Nov 2026 02:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "riyadh",
-          "created_at": "Sat, 14 Nov 2026 17:20:00 -0800",
+          "text": "ذو باب",
+          "created_at": "Sun, 15 Nov 2026 02:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ماركو روبيو",
-          "created_at": "Sat, 14 Nov 2026 17:10:00 -0800",
+          "text": "محمد باقر قاليباف",
+          "created_at": "Sun, 15 Nov 2026 01:40:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -71,28 +53,46 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jamaica vs mexico",
-          "created_at": "Sat, 14 Nov 2026 16:50:00 -0800",
+          "text": "bouma film",
+          "created_at": "Sun, 15 Nov 2026 01:40:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قانون الجنسية الكويتية",
-          "created_at": "Sat, 14 Nov 2026 15:30:00 -0800",
+          "text": "مصرف الراجحي",
+          "created_at": "Sun, 15 Nov 2026 01:40:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الديوان الملكي",
-          "created_at": "Sat, 14 Nov 2026 15:20:00 -0800",
+          "text": "شيرين",
+          "created_at": "Sun, 15 Nov 2026 01:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "blair tickner",
+          "created_at": "Sun, 15 Nov 2026 01:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "sri lanka women's national cricket team vs papua new guinea women's national cricket team match scorecard",
+          "created_at": "Sun, 15 Nov 2026 01:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         }
