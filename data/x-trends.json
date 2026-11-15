@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T17:47:50.827429+00:00",
+  "updated_at": "2026-11-15T22:55:11.878083+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,26 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "deportivo vs barcelona",
-          "created_at": "Sun, 15 Nov 2026 09:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "finland vs san marino",
-          "created_at": "Sun, 15 Nov 2026 09:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "miami international airport",
-          "created_at": "Sun, 15 Nov 2026 08:40:00 -0800",
+          "text": "lamine yamal",
+          "created_at": "Sun, 15 Nov 2026 13:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -35,17 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كلباء ضد شباب الأهلي",
-          "created_at": "Sun, 15 Nov 2026 07:20:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عاصي الحلاني",
-          "created_at": "Sun, 15 Nov 2026 07:20:00 -0800",
+          "text": "james trafford",
+          "created_at": "Sun, 15 Nov 2026 13:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -53,8 +26,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موت",
-          "created_at": "Sun, 15 Nov 2026 06:20:00 -0800",
+          "text": "مطار",
+          "created_at": "Sun, 15 Nov 2026 13:40:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "suns vs lakers",
+          "created_at": "Sun, 15 Nov 2026 13:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -62,26 +44,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "القوات المسلحة اليمنية",
-          "created_at": "Sun, 15 Nov 2026 05:20:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kushal bhurtel",
-          "created_at": "Sun, 15 Nov 2026 05:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الوحدة ضد خورفكان",
-          "created_at": "Sun, 15 Nov 2026 05:00:00 -0800",
+          "text": "التامينات",
+          "created_at": "Sun, 15 Nov 2026 13:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -89,10 +53,46 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سمية الألفي",
-          "created_at": "Sun, 15 Nov 2026 04:50:00 -0800",
+          "text": "bouma movie review",
+          "created_at": "Sun, 15 Nov 2026 12:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "iran attacks bahrain",
+          "created_at": "Sun, 15 Nov 2026 12:30:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "spanyol vs inggris",
+          "created_at": "Sun, 15 Nov 2026 12:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "mohammed bin salman",
+          "created_at": "Sun, 15 Nov 2026 12:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "fransa - türkiye",
+          "created_at": "Sun, 15 Nov 2026 11:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
           }
         }
