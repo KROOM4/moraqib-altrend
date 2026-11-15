@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T11:07:03.976029+00:00",
+  "updated_at": "2026-11-15T17:47:50.827429+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عبد الله الحمدان",
-          "created_at": "Sun, 15 Nov 2026 02:40:00 -0800",
+          "text": "deportivo vs barcelona",
+          "created_at": "Sun, 15 Nov 2026 09:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,8 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جيزان",
-          "created_at": "Sun, 15 Nov 2026 02:40:00 -0800",
+          "text": "finland vs san marino",
+          "created_at": "Sun, 15 Nov 2026 09:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -26,53 +26,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أبشر",
-          "created_at": "Sun, 15 Nov 2026 02:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ذو باب",
-          "created_at": "Sun, 15 Nov 2026 02:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد باقر قاليباف",
-          "created_at": "Sun, 15 Nov 2026 01:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bouma film",
-          "created_at": "Sun, 15 Nov 2026 01:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مصرف الراجحي",
-          "created_at": "Sun, 15 Nov 2026 01:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "شيرين",
-          "created_at": "Sun, 15 Nov 2026 01:20:00 -0800",
+          "text": "miami international airport",
+          "created_at": "Sun, 15 Nov 2026 08:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -80,8 +35,53 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "blair tickner",
-          "created_at": "Sun, 15 Nov 2026 01:10:00 -0800",
+          "text": "كلباء ضد شباب الأهلي",
+          "created_at": "Sun, 15 Nov 2026 07:20:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عاصي الحلاني",
+          "created_at": "Sun, 15 Nov 2026 07:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "موت",
+          "created_at": "Sun, 15 Nov 2026 06:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "القوات المسلحة اليمنية",
+          "created_at": "Sun, 15 Nov 2026 05:20:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kushal bhurtel",
+          "created_at": "Sun, 15 Nov 2026 05:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الوحدة ضد خورفكان",
+          "created_at": "Sun, 15 Nov 2026 05:00:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -89,10 +89,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sri lanka women's national cricket team vs papua new guinea women's national cricket team match scorecard",
-          "created_at": "Sun, 15 Nov 2026 01:10:00 -0800",
+          "text": "سمية الألفي",
+          "created_at": "Sun, 15 Nov 2026 04:50:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         }
