@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T02:48:30.977172+00:00",
+  "updated_at": "2026-11-16T11:35:21.839198+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,53 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طقس",
-          "created_at": "Sun, 15 Nov 2026 16:40:00 -0800",
+          "text": "pakistan national cricket team",
+          "created_at": "Mon, 16 Nov 2026 03:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الشرق الأوسط",
+          "created_at": "Mon, 16 Nov 2026 02:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "suryakumar yadav",
+          "created_at": "Mon, 16 Nov 2026 01:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ireland vs papua new guinea",
+          "created_at": "Mon, 16 Nov 2026 01:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "zubayr hamza",
+          "created_at": "Mon, 16 Nov 2026 01:20:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "south africa national cricket team vs bangladesh national cricket team match scorecard",
+          "created_at": "Mon, 16 Nov 2026 01:00:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -17,26 +62,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "panama vs curaçao",
-          "created_at": "Sun, 15 Nov 2026 15:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مطار الملك خالد",
-          "created_at": "Sun, 15 Nov 2026 15:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر جرام الذهب عيار 21 سعر الذهب اليوم",
-          "created_at": "Sun, 15 Nov 2026 15:00:00 -0800",
+          "text": "বাংলাদেশ সেনাবাহিনী",
+          "created_at": "Mon, 16 Nov 2026 00:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -44,8 +71,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bangladesh",
-          "created_at": "Sun, 15 Nov 2026 14:50:00 -0800",
+          "text": "mehidy hasan miraz",
+          "created_at": "Mon, 16 Nov 2026 00:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -53,8 +80,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "لامين يامال",
-          "created_at": "Sun, 15 Nov 2026 14:00:00 -0800",
+          "text": "saudi arabia inflation october 1.7",
+          "created_at": "Mon, 16 Nov 2026 00:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -62,37 +89,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مطار",
-          "created_at": "Sun, 15 Nov 2026 13:40:00 -0800",
+          "text": "qatar airways",
+          "created_at": "Mon, 16 Nov 2026 00:00:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "suns vs lakers",
-          "created_at": "Sun, 15 Nov 2026 13:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 150.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "التامينات",
-          "created_at": "Sun, 15 Nov 2026 13:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "احمد الفيشاوي",
-          "created_at": "Sun, 15 Nov 2026 13:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         }
