@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T22:55:11.878083+00:00",
+  "updated_at": "2026-11-16T02:48:30.977172+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lamine yamal",
-          "created_at": "Sun, 15 Nov 2026 13:50:00 -0800",
+          "text": "طقس",
+          "created_at": "Sun, 15 Nov 2026 16:40:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "panama vs curaçao",
+          "created_at": "Sun, 15 Nov 2026 15:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مطار الملك خالد",
+          "created_at": "Sun, 15 Nov 2026 15:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر جرام الذهب عيار 21 سعر الذهب اليوم",
+          "created_at": "Sun, 15 Nov 2026 15:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,10 +44,19 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "james trafford",
-          "created_at": "Sun, 15 Nov 2026 13:50:00 -0800",
+          "text": "bangladesh",
+          "created_at": "Sun, 15 Nov 2026 14:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "لامين يامال",
+          "created_at": "Sun, 15 Nov 2026 14:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -29,8 +65,8 @@
           "text": "مطار",
           "created_at": "Sun, 15 Nov 2026 13:40:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
+            "search_volume": "2000+",
+            "growth_percent": 100.0
           }
         },
         {
@@ -38,8 +74,8 @@
           "text": "suns vs lakers",
           "created_at": "Sun, 15 Nov 2026 13:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
+            "search_volume": "500+",
+            "growth_percent": 150.0
           }
         },
         {
@@ -48,51 +84,15 @@
           "created_at": "Sun, 15 Nov 2026 13:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bouma movie review",
-          "created_at": "Sun, 15 Nov 2026 12:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "iran attacks bahrain",
-          "created_at": "Sun, 15 Nov 2026 12:30:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "spanyol vs inggris",
-          "created_at": "Sun, 15 Nov 2026 12:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mohammed bin salman",
-          "created_at": "Sun, 15 Nov 2026 12:00:00 -0800",
+          "text": "احمد الفيشاوي",
+          "created_at": "Sun, 15 Nov 2026 13:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "fransa - türkiye",
-          "created_at": "Sun, 15 Nov 2026 11:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
             "growth_percent": null
           }
         }
