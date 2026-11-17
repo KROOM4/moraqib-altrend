@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T13:33:36.651589+00:00",
+  "updated_at": "2026-11-17T21:55:16.882531+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إسعاد يونس",
-          "created_at": "Tue, 17 Nov 2026 04:50:00 -0800",
+          "text": "carlos forbs",
+          "created_at": "Tue, 17 Nov 2026 13:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,8 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "في الجول",
-          "created_at": "Tue, 17 Nov 2026 04:50:00 -0800",
+          "text": "portugal",
+          "created_at": "Tue, 17 Nov 2026 13:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -26,62 +26,26 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزارة الداخلية",
-          "created_at": "Tue, 17 Nov 2026 04:40:00 -0800",
+          "text": "سلة",
+          "created_at": "Tue, 17 Nov 2026 13:10:00 -0800",
           "metrics": {
-            "search_volume": "5000+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "emirates",
-          "created_at": "Tue, 17 Nov 2026 04:30:00 -0800",
+          "text": "دوري امم اوروبا",
+          "created_at": "Tue, 17 Nov 2026 12:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مالاوي ضد مصر",
-          "created_at": "Tue, 17 Nov 2026 04:10:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "malawi vs egypt",
-          "created_at": "Tue, 17 Nov 2026 04:10:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منتخب البرازيل",
-          "created_at": "Tue, 17 Nov 2026 03:00:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هجوم",
-          "created_at": "Tue, 17 Nov 2026 02:20:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عايده غنيم",
-          "created_at": "Tue, 17 Nov 2026 02:10:00 -0800",
+          "text": "gta 6",
+          "created_at": "Tue, 17 Nov 2026 12:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -89,8 +53,44 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "temba bavuma",
-          "created_at": "Tue, 17 Nov 2026 01:30:00 -0800",
+          "text": "portugal national football team",
+          "created_at": "Tue, 17 Nov 2026 12:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "niger vs morocco",
+          "created_at": "Tue, 17 Nov 2026 11:50:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bosnia and herzegovina vs romania",
+          "created_at": "Tue, 17 Nov 2026 11:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "شبكة اتصالات",
+          "created_at": "Tue, 17 Nov 2026 11:40:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ترتيبات منتخب ليبيا لكرة القدم – منتخب تونس لكرة القدم",
+          "created_at": "Tue, 17 Nov 2026 11:40:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
