@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T03:59:42.946170+00:00",
+  "updated_at": "2026-11-17T13:33:36.651589+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pak vs sl",
-          "created_at": "Mon, 16 Nov 2026 19:50:00 -0800",
+          "text": "إسعاد يونس",
+          "created_at": "Tue, 17 Nov 2026 04:50:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر جرام الذهب عيار 21 سعر الذهب اليوم",
-          "created_at": "Mon, 16 Nov 2026 19:50:00 -0800",
+          "text": "في الجول",
+          "created_at": "Tue, 17 Nov 2026 04:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وزارة الداخلية",
+          "created_at": "Tue, 17 Nov 2026 04:40:00 -0800",
           "metrics": {
             "search_volume": "5000+",
             "growth_percent": null
@@ -26,8 +35,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تعز",
-          "created_at": "Mon, 16 Nov 2026 19:30:00 -0800",
+          "text": "emirates",
+          "created_at": "Tue, 17 Nov 2026 04:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -35,44 +44,26 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nets vs 76ers",
-          "created_at": "Mon, 16 Nov 2026 19:10:00 -0800",
+          "text": "مالاوي ضد مصر",
+          "created_at": "Tue, 17 Nov 2026 04:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "20000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pelicans vs warriors",
-          "created_at": "Mon, 16 Nov 2026 19:00:00 -0800",
+          "text": "malawi vs egypt",
+          "created_at": "Tue, 17 Nov 2026 04:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "5000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "greece national football team vs serbia national football team standings",
-          "created_at": "Mon, 16 Nov 2026 18:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "employer",
-          "created_at": "Mon, 16 Nov 2026 18:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مطر",
-          "created_at": "Mon, 16 Nov 2026 18:00:00 -0800",
+          "text": "منتخب البرازيل",
+          "created_at": "Tue, 17 Nov 2026 03:00:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -80,8 +71,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سي إن إن",
-          "created_at": "Mon, 16 Nov 2026 17:40:00 -0800",
+          "text": "هجوم",
+          "created_at": "Tue, 17 Nov 2026 02:20:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عايده غنيم",
+          "created_at": "Tue, 17 Nov 2026 02:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -89,10 +89,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "canada vs guatemala",
-          "created_at": "Mon, 16 Nov 2026 17:30:00 -0800",
+          "text": "temba bavuma",
+          "created_at": "Tue, 17 Nov 2026 01:30:00 -0800",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         }
