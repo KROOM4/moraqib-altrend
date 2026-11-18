@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-17T21:55:16.882531+00:00",
+  "updated_at": "2026-11-18T03:44:23.388392+00:00",
   "trends": {
-    "carlos forbs": {
+    "المكسيك ضد جامايكا": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-17T21:55:16.882531+00:00"
+      "updated_at": "2026-11-18T03:44:23.388392+00:00"
     },
-    "portugal": {
+    "hava durumu": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-17T21:55:16.882531+00:00"
+      "updated_at": "2026-11-18T03:44:23.388392+00:00"
     },
-    "سلة": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-17T21:55:16.882531+00:00"
-    },
-    "دوري امم اوروبا": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-17T21:55:16.882531+00:00"
-    },
-    "gta 6": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-17T21:55:16.882531+00:00"
-    },
-    "portugal national football team": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-17T21:55:16.882531+00:00"
-    },
-    "niger vs morocco": {
+    "england cricket team vs australia national cricket team match scorecard": {
       "volume": 2000.0,
       "raw_volume": "2000+",
-      "updated_at": "2026-11-17T21:55:16.882531+00:00"
+      "updated_at": "2026-11-18T03:44:23.388392+00:00"
     },
-    "bosnia and herzegovina vs romania": {
+    "الرياض": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-11-18T03:44:23.388392+00:00"
+    },
+    "مجلس الوزراء": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-18T03:44:23.388392+00:00"
+    },
+    "mexico vs jamaica": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-17T21:55:16.882531+00:00"
+      "updated_at": "2026-11-18T03:44:23.388392+00:00"
     },
-    "شبكة اتصالات": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-17T21:55:16.882531+00:00"
+    "كأس الأمم الإفريقية": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-18T03:44:23.388392+00:00"
     },
-    "ترتيبات منتخب ليبيا لكرة القدم – منتخب تونس لكرة القدم": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-17T21:55:16.882531+00:00"
+    "usa vs haiti": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-18T03:44:23.388392+00:00"
+    },
+    "máximo perrone": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-18T03:44:23.388392+00:00"
+    },
+    "إيفان توني": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-18T03:44:23.388392+00:00"
     }
   }
 }
