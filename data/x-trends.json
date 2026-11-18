@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T03:44:23.388392+00:00",
+  "updated_at": "2026-11-18T12:20:02.237334+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,35 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "المكسيك ضد جامايكا",
-          "created_at": "Tue, 17 Nov 2026 19:30:00 -0800",
+          "text": "الذهب اليوم في السعودية",
+          "created_at": "Wed, 18 Nov 2026 04:10:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "hava durumu",
-          "created_at": "Tue, 17 Nov 2026 19:30:00 -0800",
+          "text": "ps5",
+          "created_at": "Wed, 18 Nov 2026 03:50:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "england cricket team vs australia national cricket team match scorecard",
-          "created_at": "Tue, 17 Nov 2026 19:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الرياض",
-          "created_at": "Tue, 17 Nov 2026 19:00:00 -0800",
+          "text": "صدام حسين",
+          "created_at": "Wed, 18 Nov 2026 03:10:00 -0800",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -44,8 +35,26 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مجلس الوزراء",
-          "created_at": "Tue, 17 Nov 2026 18:50:00 -0800",
+          "text": "kick",
+          "created_at": "Wed, 18 Nov 2026 03:10:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الذهب الان",
+          "created_at": "Wed, 18 Nov 2026 02:50:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "صعدة",
+          "created_at": "Wed, 18 Nov 2026 02:40:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -53,8 +62,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mexico vs jamaica",
-          "created_at": "Tue, 17 Nov 2026 18:40:00 -0800",
+          "text": "ماتياس يايسله",
+          "created_at": "Wed, 18 Nov 2026 02:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -62,8 +71,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كأس الأمم الإفريقية",
-          "created_at": "Tue, 17 Nov 2026 16:50:00 -0800",
+          "text": "كأس آسيا 2027",
+          "created_at": "Wed, 18 Nov 2026 02:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -71,26 +80,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "usa vs haiti",
-          "created_at": "Tue, 17 Nov 2026 16:30:00 -0800",
+          "text": "dane paterson",
+          "created_at": "Wed, 18 Nov 2026 02:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "máximo perrone",
-          "created_at": "Tue, 17 Nov 2026 16:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إيفان توني",
-          "created_at": "Tue, 17 Nov 2026 16:10:00 -0800",
+          "text": "النيابة العامة",
+          "created_at": "Wed, 18 Nov 2026 02:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
