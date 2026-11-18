@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T12:20:02.237334+00:00",
+  "updated_at": "2026-11-18T20:55:23.970993+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الذهب اليوم في السعودية",
-          "created_at": "Wed, 18 Nov 2026 04:10:00 -0800",
+          "text": "ps",
+          "created_at": "Wed, 18 Nov 2026 12:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وزارة الموارد البشرية والتنمية الاجتماعية",
+          "created_at": "Wed, 18 Nov 2026 12:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,8 +26,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ps5",
-          "created_at": "Wed, 18 Nov 2026 03:50:00 -0800",
+          "text": "ارامكو",
+          "created_at": "Wed, 18 Nov 2026 11:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "منظمة إرهابية",
+          "created_at": "Wed, 18 Nov 2026 11:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -26,17 +44,44 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صدام حسين",
-          "created_at": "Wed, 18 Nov 2026 03:10:00 -0800",
+          "text": "iran attacks kuwait",
+          "created_at": "Wed, 18 Nov 2026 10:50:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kick",
-          "created_at": "Wed, 18 Nov 2026 03:10:00 -0800",
+          "text": "آثار",
+          "created_at": "Wed, 18 Nov 2026 10:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "real madrid vs inter",
+          "created_at": "Wed, 18 Nov 2026 09:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حميدتي",
+          "created_at": "Wed, 18 Nov 2026 09:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جواو كانسيلو",
+          "created_at": "Wed, 18 Nov 2026 09:10:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -44,55 +89,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الذهب الان",
-          "created_at": "Wed, 18 Nov 2026 02:50:00 -0800",
+          "text": "employee",
+          "created_at": "Wed, 18 Nov 2026 08:40:00 -0800",
           "metrics": {
             "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صعدة",
-          "created_at": "Wed, 18 Nov 2026 02:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ماتياس يايسله",
-          "created_at": "Wed, 18 Nov 2026 02:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كأس آسيا 2027",
-          "created_at": "Wed, 18 Nov 2026 02:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "dane paterson",
-          "created_at": "Wed, 18 Nov 2026 02:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "النيابة العامة",
-          "created_at": "Wed, 18 Nov 2026 02:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
             "growth_percent": null
           }
         }
