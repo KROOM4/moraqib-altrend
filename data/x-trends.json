@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T20:55:23.970993+00:00",
+  "updated_at": "2026-11-19T02:37:40.196223+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,80 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ps",
-          "created_at": "Wed, 18 Nov 2026 12:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزارة الموارد البشرية والتنمية الاجتماعية",
-          "created_at": "Wed, 18 Nov 2026 12:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ارامكو",
-          "created_at": "Wed, 18 Nov 2026 11:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "منظمة إرهابية",
-          "created_at": "Wed, 18 Nov 2026 11:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "iran attacks kuwait",
-          "created_at": "Wed, 18 Nov 2026 10:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "آثار",
-          "created_at": "Wed, 18 Nov 2026 10:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "real madrid vs inter",
-          "created_at": "Wed, 18 Nov 2026 09:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حميدتي",
-          "created_at": "Wed, 18 Nov 2026 09:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جواو كانسيلو",
-          "created_at": "Wed, 18 Nov 2026 09:10:00 -0800",
+          "text": "السعودية",
+          "created_at": "Wed, 18 Nov 2026 18:30:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -89,10 +17,82 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "employee",
-          "created_at": "Wed, 18 Nov 2026 08:40:00 -0800",
+          "text": "magic vs 76ers",
+          "created_at": "Wed, 18 Nov 2026 18:30:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "new zealand vs india",
+          "created_at": "Wed, 18 Nov 2026 18:20:00 -0800",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ستيف بانون",
+          "created_at": "Wed, 18 Nov 2026 18:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "riyadh",
+          "created_at": "Wed, 18 Nov 2026 17:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مطار الملك خالد الدولي",
+          "created_at": "Wed, 18 Nov 2026 17:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الفجر",
+          "created_at": "Wed, 18 Nov 2026 17:40:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "وزارة الداخلية",
+          "created_at": "Wed, 18 Nov 2026 17:30:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جائزة افضل لاعب اسيوي",
+          "created_at": "Wed, 18 Nov 2026 15:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "akash deep",
+          "created_at": "Wed, 18 Nov 2026 15:30:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
           }
         }
