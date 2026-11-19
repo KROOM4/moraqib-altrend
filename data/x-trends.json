@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T02:37:40.196223+00:00",
+  "updated_at": "2026-11-19T10:46:44.127232+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "السعودية",
-          "created_at": "Wed, 18 Nov 2026 18:30:00 -0800",
+          "text": "هجوم",
+          "created_at": "Thu, 19 Nov 2026 02:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "غراند ثفت أوتو",
+          "created_at": "Thu, 19 Nov 2026 02:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "صواريخ الرياض",
+          "created_at": "Thu, 19 Nov 2026 02:10:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -17,35 +35,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "magic vs 76ers",
-          "created_at": "Wed, 18 Nov 2026 18:30:00 -0800",
+          "text": "public investment fund tower",
+          "created_at": "Thu, 19 Nov 2026 02:00:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand vs india",
-          "created_at": "Wed, 18 Nov 2026 18:20:00 -0800",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ستيف بانون",
-          "created_at": "Wed, 18 Nov 2026 18:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "riyadh",
-          "created_at": "Wed, 18 Nov 2026 17:50:00 -0800",
+          "text": "simon harmer",
+          "created_at": "Thu, 19 Nov 2026 01:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -53,35 +53,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مطار الملك خالد الدولي",
-          "created_at": "Wed, 18 Nov 2026 17:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الفجر",
-          "created_at": "Wed, 18 Nov 2026 17:40:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وزارة الداخلية",
-          "created_at": "Wed, 18 Nov 2026 17:30:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جائزة افضل لاعب اسيوي",
-          "created_at": "Wed, 18 Nov 2026 15:40:00 -0800",
+          "text": "anthropic stock",
+          "created_at": "Thu, 19 Nov 2026 01:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -89,8 +62,35 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "akash deep",
-          "created_at": "Wed, 18 Nov 2026 15:30:00 -0800",
+          "text": "كاتدرائية",
+          "created_at": "Thu, 19 Nov 2026 00:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طلاق",
+          "created_at": "Thu, 19 Nov 2026 00:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "gta6 cheat codes",
+          "created_at": "Wed, 18 Nov 2026 23:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "محمد كنو",
+          "created_at": "Wed, 18 Nov 2026 23:20:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
