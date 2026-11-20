@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T19:11:53.260947+00:00",
+  "updated_at": "2026-11-20T01:19:12.277180+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gold",
-          "created_at": "Thu, 19 Nov 2026 10:40:00 -0800",
+          "text": "gold price",
+          "created_at": "Thu, 19 Nov 2026 16:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أسعار الذهب اليوم",
+          "created_at": "Thu, 19 Nov 2026 15:40:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "cameron bancroft",
+          "created_at": "Thu, 19 Nov 2026 14:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,10 +35,55 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "زد ضد سموحة",
-          "created_at": "Thu, 19 Nov 2026 10:10:00 -0800",
+          "text": "thunderstorm",
+          "created_at": "Thu, 19 Nov 2026 12:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "arsenal vs ol lyonnes",
+          "created_at": "Thu, 19 Nov 2026 12:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حدوته",
+          "created_at": "Thu, 19 Nov 2026 12:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "xi jinping",
+          "created_at": "Thu, 19 Nov 2026 12:10:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "hakeem jeffries",
+          "created_at": "Thu, 19 Nov 2026 11:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "قيم",
+          "created_at": "Thu, 19 Nov 2026 10:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
@@ -29,71 +92,8 @@
           "text": "الصومال",
           "created_at": "Thu, 19 Nov 2026 10:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "النصر",
-          "created_at": "Thu, 19 Nov 2026 09:50:00 -0800",
-          "metrics": {
             "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "t10 league",
-          "created_at": "Thu, 19 Nov 2026 09:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عفاف مصطفى",
-          "created_at": "Thu, 19 Nov 2026 09:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "जनसंख्या",
-          "created_at": "Thu, 19 Nov 2026 09:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الذهب اليوم",
-          "created_at": "Thu, 19 Nov 2026 08:50:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الماليه",
-          "created_at": "Thu, 19 Nov 2026 08:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الأهلي ضد الشمال",
-          "created_at": "Thu, 19 Nov 2026 07:20:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
+            "growth_percent": 400.0
           }
         }
       ]
