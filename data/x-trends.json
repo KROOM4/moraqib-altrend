@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T00:00:31.571152+00:00",
+  "updated_at": "2026-11-21T07:19:07.761547+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سبق",
-          "created_at": "Fri, 20 Nov 2026 15:30:00 -0800",
+          "text": "فوياجر 1",
+          "created_at": "Fri, 20 Nov 2026 23:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محافظة السليل",
-          "created_at": "Fri, 20 Nov 2026 15:20:00 -0800",
+          "text": "محمد نور",
+          "created_at": "Fri, 20 Nov 2026 23:00:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -26,8 +26,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "riyadh news",
-          "created_at": "Fri, 20 Nov 2026 15:10:00 -0800",
+          "text": "مرتضى أحمد محمد منصور",
+          "created_at": "Fri, 20 Nov 2026 22:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -35,26 +35,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر جرام الذهب عيار 21 سعر الذهب اليوم",
-          "created_at": "Fri, 20 Nov 2026 14:30:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "gta 6 metacritic",
-          "created_at": "Fri, 20 Nov 2026 14:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كريم بنزيما",
-          "created_at": "Fri, 20 Nov 2026 13:50:00 -0800",
+          "text": "amazon",
+          "created_at": "Fri, 20 Nov 2026 22:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -62,8 +44,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جوزيه مورينيو",
-          "created_at": "Fri, 20 Nov 2026 13:50:00 -0800",
+          "text": "sri lanka a vs hong kong",
+          "created_at": "Fri, 20 Nov 2026 21:50:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "washington sundar",
+          "created_at": "Fri, 20 Nov 2026 21:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -71,8 +62,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ديوان المظالم",
-          "created_at": "Fri, 20 Nov 2026 13:50:00 -0800",
+          "text": "lakers vs kings",
+          "created_at": "Fri, 20 Nov 2026 20:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -80,19 +71,28 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bayern munich vs 1. fc köln standings",
-          "created_at": "Fri, 20 Nov 2026 13:40:00 -0800",
+          "text": "new zealand vs india",
+          "created_at": "Fri, 20 Nov 2026 19:50:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "10000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "riemann hypothesis",
-          "created_at": "Fri, 20 Nov 2026 12:00:00 -0800",
+          "text": "construction contract",
+          "created_at": "Fri, 20 Nov 2026 19:20:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عصابة",
+          "created_at": "Fri, 20 Nov 2026 19:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
             "growth_percent": null
           }
         }
