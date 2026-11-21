@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-21T15:39:21.352987+00:00",
+  "updated_at": "2026-11-21T21:12:37.183968+00:00",
   "trends": {
-    "نيس ضد بي اس جي": {
+    "سبق": {
+      "volume": 2000.0,
+      "raw_volume": "2000+",
+      "updated_at": "2026-11-21T21:12:37.183968+00:00"
+    },
+    "اخبار": {
       "volume": 500.0,
       "raw_volume": "500+",
-      "updated_at": "2026-11-21T15:39:21.352987+00:00"
+      "updated_at": "2026-11-21T21:12:37.183968+00:00"
     },
-    "nice vs psg": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-21T15:39:21.352987+00:00"
-    },
-    "rockstar games gta vi": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-21T15:39:21.352987+00:00"
-    },
-    "arsenal": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-21T15:39:21.352987+00:00"
-    },
-    "coventry vs palace": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-21T15:39:21.352987+00:00"
-    },
-    "sheffield united vs watford": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-21T15:39:21.352987+00:00"
-    },
-    "كوفنتري سيتي ضد كريستال بالاس": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-21T15:39:21.352987+00:00"
-    },
-    "rayo vs valencia": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-21T15:39:21.352987+00:00"
-    },
-    "مباريات اليوم الدوري السعودي": {
+    "saudi news": {
       "volume": 5000.0,
       "raw_volume": "5000+",
-      "updated_at": "2026-11-21T15:39:21.352987+00:00"
+      "updated_at": "2026-11-21T21:12:37.183968+00:00"
     },
-    "مباريات الدوري السعودي اليوم": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-21T15:39:21.352987+00:00"
+    "real madrid – celta vigo": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-21T21:12:37.183968+00:00"
+    },
+    "france vs argentina": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-21T21:12:37.183968+00:00"
+    },
+    "napoli vs torino": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-21T21:12:37.183968+00:00"
+    },
+    "de miguel": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-21T21:12:37.183968+00:00"
+    },
+    "palmeiras vs flamengo": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-21T21:12:37.183968+00:00"
+    },
+    "donyell malen": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-21T21:12:37.183968+00:00"
+    },
+    "جمال موسيالا": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-21T21:12:37.183968+00:00"
     }
   }
 }

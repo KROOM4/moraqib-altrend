@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T15:39:21.352987+00:00",
+  "updated_at": "2026-11-21T21:12:37.183968+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نيس ضد بي اس جي",
-          "created_at": "Sat, 21 Nov 2026 07:30:00 -0800",
+          "text": "سبق",
+          "created_at": "Sat, 21 Nov 2026 13:00:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اخبار",
+          "created_at": "Sat, 21 Nov 2026 13:00:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -17,71 +26,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "nice vs psg",
-          "created_at": "Sat, 21 Nov 2026 07:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "rockstar games gta vi",
-          "created_at": "Sat, 21 Nov 2026 07:30:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "arsenal",
-          "created_at": "Sat, 21 Nov 2026 07:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "coventry vs palace",
-          "created_at": "Sat, 21 Nov 2026 07:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sheffield united vs watford",
-          "created_at": "Sat, 21 Nov 2026 07:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كوفنتري سيتي ضد كريستال بالاس",
-          "created_at": "Sat, 21 Nov 2026 07:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "rayo vs valencia",
-          "created_at": "Sat, 21 Nov 2026 07:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مباريات اليوم الدوري السعودي",
-          "created_at": "Sat, 21 Nov 2026 07:10:00 -0800",
+          "text": "saudi news",
+          "created_at": "Sat, 21 Nov 2026 12:50:00 -0800",
           "metrics": {
             "search_volume": "5000+",
             "growth_percent": null
@@ -89,10 +35,64 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مباريات الدوري السعودي اليوم",
-          "created_at": "Sat, 21 Nov 2026 07:10:00 -0800",
+          "text": "real madrid – celta vigo",
+          "created_at": "Sat, 21 Nov 2026 12:50:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "france vs argentina",
+          "created_at": "Sat, 21 Nov 2026 12:20:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "napoli vs torino",
+          "created_at": "Sat, 21 Nov 2026 12:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "de miguel",
+          "created_at": "Sat, 21 Nov 2026 12:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "palmeiras vs flamengo",
+          "created_at": "Sat, 21 Nov 2026 12:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "donyell malen",
+          "created_at": "Sat, 21 Nov 2026 12:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جمال موسيالا",
+          "created_at": "Sat, 21 Nov 2026 11:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         }
