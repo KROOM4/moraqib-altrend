@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T07:19:07.761547+00:00",
+  "updated_at": "2026-11-21T15:39:21.352987+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فوياجر 1",
-          "created_at": "Fri, 20 Nov 2026 23:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد نور",
-          "created_at": "Fri, 20 Nov 2026 23:00:00 -0800",
+          "text": "نيس ضد بي اس جي",
+          "created_at": "Sat, 21 Nov 2026 07:30:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -26,35 +17,26 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مرتضى أحمد محمد منصور",
-          "created_at": "Fri, 20 Nov 2026 22:30:00 -0800",
+          "text": "nice vs psg",
+          "created_at": "Sat, 21 Nov 2026 07:30:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "amazon",
-          "created_at": "Fri, 20 Nov 2026 22:00:00 -0800",
+          "text": "rockstar games gta vi",
+          "created_at": "Sat, 21 Nov 2026 07:30:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "sri lanka a vs hong kong",
-          "created_at": "Fri, 20 Nov 2026 21:50:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "washington sundar",
-          "created_at": "Fri, 20 Nov 2026 21:00:00 -0800",
+          "text": "arsenal",
+          "created_at": "Sat, 21 Nov 2026 07:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -62,8 +44,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lakers vs kings",
-          "created_at": "Fri, 20 Nov 2026 20:30:00 -0800",
+          "text": "coventry vs palace",
+          "created_at": "Sat, 21 Nov 2026 07:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -71,17 +53,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand vs india",
-          "created_at": "Fri, 20 Nov 2026 19:50:00 -0800",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "construction contract",
-          "created_at": "Fri, 20 Nov 2026 19:20:00 -0800",
+          "text": "sheffield united vs watford",
+          "created_at": "Sat, 21 Nov 2026 07:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -89,10 +62,37 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عصابة",
-          "created_at": "Fri, 20 Nov 2026 19:20:00 -0800",
+          "text": "كوفنتري سيتي ضد كريستال بالاس",
+          "created_at": "Sat, 21 Nov 2026 07:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "rayo vs valencia",
+          "created_at": "Sat, 21 Nov 2026 07:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مباريات اليوم الدوري السعودي",
+          "created_at": "Sat, 21 Nov 2026 07:10:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مباريات الدوري السعودي اليوم",
+          "created_at": "Sat, 21 Nov 2026 07:10:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
             "growth_percent": null
           }
         }
