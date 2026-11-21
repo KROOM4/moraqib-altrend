@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T17:52:36.743547+00:00",
+  "updated_at": "2026-11-21T00:00:31.571152+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,35 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "jorrybell agoto",
-          "created_at": "Fri, 20 Nov 2026 09:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ثمانية",
-          "created_at": "Fri, 20 Nov 2026 09:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al-ahli vs al-nassr",
-          "created_at": "Fri, 20 Nov 2026 08:40:00 -0800",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pj simon",
-          "created_at": "Fri, 20 Nov 2026 08:30:00 -0800",
+          "text": "سبق",
+          "created_at": "Fri, 20 Nov 2026 15:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -44,8 +17,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أخبار اليمن",
-          "created_at": "Fri, 20 Nov 2026 08:30:00 -0800",
+          "text": "محافظة السليل",
+          "created_at": "Fri, 20 Nov 2026 15:20:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "riyadh news",
+          "created_at": "Fri, 20 Nov 2026 15:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -53,46 +35,64 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دوري الأمم الأوروبية",
-          "created_at": "Fri, 20 Nov 2026 08:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تامر هجرس",
-          "created_at": "Fri, 20 Nov 2026 08:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مصرف",
-          "created_at": "Fri, 20 Nov 2026 08:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "japan saudi arabia oil storage agreement",
-          "created_at": "Fri, 20 Nov 2026 08:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "india a cricket team vs nepal national cricket team standings",
-          "created_at": "Fri, 20 Nov 2026 07:50:00 -0800",
+          "text": "سعر جرام الذهب عيار 21 سعر الذهب اليوم",
+          "created_at": "Fri, 20 Nov 2026 14:30:00 -0800",
           "metrics": {
             "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "gta 6 metacritic",
+          "created_at": "Fri, 20 Nov 2026 14:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كريم بنزيما",
+          "created_at": "Fri, 20 Nov 2026 13:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "جوزيه مورينيو",
+          "created_at": "Fri, 20 Nov 2026 13:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ديوان المظالم",
+          "created_at": "Fri, 20 Nov 2026 13:50:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bayern munich vs 1. fc köln standings",
+          "created_at": "Fri, 20 Nov 2026 13:40:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "riemann hypothesis",
+          "created_at": "Fri, 20 Nov 2026 12:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         }

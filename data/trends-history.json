@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-20T17:52:36.743547+00:00",
+  "updated_at": "2026-11-21T00:00:31.571152+00:00",
   "trends": {
-    "jorrybell agoto": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-20T17:52:36.743547+00:00"
-    },
-    "ثمانية": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-11-20T17:52:36.743547+00:00"
-    },
-    "al-ahli vs al-nassr": {
-      "volume": 10000.0,
-      "raw_volume": "10000+",
-      "updated_at": "2026-11-20T17:52:36.743547+00:00"
-    },
-    "pj simon": {
+    "سبق": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-20T17:52:36.743547+00:00"
+      "updated_at": "2026-11-21T00:00:31.571152+00:00"
     },
-    "أخبار اليمن": {
+    "محافظة السليل": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-21T00:00:31.571152+00:00"
+    },
+    "riyadh news": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-20T17:52:36.743547+00:00"
+      "updated_at": "2026-11-21T00:00:31.571152+00:00"
     },
-    "دوري الأمم الأوروبية": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-20T17:52:36.743547+00:00"
-    },
-    "تامر هجرس": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-20T17:52:36.743547+00:00"
-    },
-    "مصرف": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-20T17:52:36.743547+00:00"
-    },
-    "japan saudi arabia oil storage agreement": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-20T17:52:36.743547+00:00"
-    },
-    "india a cricket team vs nepal national cricket team standings": {
+    "سعر جرام الذهب عيار 21 سعر الذهب اليوم": {
       "volume": 20000.0,
       "raw_volume": "20000+",
-      "updated_at": "2026-11-20T17:52:36.743547+00:00"
+      "updated_at": "2026-11-21T00:00:31.571152+00:00"
+    },
+    "gta 6 metacritic": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-21T00:00:31.571152+00:00"
+    },
+    "كريم بنزيما": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-21T00:00:31.571152+00:00"
+    },
+    "جوزيه مورينيو": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-21T00:00:31.571152+00:00"
+    },
+    "ديوان المظالم": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-21T00:00:31.571152+00:00"
+    },
+    "bayern munich vs 1. fc köln standings": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-11-21T00:00:31.571152+00:00"
+    },
+    "riemann hypothesis": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-21T00:00:31.571152+00:00"
     }
   }
 }
