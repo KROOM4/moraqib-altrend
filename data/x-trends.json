@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T21:12:37.183968+00:00",
+  "updated_at": "2026-11-22T01:24:10.863422+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,44 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سبق",
-          "created_at": "Sat, 21 Nov 2026 13:00:00 -0800",
+          "text": "سوني",
+          "created_at": "Sat, 21 Nov 2026 15:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "إنتر ميامي ضد كولومبوس كرو",
+          "created_at": "Sat, 21 Nov 2026 14:40:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "بوكا جونيورز",
+          "created_at": "Sat, 21 Nov 2026 14:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مضيق هرمز",
+          "created_at": "Sat, 21 Nov 2026 14:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "inter miami vs columbus",
+          "created_at": "Sat, 21 Nov 2026 14:30:00 -0800",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -17,17 +53,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "اخبار",
-          "created_at": "Sat, 21 Nov 2026 13:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saudi news",
-          "created_at": "Sat, 21 Nov 2026 12:50:00 -0800",
+          "text": "real madrid vs rc celta de vigo standings",
+          "created_at": "Sat, 21 Nov 2026 14:20:00 -0800",
           "metrics": {
             "search_volume": "5000+",
             "growth_percent": null
@@ -35,10 +62,19 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "real madrid – celta vigo",
+          "text": "سبق",
+          "created_at": "Sat, 21 Nov 2026 13:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": -75.0
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نابولي ضد تورينو",
           "created_at": "Sat, 21 Nov 2026 12:50:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
@@ -48,51 +84,15 @@
           "created_at": "Sat, 21 Nov 2026 12:20:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
+            "growth_percent": 0.0
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "napoli vs torino",
-          "created_at": "Sat, 21 Nov 2026 12:00:00 -0800",
+          "text": "اتقان",
+          "created_at": "Sat, 21 Nov 2026 12:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "de miguel",
-          "created_at": "Sat, 21 Nov 2026 12:00:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "palmeiras vs flamengo",
-          "created_at": "Sat, 21 Nov 2026 12:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "donyell malen",
-          "created_at": "Sat, 21 Nov 2026 12:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جمال موسيالا",
-          "created_at": "Sat, 21 Nov 2026 11:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": null
           }
         }
