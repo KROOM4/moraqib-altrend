@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-22T08:53:22.254346+00:00",
+  "updated_at": "2026-11-22T17:13:10.086513+00:00",
   "trends": {
-    "الدولار مقابل الجنيه": {
+    "liverpool": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-22T08:53:22.254346+00:00"
+      "updated_at": "2026-11-22T17:13:10.086513+00:00"
     },
-    "uae vs nepal": {
-      "volume": 5000.0,
-      "raw_volume": "5000+",
-      "updated_at": "2026-11-22T08:53:22.254346+00:00"
+    "قوات الدعم السريع": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-22T17:13:10.086513+00:00"
     },
-    "إثيوبيا": {
+    "ميلان ضد فروزينوني كالتشيو": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-22T17:13:10.086513+00:00"
+    },
+    "milan vs frosinone": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-22T17:13:10.086513+00:00"
+    },
+    "süper lig": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-22T17:13:10.086513+00:00"
+    },
+    "سعر الدولار اليوم مقابل الجنيه المصري": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-22T17:13:10.086513+00:00"
+    },
+    "kumar kushagra": {
       "volume": 1000.0,
       "raw_volume": "1000+",
-      "updated_at": "2026-11-22T08:53:22.254346+00:00"
+      "updated_at": "2026-11-22T17:13:10.086513+00:00"
     },
-    "kings vs celtics": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-22T08:53:22.254346+00:00"
+    "liverpool vs man utd": {
+      "volume": 10000.0,
+      "raw_volume": "10000+",
+      "updated_at": "2026-11-22T17:13:10.086513+00:00"
     },
-    "saudi gazette": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-22T08:53:22.254346+00:00"
+    "ليفربول ضد مان يونايتد": {
+      "volume": 10000.0,
+      "raw_volume": "10000+",
+      "updated_at": "2026-11-22T17:13:10.086513+00:00"
     },
-    "bbc": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-22T08:53:22.254346+00:00"
-    },
-    "netherlands women's national cricket team vs sri lanka women's national cricket team match scorecard": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-22T08:53:22.254346+00:00"
-    },
-    "womens emerging nations trophy": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-22T08:53:22.254346+00:00"
-    },
-    "انذار الدفاع المدني": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-22T08:53:22.254346+00:00"
-    },
-    "خصخصة": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-22T08:53:22.254346+00:00"
+    "trabzonspor vs eyüpspor": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-11-22T17:13:10.086513+00:00"
     }
   }
 }

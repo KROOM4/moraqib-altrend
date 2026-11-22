@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T08:53:22.254346+00:00",
+  "updated_at": "2026-11-22T17:13:10.086513+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الدولار مقابل الجنيه",
-          "created_at": "Sat, 21 Nov 2026 22:50:00 -0800",
+          "text": "liverpool",
+          "created_at": "Sun, 22 Nov 2026 08:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -17,17 +17,53 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "uae vs nepal",
-          "created_at": "Sat, 21 Nov 2026 21:50:00 -0800",
+          "text": "قوات الدعم السريع",
+          "created_at": "Sun, 22 Nov 2026 08:50:00 -0800",
           "metrics": {
-            "search_volume": "5000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "إثيوبيا",
-          "created_at": "Sat, 21 Nov 2026 21:50:00 -0800",
+          "text": "ميلان ضد فروزينوني كالتشيو",
+          "created_at": "Sun, 22 Nov 2026 08:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "milan vs frosinone",
+          "created_at": "Sun, 22 Nov 2026 08:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "süper lig",
+          "created_at": "Sun, 22 Nov 2026 08:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سعر الدولار اليوم مقابل الجنيه المصري",
+          "created_at": "Sun, 22 Nov 2026 08:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "kumar kushagra",
+          "created_at": "Sun, 22 Nov 2026 08:00:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -35,64 +71,28 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "kings vs celtics",
-          "created_at": "Sat, 21 Nov 2026 21:40:00 -0800",
+          "text": "liverpool vs man utd",
+          "created_at": "Sun, 22 Nov 2026 07:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "10000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "saudi gazette",
-          "created_at": "Sat, 21 Nov 2026 21:30:00 -0800",
+          "text": "ليفربول ضد مان يونايتد",
+          "created_at": "Sun, 22 Nov 2026 07:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "10000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bbc",
-          "created_at": "Sat, 21 Nov 2026 21:20:00 -0800",
+          "text": "trabzonspor vs eyüpspor",
+          "created_at": "Sun, 22 Nov 2026 07:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "netherlands women's national cricket team vs sri lanka women's national cricket team match scorecard",
-          "created_at": "Sat, 21 Nov 2026 21:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "womens emerging nations trophy",
-          "created_at": "Sat, 21 Nov 2026 21:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "انذار الدفاع المدني",
-          "created_at": "Sat, 21 Nov 2026 21:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "خصخصة",
-          "created_at": "Sat, 21 Nov 2026 20:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         }
