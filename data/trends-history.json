@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-22T01:24:10.863422+00:00",
+  "updated_at": "2026-11-22T08:53:22.254346+00:00",
   "trends": {
-    "سوني": {
-      "volume": 100.0,
-      "raw_volume": "100+",
-      "updated_at": "2026-11-22T01:24:10.863422+00:00"
-    },
-    "إنتر ميامي ضد كولومبوس كرو": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-22T01:24:10.863422+00:00"
-    },
-    "بوكا جونيورز": {
+    "الدولار مقابل الجنيه": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-22T01:24:10.863422+00:00"
+      "updated_at": "2026-11-22T08:53:22.254346+00:00"
     },
-    "مضيق هرمز": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-22T01:24:10.863422+00:00"
-    },
-    "inter miami vs columbus": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-11-22T01:24:10.863422+00:00"
-    },
-    "real madrid vs rc celta de vigo standings": {
+    "uae vs nepal": {
       "volume": 5000.0,
       "raw_volume": "5000+",
-      "updated_at": "2026-11-22T01:24:10.863422+00:00"
+      "updated_at": "2026-11-22T08:53:22.254346+00:00"
     },
-    "سبق": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-22T01:24:10.863422+00:00"
+    "إثيوبيا": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-11-22T08:53:22.254346+00:00"
     },
-    "نابولي ضد تورينو": {
+    "kings vs celtics": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-22T08:53:22.254346+00:00"
+    },
+    "saudi gazette": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-22T08:53:22.254346+00:00"
+    },
+    "bbc": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-22T08:53:22.254346+00:00"
+    },
+    "netherlands women's national cricket team vs sri lanka women's national cricket team match scorecard": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-22T01:24:10.863422+00:00"
+      "updated_at": "2026-11-22T08:53:22.254346+00:00"
     },
-    "france vs argentina": {
+    "womens emerging nations trophy": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-22T01:24:10.863422+00:00"
+      "updated_at": "2026-11-22T08:53:22.254346+00:00"
     },
-    "اتقان": {
+    "انذار الدفاع المدني": {
+      "volume": 100.0,
+      "raw_volume": "100+",
+      "updated_at": "2026-11-22T08:53:22.254346+00:00"
+    },
+    "خصخصة": {
       "volume": 200.0,
       "raw_volume": "200+",
-      "updated_at": "2026-11-22T01:24:10.863422+00:00"
+      "updated_at": "2026-11-22T08:53:22.254346+00:00"
     }
   }
 }
