@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T03:11:53.203457+00:00",
+  "updated_at": "2026-11-23T13:01:51.472333+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,62 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كأس العالم لكرة القدم تحت 17 سنة",
-          "created_at": "Sun, 22 Nov 2026 19:00:00 -0800",
+          "text": "سيف",
+          "created_at": "Mon, 23 Nov 2026 04:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نيفتشي فرغانة ضد الهلال",
+          "created_at": "Mon, 23 Nov 2026 04:20:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "البنك الأهلي المصري",
+          "created_at": "Mon, 23 Nov 2026 04:20:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مضيق هرمز",
+          "created_at": "Mon, 23 Nov 2026 03:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "كأس الأمم الإفريقية",
+          "created_at": "Mon, 23 Nov 2026 03:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "bangladesh national cricket team vs south africa national cricket team match scorecard",
+          "created_at": "Mon, 23 Nov 2026 03:30:00 -0800",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "دميتري ميدفيديف",
+          "created_at": "Mon, 23 Nov 2026 02:50:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -17,8 +71,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "മോഷണം",
-          "created_at": "Sun, 22 Nov 2026 18:50:00 -0800",
+          "text": "مارسيلو بروزوفيتش",
+          "created_at": "Mon, 23 Nov 2026 02:50:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -26,74 +80,20 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "warriors vs celtics",
-          "created_at": "Sun, 22 Nov 2026 18:40:00 -0800",
+          "text": "تاسي",
+          "created_at": "Mon, 23 Nov 2026 02:50:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صنعاء",
-          "created_at": "Sun, 22 Nov 2026 18:30:00 -0800",
+          "text": "وليد الصمعاني",
+          "created_at": "Mon, 23 Nov 2026 02:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الريال مقابل الجنيه المصري",
-          "created_at": "Sun, 22 Nov 2026 17:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فوكس نيوز",
-          "created_at": "Sun, 22 Nov 2026 15:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دوري الأبطال",
-          "created_at": "Sun, 22 Nov 2026 15:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "getafe cf vs atlético madrid standings",
-          "created_at": "Sun, 22 Nov 2026 14:20:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": 0.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "torreense vs benfica",
-          "created_at": "Sun, 22 Nov 2026 13:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": 100.0
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "uefa champions league",
-          "created_at": "Sun, 22 Nov 2026 13:20:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": 0.0
           }
         }
       ]
