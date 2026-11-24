@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T13:01:51.472333+00:00",
+  "updated_at": "2026-11-24T00:58:47.804770+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سيف",
-          "created_at": "Mon, 23 Nov 2026 04:50:00 -0800",
+          "text": "محمد سامي",
+          "created_at": "Mon, 23 Nov 2026 15:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,8 +17,26 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نيفتشي فرغانة ضد الهلال",
-          "created_at": "Mon, 23 Nov 2026 04:20:00 -0800",
+          "text": "santos vs grêmio",
+          "created_at": "Mon, 23 Nov 2026 15:40:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "و",
+          "created_at": "Mon, 23 Nov 2026 15:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "brentford f.c. vs everton f.c. standings",
+          "created_at": "Mon, 23 Nov 2026 14:30:00 -0800",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -26,8 +44,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "البنك الأهلي المصري",
-          "created_at": "Mon, 23 Nov 2026 04:20:00 -0800",
+          "text": "dhruv rathee",
+          "created_at": "Mon, 23 Nov 2026 12:40:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -35,8 +53,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مضيق هرمز",
-          "created_at": "Mon, 23 Nov 2026 03:40:00 -0800",
+          "text": "levante vs elche",
+          "created_at": "Mon, 23 Nov 2026 12:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -44,8 +62,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "كأس الأمم الإفريقية",
-          "created_at": "Mon, 23 Nov 2026 03:40:00 -0800",
+          "text": "برينتفورد ضد إيفرتون",
+          "created_at": "Mon, 23 Nov 2026 11:50:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "محمد أنور السادات",
+          "created_at": "Mon, 23 Nov 2026 11:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -53,17 +80,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "bangladesh national cricket team vs south africa national cricket team match scorecard",
-          "created_at": "Mon, 23 Nov 2026 03:30:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دميتري ميدفيديف",
-          "created_at": "Mon, 23 Nov 2026 02:50:00 -0800",
+          "text": "monza vs fiorentina",
+          "created_at": "Mon, 23 Nov 2026 11:20:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -71,26 +89,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مارسيلو بروزوفيتش",
-          "created_at": "Mon, 23 Nov 2026 02:50:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "تاسي",
-          "created_at": "Mon, 23 Nov 2026 02:50:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "وليد الصمعاني",
-          "created_at": "Mon, 23 Nov 2026 02:40:00 -0800",
+          "text": "ittihad",
+          "created_at": "Mon, 23 Nov 2026 11:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
