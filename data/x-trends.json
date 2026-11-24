@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T11:03:26.203613+00:00",
+  "updated_at": "2026-11-24T21:20:01.433904+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "vaibhav sooryavanshi",
-          "created_at": "Tue, 24 Nov 2026 02:40:00 -0800",
+          "text": "psv",
+          "created_at": "Tue, 24 Nov 2026 13:10:00 -0800",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "shamyl hussain",
-          "created_at": "Tue, 24 Nov 2026 02:10:00 -0800",
+          "text": "real madrid",
+          "created_at": "Tue, 24 Nov 2026 12:20:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -26,8 +26,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مرض",
-          "created_at": "Tue, 24 Nov 2026 02:00:00 -0800",
+          "text": "كومو ضد أيك",
+          "created_at": "Tue, 24 Nov 2026 12:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "سلوفان براتيسلافا ضد ريال بتيس",
+          "created_at": "Tue, 24 Nov 2026 12:00:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -35,26 +44,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "pakistan a vs nepal",
-          "created_at": "Tue, 24 Nov 2026 01:40:00 -0800",
-          "metrics": {
-            "search_volume": "10000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "marques ackerman",
-          "created_at": "Tue, 24 Nov 2026 01:30:00 -0800",
-          "metrics": {
-            "search_volume": "20000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "henry crocombe",
-          "created_at": "Tue, 24 Nov 2026 01:10:00 -0800",
+          "text": "مي عمر",
+          "created_at": "Tue, 24 Nov 2026 12:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -62,37 +53,46 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "james coles",
-          "created_at": "Tue, 24 Nov 2026 01:00:00 -0800",
+          "text": "tiktok",
+          "created_at": "Tue, 24 Nov 2026 12:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "lachlan shaw",
-          "created_at": "Tue, 24 Nov 2026 01:00:00 -0800",
+          "text": "تيك توك",
+          "created_at": "Tue, 24 Nov 2026 12:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ساند",
-          "created_at": "Tue, 24 Nov 2026 00:50:00 -0800",
+          "text": "ار بي ليبزيج ضد لنس",
+          "created_at": "Tue, 24 Nov 2026 11:40:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أفغانستان",
-          "created_at": "Tue, 24 Nov 2026 00:50:00 -0800",
+          "text": "slovan bratislava vs betis",
+          "created_at": "Tue, 24 Nov 2026 11:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "man city vs napoli",
+          "created_at": "Tue, 24 Nov 2026 11:20:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
             "growth_percent": null
           }
         }

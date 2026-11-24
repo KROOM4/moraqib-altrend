@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-24T11:03:26.203613+00:00",
+  "updated_at": "2026-11-24T21:20:01.433904+00:00",
   "trends": {
-    "vaibhav sooryavanshi": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-24T11:03:26.203613+00:00"
-    },
-    "shamyl hussain": {
-      "volume": 1000.0,
-      "raw_volume": "1000+",
-      "updated_at": "2026-11-24T11:03:26.203613+00:00"
-    },
-    "مرض": {
-      "volume": 500.0,
-      "raw_volume": "500+",
-      "updated_at": "2026-11-24T11:03:26.203613+00:00"
-    },
-    "pakistan a vs nepal": {
-      "volume": 10000.0,
-      "raw_volume": "10000+",
-      "updated_at": "2026-11-24T11:03:26.203613+00:00"
-    },
-    "marques ackerman": {
-      "volume": 20000.0,
-      "raw_volume": "20000+",
-      "updated_at": "2026-11-24T11:03:26.203613+00:00"
-    },
-    "henry crocombe": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-24T11:03:26.203613+00:00"
-    },
-    "james coles": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-24T11:03:26.203613+00:00"
-    },
-    "lachlan shaw": {
-      "volume": 200.0,
-      "raw_volume": "200+",
-      "updated_at": "2026-11-24T11:03:26.203613+00:00"
-    },
-    "ساند": {
-      "volume": 2000.0,
-      "raw_volume": "2000+",
-      "updated_at": "2026-11-24T11:03:26.203613+00:00"
-    },
-    "أفغانستان": {
+    "psv": {
       "volume": 100.0,
       "raw_volume": "100+",
-      "updated_at": "2026-11-24T11:03:26.203613+00:00"
+      "updated_at": "2026-11-24T21:20:01.433904+00:00"
+    },
+    "real madrid": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-11-24T21:20:01.433904+00:00"
+    },
+    "كومو ضد أيك": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-24T21:20:01.433904+00:00"
+    },
+    "سلوفان براتيسلافا ضد ريال بتيس": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-24T21:20:01.433904+00:00"
+    },
+    "مي عمر": {
+      "volume": 200.0,
+      "raw_volume": "200+",
+      "updated_at": "2026-11-24T21:20:01.433904+00:00"
+    },
+    "tiktok": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-11-24T21:20:01.433904+00:00"
+    },
+    "تيك توك": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-11-24T21:20:01.433904+00:00"
+    },
+    "ار بي ليبزيج ضد لنس": {
+      "volume": 1000.0,
+      "raw_volume": "1000+",
+      "updated_at": "2026-11-24T21:20:01.433904+00:00"
+    },
+    "slovan bratislava vs betis": {
+      "volume": 500.0,
+      "raw_volume": "500+",
+      "updated_at": "2026-11-24T21:20:01.433904+00:00"
+    },
+    "man city vs napoli": {
+      "volume": 5000.0,
+      "raw_volume": "5000+",
+      "updated_at": "2026-11-24T21:20:01.433904+00:00"
     }
   }
 }
