@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T00:58:47.804770+00:00",
+  "updated_at": "2026-11-24T11:03:26.203613+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,80 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد سامي",
-          "created_at": "Mon, 23 Nov 2026 15:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "santos vs grêmio",
-          "created_at": "Mon, 23 Nov 2026 15:40:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "و",
-          "created_at": "Mon, 23 Nov 2026 15:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "brentford f.c. vs everton f.c. standings",
-          "created_at": "Mon, 23 Nov 2026 14:30:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "dhruv rathee",
-          "created_at": "Mon, 23 Nov 2026 12:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "levante vs elche",
-          "created_at": "Mon, 23 Nov 2026 12:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "برينتفورد ضد إيفرتون",
-          "created_at": "Mon, 23 Nov 2026 11:50:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد أنور السادات",
-          "created_at": "Mon, 23 Nov 2026 11:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "monza vs fiorentina",
-          "created_at": "Mon, 23 Nov 2026 11:20:00 -0800",
+          "text": "vaibhav sooryavanshi",
+          "created_at": "Tue, 24 Nov 2026 02:40:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -89,10 +17,82 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ittihad",
-          "created_at": "Mon, 23 Nov 2026 11:00:00 -0800",
+          "text": "shamyl hussain",
+          "created_at": "Tue, 24 Nov 2026 02:10:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "مرض",
+          "created_at": "Tue, 24 Nov 2026 02:00:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "pakistan a vs nepal",
+          "created_at": "Tue, 24 Nov 2026 01:40:00 -0800",
+          "metrics": {
+            "search_volume": "10000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "marques ackerman",
+          "created_at": "Tue, 24 Nov 2026 01:30:00 -0800",
+          "metrics": {
+            "search_volume": "20000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "henry crocombe",
+          "created_at": "Tue, 24 Nov 2026 01:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "james coles",
+          "created_at": "Tue, 24 Nov 2026 01:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "lachlan shaw",
+          "created_at": "Tue, 24 Nov 2026 01:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ساند",
+          "created_at": "Tue, 24 Nov 2026 00:50:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "أفغانستان",
+          "created_at": "Tue, 24 Nov 2026 00:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         }
