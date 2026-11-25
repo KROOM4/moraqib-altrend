@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T04:37:42.011159+00:00",
+  "updated_at": "2026-11-25T15:01:33.804467+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نوم",
-          "created_at": "Tue, 24 Nov 2026 20:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قمر عملاق",
-          "created_at": "Tue, 24 Nov 2026 19:50:00 -0800",
+          "text": "panama u-17 vs egypt u-17",
+          "created_at": "Wed, 25 Nov 2026 06:40:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -26,8 +17,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "big ticket",
-          "created_at": "Tue, 24 Nov 2026 19:10:00 -0800",
+          "text": "international league t20",
+          "created_at": "Wed, 25 Nov 2026 06:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نضال حسن",
+          "created_at": "Wed, 25 Nov 2026 06:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -35,8 +35,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بي بي سي",
-          "created_at": "Tue, 24 Nov 2026 19:10:00 -0800",
+          "text": "ملكة جمال الكون",
+          "created_at": "Wed, 25 Nov 2026 06:30:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "dubai capitals vs desert vipers",
+          "created_at": "Wed, 25 Nov 2026 06:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -44,44 +53,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الشروق",
-          "created_at": "Tue, 24 Nov 2026 19:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "شات",
-          "created_at": "Tue, 24 Nov 2026 18:50:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "قران",
-          "created_at": "Tue, 24 Nov 2026 18:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ترتيبات النادى المصرى – بترول أسيوط",
-          "created_at": "Tue, 24 Nov 2026 18:30:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عدن",
-          "created_at": "Tue, 24 Nov 2026 17:40:00 -0800",
+          "text": "بنما تحت 17 سنة ضد منتخب مصر تحت 17 سنة لكرة القدم",
+          "created_at": "Wed, 25 Nov 2026 06:00:00 -0800",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -89,8 +62,35 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "لعبة gta 6",
-          "created_at": "Tue, 24 Nov 2026 17:20:00 -0800",
+          "text": "هايتي تحت 17 ضد منتخب السعودية تحت 17 سنة لكرة القدم",
+          "created_at": "Wed, 25 Nov 2026 06:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "india",
+          "created_at": "Wed, 25 Nov 2026 06:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "النادي الإسماعيلي",
+          "created_at": "Wed, 25 Nov 2026 05:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "വിമാനം",
+          "created_at": "Wed, 25 Nov 2026 05:20:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
