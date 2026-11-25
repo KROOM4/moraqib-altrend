@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T15:01:33.804467+00:00",
+  "updated_at": "2026-11-25T23:40:08.604314+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,44 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "panama u-17 vs egypt u-17",
-          "created_at": "Wed, 25 Nov 2026 06:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "international league t20",
-          "created_at": "Wed, 25 Nov 2026 06:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نضال حسن",
-          "created_at": "Wed, 25 Nov 2026 06:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ملكة جمال الكون",
-          "created_at": "Wed, 25 Nov 2026 06:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "dubai capitals vs desert vipers",
-          "created_at": "Wed, 25 Nov 2026 06:10:00 -0800",
+          "text": "الراجحي",
+          "created_at": "Wed, 25 Nov 2026 15:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -53,8 +17,71 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "بنما تحت 17 سنة ضد منتخب مصر تحت 17 سنة لكرة القدم",
-          "created_at": "Wed, 25 Nov 2026 06:00:00 -0800",
+          "text": "76ers vs heat",
+          "created_at": "Wed, 25 Nov 2026 15:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "inter milan vs vfb stuttgart standings",
+          "created_at": "Wed, 25 Nov 2026 14:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "atlético madrid vs viking fk standings",
+          "created_at": "Wed, 25 Nov 2026 14:10:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الكهرباء",
+          "created_at": "Wed, 25 Nov 2026 14:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "luis suárez",
+          "created_at": "Wed, 25 Nov 2026 13:40:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "اخبار السعودية",
+          "created_at": "Wed, 25 Nov 2026 13:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الضمان",
+          "created_at": "Wed, 25 Nov 2026 13:30:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الضمان الاجتماعي",
+          "created_at": "Wed, 25 Nov 2026 13:20:00 -0800",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -62,37 +89,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هايتي تحت 17 ضد منتخب السعودية تحت 17 سنة لكرة القدم",
-          "created_at": "Wed, 25 Nov 2026 06:00:00 -0800",
+          "text": "حريق الوراق اليوم",
+          "created_at": "Wed, 25 Nov 2026 13:00:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "india",
-          "created_at": "Wed, 25 Nov 2026 06:00:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "النادي الإسماعيلي",
-          "created_at": "Wed, 25 Nov 2026 05:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "വിമാനം",
-          "created_at": "Wed, 25 Nov 2026 05:20:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         }
