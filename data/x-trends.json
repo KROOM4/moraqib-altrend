@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T05:29:50.684065+00:00",
+  "updated_at": "2026-11-26T15:50:15.521120+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,53 +8,26 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "trail blazers vs spurs",
-          "created_at": "Wed, 25 Nov 2026 21:20:00 -0800",
+          "text": "مساند",
+          "created_at": "Thu, 26 Nov 2026 07:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "رأس تنورة",
-          "created_at": "Wed, 25 Nov 2026 21:10:00 -0800",
+          "text": "houthis",
+          "created_at": "Thu, 26 Nov 2026 07:10:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حنا حطاب",
-          "created_at": "Wed, 25 Nov 2026 20:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "warriors vs kings",
-          "created_at": "Wed, 25 Nov 2026 20:10:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حارس",
-          "created_at": "Wed, 25 Nov 2026 20:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "economic growth",
-          "created_at": "Wed, 25 Nov 2026 19:00:00 -0800",
+          "text": "زفاف",
+          "created_at": "Thu, 26 Nov 2026 07:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -62,37 +35,64 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "صحيفة سبق الإلكترونية",
-          "created_at": "Wed, 25 Nov 2026 18:50:00 -0800",
+          "text": "live cricket score",
+          "created_at": "Thu, 26 Nov 2026 07:10:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "محمد بن سلمان",
-          "created_at": "Wed, 25 Nov 2026 18:40:00 -0800",
+          "text": "مصفاة جازان",
+          "created_at": "Thu, 26 Nov 2026 07:00:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مضيق باب المندب",
-          "created_at": "Wed, 25 Nov 2026 18:20:00 -0800",
+          "text": "فلاديمير بوتين",
+          "created_at": "Thu, 26 Nov 2026 07:00:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حادث حريق الوراق",
-          "created_at": "Wed, 25 Nov 2026 17:10:00 -0800",
+          "text": "پاکستان",
+          "created_at": "Thu, 26 Nov 2026 06:50:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "क्रिकेट",
+          "created_at": "Thu, 26 Nov 2026 06:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "mi emirates vs abu dhabi knight riders",
+          "created_at": "Thu, 26 Nov 2026 06:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "غراند ثفت أوتو",
+          "created_at": "Thu, 26 Nov 2026 06:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         }
