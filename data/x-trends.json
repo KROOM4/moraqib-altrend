@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T09:08:10.567641+00:00",
+  "updated_at": "2026-11-27T19:02:26.768472+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,17 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "سعر الدولار مقابل الريال",
-          "created_at": "Fri, 27 Nov 2026 01:00:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "عاصفة",
-          "created_at": "Fri, 27 Nov 2026 00:00:00 -0800",
+          "text": "ميليشيا",
+          "created_at": "Fri, 27 Nov 2026 10:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -26,17 +17,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "australia vs england",
-          "created_at": "Thu, 26 Nov 2026 23:50:00 -0800",
+          "text": "etihad airways",
+          "created_at": "Fri, 27 Nov 2026 09:40:00 -0800",
           "metrics": {
-            "search_volume": "10000+",
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مطر",
-          "created_at": "Thu, 26 Nov 2026 23:10:00 -0800",
+          "text": "حادث الدائرى الوراق حادث الوراق",
+          "created_at": "Fri, 27 Nov 2026 09:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -44,8 +35,26 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "imo",
-          "created_at": "Thu, 26 Nov 2026 22:20:00 -0800",
+          "text": "ثمانية",
+          "created_at": "Fri, 27 Nov 2026 09:30:00 -0800",
+          "metrics": {
+            "search_volume": "1000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al-ittihad vs neom",
+          "created_at": "Fri, 27 Nov 2026 08:50:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الهلال والاتفاق",
+          "created_at": "Fri, 27 Nov 2026 08:50:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -53,46 +62,37 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "أنصار الله الحوثيون",
-          "created_at": "Thu, 26 Nov 2026 22:10:00 -0800",
+          "text": "al-qadsiah fc vs al-fayha standings",
+          "created_at": "Fri, 27 Nov 2026 08:40:00 -0800",
           "metrics": {
-            "search_volume": "10000+",
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فولوديمير زيلينسكي",
-          "created_at": "Thu, 26 Nov 2026 21:30:00 -0800",
+          "text": "الاتحاد ضد نيوم",
+          "created_at": "Fri, 27 Nov 2026 08:20:00 -0800",
           "metrics": {
-            "search_volume": "200+",
+            "search_volume": "50000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "طهران",
-          "created_at": "Thu, 26 Nov 2026 20:50:00 -0800",
+          "text": "دوري روشن",
+          "created_at": "Fri, 27 Nov 2026 08:20:00 -0800",
           "metrics": {
-            "search_volume": "500+",
+            "search_volume": "2000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "خليفة حفتر",
-          "created_at": "Thu, 26 Nov 2026 20:30:00 -0800",
+          "text": "مصرف",
+          "created_at": "Fri, 27 Nov 2026 08:00:00 -0800",
           "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "جيهان راتب",
-          "created_at": "Thu, 26 Nov 2026 20:10:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         }
