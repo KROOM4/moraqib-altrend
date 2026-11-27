@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T00:38:42.350319+00:00",
+  "updated_at": "2026-11-27T09:08:10.567641+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "هوا",
-          "created_at": "Thu, 26 Nov 2026 14:00:00 -0800",
+          "text": "سعر الدولار مقابل الريال",
+          "created_at": "Fri, 27 Nov 2026 01:00:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "عاصفة",
+          "created_at": "Fri, 27 Nov 2026 00:00:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,17 +26,26 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "new zealand national cricket team vs india national cricket team match scorecard",
-          "created_at": "Thu, 26 Nov 2026 13:50:00 -0800",
+          "text": "australia vs england",
+          "created_at": "Thu, 26 Nov 2026 23:50:00 -0800",
           "metrics": {
-            "search_volume": "5000+",
+            "search_volume": "10000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حصار",
-          "created_at": "Thu, 26 Nov 2026 13:50:00 -0800",
+          "text": "مطر",
+          "created_at": "Thu, 26 Nov 2026 23:10:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "imo",
+          "created_at": "Thu, 26 Nov 2026 22:20:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -35,17 +53,26 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الجيش الكويتي",
-          "created_at": "Thu, 26 Nov 2026 13:40:00 -0800",
+          "text": "أنصار الله الحوثيون",
+          "created_at": "Thu, 26 Nov 2026 22:10:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "10000+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "aramco",
-          "created_at": "Thu, 26 Nov 2026 13:40:00 -0800",
+          "text": "فولوديمير زيلينسكي",
+          "created_at": "Thu, 26 Nov 2026 21:30:00 -0800",
+          "metrics": {
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "طهران",
+          "created_at": "Thu, 26 Nov 2026 20:50:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -53,8 +80,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "trabzonspor",
-          "created_at": "Thu, 26 Nov 2026 13:40:00 -0800",
+          "text": "خليفة حفتر",
+          "created_at": "Thu, 26 Nov 2026 20:30:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -62,35 +89,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الجنيه المصري مقابل الريال",
-          "created_at": "Thu, 26 Nov 2026 13:30:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ضمان الاجتماعي",
-          "created_at": "Thu, 26 Nov 2026 13:20:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الضمان الاجتماعي",
-          "created_at": "Thu, 26 Nov 2026 13:10:00 -0800",
-          "metrics": {
-            "search_volume": "5000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ضمان",
-          "created_at": "Thu, 26 Nov 2026 13:10:00 -0800",
+          "text": "جيهان راتب",
+          "created_at": "Thu, 26 Nov 2026 20:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
