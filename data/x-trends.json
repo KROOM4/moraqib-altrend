@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T15:50:15.521120+00:00",
+  "updated_at": "2026-11-27T00:38:42.350319+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,35 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مساند",
-          "created_at": "Thu, 26 Nov 2026 07:20:00 -0800",
+          "text": "هوا",
+          "created_at": "Thu, 26 Nov 2026 14:00:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "new zealand national cricket team vs india national cricket team match scorecard",
+          "created_at": "Thu, 26 Nov 2026 13:50:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "حصار",
+          "created_at": "Thu, 26 Nov 2026 13:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الجيش الكويتي",
+          "created_at": "Thu, 26 Nov 2026 13:40:00 -0800",
           "metrics": {
             "search_volume": "1000+",
             "growth_percent": null
@@ -17,35 +44,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "houthis",
-          "created_at": "Thu, 26 Nov 2026 07:10:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "زفاف",
-          "created_at": "Thu, 26 Nov 2026 07:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "live cricket score",
-          "created_at": "Thu, 26 Nov 2026 07:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مصفاة جازان",
-          "created_at": "Thu, 26 Nov 2026 07:00:00 -0800",
+          "text": "aramco",
+          "created_at": "Thu, 26 Nov 2026 13:40:00 -0800",
           "metrics": {
             "search_volume": "500+",
             "growth_percent": null
@@ -53,46 +53,46 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فلاديمير بوتين",
-          "created_at": "Thu, 26 Nov 2026 07:00:00 -0800",
+          "text": "trabzonspor",
+          "created_at": "Thu, 26 Nov 2026 13:40:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "پاکستان",
-          "created_at": "Thu, 26 Nov 2026 06:50:00 -0800",
+          "text": "الجنيه المصري مقابل الريال",
+          "created_at": "Thu, 26 Nov 2026 13:30:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "क्रिकेट",
-          "created_at": "Thu, 26 Nov 2026 06:50:00 -0800",
+          "text": "ضمان الاجتماعي",
+          "created_at": "Thu, 26 Nov 2026 13:20:00 -0800",
           "metrics": {
-            "search_volume": "100+",
+            "search_volume": "200+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mi emirates vs abu dhabi knight riders",
-          "created_at": "Thu, 26 Nov 2026 06:40:00 -0800",
+          "text": "الضمان الاجتماعي",
+          "created_at": "Thu, 26 Nov 2026 13:10:00 -0800",
+          "metrics": {
+            "search_volume": "5000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "ضمان",
+          "created_at": "Thu, 26 Nov 2026 13:10:00 -0800",
           "metrics": {
             "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "غراند ثفت أوتو",
-          "created_at": "Thu, 26 Nov 2026 06:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
             "growth_percent": null
           }
         }
