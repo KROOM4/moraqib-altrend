@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T10:33:54.249992+00:00",
+  "updated_at": "2026-11-28T18:31:19.157305+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,17 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "فرانشيسكا ألبانيزي",
-          "created_at": "Sat, 28 Nov 2026 01:50:00 -0800",
+          "text": "الاهلي",
+          "created_at": "Sat, 28 Nov 2026 10:10:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "psv vs go ahead eagles",
+          "created_at": "Sat, 28 Nov 2026 10:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,17 +26,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "mi emirates vs desert vipers",
-          "created_at": "Sat, 28 Nov 2026 01:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دولار",
-          "created_at": "Sat, 28 Nov 2026 01:40:00 -0800",
+          "text": "angers vs lens",
+          "created_at": "Sat, 28 Nov 2026 10:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -35,17 +35,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "موعد اذان الظهر",
-          "created_at": "Sat, 28 Nov 2026 01:10:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "hengam island",
-          "created_at": "Sat, 28 Nov 2026 00:20:00 -0800",
+          "text": "gold",
+          "created_at": "Sat, 28 Nov 2026 10:00:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -53,8 +44,44 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حمزة عبد الكريم",
-          "created_at": "Sat, 28 Nov 2026 00:20:00 -0800",
+          "text": "météo demain",
+          "created_at": "Sat, 28 Nov 2026 09:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "نادي الاهلي",
+          "created_at": "Sat, 28 Nov 2026 09:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "filgoal",
+          "created_at": "Sat, 28 Nov 2026 09:40:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "al-ahli vs al-taawoun",
+          "created_at": "Sat, 28 Nov 2026 09:20:00 -0800",
+          "metrics": {
+            "search_volume": "2000+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "england vs new zealand",
+          "created_at": "Sat, 28 Nov 2026 09:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -62,37 +89,10 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "نادي الزمالك",
-          "created_at": "Sat, 28 Nov 2026 00:10:00 -0800",
+          "text": "إيبسويتش تاون ضد أستون فيلا",
+          "created_at": "Sat, 28 Nov 2026 09:00:00 -0800",
           "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "opec",
-          "created_at": "Fri, 27 Nov 2026 22:30:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الطقس جدة",
-          "created_at": "Fri, 27 Nov 2026 21:40:00 -0800",
-          "metrics": {
-            "search_volume": "200+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "dhruv jurel",
-          "created_at": "Fri, 27 Nov 2026 21:40:00 -0800",
-          "metrics": {
-            "search_volume": "100+",
+            "search_volume": "1000+",
             "growth_percent": null
           }
         }
