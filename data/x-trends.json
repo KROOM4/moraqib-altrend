@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T19:02:26.768472+00:00",
+  "updated_at": "2026-11-28T02:01:34.450783+00:00",
   "source": "Google Trends",
   "results": [
     {
@@ -8,8 +8,8 @@
       "posts": [
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ميليشيا",
-          "created_at": "Fri, 27 Nov 2026 10:20:00 -0800",
+          "text": "دفاع مدني",
+          "created_at": "Fri, 27 Nov 2026 17:30:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -17,17 +17,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "etihad airways",
-          "created_at": "Fri, 27 Nov 2026 09:40:00 -0800",
-          "metrics": {
-            "search_volume": "500+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "حادث الدائرى الوراق حادث الوراق",
-          "created_at": "Fri, 27 Nov 2026 09:30:00 -0800",
+          "text": "bronson reed",
+          "created_at": "Fri, 27 Nov 2026 17:10:00 -0800",
           "metrics": {
             "search_volume": "200+",
             "growth_percent": null
@@ -35,26 +26,8 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "ثمانية",
-          "created_at": "Fri, 27 Nov 2026 09:30:00 -0800",
-          "metrics": {
-            "search_volume": "1000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al-ittihad vs neom",
-          "created_at": "Fri, 27 Nov 2026 08:50:00 -0800",
-          "metrics": {
-            "search_volume": "2000+",
-            "growth_percent": null
-          }
-        },
-        {
-          "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الهلال والاتفاق",
-          "created_at": "Fri, 27 Nov 2026 08:50:00 -0800",
+          "text": "epic games",
+          "created_at": "Fri, 27 Nov 2026 17:10:00 -0800",
           "metrics": {
             "search_volume": "100+",
             "growth_percent": null
@@ -62,8 +35,17 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "al-qadsiah fc vs al-fayha standings",
-          "created_at": "Fri, 27 Nov 2026 08:40:00 -0800",
+          "text": "كولومبوس كرو ضد إنتر ميامي",
+          "created_at": "Fri, 27 Nov 2026 16:30:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "columbus vs inter miami",
+          "created_at": "Fri, 27 Nov 2026 16:20:00 -0800",
           "metrics": {
             "search_volume": "2000+",
             "growth_percent": null
@@ -71,28 +53,46 @@
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "الاتحاد ضد نيوم",
-          "created_at": "Fri, 27 Nov 2026 08:20:00 -0800",
+          "text": "tom blundell",
+          "created_at": "Fri, 27 Nov 2026 15:50:00 -0800",
           "metrics": {
-            "search_volume": "50000+",
+            "search_volume": "500+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "دوري روشن",
-          "created_at": "Fri, 27 Nov 2026 08:20:00 -0800",
+          "text": "ايفون",
+          "created_at": "Fri, 27 Nov 2026 15:20:00 -0800",
           "metrics": {
-            "search_volume": "2000+",
+            "search_volume": "100+",
             "growth_percent": null
           }
         },
         {
           "id": "https://trends.google.com/trending/rss?geo=SA",
-          "text": "مصرف",
-          "created_at": "Fri, 27 Nov 2026 08:00:00 -0800",
+          "text": "المريخ",
+          "created_at": "Fri, 27 Nov 2026 15:00:00 -0800",
           "metrics": {
-            "search_volume": "1000+",
+            "search_volume": "200+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "هذا البحر سوف يفيض",
+          "created_at": "Fri, 27 Nov 2026 14:40:00 -0800",
+          "metrics": {
+            "search_volume": "500+",
+            "growth_percent": null
+          }
+        },
+        {
+          "id": "https://trends.google.com/trending/rss?geo=SA",
+          "text": "الدولار مقابل الجنيه المصري",
+          "created_at": "Fri, 27 Nov 2026 13:50:00 -0800",
+          "metrics": {
+            "search_volume": "100+",
             "growth_percent": null
           }
         }
